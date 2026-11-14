@@ -35,7 +35,7 @@ plantillas/ebook.css      estilos del EPUB
 plantillas/libro.ejemplo.toml   metadatos de ejemplo de un proyecto
 scripts/maquetar.py       texto → PDF de imprenta + DOCX para Kindle Create + EPUB
 scripts/cubierta.py       cubierta completa KDP (tapa blanda o dura, lomo calculado) + portada ebook
-scripts/ilustracion.py    ilustraciones de cubierta con IA (API de imágenes de OpenAI)
+scripts/ilustracion.py    ilustraciones con la API de OpenAI (de pago; desactivado mientras no haya saldo)
 fuentes/                  tipografías libres (OFL): Caladea, Carlito, Cinzel, Cormorant Garamond, Bodoni Moda
 catalogo/                 notas sobre el catálogo publicado
 candidatos/               fichas AAAA-MM-DD_slug.md
@@ -108,7 +108,6 @@ Párrafo normal, con *cursiva* y **negrita**.
 
 ```bash
 python3 scripts/maquetar.py proyectos/<slug>     # PDF + DOCX + EPUB
-python3 scripts/ilustracion.py proyectos/<slug> "escena"   # ilustraciones con IA
 python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o dura) + portada ebook
 ```
 
@@ -139,7 +138,7 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o d
 - Portada ebook: 1600 × 2560 px (proporción 1,6, la de las portadas de referencia).
 - Campos de `[cubierta]` en `libro.toml`: `ilustracion`, `sinopsis` (párrafos separados por `\n\n`, admite
   *cursiva*), `cita` y `cita_autor` (opcionales), `gancho` (frase de cabecera de contracubierta, Archivo
-  Arcano), `titulo_portada` y `subtitulo_portada` (saltos de línea con `|`), `papel`, `paginas`, `dossier`
+  Arcano), `grabado` (true si la ilustración es un grabado de dominio público a teñir), `titulo_portada` y `subtitulo_portada` (saltos de línea con `|`), `papel`, `paginas`, `dossier`
   (Lupin) y, en tapa dura, `ancho_total_in`, `alto_total_in`, `lomo_in`.
 - Estilo por colección: campo `cubierta.estilo` de `colecciones/<slug>.json` y referencias en `referencias/cubiertas/`:
   - **Límite Abisal**: fondo #1a1e1f; autor arriba en sans espaciado; título enorme en serif fina azul hielo
@@ -159,19 +158,30 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o d
 
 ### Ilustraciones
 
-- **Con IA**: `python3 scripts/ilustracion.py proyectos/<slug> "escena en inglés"` (API de imágenes de
-  OpenAI; añade el estilo de la colección y pide imagen sin texto). Genera 2-3 variantes, revísalas y usa
-  la mejor en `[cubierta] ilustracion`. Los prompts quedan en `cubierta/PROMPTS.md`. La clave es un secreto
-  de red del entorno (nunca en el repositorio); si la API responde 401, la clave no está configurada:
-  dilo en el informe y describe la ilustración para que el responsable la genere en ChatGPT. Si responde 429
-  `insufficient_quota` / `credit_balance_exhausted`, la cuenta de API no tiene saldo: avísalo igual.
-  Modelo por defecto: `gpt-image-2` (`--modelo` para otro de los disponibles en la cuenta).
-- Las imágenes de la API salen a 1024 × 1536 px: bastan para el ebook y para recuadros de ilustración de
-  imprenta de hasta ~3,4 × 5 in a 300 ppp; para ilustraciones a sangre en imprenta, avisa de la resolución.
+Claude no genera imágenes. Hay dos vías, por este orden:
+
+1. **Grabados de dominio público (por defecto, gratis)**: Gustave Doré, Harry Clarke, Aubrey Beardsley,
+   Alfred Kubin, John Martin, Odilon Redon, Sidney Sime, grabados victorianos de prensa… Búscalos en
+   Wikimedia Commons (API: `commons.wikimedia.org/w/api.php`, `prop=imageinfo&iiprop=url|size`), Gallica o
+   Internet Archive. Comprueba que el artista murió antes de 1946. Pon en `[cubierta]`
+   `ilustracion = "cubierta/<archivo>"` y `grabado = true`: `scripts/cubierta.py` recorta el margen del
+   papel y tiñe el grabado con la paleta de la colección (`medio_grabado`, `luz_grabado` en
+   `colecciones/<slug>.json`). Cita autor, obra, año y URL en `cubierta/CREDITOS.md`.
+   - Wikimedia limita descargas: usa un User-Agent identificable (`GabineteEditorialBot/1.0
+     (https://elgabinetenegro.com)`), espera ~4 s entre descargas y, si el original devuelve
+     «Too many requests», pide la miniatura estándar `…/thumb/<ruta>/1280px-<archivo>` (o 960px).
+   - Resolución: para imprenta, mínimo ~1500 px en el lado mayor del recuadro de ilustración
+     (≈ 300 ppp en 5 in). Si solo hay menos, avísalo en el informe y busca otra copia (Gallica e
+     Internet Archive suelen tener escaneos más grandes).
+2. **Ilustración original hecha por el responsable en ChatGPT**: cuando ningún grabado encaje, describe en
+   el informe la ilustración ideal (escena, encuadre vertical, paleta de la colección, «sin texto») como
+   prompt listo para pegar en ChatGPT. El responsable la deja en `proyectos/<slug>/cubierta/` (o la
+   adjunta) y entonces compones la cubierta con ella (sin `grabado = true`).
+
 - Sin texto dentro de la ilustración: título, autor y ornamentos los compone `scripts/cubierta.py`.
-- Alternativa: grabados de dominio público (Wikimedia Commons, Gallica, Internet Archive: Doré, Clarke,
-  Beardsley, Kubin…), citando la fuente en `cubierta/CREDITOS.md`.
-- Entrega 2-3 propuestas de cubierta por libro; la definitiva la elige el responsable.
+- `scripts/ilustracion.py` (API de imágenes de OpenAI, `gpt-image-2`) queda disponible pero **es de pago y
+  la cuenta no tiene saldo**: no lo uses salvo que el responsable diga que lo ha recargado.
+- Entrega 2-3 propuestas de cubierta por libro (distintos grabados o encuadres); la definitiva la elige el responsable.
 
 ## Investigación de candidatos
 

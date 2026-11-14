@@ -67,7 +67,9 @@
   "texto": "#e8dcc0",
   "acento": "#c9a25a",
   "rojo": "#b3262b",
-  "estilo": "TAPA DURA (KDP case laminate). Fondo negro (#0b0a09) con textura envejecida. Marco dorado ornamental (filigrana victoriana en las esquinas) en portada y contracubierta. Portada: AUTOR arriba en serif clásica versal dorada (tipo Cinzel), filete con rombo, TÍTULO enorme en serif clásica crema envejecida con sombra, SUBTÍTULO en versales rojo sangre (#b3262b), filete; ilustración de grabado oscuro con acentos rojos (castillo, luna, manuscrito con lacre, terciopelo rojo) fundida con el fondo; abajo «ARCHIVO ARCANO · EL GABINETE NEGRO» en versales doradas. Lomo enmarcado en dorado: emblema arriba, AUTOR, TÍTULO · SUBTÍTULO en vertical dorado, ornamentos y «ARCHIVO ARCANO» abajo. Contracubierta: frase gancho en versales doradas, filete, sinopsis centrada en serif crema con títulos en cursiva, viñetas ilustradas en rojo arriba y abajo. Referencia: referencias/cubiertas/archivo-arcano_Dracula_tapa_dura.jpg (15,07 x 10,42 in)."
+  "estilo": "TAPA DURA (KDP case laminate). Fondo negro (#0b0a09) con textura envejecida. Marco dorado ornamental (filigrana victoriana en las esquinas) en portada y contracubierta. Portada: AUTOR arriba en serif clásica versal dorada (tipo Cinzel), filete con rombo, TÍTULO enorme en serif clásica crema envejecida con sombra, SUBTÍTULO en versales rojo sangre (#b3262b), filete; ilustración de grabado oscuro con acentos rojos (castillo, luna, manuscrito con lacre, terciopelo rojo) fundida con el fondo; abajo «ARCHIVO ARCANO · EL GABINETE NEGRO» en versales doradas. Lomo enmarcado en dorado: emblema arriba, AUTOR, TÍTULO · SUBTÍTULO en vertical dorado, ornamentos y «ARCHIVO ARCANO» abajo. Contracubierta: frase gancho en versales doradas, filete, sinopsis centrada en serif crema con títulos en cursiva, viñetas ilustradas en rojo arriba y abajo. Referencia: referencias/cubiertas/archivo-arcano_Dracula_tapa_dura.jpg (15,07 x 10,42 in).",
+  "medio_grabado": "#5a4a36",
+  "luz_grabado": "#e3d6bb"
  },
  "slug": "archivo-arcano",
  "apendice": [

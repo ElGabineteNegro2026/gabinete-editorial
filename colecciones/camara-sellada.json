@@ -23,7 +23,9 @@
   "fondo": "#1a1e1f",
   "texto": "#f2ece0",
   "acento": "#c9a46a",
-  "estilo": "Fondo casi negro (#1a1e1f). Arriba, logotipo «El Gabinete Negro» con filigrana y «COLECCIÓN CÁMARA SELLADA» en serif versalitas muy espaciado. Ilustración enmarcada (aprox. 65% del ancho) en sepia/dorado envejecido con marco ornamental de esquinas, que integra el TÍTULO (serif clásica tipo Trajan/Cinzel, dorado envejecido) y el AUTOR abajo con filetes ornamentales. Abajo, «VOL.XVI» espaciado."
+  "estilo": "Fondo casi negro (#1a1e1f). Arriba, logotipo «El Gabinete Negro» con filigrana y «COLECCIÓN CÁMARA SELLADA» en serif versalitas muy espaciado. Ilustración enmarcada (aprox. 65% del ancho) en sepia/dorado envejecido con marco ornamental de esquinas, que integra el TÍTULO (serif clásica tipo Trajan/Cinzel, dorado envejecido) y el AUTOR abajo con filetes ornamentales. Abajo, «VOL.XVI» espaciado.",
+  "medio_grabado": "#7a5a32",
+  "luz_grabado": "#ecd9b0"
  },
  "slug": "camara-sellada",
  "apendice": [

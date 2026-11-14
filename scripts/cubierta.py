@@ -66,6 +66,18 @@ def parrafo(d, caja, txt, f, color, interlineado=1.35, centrado=False):
         y += f.size * interlineado
     return y
 
+def preparar_grabado(im, C, recorte=0.035):
+    """Grabado de dominio público (papel blanco, tinta negra) → paleta de la colección:
+    recorta el margen del papel, oscurece y tiñe de fondo (sombras) a acento/texto (luces)."""
+    est = C["cubierta"]
+    im = ImageOps.grayscale(im)
+    w, h = im.size
+    im = im.crop((int(w*recorte), int(h*recorte), int(w*(1-recorte)), int(h*(1-recorte))))
+    im = ImageOps.autocontrast(im, cutoff=1)
+    im = im.point(lambda v: int(255 * (v / 255) ** 1.6))          # más nocturno
+    luz = est.get("luz_grabado", est["texto"])
+    return ImageOps.colorize(im, black=est["fondo"], mid=est.get("medio_grabado", est["acento"]), white=luz)
+
 def encaja(img, w, h):
     return ImageOps.fit(img.convert("RGB"), (int(w), int(h)), Image.LANCZOS)
 
@@ -246,6 +258,8 @@ def main():
     cub = meta.get("cubierta", {})
     L = {**meta, **cub}
     ilu = Image.open(dir_proy / cub["ilustracion"]) if cub.get("ilustracion") else None
+    if ilu is not None and cub.get("grabado"):   # grabado de dominio público: teñir a la paleta de la colección
+        ilu = preparar_grabado(ilu, C)
     paginas = cub.get("paginas", 0)
     if not paginas:
         pdf = dir_proy / "interior" / f"{slug}_interior_6x9.pdf"

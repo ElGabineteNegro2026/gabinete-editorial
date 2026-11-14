@@ -42,7 +42,9 @@
   "fondo": "#1a1e1f",
   "texto": "#e8ecef",
   "acento": "#97b5cf",
-  "estilo": "Fondo casi negro (#1a1e1f). Arriba, AUTOR en sans espaciado (versalitas, blanco). Título grande en serif de trazo fino con degradado azul hielo (#97b5cf→#dfeaf2) y sombra, en 2 líneas. Subtítulo en serif minúscula. Ilustración rectangular centrada (aprox. 63% del ancho) de tonos verde azulado, grabado/pastel nocturno, mar y criaturas abisales. Abajo: EL GABINETE NEGRO (sans espaciado) y «COLECCIÓN LÍMITE ABISAL» + «Vol. XVIII» en pequeño, gris azulado."
+  "estilo": "Fondo casi negro (#1a1e1f). Arriba, AUTOR en sans espaciado (versalitas, blanco). Título grande en serif de trazo fino con degradado azul hielo (#97b5cf→#dfeaf2) y sombra, en 2 líneas. Subtítulo en serif minúscula. Ilustración rectangular centrada (aprox. 63% del ancho) de tonos verde azulado, grabado/pastel nocturno, mar y criaturas abisales. Abajo: EL GABINETE NEGRO (sans espaciado) y «COLECCIÓN LÍMITE ABISAL» + «Vol. XVIII» en pequeño, gris azulado.",
+  "medio_grabado": "#2f5a5c",
+  "luz_grabado": "#cfe3e0"
  },
  "slug": "limite-abisal",
  "apendice": [
