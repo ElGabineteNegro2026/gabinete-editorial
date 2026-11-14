@@ -163,7 +163,9 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o d
   OpenAI; añade el estilo de la colección y pide imagen sin texto). Genera 2-3 variantes, revísalas y usa
   la mejor en `[cubierta] ilustracion`. Los prompts quedan en `cubierta/PROMPTS.md`. La clave es un secreto
   de red del entorno (nunca en el repositorio); si la API responde 401, la clave no está configurada:
-  dilo en el informe y describe la ilustración para que el responsable la genere en ChatGPT.
+  dilo en el informe y describe la ilustración para que el responsable la genere en ChatGPT. Si responde 429
+  `insufficient_quota` / `credit_balance_exhausted`, la cuenta de API no tiene saldo: avísalo igual.
+  Modelo por defecto: `gpt-image-2` (`--modelo` para otro de los disponibles en la cuenta).
 - Las imágenes de la API salen a 1024 × 1536 px: bastan para el ebook y para recuadros de ilustración de
   imprenta de hasta ~3,4 × 5 in a 300 ppp; para ilustraciones a sangre en imprenta, avisa de la resolución.
 - Sin texto dentro de la ilustración: título, autor y ornamentos los compone `scripts/cubierta.py`.
