@@ -1,0 +1,78 @@
+{
+ "nombre": "Archivo Arcano",
+ "linea_coleccion": "Colección Archivo Arcano",
+ "emblema_inicial": null,
+ "ex_libris": "colecciones/recursos/archivo-arcano_ex-libris.jpg",
+ "manifiesto_titulo": "MANIFIESTO EDITORIAL",
+ "manifiesto_subtitulo": null,
+ "manifiesto": [
+  [
+   "Hay libros que se leen.",
+   "Y hay libros que parecen esperar."
+  ],
+  [
+   "Volúmenes que sobreviven al tiempo como objetos prohibidos, olvidados en bibliotecas silenciosas, escondidos tras puertas cerradas o encontrados en habitaciones donde nadie recuerda haber entrado. Archivo Arcano nace de esa idea."
+  ],
+  [
+   "No concebimos estas ediciones como simples recopilaciones de relatos clásicos, sino como la recuperación de una tradición literaria que entendía el horror como una forma de belleza, el misterio como una experiencia estética y la oscuridad como un territorio digno de explorarse."
+  ],
+  [
+   "Creemos en los libros que envejecen bien.",
+   "En las historias que continúan respirando décadas después de haber sido escritas.",
+   "En las páginas capaces de provocar inquietud sin necesidad de artificio."
+  ],
+  [
+   "Nuestra colección reúne las grandes voces del relato sobrenatural, gótico y weird fiction: autores que transformaron mansiones abandonadas, abadías en ruinas, ciudades imposibles y habitaciones silenciosas en escenarios donde lo desconocido se filtra lentamente en la realidad."
+  ],
+  [
+   "Cada volumen de Archivo Arcano está concebido como una pieza de colección:"
+  ],
+  [
+   "— ediciones cuidadas",
+   "— ilustraciones atmosféricas",
+   "— diseño inspirado en bibliotecas antiguas",
+   "— textos restaurados y revisados",
+   "— prólogos y materiales editoriales originales"
+  ],
+  [
+   "No buscamos únicamente publicar libros.",
+   "Buscamos construir un archivo imaginario de lo imposible."
+  ],
+  [
+   "Un lugar donde convivan:"
+  ],
+  [
+   "fantasmas victorianos,",
+   "cultos olvidados,",
+   "manuscritos malditos,",
+   "casas encantadas,",
+   "mares abisales,",
+   "símbolos arcanos,",
+   "y todas aquellas historias que se niegan a desaparecer."
+  ],
+  [
+   "Porque algunos relatos no fueron escritos para entretener.",
+   "Fueron escritos para permanecer."
+  ],
+  [
+   "Bienvenido a Archivo Arcano.",
+   "Comience la lectura bajo su propia responsabilidad."
+  ]
+ ],
+ "prologo_titulo": "Prólogo",
+ "capitulos": "Antologías temáticas: cada relato con su título; en créditos se cita cada relato por título original, autor y fecha de primera publicación.",
+ "proximo_titulo": false,
+ "cubierta": {
+  "fondo": "#1a1e1f",
+  "texto": "#f2ece0",
+  "acento": "#b89b6a",
+  "estilo": "Sin portada de referencia todavía: pedir una al responsable. Mientras tanto, estética de biblioteca antigua y grabado (ex libris de la colección como motivo), coherente con las otras colecciones sobre fondo #1a1e1f."
+ },
+ "slug": "archivo-arcano",
+ "apendice": [
+  "Este volumen forma parte de una colección dedicada a preservar las obras esenciales de la literatura oscura.",
+  "Cada libro es una puerta.",
+  "Cada historia, una estancia.",
+  "El Gabinete permanece abierto."
+ ]
+}

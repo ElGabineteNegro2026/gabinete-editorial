@@ -1,0 +1,35 @@
+{
+ "nombre": "Archivo Lupin",
+ "linea_coleccion": "Archivo Lupin",
+ "emblema_inicial": "colecciones/recursos/archivo-lupin_emblema.png",
+ "ex_libris": null,
+ "manifiesto_titulo": "EL ARCHIVO LUPIN",
+ "manifiesto_subtitulo": "Las reglas del expediente",
+ "manifiesto": [
+  [
+   "En el universo de Arsène Lupin, nada es exactamente lo que parece. Un nombre puede ser una máscara, una identidad puede cambiar en un instante y una puerta cerrada puede esconder mucho más que un secreto. Por eso, EL ARCHIVO LUPIN recupera estas historias como piezas de un expediente abierto: relatos de misterio, aventura e ingenio en los que el lector nunca debe confiar del todo en las apariencias."
+  ],
+  [
+   "Primera regla: la inteligencia antes que la fuerza. Lupin no vence por imponerse, sino por anticiparse. Segunda: la identidad es un instrumento. Disfrazarse, desaparecer, hacerse pasar por otro o adoptar una nueva personalidad forma parte de su particular arte. Tercera: el misterio pertenece también al lector. Las pistas están ahí, pero no siempre donde esperamos encontrarlas."
+  ],
+  [
+   "Y existe una última regla, quizá la más importante: el juego debe ser elegante. El robo puede convertirse en una partida, la persecución en un duelo de ingenio y el peligro en una oportunidad para sorprender. Estas páginas pertenecen a una época en la que los caballeros llevaban sombrero, los secretos viajaban en sobres sellados y un ladrón podía convertirse en el héroe de su propia historia. El expediente queda abierto."
+  ]
+ ],
+ "prologo_titulo": "PRÓLOGO",
+ "capitulos": "«CAPÍTULO I» si no tiene título; «I. TÍTULO» en mayúsculas si lo tiene (relatos).",
+ "proximo_titulo": true,
+ "cubierta": {
+  "fondo": "#172933",
+  "texto": "#e7ddc7",
+  "acento": "#a88b52",
+  "estilo": "Azul petróleo muy oscuro (#172933→#22343e) con filete dorado fino enmarcando la portada. Portada: «DOSSIER I» arriba a la izquierda (Cinzel Medium, dorado #a88b52); «EL ARCHIVO» (Cormorant Garamond SemiBold, crema #e7ddc7, muy espaciado); «LUPIN» enorme (Bodoni Moda Black, crema); ilustración a sangre de escena nocturna Belle Époque con Lupin de espaldas (chistera, bastón); emblema de llave en círculo dorado; «I. TÍTULO DEL VOLUMEN» (Cormorant Garamond Medium, crema); rombo rojo; AUTOR (Cinzel Medium, crema); EL GABINETE NEGRO (Cinzel, dorado #927c4d). Lomo: «I» arriba, «EL ARCHIVO LUPIN» (Bodoni Moda Black), AUTOR (Cinzel). Contracubierta: «EL ARCHIVO LUPIN» (Cinzel, dorado), título del volumen (Cormorant), sinopsis en Cormorant Garamond Medium (crema), cita destacada en cursiva dorada, autor, EL GABINETE NEGRO, ELGABINETENEGRO.COM abajo a la izquierda y hueco blanco para ISBN/código de barras abajo a la derecha. Referencia: referencias/cubiertas/archivo-lupin_cubierta_completa_Canva.pptx."
+ },
+ "slug": "archivo-lupin",
+ "apendice": [
+  "Este volumen forma parte de una colección dedicada a preservar las obras esenciales de la literatura oscura.",
+  "Cada libro es una puerta.",
+  "Cada historia, una estancia.",
+  "El Gabinete permanece abierto."
+ ]
+}

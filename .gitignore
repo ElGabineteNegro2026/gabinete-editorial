@@ -1,0 +1,3 @@
+proyectos/*/build/
+__pycache__/
+*.pyc

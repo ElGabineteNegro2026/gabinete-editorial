@@ -1,0 +1,35 @@
+{
+ "nombre": "Cámara Sellada",
+ "linea_coleccion": "Colección Cámara Sellada",
+ "emblema_inicial": null,
+ "ex_libris": null,
+ "manifiesto_titulo": "MANIFIESTO EDITORIAL",
+ "manifiesto_subtitulo": null,
+ "manifiesto": [
+  [
+   "Esta obra forma parte del catálogo de El Gabinete Negro, en la colección Cámara Sellada, una colección dedicada a rescatar textos fundamentales del imaginario oscuro europeo."
+  ],
+  [
+   "En la Cámara Sellada, el horror no grita: susurra.",
+   "Las historias aquí reunidas exploran el espacio cerrado, la intimidad perturbada, la presencia que no se nombra.",
+   "Publicamos libros que no buscan el sobresalto inmediato, sino la inquietud persistente.",
+   "Historias que sobreviven en la penumbra."
+  ]
+ ],
+ "prologo_titulo": "PRÓLOGO",
+ "capitulos": "«CAPÍTULO I» si no tiene título; «I. TÍTULO DEL CAPÍTULO» en mayúsculas si lo tiene. Partes: «PRIMERA PARTE» + subtítulo en página propia.",
+ "proximo_titulo": true,
+ "cubierta": {
+  "fondo": "#1a1e1f",
+  "texto": "#f2ece0",
+  "acento": "#c9a46a",
+  "estilo": "Fondo casi negro (#1a1e1f). Arriba, logotipo «El Gabinete Negro» con filigrana y «COLECCIÓN CÁMARA SELLADA» en serif versalitas muy espaciado. Ilustración enmarcada (aprox. 65% del ancho) en sepia/dorado envejecido con marco ornamental de esquinas, que integra el TÍTULO (serif clásica tipo Trajan/Cinzel, dorado envejecido) y el AUTOR abajo con filetes ornamentales. Abajo, «VOL.XVI» espaciado."
+ },
+ "slug": "camara-sellada",
+ "apendice": [
+  "Este volumen forma parte de una colección dedicada a preservar las obras esenciales de la literatura oscura.",
+  "Cada libro es una puerta.",
+  "Cada historia, una estancia.",
+  "El Gabinete permanece abierto."
+ ]
+}

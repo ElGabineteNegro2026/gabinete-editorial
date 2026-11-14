@@ -1,0 +1,7 @@
+/* Estilos EPUB de El Gabinete Negro: sobrios, para que el lector Kindle controle tamaño y fuente */
+body { font-family: serif; line-height: 1.4; }
+p { text-align: justify; margin: 0 0 0.5em 0; text-indent: 0; }
+h1, h2 { font-family: sans-serif; text-align: center; font-weight: bold; margin: 2em 0 1.5em 0; page-break-before: always; }
+h1 { font-size: 1.3em; } h2 { font-size: 1.15em; }
+blockquote { margin: 0.5em 1.5em; }
+img { max-width: 100%; }

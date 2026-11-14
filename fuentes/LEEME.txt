@@ -1,0 +1,4 @@
+Tipografías libres incluidas:
+- Carlito, Cinzel, Cormorant Garamond y Bodoni Moda: SIL Open Font License 1.1 (LICENCIA_OFL.txt).
+- Caladea: Apache License 2.0.
+Caladea y Carlito son métricamente compatibles con Cambria y Calibri (las de las plantillas Word).

@@ -1,0 +1,54 @@
+{
+ "nombre": "Límite Abisal",
+ "linea_coleccion": "Colección Límite Abisal",
+ "emblema_inicial": null,
+ "ex_libris": null,
+ "manifiesto_titulo": "MANIFIESTO EDITORIAL",
+ "manifiesto_subtitulo": null,
+ "manifiesto": [
+  [
+   "Hay relatos que hablan de fantasmas, de monstruos o de sombras.",
+   "Y hay otros que se atreven a ir más lejos."
+  ],
+  [
+   "Los textos reunidos en Límite Abisal pertenecen a esta segunda estirpe."
+  ],
+  [
+   "Son obras que exploran los márgenes de lo comprensible. Narraciones en las que el terror no surge únicamente de lo sobrenatural, sino de una intuición más profunda y perturbadora: la sospecha de que la realidad es solo una capa superficial bajo la cual se ocultan fuerzas más antiguas, vastas e indiferentes."
+  ],
+  [
+   "Antes de que la literatura moderna hablara de horror cósmico, de universos indiferentes o de dimensiones ocultas, algunos autores comenzaron a insinuar esa idea: que la mente humana no está preparada para comprender completamente el mundo que habita."
+  ],
+  [
+   "Estos relatos se sitúan en ese territorio fronterizo."
+  ],
+  [
+   "En ellos aparecen científicos que cruzan límites prohibidos, ciudades donde sobreviven cultos arcaicos, paisajes donde la naturaleza parece recordar algo que la humanidad ha olvidado, y encuentros con aquello que permanece más allá de lo visible."
+  ],
+  [
+   "No se trata únicamente de historias de miedo. Son exploraciones literarias de lo desconocido."
+  ],
+  [
+   "La colección Límite Abisal reúne textos fundamentales del terror metafísico, del horror filosófico y de la imaginación especulativa más inquietante."
+  ],
+  [
+   "Bienvenido/a a Límite Abisal."
+  ]
+ ],
+ "prologo_titulo": "PRÓLOGO",
+ "capitulos": "Números romanos solos («I», «II»…) en novelas; título del relato en antologías.",
+ "proximo_titulo": true,
+ "cubierta": {
+  "fondo": "#1a1e1f",
+  "texto": "#e8ecef",
+  "acento": "#97b5cf",
+  "estilo": "Fondo casi negro (#1a1e1f). Arriba, AUTOR en sans espaciado (versalitas, blanco). Título grande en serif de trazo fino con degradado azul hielo (#97b5cf→#dfeaf2) y sombra, en 2 líneas. Subtítulo en serif minúscula. Ilustración rectangular centrada (aprox. 63% del ancho) de tonos verde azulado, grabado/pastel nocturno, mar y criaturas abisales. Abajo: EL GABINETE NEGRO (sans espaciado) y «COLECCIÓN LÍMITE ABISAL» + «Vol. XVIII» en pequeño, gris azulado."
+ },
+ "slug": "limite-abisal",
+ "apendice": [
+  "Este volumen forma parte de una colección dedicada a preservar las obras esenciales de la literatura oscura.",
+  "Cada libro es una puerta.",
+  "Cada historia, una estancia.",
+  "El Gabinete permanece abierto."
+ ]
+}
