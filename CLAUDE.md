@@ -181,6 +181,7 @@ Claude no genera imágenes. Hay dos vías, por este orden:
 - Sin texto dentro de la ilustración: título, autor y ornamentos los compone `scripts/cubierta.py`.
 - `scripts/ilustracion.py` (API de imágenes de OpenAI, `gpt-image-2`) queda disponible pero **es de pago y
   la cuenta no tiene saldo**: no lo uses salvo que el responsable diga que lo ha recargado.
+- **No uses Canva** (ni su generador de imágenes) para ilustraciones: el responsable lo descartó (14-11-2026).
 - Entrega 2-3 propuestas de cubierta por libro (distintos grabados o encuadres); la definitiva la elige el responsable.
 
 ## Investigación de candidatos
