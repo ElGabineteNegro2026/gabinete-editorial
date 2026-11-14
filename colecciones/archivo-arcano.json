@@ -63,10 +63,11 @@
  "capitulos": "Antologías temáticas: cada relato con su título; en créditos se cita cada relato por título original, autor y fecha de primera publicación.",
  "proximo_titulo": false,
  "cubierta": {
-  "fondo": "#1a1e1f",
-  "texto": "#f2ece0",
-  "acento": "#b89b6a",
-  "estilo": "Sin portada de referencia todavía: pedir una al responsable. Mientras tanto, estética de biblioteca antigua y grabado (ex libris de la colección como motivo), coherente con las otras colecciones sobre fondo #1a1e1f."
+  "fondo": "#0b0a09",
+  "texto": "#e8dcc0",
+  "acento": "#c9a25a",
+  "rojo": "#b3262b",
+  "estilo": "TAPA DURA (KDP case laminate). Fondo negro (#0b0a09) con textura envejecida. Marco dorado ornamental (filigrana victoriana en las esquinas) en portada y contracubierta. Portada: AUTOR arriba en serif clásica versal dorada (tipo Cinzel), filete con rombo, TÍTULO enorme en serif clásica crema envejecida con sombra, SUBTÍTULO en versales rojo sangre (#b3262b), filete; ilustración de grabado oscuro con acentos rojos (castillo, luna, manuscrito con lacre, terciopelo rojo) fundida con el fondo; abajo «ARCHIVO ARCANO · EL GABINETE NEGRO» en versales doradas. Lomo enmarcado en dorado: emblema arriba, AUTOR, TÍTULO · SUBTÍTULO en vertical dorado, ornamentos y «ARCHIVO ARCANO» abajo. Contracubierta: frase gancho en versales doradas, filete, sinopsis centrada en serif crema con títulos en cursiva, viñetas ilustradas en rojo arriba y abajo. Referencia: referencias/cubiertas/archivo-arcano_Dracula_tapa_dura.jpg (15,07 x 10,42 in)."
  },
  "slug": "archivo-arcano",
  "apendice": [
@@ -74,5 +75,6 @@
   "Cada libro es una puerta.",
   "Cada historia, una estancia.",
   "El Gabinete permanece abierto."
- ]
+ ],
+ "formato": "tapa-dura"
 }

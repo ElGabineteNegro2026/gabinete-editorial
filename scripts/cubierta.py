@@ -143,31 +143,106 @@ def portada_archivo_lupin(L, C, ilu, w, h):
     d.line((w/2-38*u, 944*u, w/2+38*u, 944*u), fill=oro, width=max(1, int(u)))
     return im
 
-def portada_archivo_arcano(L, C, ilu, w, h):
-    # Sin referencia aún: composición tipo Cámara Sellada con tipografía de biblioteca antigua.
-    im = portada_camara_sellada(L, {**C, "cubierta": {**C["cubierta"], "acento": C["cubierta"]["acento"]}}, ilu, w, h)
-    d = ImageDraw.Draw(im); u = w / 1253
-    d.rectangle((0, 225*u, w, 285*u), fill=C["cubierta"]["fondo"])
-    texto_espaciado(d, (w/2, 255*u), "COLECCIÓN ARCHIVO ARCANO", fuente("CormorantGaramond.ttf", 30*u, "Medium"), "#f2ece0", 0.25)
-    return im
-
 def componer(coleccion, L, C, ilu, w, h):
     """Las portadas de referencia miden 1253 x 2000 (proporción 1,6, la del ebook). En imprenta
     (6,125 x 9,25 in con sangrado, 1,51) se compone a 1,6 y se ajusta sobre el color de fondo."""
-    if coleccion == "archivo-lupin":
+    if coleccion in ("archivo-lupin", "archivo-arcano"):   # composición que se adapta a cualquier proporción
         return PORTADAS[coleccion](L, C, ilu, w, h)
     base = PORTADAS[coleccion](L, C, ilu, w, round(w * 2000 / 1253))
     return ImageOps.pad(base, (w, h), color=hexa(C["cubierta"]["fondo"]))
 
 PORTADAS = {"limite-abisal": portada_limite_abisal, "camara-sellada": portada_camara_sellada,
-            "archivo-lupin": portada_archivo_lupin, "archivo-arcano": portada_archivo_arcano}
+            "archivo-lupin": portada_archivo_lupin}
 
 # ------------------------------------------------------------------ cubierta completa
+
+def portada_archivo_arcano(L, C, ilu, w, h):
+    """Tapa dura. Referencia: referencias/cubiertas/archivo-arcano_Dracula_tapa_dura.jpg.
+    Fondo negro, marco dorado ornamental, autor arriba, título en serif clásica crema,
+    subtítulo en rojo, ilustración de grabado oscuro con acentos rojos, colección abajo."""
+    est = C["cubierta"]; im = Image.new("RGB", (w, h), hexa(est["fondo"])); d = ImageDraw.Draw(im)
+    u = min(w / 1800, h / 2700); oro, crema, rojo = est["acento"], est["texto"], est.get("rojo", "#b3262b")
+    m = 70 * u
+    if ilu:
+        bx0, by0, bx1, by1 = m + 30*u, 1050*u, w - m - 30*u, h - m - 260*u
+        arte = encaja(ilu, bx1 - bx0, by1 - by0)
+        velo = Image.new("L", arte.size, 0); dv = ImageDraw.Draw(velo); aw, ah = arte.size
+        for i in range(ah):
+            t = i / ah; a = 255 * max(0, 1 - t / 0.18) + 200 * max(0, (t - 0.82) / 0.18)
+            dv.line((0, i, aw, i), fill=int(min(255, a)))
+        arte.paste(hexa(est["fondo"]), mask=velo)
+        im.paste(arte, (int(bx0), int(by0)))
+    # Marco: doble filete dorado con remates en las esquinas
+    for k, g in ((0, 6), (22, 2)):
+        d.rectangle((m + k*u, m + k*u, w - m - k*u, h - m - k*u), outline=oro, width=max(1, int(g*u)))
+    for cx, cy in ((m, m), (w - m, m), (m, h - m), (w - m, h - m)):
+        r = 38 * u
+        d.polygon([(cx, cy - r), (cx + r, cy), (cx, cy + r), (cx - r, cy)], fill=hexa(est["fondo"]), outline=oro)
+        d.polygon([(cx, cy - r/2), (cx + r/2, cy), (cx, cy + r/2), (cx - r/2, cy)], fill=oro)
+    def filete(y, ancho):
+        d.line((w/2 - ancho, y, w/2 - 22*u, y), fill=oro, width=max(1, int(3*u)))
+        d.line((w/2 + 22*u, y, w/2 + ancho, y), fill=oro, width=max(1, int(3*u)))
+        d.polygon([(w/2, y - 12*u), (w/2 + 14*u, y), (w/2, y + 12*u), (w/2 - 14*u, y)], fill=oro)
+    texto_espaciado(d, (w/2, 230*u), L["autor"].upper(), fuente("Cinzel.ttf", 64*u, "SemiBold"), oro, 0.12)
+    filete(310*u, 520*u)
+    lineas = L.get("titulo_portada", L["titulo"].upper()).split("|")
+    ft = fuente("Cinzel.ttf", 190*u if len(lineas) == 1 else 150*u, "Bold"); y = 470*u
+    for l in lineas:
+        d.text((w/2 + 5*u, y + 6*u), l.strip(), font=ft, fill="#000000", anchor="mm")
+        d.text((w/2, y), l.strip(), font=ft, fill=crema, anchor="mm"); y += ft.size * 1.05
+    if L.get("subtitulo_portada"):
+        fs = fuente("Cinzel.ttf", 82*u, "SemiBold")
+        for l in L["subtitulo_portada"].upper().split("|"):
+            d.text((w/2, y), l.strip(), font=fs, fill=rojo, anchor="mm"); y += fs.size * 1.1
+    filete(y + 30*u, 420*u)
+    texto_espaciado(d, (w/2, h - m - 110*u), "ARCHIVO ARCANO · EL GABINETE NEGRO", fuente("Cinzel.ttf", 40*u, "SemiBold"), crema, 0.06)
+    return im
+
+PORTADAS["archivo-arcano"] = portada_archivo_arcano
+
+def lomo_vertical(C, L, coleccion, alto, ancho):
+    """Tira del lomo (texto de abajo arriba al girar), alto x ancho en píxeles."""
+    est = C["cubierta"]; crema, oro = est["texto"], est["acento"]
+    tira = Image.new("RGB", (int(alto), max(1, int(ancho))), hexa(est["fondo"])); dt = ImageDraw.Draw(tira)
+    t = max(18, int(ancho * 0.42))
+    if coleccion == "archivo-arcano":
+        # Como la referencia: marco dorado, autor y colección en horizontal arriba y abajo,
+        # título · subtítulo en vertical en el centro, ajustado al hueco disponible.
+        v = Image.new("RGB", (max(1, int(ancho)), int(alto)), hexa(est["fondo"])); dv = ImageDraw.Draw(v)
+        aw = v.width; g = max(2, int(aw * 0.02))
+        dv.rectangle((aw*0.08, alto*0.012, aw*0.92, alto*0.988), outline=oro, width=g)
+        dv.rectangle((aw*0.13, alto*0.017, aw*0.87, alto*0.983), outline=oro, width=max(1, g//2))
+        fa = fuente("Cinzel.ttf", aw * 0.16, "SemiBold"); y = alto * 0.07
+        for parte in L["autor"].upper().split():
+            dv.text((aw/2, y), parte, font=fa, fill=crema, anchor="mm"); y += fa.size * 1.1
+        dv.line((aw*0.3, y + aw*0.05, aw*0.7, y + aw*0.05), fill=oro, width=g)
+        fc = fuente("Cinzel.ttf", aw * 0.13, "SemiBold")
+        dv.text((aw/2, alto*0.90), "ARCHIVO", font=fc, fill=crema, anchor="mm")
+        dv.text((aw/2, alto*0.90 + fc.size*1.15), "ARCANO", font=fc, fill=crema, anchor="mm")
+        tit = L["titulo"].upper() + (" · " + L["subtitulo_portada"].replace("|", " ").upper() if L.get("subtitulo_portada") else "")
+        hueco = alto * 0.62; t = aw * 0.38
+        ft = fuente("Cinzel.ttf", t, "SemiBold")
+        while dv.textlength(tit, font=ft) > hueco and t > 10:
+            t *= 0.95; ft = fuente("Cinzel.ttf", t, "SemiBold")
+        tw = int(dv.textlength(tit, font=ft)) + 10
+        banda = Image.new("RGB", (tw, int(aw * 0.7)), hexa(est["fondo"]))
+        ImageDraw.Draw(banda).text((tw/2, banda.height/2), tit, font=ft, fill=oro, anchor="mm")
+        banda = banda.rotate(-90, expand=True)
+        v.paste(banda, (int((aw - banda.width)/2), int(alto*0.48 - banda.height/2)))
+        return v
+    if True:
+        f_tit = fuente("BodoniModa.ttf", t, "Black") if coleccion == "archivo-lupin" else fuente("Cinzel.ttf", t, "SemiBold")
+        tit = "EL ARCHIVO LUPIN" if coleccion == "archivo-lupin" else L["titulo"].upper()
+        dt.text((alto * 0.40, ancho / 2), tit, font=f_tit, fill=crema, anchor="mm")
+        dt.text((alto * 0.76, ancho / 2), L["autor"].upper(), font=fuente("Cinzel.ttf", int(t * 0.7), "Medium"), fill=oro, anchor="mm")
+        dt.text((alto * 0.07, ancho / 2), str(L.get("dossier", L["volumen"])), font=fuente("Cinzel.ttf", int(t * 0.8), "Medium"), fill=oro, anchor="mm")
+    return tira.rotate(-90, expand=True)
 
 def main():
     dir_proy = (Path.cwd() / sys.argv[1]).resolve(); slug = dir_proy.name
     meta = tomllib.loads((dir_proy / "libro.toml").read_text(encoding="utf-8"))
-    C = json.loads((RAIZ / "colecciones" / f"{meta['coleccion']}.json").read_text(encoding="utf-8"))
+    col = meta["coleccion"]
+    C = json.loads((RAIZ / "colecciones" / f"{col}.json").read_text(encoding="utf-8"))
     cub = meta.get("cubierta", {})
     L = {**meta, **cub}
     ilu = Image.open(dir_proy / cub["ilustracion"]) if cub.get("ilustracion") else None
@@ -175,54 +250,80 @@ def main():
     if not paginas:
         pdf = dir_proy / "interior" / f"{slug}_interior_6x9.pdf"
         paginas = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", str(pdf)], capture_output=True, text=True).stdout).group(1))
-    papel = cub.get("papel", "crema")
-    lomo = paginas * GROSOR[papel] * PPP
-    W = int(2 * ANCHO + lomo + 2 * SANGRADO); H = int(ALTO + 2 * SANGRADO)
+    tapa_dura = C.get("formato") == "tapa-dura"
+    provisional = False
+    if tapa_dura:
+        # KDP tapa dura (case laminate): margen exterior = vuelta 15 mm + sangrado 3 mm (0,709 in),
+        # bisagras de 0,394 in a cada lado del lomo; el lomo de tapa dura lo da la calculadora de KDP.
+        papel = "blanco"  # KDP solo ofrece papel blanco en tapa dura
+        EXT = cub.get("vuelta_in", 0.709) * PPP
+        BIS = cub.get("bisagra_in", 0.394) * PPP
+        if cub.get("lomo_in"):
+            lomo = cub["lomo_in"] * PPP
+        else:
+            provisional = True
+            lomo = (paginas * GROSOR["blanco"] + 0.06) * PPP   # estimación: confirmar con la calculadora de KDP
+    else:
+        papel = cub.get("papel", "crema")
+        EXT, BIS = SANGRADO, 0
+        lomo = paginas * GROSOR[papel] * PPP
+    W = int(2 * EXT + 2 * ANCHO + 2 * BIS + lomo); H = int(ALTO + 2 * EXT)
+    if tapa_dura and cub.get("ancho_total_in"):           # medidas exactas de la plantilla de KDP
+        W, H = int(cub["ancho_total_in"] * PPP), int(cub["alto_total_in"] * PPP)
+        lomo = W - 2 * EXT - 2 * ANCHO - 2 * BIS
     est = C["cubierta"]
     lienzo = Image.new("RGB", (W, H), hexa(est["fondo"])); d = ImageDraw.Draw(lienzo)
-    x_lomo = SANGRADO + ANCHO; x_portada = x_lomo + lomo
-    # Portada (ocupa del lomo al borde exterior con sangrado)
-    pw, ph = int(W - x_portada), H
-    lienzo.paste(componer(meta["coleccion"], L, C, ilu, pw, ph), (int(x_portada), 0))
-    # Lomo (KDP permite texto si > 79 páginas)
+    x_contra = EXT; x_lomo = EXT + ANCHO + BIS; x_portada = x_lomo + lomo + BIS
+    # Portada
+    if tapa_dura:   # se compone a tamaño de corte y la vuelta queda del color de fondo
+        lienzo.paste(componer(col, L, C, ilu, ANCHO, ALTO), (int(x_portada), int(EXT)))
+    else:
+        lienzo.paste(componer(col, L, C, ilu, int(W - x_portada), H), (int(x_portada), 0))
+    # Lomo (KDP: texto solo con más de 79 páginas)
     crema = est["texto"]; oro = est["acento"]
     if paginas > 79:
-        tira = Image.new("RGB", (H, max(1, int(lomo))), hexa(est["fondo"])); dt = ImageDraw.Draw(tira)
-        t = max(18, int(lomo * 0.42))
-        f_tit = fuente("BodoniModa.ttf", t, "Black") if meta["coleccion"] == "archivo-lupin" else fuente("Cinzel.ttf", t, "SemiBold")
-        lomo_tit = "EL ARCHIVO LUPIN" if meta["coleccion"] == "archivo-lupin" else L["titulo"].upper()
-        dt.text((H * 0.40, lomo / 2), lomo_tit, font=f_tit, fill=crema, anchor="mm")
-        dt.text((H * 0.76, lomo / 2), L["autor"].upper(), font=fuente("Cinzel.ttf", int(t * 0.7), "Medium"), fill=oro, anchor="mm")
-        dt.text((H * 0.07, lomo / 2), str(L.get("dossier", L["volumen"])), font=fuente("Cinzel.ttf", int(t * 0.8), "Medium"), fill=oro, anchor="mm")
-        lienzo.paste(tira.rotate(-90, expand=True), (int(x_lomo), 0))
+        alto_lomo = ALTO if tapa_dura else H
+        lienzo.paste(lomo_vertical(C, L, col, alto_lomo, lomo), (int(x_lomo), int(EXT if tapa_dura else 0)))
     # Contracubierta
-    m = 0.5 * PPP; x0, x1 = SANGRADO + m, SANGRADO + ANCHO - m
-    y = SANGRADO + 0.75 * PPP
-    texto_espaciado(d, ((x0 + x1) / 2, y), C["nombre"].upper() if meta["coleccion"] != "archivo-lupin" else "EL ARCHIVO LUPIN",
-                    fuente("Cinzel.ttf", 0.11 * PPP, "Medium"), oro, 0.25)
-    y += 0.45 * PPP
-    d.text(((x0 + x1) / 2, y), L["titulo"], font=fuente("CormorantGaramond.ttf", 0.22 * PPP, "Medium"), fill=crema, anchor="mm")
-    y += 0.5 * PPP
+    m = 0.5 * PPP; x0, x1 = x_contra + m, x_contra + ANCHO - m
+    y0 = EXT if tapa_dura else SANGRADO
+    if col == "archivo-arcano":
+        d.rectangle((x_contra + 0.23*PPP, y0 + 0.23*PPP, x_contra + ANCHO - 0.23*PPP, y0 + ALTO - 0.23*PPP), outline=oro, width=6)
+        d.rectangle((x_contra + 0.30*PPP, y0 + 0.30*PPP, x_contra + ANCHO - 0.30*PPP, y0 + ALTO - 0.30*PPP), outline=oro, width=2)
+    y = y0 + 0.85 * PPP
+    if cub.get("gancho"):   # frase de cabecera de contracubierta (Archivo Arcano)
+        y = parrafo(d, (x0, y, x1, 0), cub["gancho"].upper(), fuente("Cinzel.ttf", 0.17 * PPP, "SemiBold"), oro, 1.3, centrado=True) + 0.25 * PPP
+    else:
+        texto_espaciado(d, ((x0 + x1) / 2, y), C["nombre"].upper() if col != "archivo-lupin" else "EL ARCHIVO LUPIN",
+                        fuente("Cinzel.ttf", 0.11 * PPP, "Medium"), oro, 0.25)
+        y += 0.45 * PPP
+        d.text(((x0 + x1) / 2, y), L["titulo"], font=fuente("CormorantGaramond.ttf", 0.22 * PPP, "Medium"), fill=crema, anchor="mm")
+        y += 0.5 * PPP
+    centrar_sinopsis = col == "archivo-arcano"
     for bloque in cub.get("sinopsis", "").split("\n\n"):
-        y = parrafo(d, (x0, y, x1, 0), bloque, fuente("CormorantGaramond.ttf", 0.155 * PPP, "Medium"), crema) + 0.08 * PPP
+        y = parrafo(d, (x0, y, x1, 0), bloque, fuente("CormorantGaramond.ttf", 0.165 * PPP, "Medium"), crema, centrado=centrar_sinopsis) + 0.1 * PPP
     if cub.get("cita"):
         y += 0.25 * PPP
         y = parrafo(d, (x0 + 0.2 * PPP, y, x1 - 0.2 * PPP, 0), cub["cita"], fuente("CormorantGaramond-Italic.ttf", 0.17 * PPP, "Medium Italic"), oro, centrado=True)
         if cub.get("cita_autor"):
             texto_espaciado(d, ((x0 + x1) / 2, y + 0.12 * PPP), cub["cita_autor"].upper(), fuente("Cinzel.ttf", 0.07 * PPP), oro, 0.2)
-    texto_espaciado(d, ((x0 + x1) / 2, SANGRADO + ALTO - 1.75 * PPP), "EL GABINETE NEGRO", fuente("Cinzel.ttf", 0.1 * PPP, "Medium"), oro, 0.25)
-    d.text((x0, SANGRADO + ALTO - 0.55 * PPP), "ELGABINETENEGRO.COM", font=fuente("Cinzel.ttf", 0.075 * PPP), fill=oro, anchor="lm")
-    # Hueco para código de barras de KDP (2 x 1,2 in, abajo a la derecha, a 0,25 in de los bordes)
-    bxr = SANGRADO + ANCHO - 0.25 * PPP; byb = SANGRADO + ALTO - 0.25 * PPP
+    texto_espaciado(d, ((x0 + x1) / 2, y0 + ALTO - 1.75 * PPP), "EL GABINETE NEGRO", fuente("Cinzel.ttf", 0.1 * PPP, "Medium"), oro, 0.25)
+    d.text((x0, y0 + ALTO - 0.6 * PPP), "ELGABINETENEGRO.COM", font=fuente("Cinzel.ttf", 0.075 * PPP), fill=oro, anchor="lm")
+    # Hueco para el código de barras de KDP (2 x 1,2 in, abajo a la derecha, a 0,25 in del corte)
+    bxr = x_contra + ANCHO - 0.4 * PPP; byb = y0 + ALTO - 0.4 * PPP
     d.rectangle((bxr - 2 * PPP, byb - 1.2 * PPP, bxr, byb), fill="#ffffff")
     out = dir_proy / "cubierta"; out.mkdir(exist_ok=True)
-    lienzo.save(out / f"{slug}_cubierta_kdp.pdf", resolution=PPP)
+    sufijo = "tapa_dura" if tapa_dura else "kdp"
+    lienzo.save(out / f"{slug}_cubierta_{sufijo}.pdf", resolution=PPP)
     guia = lienzo.copy(); dg = ImageDraw.Draw(guia)
-    for x in (SANGRADO, x_lomo, x_portada, W - SANGRADO): dg.line((x, 0, x, H), fill="#ff00ff", width=3)
-    for yy in (SANGRADO, H - SANGRADO): dg.line((0, yy, W, yy), fill="#ff00ff", width=3)
-    guia.thumbnail((2400, 2400)); guia.save(out / f"{slug}_cubierta_kdp.jpg", quality=88)
-    componer(meta["coleccion"], L, C, ilu, 1600, 2560).save(out / f"{slug}_portada_ebook.jpg", quality=92)
-    print(f"Cubierta: {paginas} págs, papel {papel}, lomo {lomo / MM:.2f} mm, total {W / MM:.1f} x {H / MM:.1f} mm")
+    xs = (x_contra, x_contra + ANCHO, x_lomo, x_lomo + lomo, x_portada, x_portada + ANCHO)
+    for x in xs: dg.line((x, 0, x, H), fill="#ff00ff", width=3)
+    for yy in (y0, y0 + ALTO): dg.line((0, yy, W, yy), fill="#ff00ff", width=3)
+    guia.thumbnail((2400, 2400)); guia.save(out / f"{slug}_cubierta_{sufijo}.jpg", quality=88)
+    componer(col, L, C, ilu, 1600, 2560).save(out / f"{slug}_portada_ebook.jpg", quality=92)
+    aviso = "  ¡LOMO PROVISIONAL! Copia ancho_total_in, alto_total_in y lomo_in de la calculadora de KDP." if provisional else ""
+    print(f"Cubierta {'tapa dura' if tapa_dura else 'tapa blanda'}: {paginas} págs, papel {papel}, "
+          f"lomo {lomo / MM:.2f} mm, total {W / PPP:.3f} x {H / PPP:.3f} in ({W / MM:.1f} x {H / MM:.1f} mm){aviso}")
 
 if __name__ == "__main__":
     main()

@@ -34,7 +34,8 @@ plantillas/libro.typ      plantilla Typst del interior (común a las cuatro cole
 plantillas/ebook.css      estilos del EPUB
 plantillas/libro.ejemplo.toml   metadatos de ejemplo de un proyecto
 scripts/maquetar.py       texto → PDF de imprenta + DOCX para Kindle Create + EPUB
-scripts/cubierta.py       cubierta completa KDP (lomo calculado) + portada ebook
+scripts/cubierta.py       cubierta completa KDP (tapa blanda o dura, lomo calculado) + portada ebook
+scripts/ilustracion.py    ilustraciones de cubierta con IA (API de imágenes de OpenAI)
 fuentes/                  tipografías libres (OFL): Caladea, Carlito, Cinzel, Cormorant Garamond, Bodoni Moda
 catalogo/                 notas sobre el catálogo publicado
 candidatos/               fichas AAAA-MM-DD_slug.md
@@ -49,13 +50,15 @@ vienen en el sistema).
 ## Colecciones
 
 Todas comparten formato (**6 x 9 pulgadas, 15,24 x 22,86 cm**), tipografía de interior y estructura.
+**Archivo Arcano se edita en tapa dura** (KDP *case laminate*: papel blanco, entre 75 y 550 páginas);
+las demás, en tapa blanda. El campo `formato` de `colecciones/<slug>.json` lo indica.
 Cambian el manifiesto, algunos elementos preliminares, la forma de titular capítulos y la cubierta.
 
 | Colección | Línea | Preliminares propios | Capítulos | Prólogo | Próximo título |
 |---|---|---|---|---|---|
 | **Límite Abisal** | horror cósmico, metafísico, weird | — | «I», «II»… (novela) o título del relato | PRÓLOGO | sí |
 | **Cámara Sellada** | gótico y sobrenatural europeo, espacios cerrados, «el horror no grita: susurra» | — | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | sí |
-| **Archivo Arcano** | antologías temáticas de lujo (casas encantadas, cultos, objetos malditos…) | página de **ex libris** tras créditos | título de cada relato | Prólogo | no |
+| **Archivo Arcano** (**tapa dura**) | antologías y ediciones de lujo (casas encantadas, cultos, objetos malditos, Drácula…) | página de **ex libris** tras créditos | título de cada relato | Prólogo | no |
 | **Archivo Lupin** | Arsène Lupin y novela de ladrones y detectives Belle Époque; numeración «Dossier» | **emblema** (silueta) en la primera página | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | sí |
 
 Los textos de manifiesto y apéndice de cada colección están en `colecciones/<slug>.json` y no se reescriben.
@@ -105,7 +108,8 @@ Párrafo normal, con *cursiva* y **negrita**.
 
 ```bash
 python3 scripts/maquetar.py proyectos/<slug>     # PDF + DOCX + EPUB
-python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP + portada ebook
+python3 scripts/ilustracion.py proyectos/<slug> "escena"   # ilustraciones con IA
+python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o dura) + portada ebook
 ```
 
 - **PDF de imprenta**: `interior/<slug>_interior_6x9.pdf`. Comprueba con `pdffonts` que todas las fuentes
@@ -122,13 +126,22 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP + portada ebook
 
 ### Cubiertas
 
-- Tapa blanda KDP 6 x 9: ancho total = 2 × 6 in + lomo + 2 × 0,125 in de sangrado; alto = 9,25 in.
-  Lomo = páginas × 0,002252 in (papel blanco) o × 0,0025 in (crema). Texto en el lomo solo si > 79 páginas.
-  Hueco blanco de 2 × 1,2 in abajo a la derecha de la contracubierta para el código de barras de KDP.
-  Texto importante a ≥ 0,25 in del corte. 300 ppp.
+- **Tapa blanda** KDP 6 x 9 (Límite Abisal, Cámara Sellada, Archivo Lupin): ancho = 2 × 6 in + lomo +
+  2 × 0,125 in de sangrado; alto = 9,25 in. Lomo = páginas × 0,002252 in (blanco) o × 0,0025 in (crema).
+- **Tapa dura** KDP 6 x 9 (Archivo Arcano): margen exterior de 0,709 in por los cuatro lados (vuelta de
+  15 mm + 3 mm de sangrado), bisagras de 0,394 in a cada lado del lomo; el lomo de tapa dura **no** es el de
+  tapa blanda. La referencia de Drácula mide 15,07 × 10,42 in. Para cada libro, copia de la calculadora de
+  cubiertas de KDP (o de la plantilla que facilite el responsable) `ancho_total_in`, `alto_total_in` y
+  `lomo_in` a la sección `[cubierta]` de `libro.toml`; sin esos datos el script hace una estimación y la
+  marca como **provisional**, y así debe constar en el informe. Nada importante en la vuelta ni en las bisagras.
+- Texto en el lomo solo si > 79 páginas. Hueco blanco de 2 × 1,2 in abajo a la derecha de la contracubierta
+  para el código de barras de KDP. Texto importante a ≥ 0,25 in del corte. 300 ppp.
 - Portada ebook: 1600 × 2560 px (proporción 1,6, la de las portadas de referencia).
-- Estilo por colección: campo `cubierta.estilo` de `colecciones/<slug>.json` y portadas en `referencias/cubiertas/`.
-  En resumen:
+- Campos de `[cubierta]` en `libro.toml`: `ilustracion`, `sinopsis` (párrafos separados por `\n\n`, admite
+  *cursiva*), `cita` y `cita_autor` (opcionales), `gancho` (frase de cabecera de contracubierta, Archivo
+  Arcano), `titulo_portada` y `subtitulo_portada` (saltos de línea con `|`), `papel`, `paginas`, `dossier`
+  (Lupin) y, en tapa dura, `ancho_total_in`, `alto_total_in`, `lomo_in`.
+- Estilo por colección: campo `cubierta.estilo` de `colecciones/<slug>.json` y referencias en `referencias/cubiertas/`:
   - **Límite Abisal**: fondo #1a1e1f; autor arriba en sans espaciado; título enorme en serif fina azul hielo
     con sombra; subtítulo; ilustración rectangular centrada en tonos verde azulado (mar, abismo,
     criaturas); «EL GABINETE NEGRO», «COLECCIÓN LÍMITE ABISAL», «Vol. N».
@@ -137,12 +150,26 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP + portada ebook
   - **Archivo Lupin**: azul petróleo #172933, ilustración a sangre Belle Époque, filete dorado; DOSSIER N,
     «EL ARCHIVO» (Cormorant), «LUPIN» (Bodoni Moda Black), llave en círculo, «N. TÍTULO», rombo rojo,
     autor y editorial en Cinzel. Cubierta completa de referencia en `referencias/cubiertas/`.
-  - **Archivo Arcano**: aún sin portada de referencia (pedirla); estética de biblioteca antigua y grabado.
-- Ilustraciones: solo de dominio público (Wikimedia Commons, Gallica, Internet Archive, grabados de
-  Doré, Clarke, Beardsley, Kubin…, citando la fuente en `cubierta/CREDITOS.md`) o las que facilite el
-  responsable. No puedes generar ilustraciones con IA en este entorno: si una propuesta necesita una
-  ilustración nueva, descríbela en detalle (escena, encuadre, paleta) para que el responsable la encargue.
-- Entrega 2-3 propuestas por libro; la definitiva la elige el responsable.
+  - **Archivo Arcano** (tapa dura): negro con textura envejecida, marco dorado ornamental en portada y
+    contracubierta; autor arriba en versales doradas, título enorme en serif clásica crema, subtítulo en
+    versales rojo sangre, grabado oscuro con acentos rojos fundido con el fondo, «ARCHIVO ARCANO · EL
+    GABINETE NEGRO» abajo; lomo enmarcado con autor y colección en horizontal y título en vertical dorado;
+    contracubierta con frase gancho en versales doradas y sinopsis centrada. Referencia:
+    `referencias/cubiertas/archivo-arcano_Dracula_tapa_dura.jpg`.
+
+### Ilustraciones
+
+- **Con IA**: `python3 scripts/ilustracion.py proyectos/<slug> "escena en inglés"` (API de imágenes de
+  OpenAI; añade el estilo de la colección y pide imagen sin texto). Genera 2-3 variantes, revísalas y usa
+  la mejor en `[cubierta] ilustracion`. Los prompts quedan en `cubierta/PROMPTS.md`. La clave es un secreto
+  de red del entorno (nunca en el repositorio); si la API responde 401, la clave no está configurada:
+  dilo en el informe y describe la ilustración para que el responsable la genere en ChatGPT.
+- Las imágenes de la API salen a 1024 × 1536 px: bastan para el ebook y para recuadros de ilustración de
+  imprenta de hasta ~3,4 × 5 in a 300 ppp; para ilustraciones a sangre en imprenta, avisa de la resolución.
+- Sin texto dentro de la ilustración: título, autor y ornamentos los compone `scripts/cubierta.py`.
+- Alternativa: grabados de dominio público (Wikimedia Commons, Gallica, Internet Archive: Doré, Clarke,
+  Beardsley, Kubin…), citando la fuente en `cubierta/CREDITOS.md`.
+- Entrega 2-3 propuestas de cubierta por libro; la definitiva la elige el responsable.
 
 ## Investigación de candidatos
 
