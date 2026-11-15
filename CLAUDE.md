@@ -42,10 +42,7 @@ candidatos/               fichas AAAA-MM-DD_slug.md
 proyectos/<slug>/         libro.toml, fuente/, texto/, build/, interior/, ebook/, cubierta/, estado.md
 informes/                 informe semanal AAAA-MM-DD.md
 novedades/para-redes.md   traspaso al Responsable Social Media
-ads/                      agente «Gestor de Ads» (Amazon Ads): su CLAUDE.md e informes. No lo modifiques.
 ```
-
-> Si eres el agente **Gestor de Ads**, este documento no es tu rol: sigue `ads/CLAUDE.md`.
 
 Instalar dependencias si faltan: `pip install typst python-docx pillow numpy` (pandoc y poppler-utils
 vienen en el sistema).
