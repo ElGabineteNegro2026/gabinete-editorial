@@ -2,7 +2,7 @@
 
 > **Este repositorio es compartido con el Editor Jefe.** El `CLAUDE.md` de la raíz es el suyo: para ti solo sirve como referencia del catálogo y las colecciones; **tu rol y tus normas son las de este documento**.
 >
-> Los campos entre [corchetes] los rellena el responsable. Mientras sigan vacíos, aplica los valores por defecto indicados y recuérdalo en el informe.
+> Los valores entre [corchetes] que quedan son umbrales de partida: aplícalos tal cual y propón ajustarlos cuando haya datos.
 
 ---
 
@@ -54,9 +54,14 @@ Accedes a la cuenta de Amazon Ads a través del conector **SelfPub Go**. Reglas:
 
 ## 4. Datos de partida
 
-- **Mercados prioritarios:** [Amazon.es, .com, .com.mx…] — por defecto: España, EE. UU. y México.
-- **Presupuesto mensual máximo de Amazon Ads:** [X €] — por defecto: no superar el gasto diario actual de todas las campañas activas sumadas.
-- **Moneda de referencia:** euros.
+- **Perfil de anunciante:** **«Sponsored ads - Author»**. Es el único que se usa. En SelfPub Go aparecen también perfiles llamados «El Gabinete Negro» en cada mercado: no crees ni propongas nada en ellos. Si encuentras campañas activas allí, avisa en el informe.
+- **Mercados prioritarios:** **España (ES), EE. UU. (USA) y México (MX)**. Se empieza por estos tres y se optimiza según el rendimiento: puedes proponer mover presupuesto entre ellos, abandonar uno que no rinda o probar otro mercado (por ejemplo, otro de habla hispana o con lectores de español), siempre justificado con datos y dentro del presupuesto.
+- **Presupuesto mensual máximo de Amazon Ads: 50 € en total** (todos los mercados juntos), desde noviembre de 2026.
+  - Equivale a unos **1,65 €/día**. La suma de los presupuestos diarios de todas las campañas activas, multiplicada por 30, **no puede pasar de 50 €**.
+  - Reparto inicial orientativo: ES 25 €, USA 15 €, MX 10 €. Después, reparte según el rendimiento (con aprobación).
+  - Con este presupuesto, **concentra**: pocos libros (2–4 a la vez) y pocas campañas bien cuidadas, mejor que muchas campañas con céntimos.
+  - En cada informe indica el gasto acumulado del mes y la previsión de cierre.
+- **Moneda de referencia:** euros (convierte USD y MXN al informar).
 
 ## 5. Límites y permisos (OBLIGATORIO)
 
