@@ -721,3 +721,297 @@ La administradora de correos admira desde su ventana el cómodo doble faetón qu
 Marie-Thérèse desaparecida. Venga enseguida con profesionales acostumbrados a búsquedas.
 
 -->Jean Le Tellier.
+
+## VI. PRIMERAS PESQUISAS
+
+—¿No ha llegado a Artemare? ¡Oh!
+
+Delante de Maxime, que se retorcía febrilmente la barba corta, la señora Le Tellier repetía:
+
+—¿Marie-Thérèse no ha llegado a casa de su tía?… ¿No ha llegado?
+
+Deshecha, extraviada, sujetándose la cabeza con las dos manos, daba vueltas sobre sí misma. La señora Arquedouve, muy pálida pero siempre impasible, procuraba calmarla.
+
+—Escuche, mamá —prosiguió Maxime—, Marie-Thérèse está con toda seguridad con Henri y Fabienne. Eso es una garantía.
+
+—¿Dónde crees que están? —dijo la abuela.
+
+—¡En el Colombier! Les habrá pasado algo durante el paseo. Un accidente…
+
+—Pero ¿cuál? No hay grietas…
+
+—¿Qué sé yo? Hay hondonadas…
+
+—¡Ya lo decía yo! —gimió la señora Le Tellier—. ¡No quería que saliese sin compañía! ¡No he dejado de oponerme!
+
+—¡Oh, mamá, para ir a casa de mi tío! ¡Dos kilómetros que recorrer en pleno día, por una carretera de las más concurridas o por una senda siempre desierta!… Pero, precisamente, necesito saber… Veamos, primero: ¿a qué hora salió Marie-Thérèse ayer por la mañana?
+
+—A las diez —respondió su madre—. Se despidió de mí en el vestíbulo. ¡Ah, si yo hubiera sabido!…
+
+—¿Y está usted segura, verdad, de que iba a Artemare?
+
+—Completamente. Marie-Thérèse no sabe mentir.
+
+—Es verdad. ¿Qué camino tomó? ¿Por arriba o por abajo?
+
+—Ah, eso no lo sé.
+
+—Yo tampoco —añade la señora Arquedouve.
+
+—¿Qué vestido llevaba?
+
+—Su vestidito gris y su sombrero de tul negro.
+
+—¿El traje de excursión, de falda corta?
+
+—No. Pero, ¿sabes?, no tenía la menor intención de hacer una excursión…
+
+—¡Oh, con Marie-Thérèse nunca se sabe! No es la ropa lo que la estorba. Cruzaría los Alpes en traje de noche. Usted sabe bien que le encanta caminar; y si, habiendo ido por arriba, se encontró con su primo y su prima camino del Colombier, no cabe duda de que los siguió, pese a su falda larga y sus botines ligeros… Estaba segura de que su ausencia no inquietaría a nadie, puesto que mi tío y mi tía no estaban avisados de su visita y puesto que no debíamos volver a verlos a todos hasta el almuerzo de hoy… Desde hacía algún tiempo no hablaba más que de subir al Colombier… En fin, no tardaremos en saberlo… Voy a empezar a buscar.
+
+—Haz enganchar el poni —dijo la señora Arquedouve—. Tu madre y yo iremos a hacer compañía a tu tía. No quiero que se quede sola mientras dure vuestra exploración.
+
+Maxime preguntó a los criados qué dirección había tomado Marie-Thérèse al salir del parque. No supieron decírselo.
+
+Entonces salió, y se encontró de inmediato en una encrucijada de cuatro caminos. A su izquierda arrancaba el sendero de arriba. A su derecha bajaban, divergiendo, los tres caminos que conducían a la carretera general; el primero se unía a ella en Talissieu, el segundo en pleno trayecto (era, como se recordará, un atajo, un repecho directo y brutal) y el tercero en el pueblo de Ameyzieu.
+
+De estos cuatro caminos, Marie-Thérèse había tomado uno u otro. Si la joven había preferido la bajada a la subida, era poco probable que hubiese escogido en aquella pata de ganso el camino de Talissieu, que la alejaba de Artemare; pero cualquier razón podía haberla inducido a dar ese rodeo.
+
+Maxime suponía con buen sentido que su hermana había ido por arriba. Por descargo de conciencia, quiso no obstante examinar la hipótesis contraria, y se fue hacia abajo.
+
+Interrogó a las cosas. No se distinguía ninguna huella de pasos en el macadán duramente empedrado. Ninguna huella tampoco en las pendientes rocosas del sendero. En el lugar húmedo donde este desemboca en la carretera se advertían, sin embargo, múltiples huellas en el barro pantanoso; pero había tantas y tantas, de toda clase, que uno se perdía en ellas.
+
+Maxime preguntó a la gente. Por desgracia, en esa estación muy pocos campesinos trabajan aquellas tierras ingratas donde solo algunas viñas crecen, por milagro, en un suelo casi perpendicular a la llanura y acribillado de pedregal. De los tres o cuatro viñadores interrogados, ninguno había visto la víspera a Marie-Thérèse. «Pero, ¿sabe usted?, uno no se fija en todos los que van y vienen…». La misma respuesta en Talissieu, en Ameyzieu. Además, a las diez de la mañana —hora de la salida de la joven—, los pueblos se despueblan en provecho de los cultivos. En cuanto a los obreros empleados en los campos vecinos a la carretera, no habían podido ver nada, pues unos setos continuos, espesos y altos encajonaban la calzada. Y luego, esa carretera es la de Suiza y Aix-les-Bains, una procesión de autos y de bicicletas la recorre sin descanso, y es un espectáculo vuelto vulgar que nadie mira. Con mayor razón, ¿cómo habría llamado una mujer a pie la atención de los aldeanos, admitiendo que hubieran podido entreverla por los claros del seto?
+
+Solo un mecánico reparador de automóviles, instalado a la entrada de Artemare y que trabaja siempre al aire libre, afirmó que la señorita Le Tellier no había pasado por delante de su taller veinticuatro horas antes: «Hace un rato he reconocido el doble faetón del señor Le Tellier. Hace un instante he visto el tonneau de Mirastel ocupado por su madre, su abuela y el cochero. Pero ayer, nadie del castillo».
+
+Adquirida la certeza prevista de que no existía por aquel lado ningún vestigio de accidente ni rastro de Marie-Thérèse en el aspecto de las cosas o en el recuerdo de los hombres, Maxime, detective escrupuloso, rehízo al revés el trayecto Mirastel-Artemare. Sin duda tendría más suerte siguiendo la pista de arriba. Marie-Thérèse había subido seguramente a Chavornay por la senda. Pensaba seguirla hasta ese municipio y allí, tomando un camino vecinal, alcanzar en Don la carretera de Artemare, *es decir, la carretera que Henri y Fabienne habían debido de tomar en sentido contrario para ganar las alturas*. Maxime reconstruía el encuentro de su hermana con sus primos en la unión de los caminos, un poco por encima de Don, o bien entre ese punto y Artemare. El resto se explicaba con toda naturalidad… hasta el accidente.
+
+Ahí está Maxime subiendo la senda entre la maleza.
+
+Ahora, convencido de la excelencia de la pista, procedía, sin quererlo, con más cuidado. En Chavornay, uno de esos enanos deformes y cretinos que se ven todo el día acurrucados en los umbrales no entendió sus preguntas más que a medias y nunca quiso admitir que una señorita de gris, con un sombrero negro, hubiera atravesado la aldea. Pero cerca de Don, llegado al cruce de caminos, Maxime divisó, subiendo la cuesta y viniendo hacia él, el gran automóvil blanco de su padre seguido del 9 caballos del doctor Monbardeau; y esta coincidencia lo confirmó en la suposición de que Marie-Thérèse se había encontrado, allí o un poco más abajo, con Henri y Fabienne.
+
+El señor Monbardeau conducía su coche, junto al señor Le Tellier. El otro vehículo llevaba ahora a la señora Arquedouve, a sus dos hijas y a Robert, que saltó del asiento en cuanto se detuvo. La presencia de las mujeres extrañó a Maxime. Robert le dio las razones: la señora Monbardeau se había empeñado en participar en la búsqueda; mientras recogían en Artemare algunas indicaciones, su madre y su hermana habían llegado en el tonneau; nada había podido impedir que vinieran también ellas. Entonces se había fletado el 9 caballos.
+
+—¡Bueno! ¡Esto es el desbarajuste! —refunfuñó Maxime.
+
+Pero su abuela, muy sobreexcitada, le preguntaba:
+
+—¿Tienes noticias, Maxime? Nosotros sí. Henri y Fabienne subieron por aquí.
+
+—Es exacto —dijo Robert—. Los vieron salir de Artemare unos minutos antes de las diez, vestidos de excursionistas, él con medias, ella con falda de trotar, y los dos con sus bastones herrados. En la carretera de Don, un peón caminero se fijó en ellos, y precisa la hora, las diez, apoyándose para certificarlo en que el trenecito local sale de Artemare a las diez en punto para subir hacia Don, y en que la locomotora silbaba al arrancar cuando los Monbardeau le saludaron al pasar. En Don también los vieron varias personas. Llegaron al mismo tiempo que el trenecito. Nos lo ha dicho el médico. Había ido a la estación a buscar a un colega que venía de Belley. Pero en aquel momento el señor y la señora de Henri Monbardeau *estaban solos*.
+
+—Así pues —interrumpió Maxime—, Marie-Thérèse se encontró con ellos entre Don y el cruce donde estamos; eso cae por su peso. Ahí hicieron causa común. Juntos habrán ido hasta Virieu-le-Petit, como se hace siempre; habrán comprado en la posada algo para almorzar en el bosque, según la costumbre; y los veo desde aquí subiendo a través del bosque… ¡Vamos, deprisa! ¡A Virieu-le-Petit!
+
+La esperanza se pintaba en los rostros.
+
+Llegaron rápidamente a Virieu-le-Petit —a 800 metros de altitud—, que es el punto extremo hasta donde los coches pueden llevar a los paseantes del Colombier.
+
+Maxime entró en casa de la posadera, una buena anciana.
+
+¡Pues claro que había visto al señor Henri! Le había comprado, hacia mediodía, pan, salchichón, vino, y hasta le había pedido prestado un morral para meter todo aquello, con los cuchillos y los tres vasos…
+
+—¿Tres? ¿Tres vasos? ¡Ah!
+
+Maxime sentía que la alegría le subía a la garganta.
+
+—¿Y… con quién iba?
+
+—Con dos señoras, que se quedaron fuera, en el camino. Mientras él se aprovisionaba, ellas seguían andando a pasitos por la cuesta. Él las alcanzó.
+
+—En fin, ¿eran la señora de Henri Monbardeau y mi hermana, la señorita Le Tellier?
+
+—¡Oh, seguro, segurísimo! ¡Ahora que me lo dice usted, no hay error! Pero en aquel momento las veía de espaldas… Había una vestida como una niña…
+
+—¿Es decir, con falda corta?
+
+—Eso mismo. Y la otra como todo el mundo.
+
+—¿De gris? ¿De gris?
+
+—Sí, sí, de gris.
+
+Toda la familia rodeaba a la posadera. Se lanzaron exclamaciones de victoria.
+
+—¡Era seguro; saltaba a la vista! —dijo Maxime riendo.
+
+—No me han devuelto el morral —reclamó la posadera.
+
+Entonces el sentimiento de la situación volvió a los espíritus.
+
+Era domingo; la posada estaba abarrotada. Se encontraron sin trabajo mozos de buena voluntad para registrar la montaña. Bornud, un guarda particular, viejecillo socarrón, nervioso y amarillo, que guiñaba un ojo negro y malicioso, se sumó a la partida con su perro Finaud.
+
+La señora Arquedouve, exigiendo que nadie se ocupase de ella, se acomodó en una habitación rústica mientras la tropa de salvadores atacaba la pendiente del Colombier.
+
+En cuanto aquel batallón hubo ganado el bosque, numerosas bifurcaciones lo obligaron a dividirse en compañías, luego en secciones, luego en escuadras; pues de todas las excursiones posibles no se sabía cuál había seducido a los tres desaparecidos. Cuando se iba a efectuar la primera dispersión, Bornud descubrió en el suelo cortezas de pan y pieles de salchichón. Husmeó por los alrededores y encontró, bajo una rama que lo ocultaba, el morral de la posadera. Tras un almuerzo frugal, Henri había escondido el saco, ya inútil y molesto, y se había dicho: «Lo recogeré a la vuelta».
+
+Aquel hallazgo heló los ánimos.
+
+Una a una, las patrullas se iban separando en las bifurcaciones. El aire vivo se aligeraba y se enfriaba con la subida. Bornud aseguró que la nieve cubría aún la cumbre del Grand-Colombier, allá arriba, a 1.500 metros sobre el nivel del mar; pero el hecho no podía comprobarse más que al pie mismo de la cima o muy lejos de la montaña, a causa de las masas circundantes que hacían de pantalla.
+
+La ascensión fatigaba a las mujeres, mal equipadas. La señora Le Tellier, hasta entonces tan perezosa, trepaba con encarnizamiento por los senderos difíciles. El invierno los había convertido en lechos de torrentes sembrados de piedras cortantes donde se herían los pies y se torcían los tobillos…
+
+Fue, al principio, una batida bastante lógica que cercaba el Colombier. Se observaba. De vez en cuando, alguien lanzaba a pleno pulmón una larga llamada… Pero, a medida que el sol descendía, la fiebre se apoderó de los desdichados padres. Bajaron al fondo de barrancos abruptos que bastaba con bordear para descubrirlos enteros. La señora Le Tellier levantaba piedras, apartaba follajes y miraba debajo, inconscientemente. Iban de un lado a otro, a tontas y a locas. Pronto no dejaron de gritar. El señor Monbardeau aullaba sin tregua un estribillo familiar, aquel tema alegre, aquel trozo de música jovial con que tantas veces habían resonado antaño los valles del Colombier, y que hoy sonaba lúgubre y en modo menor, sin que nadie advirtiera la extraña modulación.
+
+Semejante desorden se extendió por fuerza a los demás pelotones, diseminados por todas partes. El silencio de la tarde se llenó de clamores. El eco los multiplicaba; eso hizo creer en respuestas. Pensando ir hacia aquellos a quienes buscaban, unos y otros se daban de bruces. Tenían que volver sobre sus pasos y tomar de nuevo el camino abandonado. El cielo se cubrió; venía la noche; la sombra acumuló formas indecisas y transformó las cosas. Manchas de hojas enrojecidas, sobre el musgo, espantaban de lejos. Temblaban al registrar con la mirada los cortados desde lo alto de las rocas vertiginosas. El cierzo animó con una vida estremecida los abetos funerarios y los matorrales compactos; se habría dicho de pronto que albergaban a un herido convulso o alguna presencia inopinada… La señora Monbardeau se laceraba las manos a fuerza de escudriñar los arbustos espinosos. Bornud, con el ojo atento, espiaba la vida del bosque, y su perro buscaba delante de él, con el hocico al viento…
+
+Pero nada, nada, nada. Nada visible sobre aquellos malditos pedregales y sobre la sequedad de la tierra. ¡Nada en ninguna parte! Nada más que clamores roncos que rebotaban de roca en roca, mezclándose a veces con el estruendo de una cascada y atravesando las gargantas sombrías donde el bosque solo se hundía para volver a subir, unas veces profundo y otras culminante, pero siempre taciturno y secreto.
+
+Subían vapores de las hondonadas. El cielo se ennegreció.
+
+La señora Le Tellier, que iba con su hermana, su marido y Bornud, se dejó caer sobre un montículo, en la linde superior del bosque; no podía más. Desde aquel lugar se veía por fin la cumbre del Grand-Colombier. Era un lomo de asno gigantesco y desnudo, tapizado de un césped resbaladizo. Oponía a la escalada una vertiente hostil. Tres jorobas ondulaban su cresta; estaban blancas de nieve, y en la más alta —la del medio— se erguía una cruz monumental, ínfima en la distancia.
+
+Alzaron los ojos.
+
+Un hombre subía hacia la cruz, trabajosamente, con resbalones y frecuentes paradas.
+
+El señor Monbardeau se hizo visera con las manos.
+
+—Es Robert Collin —dijo.
+
+Le respondió un gemido. La señora Le Tellier, rendida de cansancio y de inanición, se desmayaba. Volvió en sí. Pero ya no había que pensar en proseguir el reconocimiento. Por lo demás, ¿para qué? El día se acababa. Las nubes se amontonaban por debajo de ellos. ¿Y no habían cumplido su tarea? ¿No estaba explorada toda la montaña, desde abajo hasta la cresta desierta adonde llegaba Robert?
+
+El regreso fue mortal y se cumplió en un mutismo preñado de pensamientos. Los Monbardeau y los Le Tellier estaban en ayunas desde hacía doce horas; el hambre exaltaba su angustia.
+
+En la posada, donde la señora Arquedouve había mandado servir una cena, la lámpara iluminó caras extenuadas que se interrogaban con ansiedad.
+
+Nada. Nadie había descubierto nada. Y todos habían vuelto, excepto Robert. Le había dicho a Maxime: «No me esperen para volver. Ya me las arreglaré. Que nadie se preocupe por mí».
+
+—¿Y bien, muchacho? —dijo el señor Le Tellier con un gesto de desaliento—. ¿Qué opinas de esto?
+
+—¿Yo? Pues… que hay que avisar a la justicia…
+
+—¿Ya no crees en un accidente?
+
+—Dios mío… sí y no… Pero la justicia…
+
+Una sonrisa de complicidad frunció los labios de los campesinos.
+
+—La justicia ya está avisada —balbució el señor Le Tellier en voz baja y con aire confuso—. Esta mañana telegrafié al duque de Agnès, que va a traernos gente de la policía…
+
+Maxime, estupefacto, le miraba bajar los párpados.
+
+—Si no es un accidente —exclamó el señor Monbardeau—, ¿qué sería entonces?… ¿Una fuga? Es inadmisible —vaciló el espacio de un segundo—. ¿Un rapto, entonces?…
+
+—Empiezo a creerlo —dijo el señor Le Tellier—. Espero recibir una carta exigiendo una fuerte suma a cambio de Marie-Thérèse…
+
+—Sin duda —aprobó Maxime.
+
+Había allí una cuarentena de montañeses formando corro. Meneaban la cabeza en señal de incredulidad. La señora Monbardeau los imitaba.
+
+El señor Le Tellier los miró uno tras otro.
+
+—¿Tienen ustedes una opinión, amigos míos? —preguntó—. Si la tienen, díganla.
+
+Bornud respondió por todos, con el acento meloso de la tierra:
+
+—¡Huy, pues no! ¡Claro que no! ¡Nosotros no podemos saber!
+
+Pero el terror del sarvant planeaba sobre ellos.
+
+La lluvia cayó de pronto con violencia. Fue como un repentino pisoteo de mil patitas que hicieran cabriolas de teja en teja por encima de la concurrencia. Algunos hombros se estremecieron con aquel ruido. El señor Monbardeau se acercó a su cuñado y, muy bajo:
+
+—¿Comprendes ahora por qué el robo de una estatua y de un pelele los impresionaba de aquel modo? ¿Captas la progresión?
+
+—Seamos francos —confesó el señor Le Tellier—. Tú desde ayer, yo desde esta mañana, ¿pensamos en otra cosa? ¡Qué necedad!
+
+## VII. LA ESPERA Y LA LLEGADA DE LOS REFUERZOS
+
+A la mañana siguiente, hacia las ocho, se reunieron como de costumbre en el comedor de Mirastel. El señor y la señora Monbardeau estaban allí; el horror de estar solos se había apoderado de ellos en el momento de volver a ocupar la casa de Artemare, y la señora Arquedouve les daba asilo hasta nueva orden.
+
+Mala noche. El extremo cansancio y la angustia habían tenido a todos en vela. Aún llovía. Maldecían la lluvia por llegar demasiado tarde y volver la tierra sensible a las huellas cuando ya no era tiempo.
+
+Ninguna noticia. Robert Collin no había vuelto, el duque de Agnès no había llegado, y el correo no había traído al señor Le Tellier la carta de chantaje que esperaba, ¡que deseaba!
+
+Se hablaba mucho, por miedo a que el silencio dejase demasiado campo a las imaginaciones. La señora Le Tellier, además de su pena, sentía un gran despecho porque Marie-Thérèse hubiera desaparecido en el preciso momento en que el duque de Agnès había solicitado el honor de ser su yerno. Se acaloraba, sollozaba y decía en su desesperación mezclada de rencor:
+
+—Preferiría… ¡oh, preferiría haberla casado con el turco, miren ustedes!, antes que ignorar lo que le están haciendo en este momento…
+
+Y lloraba con más fuerza, antes de proferir otras extravagancias.
+
+Maxime, inquieto por la prolongada ausencia de Robert y dolido por la indiferencia unánime ante semejante abnegación, se retiró a su laboratorio para gozar allí de un poco de calma. Pero sus peces, en sus acuarios, ya no le interesaban. La oceanografía le importunaba. Sus pinceles y sus colores le parecieron juguetes buenos para los niños, que no tienen preocupaciones. Maxime recorrió con mirada distraída las cajas de colección colgadas alrededor de la rotonda y se despreció por haberlas estimado alguna vez.
+
+Contenían, sin embargo, cosas curiosas. Antaño se había entretenido en capturar animales de toda especie cuya forma y color se identifican con los de su soporte o su medio tan exactamente que sus enemigos ya no pueden distinguirlos. También había atrapado bichos que se afanan en parecerse a otros bichos, ya sea para asustar a sus adversarios, ya para burlar la desconfianza de sus víctimas. En una palabra, era una colección de *mimetismos*.
+
+Queriendo calmar su inquietud, Maxime intentó recordar la dificultad de sus cacerías pueriles, en las que la presa era tanto más inestimable cuanto con mayor perfección se disimulaba. Y recordaba con tristeza su alegría cuando podía poner bajo cristal algún bichejo inédito, posado sobre la hoja, la rama o la piedra que se confundía con él. ¡Cuántas veces, por darle gusto, Marie-Thérèse había salido en busca de mimetismos!… ¡Pobre, querida y linda hermana!…
+
+¡Vamos! La soledad y la inacción no valían nada, decididamente. Más valía abrocharse las polainas y salir al encuentro de Robert.
+
+Maxime, tras avisar al señor Le Tellier, se fue a la montaña.
+
+Había dejado de llover.
+
+En Mirastel esperaban; y el tiempo transcurría con una lentitud desesperante. El señor Le Tellier recorría a grandes zancadas los pasillos del castillo y las alamedas del jardín. El señor y la señora Monbardeau se esforzaban por leer los periódicos, que relataban el suceso de cualquier manera. En cuanto a la señora Le Tellier, había subido a la habitación de su hija con la señora Arquedouve, y la una se ingeniaba para volver a encontrar a Marie-Thérèse en la vista de su entorno íntimo, mientras la otra aspiraba con ternura el olor floral que de él se exhalaba.
+
+Algunos visitantes llamaron al portal. Dejaban tarjetas con la expresión de su simpatía. Solo se recibió a la señorita de Baradaine, la única pariente de Fabienne Monbardeau-d'Arvière. Desahogó lo que rebosaba su gran corazón en una tirada prodigiosa por su abundancia y su trivialidad. La consternación general se redobló.
+
+A las cuatro, el señor Le Tellier, de vigía en la terraza, desde donde acechaba la llegada del duque de Agnès por la vía del cielo o por la del suelo, oyó a Maxime, que le llamaba desde la ventana de su laboratorio. Robert estaba a su lado.
+
+El señor Le Tellier corrió a reunirse con ellos.
+
+—¡Amigo mío, mi querido amigo! —dijo al ver a su secretario abrumado de cansancio—. Cuánto le agradezco…
+
+Robert lo detuvo.
+
+—He pasado la noche y la mañana en el Colombier —dijo—, pero no me compadezca: no han caído más que una o dos gotas de lluvia en el sitio donde yo estaba… Y es más afortunado de lo que podría suponerse.
+
+—¡Usted sabe algo!
+
+Robert y Maxime se miraron.
+
+—Sí, papá, hay novedades. Pero hemos querido que fuese usted el único en saberlo; porque los demás, si se enteraran, no pararían hasta conocerlo con todo detalle. Y estamos convencidos de que es mejor no *describir* lo que Robert ha encontrado.
+
+—¡Cómo! ¡Cómo!
+
+—¡Oh, tranquilícese: su descubrimiento no es espantoso! Lejos de eso, puesto que pone un triunfo en nuestro juego. Pero preferimos, Robert y yo, que se *vean* las cosas en lugar de escuchar su descripción, para que cada cual pueda pronunciarse libremente sobre ellas. Usted sabe hasta qué punto es tendencioso el lenguaje más neutro; sabe cómo la opinión del que habla se delata, a su pesar, en la elección de las fórmulas. Toda frase es un juicio, por imparcial que se la suponga; expresar un hecho es, al mismo tiempo, hacer su crítica. Ahora bien, se trata de un indicio tan extraordinario, tan inexplicable, de un problema tan arduo, que es absolutamente necesario reunir sobre él el mayor número de pareceres, sin que unos hayan sufrido la influencia de otros.
+
+—Sea. ¿Pueden llevarme enseguida…?
+
+—Es en la cumbre del Colombier —dijo Robert—. Iremos con los policías mañana mismo. Creía encontrarlos aquí.
+
+—¿François d'Agnès no ha llegado todavía? —se extrañó Maxime—. Es sorprendente.
+
+Al señor Le Tellier lo sacó de la meditación en que lo había sumido aquella conversación el ronquido de un automóvil lejano.
+
+Se acercó a la ventana y vio una máquina de carreras que llegaba por la carretera como un artefacto devastador. Entre un crepitar de fusilería, un trueno creciente de ametralladora, se lanzó, enfurecida, al asalto de la cuesta. Brincaba; subía la pendiente en zigzag más deprisa de lo que una avalancha la habría bajado; derrapaba locamente en las curvas con gruñidos impetuosos. Y a través de las salpicaduras que brotaban a su paso se distinguían cuatro hombres vestidos de caucho, aferrados como podían a dos asientos de cubeta, entre maletas y neumáticos de repuesto.
+
+El señor Le Tellier permanecía inmóvil de admiración. Cada curva era una acrobacia. El duque de Agnès tomó la última sobre dos ruedas. Un segundo después, el petardeo furibundo llenaba la glorieta de carpes, y el monstruo de acero, humeante, salpicado de flechas de barro en las que aún se veía su velocidad, se detuvo ante la escalinata.
+
+El señor Le Tellier bajó al encuentro de los recién llegados.
+
+Libre del blusón encerado y del sueste que le daban aspecto de lobo de mar, apareció el duque de Agnès, esbelto y bien plantado. En vano los chaparrones y las ráfagas le habían enrojecido e hinchado la piel del rostro; en vano le lloraban los ojos azotados por el viento; era tan joven y tan hermoso que se habría dicho un príncipe azul liberado en aquel mismo instante de alguna horrible metamorfosis.
+
+Explicó su retraso:
+
+—Habría querido partir ayer mismo, en cuanto recibí su telegrama, señor. Pero el prefecto de policía se empeñaba en agregarme a cierto auxiliar suyo que no quedaba libre hasta hoy. Y habría venido en aeroplano, a pesar del tiempo, si no hubiera tenido que transportar a dos personas además de mi chófer. Le presento al señor Garan y al señor Tiburce.
+
+El señor Le Tellier tendió la mano a los dos hombres. El primero se la estrechó con franqueza. Pero el segundo debía de ser francmasón o algo parecido, porque le cosquilleó al astrónomo la palma y los dedos con un toqueteo de lo más indiscreto. Era casi impúdico. El señor Le Tellier, encarnado, empujó a los viajeros hacia su gabinete.
+
+Les contó sin perder un instante todo lo que sabía de la desastrosa aventura y se guardó bien de omitir la conversación que acababa de tener con su hijo y su secretario. Le escucharon religiosamente. No obstante, cuando abordó el capítulo de las hipótesis, uno de los forasteros, el señor Garan, le interrumpió.
+
+Este personaje, de corpulencia mediana y porte marcial, tenía la tez morena, las mejillas azuladas y llevaba el pelo entrecano cortado a cepillo. Un bigote demasiado negro, demasiado amenazador y excesivamente grande para él parecía bajo su nariz dos cuernos de bisonte. Unas cejas considerables y del mismo color imitaban sobre sus ojos otro bigote, extraviado. Y retorcía constantemente hacia el cielo aquel cuádruple caracolillo.
+
+—Disculpe —dijo— que le detenga aquí. Pero en la Prefectura conocemos la historia de las depredaciones del Bugey, y se la he contado a estos señores por el camino. En cuanto a las suposiciones que hayan podido ocurrírsele, prefiero no conocerlas. Déjeme primero hacerme cargo de *lo que hay*. Conviene aclarar el punto misterioso del Grand-Colombier. Después discutiremos. Es un método de lo más recomendable.
+
+—Perdón, lo había olvidado —dijo el duque de Agnès—. El señor Garan es inspector de la Sûreté.
+
+El señor Le Tellier, a quien aguijoneaba la impaciencia por actuar, señaló al otro desconocido, profundamente absorto en el examen de la sala, y dijo al señor Garan:
+
+—¿Es también la opinión de su colega?
+
+El policía sonrió detrás de su bigote cornudo:
+
+—El señor no es mi colega… No tengo el honor…
+
+—Tiburce es amigo mío —expuso el duque de Agnès, no sin dar muestras de apuro—. Puede sernos útil… sí… de verdad: útil. Es un viejo compañero de internado de Maxime y mío.
+
+Al oír estas palabras, Tiburce se levantó de la silla.
+
+Envuelto en un macfarlán de grandes cuadros, aquel joven afeitado, descolorido —provisto de una boca escarlata imposible de cerrar, que estallaba en su cara como un tomate sobre un queso fresco—, de ojo redondo, con los rasgos fijos en una atonía de yeso clásico, aquel joven, digo, representaba un espécimen consumado de anglómano. Sin duda habría sido un francesito simpático con solo dejarse crecer la barba rubia y permitir que naciera en sus labios ultrapurpúreos la sonrisa que los solicitaba sin tregua. Quizá incluso, vestido como usted y como yo, Tiburce habría estado a la altura de usted y de mí… Pero ya se ve: Tiburce se hacía el inglés; envolvía en telas londinenses su prestancia de galo; cubría su fisonomía parisiense con la máscara británica. Por eso, en lugar de ser augusto a la manera de un lord, lo era a la manera de un payaso; en lugar de ser seductor igual que usted y que yo, era grotesco, caballero, así de sencillo.
+
+—Mi amigo —prosiguió el duque de Agnès— es un…
+
+—Soy *sherlockista*, y nada más.
+
+El señor Le Tellier puso los ojos como calderones.
+
+—¿Cómo dice?
