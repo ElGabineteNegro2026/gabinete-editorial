@@ -2033,3 +2033,73 @@ El presidente de la República volvió a su sueño elíseo.
 —¡Hay que destruir a los sarvants! —tronó el ministro que ya se sabe.
 
 La sesión continuó y se levantó con un orden del día «que invitaba a las Cámaras a votar créditos para el estudio de proyectos destinados a combatir una nueva expedición arácnida, por lo demás improbable».
+
+## XVII. NUEVO MENSAJE DE TIBURCE
+
+El astrónomo salió del Elíseo rendido de cansancio. Había tenido que hacer un violento esfuerzo sobre sí mismo para mostrarse optimista en la sesión del Consejo. Su tristeza de padre y su razón de sabio habían librado batalla. Es una hermosa acción, pero es una tortura, pintar el porvenir de los demás con colores agradables cuando el porvenir propio se abre delante como un agujero negro.
+
+Volvió a casa desmoralizado, considerando cumplida su tarea y sin pensar ya más que en volver a ver Mirastel, adonde el doctor Monbardeau lo había precedido. El señor Le Tellier quería estar allí —¡qué suplicio infernal, ese pensamiento!— cuando, en la lluvia de cadáveres que caían sobre el Bugey… ¡Oh, aquel pensamiento de condenación que le venía sin descanso y que nunca tenía el horrible valor de terminar!…
+
+El señor de Agnès le esperaba en el bulevar Saint-Germain. Su presencia no estaba hecha para reanimar al pobre hombre, tanto le recordaba queridos designios perdidos y tan sombrío era el aire del duque.
+
+Le abrió su desesperación al señor Le Tellier. Ningún ingeniero le dejaba la menor ilusión; el mundo invisible era inexpugnable; así lo decretaban las Facultades. Él se estaba volviendo neurasténico. De noche, sus pesadillas lo espantaban con visiones superaéreas: vivisecciones, matrimonios escandalosos, talleres de naturalización humana, etc.; y de día sus ideas seguían impregnadas de delirio. No había escapado a la fobia de lo invisible, que por entonces atormentaba a las personas impresionables y les hacía caminar a tientas en pleno mediodía, de modo que las calles parecían a veces llenas de ciegos. ¡Y cuando el duque de Agnès consideraba desde su ventana la agitación de los transeúntes, creía ver, a través de los cristales, una colección de peces en un acuario!
+
+—¡Si al menos me quedara una posibilidad, aunque fuera muy pequeña! —dijo de pronto con una media sonrisa avergonzada…
+
+El señor Le Tellier levantó los brazos para dejarlos caer en señal de impotencia, y el duque de Agnès prosiguió balbuciendo:
+
+—Sí, ya sé… Habría que estar loco… tan loco como… eh… ejem… como, ejem… como Tiburce, por ejemplo, ¿verdad?… ¡Ah, ese!… a ese nada lo desconcierta… ejem…
+
+Sacó una carta con un gesto cohibido.
+
+—Tengo… ejem… Me ha mandado esto.
+
+—¡No me enseñe esa carta; no! ¡Ah, ya casi no pensaba en su Tiburce! Es verdad: ¡y pensar que todavía hay un imbécil que cree en esas benditas quimeras!… ¡Ah, el envidiable cretino! Guárdese su papel, amigo mío; me haría daño.
+
+—¡Evidentemente! —concedió el duque de Agnès.
+
+Pero, sin embargo, releía para sí solo el mensaje insensato de Tiburce.
+
+->*(Pieza 845)*<-
+
+-->Bombay, 3 de agosto de 1912.
+
+Conservo buena esperanza, querido amigo, aunque tengo en contra muchos azares estúpidos y al hombre más hábil de la tierra: Hatkins.
+
+Recordarás que me embarqué en persecución de cierto reverendo Hodgson y de su hija, de quienes sospechaba que eran Hatkins y la señorita Le Tellier. Los encontré en Singapur *con una facilidad sorprendente*. ¡Eran un viejo pastor protestante y su hermana mayor! La ostentación con que ponían empeño en no ocultarse me reveló vivamente la trampa; aquellos dos ancianos eran cómplices a los que Hatkins había hecho desembarcar al mismo tiempo que él y que, desde aquel instante, habían adoptado el nombre supuesto con que el americano y la señorita Le Tellier se habían disfrazado en el barco. Mientras yo me ocupaba de ellos, Hatkins y su compañera huían. Huían otra vez: eran ellos, pues, cada vez más.
+
+Por deducción, descubro el camino que tomaron. Desde su llegada solo zarparon dos paquebotes, uno para Calcuta y otro para Madrás. Mi genio familiar me sopla: Calcuta. Voy allí y me entero, mediante dinero, de que ningún desembarcado se parece, ni de cerca ni de lejos, a quien yo querría que se pareciese. Tras fumar algunas pipas, reconozco mi error y pienso encontrar de nuevo la pista en Madrás. Vuelvo, pues, a hacerme a la mar, con un retraso considerable. Pero en Madrás tengo la satisfacción de reconocer que mis intuiciones no me han engañado: dos jóvenes moldavos de sexo masculino acaban de tomar el tren de Bombay con el nombre de los hermanos Tinska, tras haber pasado unos días en el hotel. Es cierto que no vienen del este y de Singapur, por mar, sino del norte y de Haiderabad, por tierra… ¡Qué importa! *Tinska*, ¿no es el anagrama de *Hatkins* menos la *H*?
+
+¡Los tenía!
+
+Sin perder tiempo, salto al rápido de Bombay, donde cuento con pescar a la señorita Le Tellier vestida de muchacho… Pero allí, en el revoltijo de la ciudad, imposible encontrar el rastro de mis seudomoldavos. Esta mañana, sin embargo, tras un millar de gestiones y desaires (pues no tengo ese aspecto de Sherlock Holmes que impone la admiración y la deferencia), he sabido por la agencia Cook que una sociedad griega compuesta de cuatro personas (dos matrimonios jóvenes), los Yeniserlis y los Rotapoulo, acaban de embarcarse para Basora (en el fondo del golfo Pérsico). Desde Basora piensan remontar Mesopotamia y llegar a Constantinopla por tierra, para volver luego a Grecia. ¡Estoy seguro de que los Monbardeau-d'Arvière se han reunido con Hatkins y la señorita Le Tellier, y de que los cuatro griegos son ellos! Han dado a la agencia un lujo de detalles inaudito sobre todo lo que deben hacer o no hacer. Se han dicho: «Tiburce nunca creerá que somos nosotros, puesto que no disimulamos nada». ¡Y, en efecto, ni siquiera intentan ocultar que son dos hombres y dos mujeres!… Cualquier otro que yo habría abandonado esa pista *demasiado clara*. ¡A tal gato, tal ratón! Valgo tanto como ellos, y esta noche salgo para Basora.
+
+¡Qué soberbia correría! He dado, por América, Japón e Indochina, más de media vuelta al mundo. Antes de que hayan cerrado el círculo, los habré alcanzado. Tengo conciencia de haberlos acosado, acorralado tan implacablemente que no han podido detenerse como querían, ¡y de que los devuelvo a la querencia, en Europa, donde seremos sus amos!
+
+¡*Sursum corda*, querido amigo!
+
+Tuyo con todo afecto; y que la señorita de Agnès tenga a bien recibir aquí los homenajes de su rendido
+
+-->Tiburce.
+
+*P. D.*: Me dais pena en Europa. ¡Palabra, vuestro canguelo repercute hasta aquí! ¡Los indígenas invocan a la Trimurti contra el *Peligro Azul*!
+
+Se me olvidaba una cosa: un periódico de América publica en sus ecos de sociedad que Hatkins ha renunciado a su viaje alrededor del mundo y que va a dar una fiesta en su palacete de Nueva York… ¡Ya ves si es astuto! Una fiesta en casa de Hatkins, sea; pero el propio Hatkins, *no*. Lo sustituirá un duplicado de Hatkins. ¡Este hombre gastaría sus millones por burlarme!… Adiós.
+
+-->T.
+
+Cuando el duque de Agnès terminó de leer aquellos disparates, el señor Le Tellier sorprendió en sus ojos una llamita.
+
+—¡Pero bueno! —dijo, cruzándose de brazos—. ¿Es que por ventura conserva usted alguna duda sobre la necedad de ese sabueso de ocasión?
+
+El señor de Agnès se sonrojó como si el senador Bérenger acabara de despertarlo en mitad de un sueño libertino.
+
+—¿Una duda?… ¡Ay! ¿Cómo quiere usted que me quede una sola duda? Sé de buena fuente que el señor Hatkins está en Nueva York; he leído el diario de Robert Collin, que vio en casa de los sarvants a aquellos a quienes ya lloramos. Después de esto, ¿cómo puede creer que doy crédito a las cartas de Tiburce, que pretende haberlos seguido alrededor del mundo?…
+
+»Reconozco, sin embargo, que… sí, por un momento, ese tono alegre, esa seguridad vivaz… Y además, señor, siempre estamos tentados de creer lo que nos causa pena; y, mire usted, cuando pienso que la señorita Marie-Thérèse habría seguido a Hatkins…
+
+—¡Preferiría usted saberla en el aerario! —dijo amargamente el señor Le Tellier.
+
+—¡Ah, señor, qué me hace usted decir! ¡Tenga piedad de mí! ¡Todas mis angustias, todos mis celos, todo mi martirio eterno, antes que una lágrima en las pestañas de su hija!
+
+Y el duque prosiguió largo rato en ese tono, confesando su amor y su mal con una voz nerviosa, ronca y vacilante, con esa énfasis de melodrama que rebaja al tono de malas tiradas las exaltaciones de la vida más hermosa.
