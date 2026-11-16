@@ -1499,3 +1499,241 @@ No escribo despedidas; el tiempo apremia y no necesito enternecerme.
 Voy a atarme el cuaderno al pecho.
 
 *[Siguen sesenta y seis páginas en blanco].*
+
+## XIV. EL PECIO DEL AIRE
+
+—¡Señores!… ¡Ciudadanos!… ¡Amigos míos!… ¡Les suplico que esperen! —exclamó el señor Le Tellier.
+
+Se lanzó al encuentro de los obreros metalúrgicos, que, de un empujón, habían roto el círculo. El compañero Virachol, llamado Gargantúa, el herrero de Francia que desplaza mayor volumen de aire, avanzaba a su cabeza manejando su palanca como el bastón de un tambor mayor.
+
+—¡Basta de camelos, mi astrólogo! —dijo—. Yo, ¿sabe?, solo entiendo una cosa: que hay hermanos que liberar. Se les oye rascar… ¡Vamos allá, compadres! ¡Dale fuerte!
+
+—¡Alto! ¡Por su vida, alto!, ¡o les hago expulsar en el acto! Y escúchenme. Si les he dejado junto a nosotros en lugar de hacerles devolver a su taller por la tropa, es porque considero que sus aptitudes especiales pueden sernos muy útiles. Pero exijo de ustedes una disciplina rigurosa. A la primera calaverada: ¡buenas noches! Quiero que se dejen guiar en su trabajo por los sabios y los oficiales que me rodean, y a ellos les pido para conmigo la misma sumisión. Por el momento, escúchenme. ¡Acérquense, los guardias y los bomberos! Y no se preocupen por esos chirridos, ¡rayos y truenos!…
+
+El astrónomo aceleró su discurso:
+
+—Señores, ahora deben aprobarme que haya tomado conocimiento del diario del señor Collin antes de tocar este cuerpo invisible. Gracias a mi llorado secretario, que tan bien dedujo lo desconocido de lo conocido, sabemos con qué artefacto tenemos que vérnoslas. No se trata de una máquina venida de los astros, como corre el rumor, sino de un aparato caído de una tierra invisible, superior a la nuestra, que forma parte de nuestro planeta; no es un *uranóscafo* ni un *eteróscafo*, es sencillamente un *aeróscafo*. Es un subaéreo que navegaba por el aire como nuestros submarinos navegan en el seno del agua; y esto acentúa todavía más el parecido tantas veces observado entre la navegación aérea y la submarina, así como entre el aire, tipo popular de los gases, y el agua, tipo popular de los líquidos.
+
+»Este barco invisible lo ha fletado un pueblo desconocido, invisible, superaéreo. Sin duda lo tripulan marineros invisibles. Puede afirmarse, además, que se armó para la prospección de los fondos subaéreos (es decir, nuestro suelo) y con el fin de hacer lo que para nuestros vecinos de arriba es «oceanografía». Si comparan esto con los estudios de Su Alteza Serenísima el príncipe de Mónaco, dirán conmigo que esta embarcación, cuya forma recuerda nuestros sumergibles más aún que nuestros dirigibles, es una *Princesse-Alice* invisible y sumergible, un yate buceador destinado a la pesca en el fondo del mar, una *Princesse-Alice* y un *Nautilus* a la vez. No poseemos nada análogo…
+
+—¡Perdón, caballero! —replicó vivamente un capitán de fragata que escuchaba con todos sus oídos—. Existe un submarino para la pesca de esponjas. Lo inventó un sacerdote. Funciona a la perfección.
+
+—Los sarvants no son, pues, unos innovadores tan originales como yo creía —prosiguió el señor Le Tellier—. Sin embargo, no tienen un pelo de tontos; porque, dada la evidente ligereza específica de su sustancia constitutiva, tenían que superar singulares dificultades para bajar al fondo de la atmósfera, a cincuenta kilómetros por debajo del nivel de su mar. ¡Supongan ustedes a unos hombres naturales que quisieran sumergirse hasta el fondo de un océano de agua de cincuenta mil metros! A los sarvants les ha costado tanto bajar hasta nosotros como a nosotros nos costaría subir hasta ellos… La materia de su navío debe de ser a la de sus individuos lo que el plomo es a nuestra carne…
+
+»Por lo demás, los desdichados han pagado su audacia con una catástrofe. Son mártires de la Ciencia los que tenemos aquí, a nuestro lado. Porque —señores, escúchenme, esto es de la mayor importancia para el éxito de los trabajos que vamos a emprender— el señor Robert Collin lo había sospechado admirablemente: asistimos al epílogo de un drama semejante a los del *Lutin*, el *Farfadet* y el *Pluviôse*, que todos recordamos y que enlutaron a la marina francesa.
+
+»Durante una inmersión efectuada el 12 de agosto por este aeróscafo, por este submarino del aire, se produjo un desarreglo en su organismo en un momento en que se encontraba todavía en las regiones más altas del océano atmosférico. A partir de ese día se fue hundiendo lentamente y, empujado con lentitud por el viento del sudeste, que sopló hasta el miércoles, el pecio del Aire ha venido por fin a encallar en París, al cabo de tres semanas de hundimiento ininterrumpido. Es, pues, un *naufragio*, y sería aterrador si los náufragos no fueran *los enemigos feroces de la humanidad*. ¿Lo oye usted, señor Virachol?
+
+»Todo lleva a creer que varios de los marineros misteriosos siguen vivos. Estos chirridos dan fe de su actividad. Del mismo modo que la tripulación del *Lutin* o del *Farfadet* vivió largas horas en el fondo del agua con su provisión de aire, la tripulación del aeróscafo sobrevive en el fondo del aire con su provisión de vacío, esta sin duda más inagotable que aquella, puesto que ninguna respiración podría consumirla y, a mi juicio, los Invisibles deben de carecer de pulmones como carecen de corazón.
+
+»Sí, fundándome en las revelaciones del diario del señor Collin, afirmo que es un naufragio. Punto capital, señores. Porque así no tenemos que temer que este descenso del aeróscafo sea una astucia tramada contra nosotros. De ello resulta que somos los dueños de la situación. Podemos actuar, pero con la más extrema prudencia.
+
+»Ahí dentro hay seres del vacío que no han muerto. Por tanto, ahí dentro hay todavía vacío; el aire, cuya infiltración provocó el descenso, no lo ha invadido todo, ni mucho menos. Eso nos dará trabajo. Sin contar con que esta sustancia tan dura… En fin, para facilitar nuestra tarea y nuestra comprensión de la cuestión, supongamos, ¿verdad?, que vamos a manipular una cosa hundida en el mar. (Pues a los cuerpos sumergidos en el aire puede aplicarse todo lo que se dice de los cuerpos sumergidos en el agua, y aquí, en particular, guardando las debidas proporciones). Desconfíen también de las jugarretas que podría hacerles la invisibilidad. En suma, en ese sentido, lo que ocurre es lo contrario de lo que cuenta el cuaderno rojo: en lugar de ser la reunión de unas cuantas personas excepcionalmente visibles en un mundo invisible, es un objeto excepcionalmente invisible en un mundo visible.
+
+»Señor Virachol, ¡paciencia!, ¡y prudencia! No arriesguemos nuestra preciosa vida para sacar de ahí a dos o tres brutos que sucumbirán en cuanto estén al aire. ¡Eso es lo que usted no comprenderá nunca! ¡Como peces, señor Virachol! ¡Como peces! ¿Lo coge usted?…
+
+»Y ahora, tengan la bondad de seguir mis instrucciones.
+
+Aquí empieza de verdad el indescriptible descubrimiento del aeróscafo.
+
+Bajo la dirección del señor Le Tellier, a quien el duque de Agnès servía de secretario, cada cual se ingenió lo mejor que pudo para procurarse un espectáculo táctil de la cosa. El señor de Agnès anotaba escrupulosamente los hallazgos del señor Le Tellier.
+
+Se trajeron escaleras que se apoyaron contra lo invisible. Parecían escaleras mágicas, inclinadas en equilibrio inestable. Quienes las usaron parecían maravillosos acróbatas que jugaban con la gravedad hasta anularla. Llegados a cinco metros del suelo, ponían pie en plena nada y luego, con mil precauciones, avanzaban en medio del aire como dioses novicios. Algunos caminaban; se les veían las suelas por debajo. La mayoría abordaba a cuatro patas y seguía así. Todos admiraban la dificultad de mantenerse en pie sobre aquella plataforma, sin embargo lisa y resistente, únicamente porque era invisible.
+
+Se midió estrictamente el subaéreo. Tenía 5 metros 8 centímetros de alto por 40 metros 10 centímetros de largo. El contacto no revelaba más que una superficie helada y pulida (unos hablaban de mármol, otros citaban el acero o el vidrio), sin juntas, sin remaches ni pernos, como si aquel casco hubiera sido cincelado de una sola pieza en un pan colosal de materia invisible. La formidable colisión del cruce Louis-le-Grand ni siquiera lo había abollado. En los costados se reconocieron dos filas de redondeles huecos que simulaban dos hileras de platos soperos. El señor Monbardeau sostuvo que eran portillas, y enloqueció a todo el mundo con la idea de posibles caras instaladas en aquellos ojos de buey, haciendo muecas, mirando a la concurrencia de un modo espantoso y rechinando los dientes de aquella manera exasperante que no terminaba nunca.
+
+El señor Le Tellier le dijo que, precisamente, era necesario que los sarvants rechinasen contra el forro para poder hacerse oír, puesto que estaban en el vacío.
+
+En el mismo instante se descubrían en la plataforma horizontal del aeróscafo, siguiendo la línea central, cinco discos sucesivos, apenas salientes. El del centro medía 4 metros de diámetro; los otros, solo 50 centímetros. Todos quisieron palparlos. Se llegó a un acuerdo: debían de ser tapas, paneles que obturaban escotillas.
+
+Entretanto, un grupo animado se había situado en la popa y guarnecía varias escaleras dobles apretadas unas contra otras. La causa era la hélice invisible. Su eje la mantenía a 2,50 m del suelo. Se la hacía girar a mano *fácilmente, sin ningún ruido*, lo que probaba que los engranajes de la maquinaria seguían funcionando en el vacío.
+
+Aquella hélice era el asombro del duque de Agnès. Corta y ancha, sabiamente voluteada, múltiple, móvil, alabeable, semejante a un trozo de sacacorchos hirsuto y recortado, era, en suma, un tornillo de Arquímedes sumamente perfeccionado. Inútil buscar en otra parte la sirena involuntaria que zumbaba su canto dulce y sombrío en las noches de espanto, el ventilador cuyo viento se sumaba al del paso del aeróscafo para mover los árboles y hacer girar sobre sí misma la veleta de Mirastel cuando el subaéreo describía a su alrededor sus espirales de aproximación.
+
+Los hombres de ciencia venían uno a uno a manosear el incomparable propulsor; tanto que uno de ellos —el señor Martin-Dubois, del Instituto— recibió un buen pescozón de una de las palas mientras uno de sus colegas hacía girar la hélice. Ante este accidente, el señor Le Tellier resolvió atenuar en lo posible los inconvenientes de la invisibilidad delimitando el aeróscafo. Provisionalmente lo hizo rodear de cuerdas, las mismas que habían servido para traerlo. Se tuvo entonces ante los ojos una carcasa extraordinaria que se parecía mal que bien al esqueleto de una ballena imitado con bramante: un esqueleto donde no había más que costillas, una caja torácica de cáñamo, en forma de cigarro escuadrado por el centro. Alrededor de la hélice se plantaron pértigas.
+
+Luego, con gran satisfacción de Gargantúa, se atacaron las tapas. Hacía calor; los obreros se pusieron con el torso desnudo.
+
+—¡Ya era hora! —refunfuñaba Virachol—. Ha dicho que era igualito que el *Lutin*. Pues yo tenía un colega cabo de mar en el *Lutin*…
+
+Y no conseguía figurarse que, si el aeróscafo hubiera contenido «colegas», los habría visto, a través de aquella envoltura ultradiáfana, tan claramente como veía desplegarse ante él su gran vientre pantagruélico, ya chorreando de un sudor anticipado.
+
+Las tapas resistían a las tenazas. Los picos sonaron y se embotaron contra la sustancia que había aplastado la bala de Robert Collin y soportado sin ceder dos torrentes opuestos de automóviles. Una emoción extraña oprimía a los espectadores: ¡dentro de unos minutos iban a saber qué eran los sarvants! El último enigma iba a resolverse; el último velo de la Isis monstruosa estaba a punto de caer.
+
+Pero las escotillas se negaban a abrirse, y la dificultad de destaparlas aumentaba además porque el señor Le Tellier había prohibido acercarse a menos de un metro, por miedo al vacío, en caso de una perforación brusca.
+
+Los trabajos de la parte trasera del Grand Palais requerían el empleo de un torno de vapor; lo trajeron. Pero, enganchado a la tapa de popa, levantó el aeróscafo entero, pese al contrapeso de cien hombres colgados de las cuerdas. El vacío, bajo los paneles, los mantenía pegados por el enorme peso de la atmósfera. En definitiva, era una variante de los buenos y viejos hemisferios de Magdeburgo, de los que todo escolar guarda un recuerdo enternecido.
+
+Se retiró el torno. El señor Le Tellier subió al aeróscafo para tantear de nuevo las tapas invencibles. Un séquito numeroso se reunió allí con él. Y es ahora cuando va a saberse qué le ocurrió a Virachol.
+
+Fuera de sí, rebelado en su ingenuo humanitarismo por las lentitudes del «salvamento», reclutó a sus camaradas para ejecutar un proyecto funesto. Había reconocido que los chirridos procedían de un lugar del subaéreo situado abajo y a proa. Resolvió atacar allí, directamente, y hundir el barco para «dar aire» a los náufragos. Mientras las tapas distraían la atención, Virachol localizó los chirridos: justo en la última «portilla» del lado de proa. Luego intentó trazar sobre el aeróscafo invisible una circunferencia con tiza, para que se pudieran dirigir siempre al mismo punto los golpes de la perforadora. Pero la tiza no marcaba ni en la «portilla» ni en la carena. Entonces dobló su metro en forma de pentágono y se lo hizo sostener a un compañero, en el sitio exacto, entre dos cuerdas.
+
+Eran ocho los que sostenían la gran palanca puntiaguda de Virachol-Gargantúa. Un momento la balancearon a compás y, apuntando derecho al pentágono, golpearon. El ariete rebotó… Los golpes sonaban con la regularidad de un péndulo y el timbre de una campana.
+
+Al primer golpe, el astrónomo lo había adivinado todo.
+
+—¡Impídanselo! —ordenó desde lo alto de la plataforma—. ¡Deprisa! ¡Es una locura! ¡Pero impídanselo! ¡El vacío! El vacío…
+
+Gargantúa resoplaba, jadeaba y carraspeaba:
+
+—¡Ánimo, rediós! ¡Menearse, cuadrilla!
+
+Iba delante de los demás y empujaba la palanca con todo su peso fenomenal, sudando, enrojeciendo, exhalando onomatopeyas salvajes.
+
+—¡Acaben de una vez! —imploraba el señor Le Tellier, apresurándose a bajar—. Se van a…
+
+Pero era demasiado tarde.
+
+Se oyó un silbido prodigioso, breve, acerado, ensordecedor; le siguió una sonoridad mate, fláccida, y un grito penetrante. Virachol había soltado su palanca y hacía gestos nuevos. Se juzgó sin vacilar que estaba pegado al subaéreo. En vano se apuntalaba, en vano sus amigos enloquecidos tiraban de él hacia atrás: el desesperado ya no podía irse, y miraba con espanto su vientre abusivo, en el que de pronto se había puesto a crecer una excrecencia congestionada.
+
+Se formó un corro a su alrededor. El señor Le Tellier calmó los ánimos:
+
+—No tiren de él, es inútil.
+
+—¡Los sarvants lo tienen agarrado! —dijo alguien.
+
+—Pues no —replicó secamente el astrónomo—. Es el vacío, y nada más.
+
+Los obreros explicaban la aventura:
+
+—De golpe, la palanca se nos escapó. Parecía que tuviera voluntad para largarse… Ha sonado el silbido, ¡y Gargantúa se ha quedado pegado en el aire como si hubiera querido seguir a la palanca!
+
+En efecto, todo el mundo podía contemplar la gruesa barra de hierro *en el interior del barco*. Parecía estar perpetuamente a punto de caer, sostenida como estaba por la cara opuesta invisible. En cuanto había perforado el flanco del aeróscafo, el vacío se la había bebido con avidez o, si se prefiere, el aire que entraba la había arrastrado, y luego había aspirado a Gargantúa, que en aquel momento cegaba con su propio abdomen la vía de aire así abierta. Su carne elástica era succionada por la ventosa formidable; el apéndice apoplético se alargaba, se hinchaba y sangraba. Podía temerse, al parecer, que el hombre entero acabara por introducirse en aquel agujerito… Virachol, enloquecido, sacó su navaja; prefería cortarse un pedazo de panza antes que seguir pegado un minuto más a la ventosa del gigantesco pulpo artificial…
+
+El señor Le Tellier se lo impidió:
+
+—Simplemente hay que hacer entrar aire en esa cámara vacía. —Ya otro ariete golpeaba la carena sonora. Los mocetones que lo manejaban se habían pasado cables alrededor de la cintura, y unos bomberos, en número de cincuenta, los sujetaban.
+
+El segundo ariete entró como el anterior; pero ningún hombre quedó succionado, a pesar de la corriente de aire, que silbó con más estrépito que un vapor en peligro.
+
+Virachol pudo despegarse. Se lo llevaron sin conocimiento.
+
+Los chirridos habían cesado.
+
+—¡Muertos! —susurró el señor Le Tellier al oído del duque de Agnès—. Los marineros invisibles han muerto *ahogados en el aire*.
+
+—Entonces, ¿ya no hay vacío en el subaéreo?
+
+—¡Oh, oh, ya lo creo que sí! Solo hemos hecho entrar el aire en un compartimento; el silbido no ha durado lo bastante para que se pueda suponer lo contrario. ¡Pardiez, después de todo, voy a hacer reventar las tapas pura y simplemente! El vacío nos ayudará. ¡Peor para los destrozos! Habría preferido abrirlas…
+
+Alrededor de la tapa de popa, seis herreros atléticos alzaron a la vez seis mazas de mango largo, de veinte kilos cada una, y, autómatas visibles de una campana invisible, empezaron a golpear el aire resonante.
+
+Mientras martilleaban, el duque de Agnès llevó aparte al señor Le Tellier:
+
+—Le voy a parecer estúpido… Pero ¿y la invisibilidad?… Todavía no la comprendo… Y mucha gente está en el mismo caso y no se atreve a confesarlo… Robert Collin parecía encontrar de lo más natural que existieran mundos invisibles, seres invisibles…
+
+El señor Le Tellier respondió:
+
+—Desde la más remota antigüedad, los hombres han admitido que pudiera haber cuerpos invisibles. Los dioses del paganismo se ocultaban a los ojos de los mortales; se les atribuía esa facultad olímpica de la *aorasia*, que no es otra cosa que la invisibilidad. Una leyenda milenaria, retomada por La Fontaine en *El rey Candaules*, nos enseña la historia de Giges, el pastor que llegó a rey gracias al anillo que lo hacía invisible. Recuerdo también cierto turbante de *Las mil y una noches* que bastaba ponerse para desaparecer…
+
+—¡Mitología! ¡Fábula! ¡Literatura!
+
+—Desde luego. Pero ¿no estamos rodeados de cosas invisibles? ¿*Reales*, pero invisibles? La energía, el sonido, el olor, el aire que nos baña, el viento, que usted sabe tan bien que es invisible que emplea en su aeroplano un dispositivo preparado para hacerlo visible… ¡Reconocerá usted que esas son cosas invisibles! Pues bien, eso basta para despojar de toda sinrazón la conjetura de unos mundos invisibles que no estuvieran formados más que de esas cosas…
+
+—Sí, cosas; pero ¿seres?
+
+—¡Oh, seres! Veamos: ¿qué es un ser? Vayamos lo más lejos posible: ¿qué es un hombre? Un alma y un cuerpo. Perfecto. Pero el alma es siempre invisible; usted nunca ha visto un alma paseándose sola, ¿verdad? Bien. En cuanto al cuerpo, haciendo abstracción del alma, Dios mío, el cuerpo no es más que una cierta cantidad de materia, ni más ni menos estimable que una cierta cantidad de atmósfera; y, por tanto, no veo por qué se negaría a la una cualquier propiedad que se concede a la otra, aunque fuera la propiedad de ser ópticamente imperceptible… Porque…
+
+»Porque, no lo olvidemos, la invisibilidad no es más que eso; es la cualidad de lo que no impresiona nuestra retina. Para un cuerpo no es, pues, más extraordinario ser invisible que ser inodoro o insípido. No debe, pues, extrañarnos que tal objeto sea invisible, cuando admitimos sin dificultad que no huele a nada o que deja el gusto indiferente. ¿Le parece prodigioso no oír deslizarse las nubes? Entonces, ¿por qué le sorprende no ver pasar a los sarvants? ¿Por qué usted, que admite cosas impalpables, reconoce a regañadientes y con estupefacción la existencia de cosas invisibles?
+
+»Nuestro asombro ante el Peligro Azul procede de que esos cuerpos invisibles recién revelados son *sólidos*, y de que la invisibilidad y la solidez son dos cualidades de la materia que no se encuentran reunidas en las condiciones habituales en que se ejercen nuestra vista y nuestro tacto. ¡*Sin embargo*! Sin embargo, incluso antes de nuestro primer contacto con el mundo invisible, ya habíamos asistido al encuentro de esas dos cualidades en un mismo objeto. Un cuerpo sólido, animado de un movimiento rápido, deja de verse: un proyectil en su trayectoria, una hélice que gira al abrigo del sol. Y, otro ejemplo muy distinto de sólido invisible: un vaso de cristal incoloro sumergido en un agua pura que tenga el mismo índice de refracción. *Incoloro*, he dicho. Pero una cosa incolora ya es invisible, y sin duda habrá admirado usted lunas de cristal tan incoloras, tan *aéreas* en lo que a la vista se refiere, que las ventanas que cierran parecen siempre abiertas de par en par.
+
+»Ahora bien, observe, se lo ruego, que de todas esas sustancias de que hablamos, algunas al menos son tan importantes en el universo como la arcilla perecedera de nuestro cuerpo.
+
+—¡No importa! —replicó el duque de Agnès—. Instintivamente, uno se siente tentado de negar la realidad de lo que es invisible.
+
+—Pues sí: porque la vista es, de nuestros sentidos, el que tiene un dominio más vasto; es el sentido que llamamos principal, y por eso discute usted la existencia de las cosas que él no aprecia en modo alguno. Pero imagine un ser que no estuviera dotado más que de un solo sentido, el olfato, por ejemplo (un ser así no es absurdo; debe de encontrarse en la multitud de las criaturas), ¡y piense entonces en la infinidad de cosas cuya existencia negaría! ¡Todas las cosas inodoras! ¡Ese ciego desmentiría la realidad de todas las cosas visibles que no tuvieran perfume!…
+
+»Nos parecemos a él. Frente al aeróscafo, a los sarvants y al mundo superaéreo, somos como ciegos. Desde el comienzo de la vida, hemos jugado con los sarvants una gallina ciega aterradora, ¡y éramos nosotros los que teníamos la venda en los ojos! (No son, por otra parte, los únicos enemigos invisibles que tenemos desde hace tanto tiempo. ¡Piense en el ácido carbónico, ese traidor, en el óxido de carbono, el envenenador, su cómplice, y en tantos otros!). ¡Somos ciegos frente a los sarvants, le digo!, eso es todo; es una cuestión de palabras. Hasta ahora solo los hemos percibido por el oído y el tacto. Para la señora Arquedouve, que no puede ver nada, son exactamente como los demás seres, puesto que les falta una cualidad que ella es incapaz de percibir. Si tocara este aeróscafo, la impresión que sacaría sería la misma que si se tratara de una embarcación visible, a menos que su tacto, perfeccionado por la experiencia, le advirtiera que este objeto posee un carácter especial que, para los que ven, se traduce en invisibilidad. Esta no puede existir para los ciegos; un ciego de nacimiento ni siquiera podría comprender qué es; desde ese punto de vista, no haría ninguna diferencia entre el metal del aeróscafo y nuestra carne. ¡Extráñese, pues, caballero, extráñese todavía de una excepción que, fatalmente, parece a ciertos hombres la regla general y que la razón les impone como tal con toda su omnipotencia!
+
+»¿Quiere romper el sortilegio de lo invisible? No hay problema: ¡cierre los ojos!
+
+—¡Retórica, caballero! ¡Retórica! Además, reconozca que los objetos que me cita como invisibles no lo son más que pasajera, ocasionalmente. El proyectil solo se vuelve invisible si se lanza, la hélice si gira y el vaso si se sumerge en el agua. En cuanto a las cosas *invisibles de forma permanente*, son gases, impalpables y muy lejos de…
+
+—¿Quién le ha dicho que no puedan existir gases palpables?
+
+—Ya no serían gases, por definición. El aire solo se vuelve palpable licuado, a altas presiones, cuando se metamorfosea de gas en líquido…
+
+—¡Bravo, joven! Pero dígame: ese mismo líquido, ese «gas honorario», puede convertirse en hielo; y ¿por qué ese gas, convertido así en sólido, había de perder forzosamente su virtud de invisibilidad? ¡*Bastaría una excepción muy poco excepcional*! Simple cuestión de índice de refracción. La arena, caballero, la arena, que es una especie de líquido sólido, la arena *opaca*, ¿no *se vuelve transparente* cuando se la transmuta en cristal? Entonces, si me hace el favor, ¿por qué el gas *invisible* no *seguiría* siendo *invisible* al adoptar otra consistencia? En el presente caso, ¿no es *seguir* mucho menos arduo que *volverse*?
+
+—Sea. ¿Y los mundos invisibles a los que alude Robert Collin?…
+
+—Recordará usted que los planetas, entre ellos la Tierra, no describen alrededor del Sol una órbita redonda cuyo centro fuera el Sol, sino una órbita ovalada, una elipse, de la que el Sol ocupa solamente uno de los dos focos. ¿Qué hay en el otro foco?, ¿en ese segundo centro, si puedo decirlo así, donde no se ve nada, pero donde tiene que haber algo lo bastante poderoso para contrarrestar la acción del Sol y hacer que la órbita de los planetas sea elíptica en lugar de redonda?… Espíritus de valía sostienen que en los segundos focos de las elipses planetarias se despliegan otros soles, incognoscibles para las pupilas de los hombres. Lea sobre ello el opúsculo de Jean Saryer: «*El Sol y el otro Sol invisible, focos reales de la elipse, sedes de dos fuerzas iguales acopladas en la inmensidad… arrastrarían a la Tierra con una influencia constante de dirección… El otro astro irradiaría quizá luz fría e iluminaría seres invisibles para el hombre*». ¡Un mundo de la misma contextura que el de allá arriba que nos envuelve! ¡Seres semejantes a los sarvants! La mirada no hace presa en ellos; están dotados de una transparencia absoluta; la luz los atraviesa por completo.
+
+—Nos hemos fiado tontamente del testimonio de nuestra vista —dijo el duque de Agnès—. ¡Primero tomamos a las víctimas por los raptores (acuérdese de los hombres voladores) y luego a los prisioneros por la prisión (recuerde la mancha cuadrada)!
+
+—¡Y el inexplicable pez revoloteador, que en verdad daba saltitos sobre el fondo del cilindro invisible!
+
+—¡Ah, son…!
+
+El señor de Agnès dejó de charlar para taparse los oídos. Un silbido que le taladraba a uno el cráneo, acompañado de un golpe de viento repentino, acababa de sustituir a la batería de los martillos. Bajo sus golpes repetidos y bajo el peso del Aire, la tapa invisible había cedido por fin. Se había hundido con una brutalidad sorprendente. Se había oído el destrozo de las cosas que demolía al atravesar de arriba abajo el subaéreo y, como de pronto se formó un agujero en el suelo, se supo que había perforado hasta el fondo de la bodega, actuando a la manera de una bala de cañón neumática. Para combatir la aspiración, los seis autómatas se habían echado boca abajo y formaban una estrella humana que irradiaba alrededor del orificio. Uno de ellos, que tenía la cabeza justo en el borde y se aferraba a él, se levantó rápidamente y gritó:
+
+—¡Algo me ha rozado al salir con violencia, enseguida después del silbido! Me ha pasado por delante…
+
+Pero apenas había expresado su sorpresa cuando se oyó en las alturas un ruido de cristales rotos… En espera de una caída invisible, todos encorvaron la espalda… Al cabo de un segundo cayó sobre la concurrencia una lluvia de esquirlas de vidrio. Eso fue todo. El techo del Grand Palais acababa de reventar, sin que se supiera ni por qué ni cómo.
+
+—¡Eh, es el cuerpo de uno de los marineros! —explicó el señor Le Tellier—. ¡Ligeros como deben de ser! En cuanto entró el aire, restablecido el equilibrio, ese cuerpo ha vuelto a subir *a la superficie del Aire*, como un tapón de corcho, como uno de nuestros cuerpos subiría del fondo del mar, con una fuerza incalculable… Uno perdido. Procuremos salvar a los demás, a los que chirriaban a proa…
+
+Y pensaba:
+
+«No son hombres; es imposible. ¡Tan ligeros! ¡Sin corazón! ¡Sin pulmones! No pueden ser hombres, ni siquiera adaptados, ¡qué diablos! El transformismo tiene límites… Entonces, ¿qué son?».
+
+Su imaginación forjaba criaturas espantosas y fabulosas. La idea de Marie-Thérèse no podía sino mezclarse con ellas en evocaciones infernales; y el astrónomo se sentía cada vez más tembloroso a medida que se acercaba el conocimiento final.
+
+Por la brecha invisible se deslizó un guardiamarina: el señor Rigaud. Bajó al aeróscafo tomando toda clase de precauciones. Indicaba en voz alta las formas de lo que encontraba. Iba y venía en medio del aire de un modo milagroso. Se oían sus pasos circunspectos, el toc-toc de sus dedos percutiendo los tabiques. Su voz, poco a poco, se ahogaba. Subía y volvía a bajar, rodeaba recodos, parecía abrir puertas y trampillas, se arrastraba por tubos invisibles y seguía estrechos pasillos poniéndose de lado. Ya no se le oyó hablar, ni andar, ni golpear. Prosiguió la exploración del laberinto fantástico y, de repente, palideció y se entregó a los gestos del miedo. *Se había extraviado*. Se le veía a unos metros, se creía poder alcanzarlo de un salto y, sin embargo, estaba cautivo de una cárcel inextricable…
+
+Unos bomberos, cogidos de la mano, formaron una cadena a través del dédalo hasta el señor Rigaud. Salió de allí para no volver a entrar, decía, sino con un cordel desenrollado como hilo de Ariadna.
+
+Fue, por lo demás, con ese antiguo procedimiento como se pudo reconocer toda la parte estanca del aeróscafo a la que daba acceso la primera tapa. Luego se hundieron las demás, hasta la quinta exclusive.
+
+El navío estaba dividido en alvéolos muy numerosos y muy pequeños. Nada de escaleras, sino planos inclinados. El señor Martin-Dubois, del Instituto, descubrió unos cajones que debían de ser los *air-ballasts* y, del hecho de que la mayoría estuvieran llenos de aire, dedujo la causa del naufragio, a saber: que la bomba impelente había dejado de funcionar, que los sarvants se habían visto, por tanto, en la imposibilidad de volver a hacer el vacío en los *air-ballasts* y, por consiguiente, de regresar a la superficie del mar aéreo.
+
+En el centro, una ancha chimenea ocupaba toda la altura del aeróscafo. Era el inolvidable cilindro que una escarcha momentánea había hecho aparecer a Robert y que servía de aerario provisional a las víctimas de los sarvants. Las hacían entrar por abajo, cuyo doble fondo se abría corredizo. Por arriba, que tapaba la mayor de las cinco tapas, las trasvasaban a su celda definitiva.
+
+Fue el señor Le Tellier quien palpó primero la terrible pinza-cizalla, completada con un cesto de red de mallas metálicas, con la que los Invisibles cortaban las ramas, atrapaban a su presa y la depositaban en el cilindro. Montada en el extremo de largos brazos articulados que salían en el momento oportuno por la abertura inferior de la chimenea, aquella pinza-cizalla-cesto constituía una obra maestra de mecánica, al menos hasta donde podía juzgarse a ciegas, con manos neófitas y desconfiadas.
+
+El suelo corredizo aclaraba el milagro del gallo de Anglefort. Mientras la trampilla se abría para que la cizalla pudiera ir a coger el gallo del campanario, un gallo de verdad, ya sustraído, se había alborotado, y la abertura había permitido a la vieja beata oírle lanzar sus gritos de pánico. Fue también por allí por donde el enano de Ruffieux se había dejado caer en la cumbre del Colombier, en el preciso instante en que el suelo se deslizaba para dar paso al desdichado reportero fotógrafo. Una causa desconocida había impedido a los sarvants volver a coger su presa, sin duda la llegada imprevista de alguna pieza notable.
+
+Sin embargo, quedaba por penetrar en la parte delantera del aeróscafo, donde se habían manifestado los chirridos. Por grande que fuera el interés de la maquinaria que se acababa de descubrir, se abandonó toda otra atracción cuando el señor Le Tellier anunció que era hora de reducir el último fuerte donde se atrincheraba el misterio. El astrónomo había prohibido hundir la tapa de esa parte, por miedo a que los cuerpos de los marineros invisibles se volvieran al cielo como el primero. En ninguna parte se habían palpado objetos que se parecieran a cadáveres; no cabía duda de que los marinos se habían refugiado a proa, todos, en el mejor asilo del subaéreo, dejando a popa a uno de sus camaradas. ¿Abnegación? ¿Castigo? ¿Accidente? ¿Azar? No se sabría.
+
+Unas barrenas, en el extremo de flexibles, abrieron agujeros de aireación en los compartimentos estancos de proa. Todavía había vacío en los compartimentos de arriba. Los demás resultaron accesibles por medio de puertas de metal flexible que se enrollaban a imitación de nuestras persianas, como los cierres de nuestras tiendas.
+
+Una serie de pequeños reductos muy bajos… El señor Le Tellier y el señor de Agnès, doblados en dos, avanzaban con prudencia… Con el corazón golpeado por fuertes latidos, llegaron junto a la palanca de Virachol. El duque, agachándose, remaba en el aire con las manos…
+
+—Es en el techo donde hay que buscar —le dijo el astrónomo—. ¡Mire! ¡Ah!
+
+Cinco cuerpos inertes, mantenidos contra el techo por su asombrosa ligereza, fueron palpados uno tras otro y reconocidos como *cinco cuerpos humanos*. Como se esperaba, la enorme presión anormal los había deformado cruelmente; presentaban hinchazones y rugosidades debidas a esa muerte espantosa que tumefacta tan horriblemente a los cadáveres ahogados en lo más hondo del mar. Pero lo que sorprendía más allá de toda expresión era que los sarvants fueran hombres, hombres especiales, se comprende, ¡pero hombres al fin! ¡Cómo! ¡¿Aquellos seres del vacío, aquellas criaturas invisibles, casi imponderables, privadas de sistema circulatorio, desprovistas de aparato respiratorio, aquellos coleccionistas y verdugos de hombres, eran también hombres?!
+
+Sin entretenerse en vanas reflexiones, el señor Le Tellier hizo que los cargaran de pesadas cadenas para que no pudieran echar a volar. Se trajeron ataúdes de cinc llenos de hielo, donde se acostó a los invisibles difuntos. Luego el señor Le Tellier se los entregó al doctor Monbardeau con orden de llevarlos al bulevar Saint-Germain, a su laboratorio, para la autopsia. Dentro de una hora se reuniría con él para empezar el trabajo.
+
+Dicho esto, entre las protestas de algunos médicos que no dejaron de clamar contra el acaparamiento, el señor Le Tellier volvió a tientas hacia las máquinas. Y recuerda que entonces se representó la desproporción fantasiosa que existía entre la estatura (mediana) de los hombres invisibles y la exigüidad de las cabinas del aeróscafo, donde sin duda el menos alto de los marineros no habría podido tenerse en pie ni tampoco tenderse cuan largo era.
+
+Las máquinas ocupaban doce camarotes, separados solo por columnas endebles. (No se sospechan las dificultades que hubo que vencer para contar todos aquellos compartimentos y levantar su plano aproximado, sin ver nada). Había allí muchos personajes doctos que tropezaban a causa del vértigo y que amasaban ardientemente ante sí contornos imposibles de mirar. Sentían una viva curiosidad respecto de la maquinaria y de la fuerza motriz empleada por los Invisibles para accionar la hélice, las bombas y quizá incluso el calorífero del cilindro. La mayoría estaba segura de que se iba a descubrir un captador de electricidad todavía más perfecto que el del *Épervier*…
+
+Pues bien, sucedió que, en el extremo de la máquina opuesto a la hélice, se encontró una gran cantidad de cajas regularmente repartidas en estantes. Unas piezas de metal móviles las unían a los órganos de transmisión. Aquellas aparentes pilas o acumuladores se abrieron sin esfuerzo…
+
+Contenían cada una el cadáver de un animal rechoncho y estrafalario, una especie de sapo todo músculos, encerrado en un tambor giratorio que tenía la misión de poner en movimiento y que, girando él mismo por el arrastre de todos los demás, obligaba al animal a correr en su rueda hueca, so pena de verse duramente sacudido, y a contribuir así al trabajo general. Aquella energía, comunicada por pequeñas bielas al eje central, iba a transformarse de mil maneras a través de un revoltijo mecánico.
+
+¡Así pues, los civilizados de allá arriba, aquellas gentes cuya ciencia parecía consumada, estaban todavía en el motor animal! ¡Sus sapos esclavos hacían girar tambores, como la ardilla hace girar su jaula redonda y como el caballo de las trilladoras sube su cuesta fugitiva! Eran animales maquinizados, brutos herramienta, que recordaban la chusma de los remeros en las trirremes de antaño; ¡eran galeotes-ranas!
+
+La ligereza de aquellos batracios domésticos se estimó incomparable. Tendía a levantarlos como bichitos de hidrógeno macizo. La compresión los había deteriorado forzosamente. Se llegaron a contar ciento treinta, lo que hizo decir con gracia al señor Salomon Kahn, el físico, que la potencia del aeróscafo era de 130 sapos de vapor.
+
+Y esto demostraba la existencia superaérea de toda una fauna del vacío, invisible y de una complexión análoga a la de los sarvants.
+
+El señor Le Tellier se reservó algunos de los nuevos asfixiados. Metidos en hielo con pesos, tomaron el mismo camino que sus difuntos amos.
+
+Mientras tanto, los ingenieros que acariciaban, golpeaban, frotaban y auscultaban las máquinas no podían dejar de admirar su ingeniosa complejidad. No obstante, la esfera desempeñaba en ellas un papel tan chusco y tan preponderante que los técnicos más graves se echaban a reír a fuerza de encontrar bajo sus dedos tantas bolitas, globos, bolas y pomos.
+
+Reían, y también refunfuñaban. Porque la maldita invisibilidad les impedía captar muchos mecanismos. Varios jóvenes ciegos, escogidos por su inteligencia entre los internos de una institución, les prestaban, sin embargo, servicios valiosos con su tacto perfeccionado. Pero no era más que una medida a medias, y el señor Le Tellier se dio cuenta pronto de que era indispensable visibilizar el aeróscafo y sus detalles si se quería hacer de él un estudio eficaz.
+
+¡Ah, si hubiera podido embadurnarse! Pero el aeróscafo era refractario a toda pintarrajeada. Nada prendía en él, como no había prendido la tiza del compañero Virachol. Desde el temple hasta el esmalte, se probaron sucesivamente todos los colores del mundo. Era como querer pintar vidrio a la acuarela.
+
+Semejante chasco incitó al astrónomo a hacer extraer trozos del subaéreo para el análisis químico, a fin de que ese análisis provocara la invención de una pintura capaz de adherirse a la materia invisible y, por tanto, de hacerla aparecer.
+
+A la espera de esa feliz eventualidad, el señor Le Tellier se contentó con hacer venir a una cuadrilla de estucadores con sacos de yeso. Emprendieron allí mismo el vaciado de las piezas más sencillas, entre otras la pinza-cizalla-cesto y la hélice. Así, al menos, se tendrían estatuas de lo invisible.
+
+El día declinaba.
+
+—Venga —dijo el astrónomo al duque de Agnès—. Ahora vamos a disecar a los sarvants… ¡Cuando pienso en mi hija, me parece que de buena gana los habría despedazado vivos!… Venga usted, caballero. Nos llevamos a aquel ciego que ve allí; se llama Louis Courtois y sabe anatomía. El director de la institución me lo ha recomendado calurosamente. Vaya a buscarlo, se lo ruego.
+
+Cuando el trío, del brazo, salió del Grand Palais, la hélice de yeso salía de su molde, heteróclita, inverosímil, toda blanca: reproducción fiel de una hélice maravillosa que no habían concebido los únicos que, hasta entonces, se habían llamado *los hombres*.
