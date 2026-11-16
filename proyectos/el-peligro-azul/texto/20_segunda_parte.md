@@ -2483,3 +2483,173 @@ La fisonomía de su hijo había indicado una vaga expresión de ignorancia.
 Los dos automóviles se deslizaban por el fondo del océano celeste. Esparcían tras de sí una cola de polvo semejante a las nubes opacas con que las sepias del mar disimulan su huida…
 
 El primero, sarcófago de ébano, llevaba la Alegría. El segundo era el carro cándido y resplandeciente de la Tristeza… Convendrán ustedes en que había un error en el reparto.
+
+## XXI. TRIUNFO DEL ABSURDO
+
+Aquel mismo día, a las cinco de la tarde, el duque de Agnès, que vagaba por París como alma en pena, se cruzó en el bulevar Bonne-Nouvelle con treinta o cuarenta voceadores lanzados a la carrera que gritaban a voz en cuello: «¡*La Patrie*! ¡*La Presse*! ¡*La Liberté*!». Los vendían al vuelo a todos los transeúntes.
+
+El señor de Agnès compró *La Liberté*.
+
+->**REGRESO INESPERADO DE LOS DESAPARECIDOS**<-
+
+->su estado de abatimiento<-
+
+->**Solo la señorita Le Tellier**<-
+
+->no figura entre los supervivientes<-
+
+->*(Pieza 1037)*<-
+
+La felicidad causada por la primera línea no había durado mucho, pero había bastado para ensombrecer todavía más la espantosa decepción que encerraba la última. (¡Y se enteraba de aquello en el bulevar Bonne-Nouvelle!). ¡No, semejante mala suerte no era posible!, ¡no estaba permitida! Le parecía que la desgracia capitularía ante su incredulidad.
+
+Compró uno tras otro *La Patrie* y *La Presse* (*piezas 1038 y 1039*) y, pese a la identidad de sus informaciones, envió este telegrama al señor Le Tellier:
+
+¿Es verdad Marie-Thérèse no ha vuelto? Responda enseguida telegráficamente avenue Montaigne.
+
+-->De Agnès.
+
+Luego, en la furia de su impotencia, se puso a caminar derecho hacia delante, con los ojos fijos y los dientes apretados, diciéndose que los tres periódicos no podían equivocarse en aquel punto capital y que, en definitiva, su miseria era mayor de lo que jamás había creído, aunque la había creído la mayor miseria de todos los tiempos.
+
+Fue al volver a pie al palacete de la avenue Montaigne cuando el duque de Agnès tomó la resolución de matarse. Mentalmente, realizaba la escena última de su vida, desde la redacción del testamento hasta el disparo de revólver final…
+
+Su hermana acechaba su regreso. Había leído *La Presse*. Nunca había sentido el duque brazos más mimosos alrededor de su cuello.
+
+La besó con más ternura que de costumbre. Tuvo para sus criados palabras conmovedoras de benevolencia y de tacto. Quería morir en bondad, que es la mejor manera de irse con belleza.
+
+La señorita Jeanne lo vigilaba con inquietud; y cuando trajeron el telegrama previsto —cuyo texto conocían sin haberlo leído—, el señor de Agnès tuvo una sonrisa tan desconsolada, una mirada tan profunda, que su hermana, comprendiendo toda su alma, se volvió para llorar.
+
+El rugido que oyó detuvo dolorosamente sus sollozos en un espasmo de terror. Se dio la vuelta y vio a su hermano transformado, agrandado, lanzando carcajadas ferozmente felices, agitando el telegrama abierto y gritando por fin, tras un segundo de estupor:
+
+—¡Jeanne! ¡Jeanne! ¡Este telegrama es de Tiburce! ¡Tiburce ha encontrado a Marie-Thérèse! ¡Tiburce ha encontrado a Marie-Thérèse! ¡Tiburce! ¡Tiburce! ¡La ha encontrado!… ¡Por casualidad!… ¡En Constantinopla!…
+
+El duque se desplomó sobre la alfombra, con las manos juntas para no se sabe qué oración. Besaba y volvía a besar el papel azul, reía y sollozaba, sollozaba y reía (no se sabía cuándo reía, no se sabía cuándo sollozaba), y balbucía ahora, con voz tierna y húmeda, un poco jadeante:
+
+—¡Marie-Thérèse! ¡Querida mía! ¡Querida mía! ¡Oh, mi amor querido!…
+
+Su hermana enjugaba el hermoso rostro demasiado feliz, de largas pestañas perladas…
+
+Pero el timbre de la verja resonó en la penumbra y, unos instantes más tarde, traían un segundo telegrama, el del señor Le Tellier esta vez, que precisamente no decía en absoluto lo que el señor y la señorita de Agnès habían prejuzgado, sino esto:
+
+Sí, es verdad, Marie-Thérèse no ha vuelto. Solo que Henri Monbardeau ha podido dar a entender Marie-Thérèse no fue raptada con él y Fabienne. Fue Suzanne quien fue raptada con su hermano y su cuñada. Había ido a reunirse con ellos a escondidas cerca de Don el día del rapto. Marie-Thérèse nunca ha estado en casa de los sarvants. Espere, pues. Nosotros esperamos.
+
+-->Jean Le Tellier.
+
+—Señor duque —dijo el criado, con la bandeja vacía en la mano—, hay un hombre que ha llamado al mismo tiempo que el segundo telegrafista y que pide ver al señor duque. Dice que tiene una comunicación urgente que hacer al señor duque, y dice también que se llama Garan.
+
+—¡Garan! Hágale pasar.
+
+Entró aquel viejo amigo, con el bigote en orden de batalla y las cejas en garfio.
+
+—¡Buen asunto, señor duque! ¡Adivine!… ¡La señorita Marie-Thérèse ha aparecido!
+
+—Ya lo sé…
+
+Garan, desconcertado, no por eso dejó de continuar:
+
+—¿Lo sabe usted?… ¡Ah, sí, el telegrama, pardiez! Pues bien, si el señor Tiburce ya le ha puesto al corriente, no hace mucho y todavía llego a tiempo.
+
+—¿A tiempo? ¿Por qué?
+
+—Verá usted, señor duque. Es una historia curiosa. Ahora lo comprenderá. Me envía aquí el gobierno para ponerle al tanto de todo y pedirle que no divulgue ciertos detalles. Me han escogido otra vez a mí porque saben que le conozco y que tomé parte en los sucesos de ese Bugey maldito… Enséñeme el telegrama del señor Tiburce, se lo ruego… Veamos:
+
+»“Encontrada Marie-Thérèse intacta Constantinopla por casualidad. Llegaremos Marsella miércoles. Homenajes muy rendidos a tu hermana. Afectos. Tiburce”.
+
+»Me lo figuraba —prosiguió Garan—; esta prosa lacónica se debe a la colaboración del señor Tiburce *y de las autoridades otomanas*.
+
+—Pero, en fin, ¿qué? —exclamó la señorita de Agnès.
+
+—Escuche, señorita, ya llego. Asuntos Exteriores ha recibido hace un rato de la Sublime Puerta, por mediación de la embajada turca, un largo despacho en el que se relata la aventura completa. Pero le ruegan encarecidamente —como le han rogado allí al señor Tiburce— que no divulgue nada, porque compromete la memoria de un altísimo personaje, antiguo visir y primo del sultán. En una palabra, señor duque, *¡se trata de Abd-ul-Kaddur Bajá, que raptó a la señorita Marie-Thérèse Le Tellier!*
+
+La señorita de Agnès y el señor duque, su hermano, estaban maravillados. El policía continuó:
+
+—¡Sí! ¡Es ese salvaje! ¡Un hombre viciado, podrido, señor, por los excesos de esto y de aquello y de más todavía!
+
+»Cuando lo supe, ¡ah, me quedé más azul que el Peligro, de puro pasmo! ¡Figúrese! ¡Nunca en mi vida lo habría creído!
+
+»Verá usted: después de haber pedido en matrimonio a la señorita Le Tellier, que le fue negada, ese demonio de Abd-ul-Kaddur juró que la tendría a pesar de todos. La hizo raptar —¡como se lo digo!— en automóvil, muy cerca de Mirastel, el pasado 4 de mayo, cuando iba a Artemare a almorzar en casa del doctor Monbardeau…
+
+»*¡Y yo vi el sitio*, señor y señorita! ¡El sitio pisoteado, en el cruce de la carretera y el senderito! ¡Lo vi *y me fijé en él*! ¡Se lo enseñé al señor Tiburce diciéndole que bien podía ser un sitio que… y un sitio que… y un sitio del que…! ¡Imbécil! ¡Imbéciles que éramos los dos!…
+
+»El automóvil alcanzó a Abd-ul-Kaddur en Lyon, por donde pasaba aquella tarde en tren con sus doce mujeres, camino de Marsella para tomar el barco. *El animal hizo matar a una de esas doce mártires*, la más vieja, por un eunuco de su serrallo, *para poder sustituirla por la señorita Marie-Thérèse*. Cosieron a la mora dentro de un saco, completamente desnuda, a la moda del sultán, y, a falta de Bósforo, ¡la arrojaron al Ródano, en la niebla, al pasar por el puente! Parece incluso que el señor Le Tellier vino a Lyon en la época del hallazgo del cuerpo y fue admitido en su presencia. Eso es una coincidencia, no se puede decir lo contrario.
+
+»Durante el trayecto en auto, a la señorita Le Tellier la habían obligado a ponerse el traje de las «desencantadas», y bajo ese velo negro que les cubre la cara y que se llama *charshaf*, iba sólidamente amordazada.
+
+»¿Cómo la introdujeron en los vagones reservados, en la estación de Lyon-Perrache? Con habilidad, sin duda. Quince minutos de parada, gentío, confusión aumentada por toda aquella tropa de feces, de turbantes y de charshafs bajados al andén, curiosidad del público, oscuridad de la tarde y de la niebla… En fin, todo eso, yo, que estaba encargado de la policía del convoy, no vi nada. Tanto más cuanto que no pensaba más que en proteger al turco contra los ladrones, ¡y en absoluto en proteger a los demás contra él! Además, ¿sabe usted?: doce mujeres veladas al embarcar, doce mujeres veladas al desembarcar, la cuenta habría salido si se me hubiera ocurrido siquiera contar…
+
+»En Marsella observé, sí, que una de las mujeres hacía esfuerzos por quedarse; otras dos la sujetaban. Pero ¡qué quiere usted!, era cosa inviolable, ¡no me incumbía! Teníamos prisa, además, por embarcar a aquel personaje engorroso…
+
+»El paquebote levó anclas, y yo volví a París para tener el honor de conocerle, señor duque.
+
+—Muy bien —dijo este—. Pero allí, en Turquía, la señorita Le Tellier… Y en el barco, Garan, en el barco…
+
+—Allí, vigilada en el fondo del harén impenetrable, como en los camarotes del barco, no pudo decir nada ni hacer nada. Pero aquí es donde tuvo suerte… ¡Una suerte inaudita!
+
+»Abd-ul-Kaddur, gastado por el alcohol y las depravaciones, ya andaba de capa caída a su partida. El Mediterráneo lo dejó fuera de estado de hacer daño a nadie, en nada; y llegó a Constantinopla gravemente enfermo. Desde entonces fue empeorando cada día y no salió de su lecho de dolor, que anteayer fue un lecho de muerte. La señorita Le Tellier ni siquiera lo entrevió en todo su encierro.
+
+»Pues bien, Abd-ul-Kaddur estiró la pata —perdone la expresión— y he aquí que sus sobrinos y herederos entran en el viejo palacio de Estambul, se desparraman por el harén y encuentran, en medio de las Fatmas y los feredyés, a… ¿quién?, ya lo sabe usted: a la señorita Marie-Thérèse Le Tellier, un poco paliducha, mirando el cielo por los agujeros de una celosía morisca (¿se dice así?). Jóvenes Turcos educados a la europea, que hablan francés como es debido, la hacen salir con mil y un zalemas y mil y dos excusas… Y en el umbral del palacio, a ver si no, ¿con quién se encuentran?…
+
+—¡Con Tiburce, hombre!
+
+—¡Con el señor Tiburce, sí, señor duque! Llegado de Angora y a punto de partir para Marsella, visitaba tristemente el barrio de Estambul y, con ojo cavernoso, admiraba los azulejos del pórtico.
+
+—Así pues —observó el señor de Agnès riendo (reía por un sí y por un no)—, ¡así pues, Tiburce ha dado casi la vuelta al mundo entero para descubrir lo que buscaba! ¡Salió exactamente en la dirección opuesta a la buena, llegó a Constantinopla al revés, y no sabía que era allí adonde había que ir! ¡Inefable azar! ¡Inefable Tiburce!
+
+—Ha dado la vuelta larga, eso es todo —dijo la señorita de Agnès, indulgente.
+
+—Ya ve usted —declaró el inspector con una gravedad burlona— que el sherlockismo tiene su lado bueno.
+
+—¡Voy a telegrafiar enseguida a Mirastel!
+
+Y el señor de Agnès se acercó a su mesa de trabajo.
+
+—Si usted quiere, señor duque, aunque sin duda el señor Tiburce ya lo habrá hecho por su parte… Pero ni una palabra de Abd-ul-Kaddur, ¿eh? ¡El Comendador de los Creyentes se lo suplica por mi boca!
+
+—Sea. Puesto que la señorita Le Tellier sale indemne de esta desventura, no hablaremos de Abd-ul-Kaddur.
+
+El inspector puso los ojos en blanco y dijo en un cuchicheo:
+
+—El sultán, señor duque, ofrece quinientos mil francos a cambio de una promesa de silencio.
+
+—¡Cómo! —se irritó el duque. Pero se calmó de repente—. ¿Quinientos mil?… ¡Pues bien, sea también! Los damnificados del Bugey los recibirán con gratitud. Y yo añado otros quinientos mil para redondear la cifra. Solo que seré yo quien distribuya el millón, *sin comité de reparto*, ¿lo oye usted, Garan? ¡Dígaselo al sultán de los turcos y al sultán de los franceses!
+
+—¡Es usted admirable, señor duque!
+
+—No es todo, Garan. Estoy dispuesto, por mi parte, a no decir nada de Abd-ul-Kaddur; pero quiero que el Estado tome mañana mismo la iniciativa de una suscripción nacional para erigir una estatua al señor Robert Collin, cuya inteligencia, cuyo valor y cuyo sacrificio nos han dado tan hermoso ejemplo al desvelar el secreto del mundo invisible.
+
+—¡Bravo! —exclamó la señorita de Agnès.
+
+—Tiene usted razón, señor duque.
+
+Planeó un silencio.
+
+—Y pensar —prosiguió el inspector con voz conmovida—, pensar que a ese pobre señor Robert Collin, allá arriba, en el aerario, no lo sostuvieron más que… que unos cabellos rubios y un vestido gris… que no eran los de la señorita… ¡Oh, perdón, señor duque!…
+
+—Los vestidos grises han desempeñado en este asunto un papel importante —dijo la señorita de Agnès—. Fue también un vestido gris lo que llevó a la posadera de Virieu-le-Petit a confundir a Marie-Thérèse con su prima Suzanne… ¿Lo comprendes todo, François?
+
+—Del todo. El día del rapto, Marie-Thérèse había salido de Mirastel hacia las diez. Fue, pues, hacia las diez cuando la raptaron los secuaces del bajá. Mientras tanto, Henri y Fabienne Monbardeau subían al Colombier. Habían organizado una excursión secreta con la desdichada Suzanne. ¿Recuerda, Garan, aquella carta suya que Henri había ido a buscar a la lista de correos la víspera del 4 de mayo? Suzanne, pues, había venido en tren desde Belley y debía reunirse con su hermano en Don hacia las diez y cuarto, en el trenecito local. Se reúnen, en efecto, siguen subiendo los tres; y la posadera de Virieu, que reconoce a Henri, no ve a las dos mujeres más que de espaldas y sin prestar atención. Sin embargo, se fija en que el vestido gris es un vestido de calle y no de excursión. Es probable que Suzanne Monbardeau no tuviera intención de dejarse llevar muy lejos por la montaña; pero la ocasión, tan rara, de un hermoso paseo en familia… El resto se explica solo.
+
+—Solo.
+
+—Solo.
+
+Y, hablando a su hermana, el señor de Agnès concluyó:
+
+—Lo cual no quita, Juanita mía, que Tiburce te haya ganado lealmente, ¡puesto que ha encontrado a Marie-Thérèse!
+
+A lo que la señorita Jeanne añadió estas palabras:
+
+—¡Me ha ganado sobre todo al recobrar la sensatez!
+
+***
+
+En el expediente del señor Le Tellier, los cuatro telegramas mencionados en el presente capítulo llevan las signaturas 1040, 1041, 1042 y 1043.
+
+Las piezas 1044 y 1045 son las participaciones de dos bodas celebradas el mismo día (como en las novelas) en Saint-Philippe-du-Roule: la una, *duque de Agnès-Marie-Thérèse Le Tellier*; la otra, *Tiburce-Jeanne de Agnès*.
+
+La pieza 1046 es el borrador de una carta enviada por Maxime Le Tellier al príncipe de Mónaco. El antiguo oficial de marina ruega a Su Alteza Serenísima que tenga a bien aceptar su dimisión como agregado al Museo y como miembro de las expediciones oceanográficas, por el motivo de que, habiendo sido él mismo pescado, puesto en una especie de acuario y bajado en el extremo de un cordel en función de cebo o señuelo, siente desde entonces una repugnancia indomable a hacer sufrir a otros la suerte que él sufrió en casa de los sarvants.
+
+«No niego —dice— toda la importancia que tales investigaciones presentan respecto de la humanidad, y deseo el mayor éxito a los apasionantes trabajos de Vuestra Alteza. Pero, por mi parte, me siento en adelante incapaz de cooperar en ellos».
+
+Y sería con esta última pieza del expediente con la que habría que terminar nuestra historia para todos del año 1912 de la era cristiana, si no hubiéramos omitido, voluntariamente, hablar de un documento que, por su número, se clasifica entre el atestado de la desaparición del aeróscafo y la carta de Tiburce fechada en Angora, y del que hay que hablar aquí.
+
+Ese documento…
