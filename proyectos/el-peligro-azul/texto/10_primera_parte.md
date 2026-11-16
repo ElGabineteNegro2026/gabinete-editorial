@@ -3091,3 +3091,61 @@ El señor Le Tellier desplegó *Le Nouvelliste de Lyon*, dirigido a la señora A
 —Pero, Calixte, ¿cómo diablos lo adivinó Robert?
 
 —¡Espero que movilicen las tropas alpinas y registren las grietas!… ¡No se hace nada por nosotros!… ¡Qué asqueroso ministerio!
+
+## XXI. EL PELIGRO AZUL
+
+Movilizar las tropas alpinas era desde hacía tiempo un hecho consumado. Con el pretexto de unas maniobras —a fin, según parece, de evitar un recrudecimiento del pánico público—, el poder había ordenado batidas militares, y cada guarnición tomaba las armas por turno. Se exploraba el Bugey de arriba abajo sin despertar sospechas. Los reconocimientos de oficiales se concertaban con las pesquisas de la Sûreté; el ejército y la policía actuaban en paralelo; el inspector Garan, de vuelta de sus errores, había cooperado muchas veces en las estrategias más astutas.
+
+Pero ni en los Alpes ni en el Bugey se dejaba entrever siquiera el sarvant.
+
+Los antros de los arrabales, los sótanos y las cloacas de las ciudades, los subterráneos de los viejos torreones, las canteras, las simas, las grutas, los bosques, las criptas de las ruinas y las catacumbas de las abadías fueron explorados sin resultado. La guarida de los filibusteros seguía siendo un enigma. Los dirigibles y los aeroplanos dispuestos a lanzarse en pos del globo fantasma permanecían inactivos, y los que cruzaban la atmósfera, por encima de las lúgubres soledades, volvían de vacío de la caza del Coco.
+
+En el momento en que el señor Monbardeau reclamaba la movilización de los alpinos y fulminaba contra el ministerio, hacía, pues, mucho tiempo que la obra del Estado se había desplegado en el Bugey y sus alrededores con una discreción que motivaban no solo la turbación de los ciudadanos (nos parece, por el contrario, que el aspecto de las tropas los habría tranquilizado), sino también el miedo a una gigantesca broma más o menos clerical. Los *Camelots du Roy*, por ejemplo, eran capaces de todas las impertinencias en cuanto se trataba de ridiculizar al régimen.
+
+A decir verdad, se había decidido continuar aquella obra del Estado hasta la victoria. Pero se produjeron varias desapariciones impresionantes de centinelas avanzados, de agentes solitarios… Y hubo que poner fin a aquella batida fenomenal para evitar las desobediencias y las deserciones.
+
+Como la existencia de los sarvants no estaba oficialmente reconocida, se ocultaba con mayor cuidado aún que las búsquedas proseguían en toda Francia e incluso mucho más allá. Pues, sin comprender por qué su campo de acción se reducía a los parajes del Bugey y se extendía tan lentamente, se sospechaba que los bandidos iban a depositar sus presas muy lejos. El fracaso de los registros regionales parecía dar fe de ello.
+
+Impotente para descubrir nada y temiendo la extensión de un mal cuya gravedad se le aparecía de día en día, el gobierno se quitó la máscara y se esforzó por organizar un sistema protector con el fin de circunscribir el azote. Dictó medidas preventivas —disposiciones de profilaxis, por así decirlo— aplicables en todo el territorio. Y entonces las poblaciones que no habían sufrido la tiranía del sarvant empezaron a temerla.
+
+Este no aumentaba su imperio sino de manera insensible, de acuerdo. Pero allí era la abominación de la desolación.
+
+Los servicios administrativos y la vida social ya no funcionaban. La comarca se vaciaba poco a poco de sus habitantes. Desde el rapto de la señorita Le Tellier y de sus primos, cada desaparición había provocado nuevas partidas. Habían llegado a Lyon y a Chambéry trenes atestados de campesinos, y la frontera suiza había visto el éxodo de los refugiados franceses. El pánico se apoderaba de ellos de golpe; para subsistir en otra parte, vendían su ganado a precio vil; algunos cedían sus campos y su granja; y huían, felices de haber encontrado comprador. Eran los ricos. Otros no tenían con qué marcharse. Quince mil quizá. Estos vivían de nada en sus casuchas atrancadas, como en el fondo de madrigueras. Nadie se comunicaba con su vecino; sin embargo, las noticias llegaban hasta ellos, pero desnaturalizadas, abultadas, y redoblaban su angustia. El águila de Robert se convirtió en el murciélago gigante al que llaman «vampiro», y el pez de Philibert tomó forma de tiburón volador, de dragón, de tarasca de los tiempos góticos…
+
+En torno a los pueblos condenados amarilleaban las mieses que nadie segaría. Los prados crecían altos y tupidos; las viñas se enmarañaban de largos sarmientos flexibles, y la hierba reverdecía el firme de las carreteras blancas.
+
+Planeaba un silencio de muerte.
+
+A veces algún vagabundo se arriesgaba a merodear. Vinieron también bandas de ladrones con la esperanza de saquear los bienes abandonados… Pero de pronto se alzaban gritos horribles en el interior de las casas o en el campo lejano: batallas de hombres contra perros rabiosos, contra gatos olvidados, contra rivales, contra el miedo, o contra… no se sabía qué.
+
+Al cabo de algún tiempo, los saqueadores dejaron de venir.
+
+Desde aquel día, los únicos seres humanos que se vieron errar por los campos y los bosques fueron míseros dementes cuyo número aumentaba de hora en hora. Salían de sus encierros voluntarios bajo el dominio de ideas pueriles, productos del espanto y de la reclusión. Medio desnudos, ociosos, los desdichados iban al azar, alimentándose de granos y raíces. El sarvant, según la historia, escogió a algunos; la mayoría se suicidó.
+
+No era raro, en efecto, que de los árboles, de los postes de los caminos, de las cruces de las encrucijadas, se balancearan ahorcados que habían huido del miedo en la muerte. A través del valle, una sucesión de pilones sostenía los cables eléctricos de Bellegarde a Lyon; casi todos habían servido de escalera a extraños desesperados que tocaban los cables y se electrocutaban. Momias carbonizadas retorcían sus posturas simiescas en lo alto de aquellos miradores y parecían hacerse bufonadas entre ellas. Los ríos arrastraban cadáveres, mensajeros del espanto que reinaba. La vía del ferrocarril era una cita de atropellados. Reinaron grandes hedores. Pero gracias a las nubes de cuervos que se abatieron sobre la comarca, el osario que era pronto fue un osario limpio.
+
+La posteridad se asombrará de semejante desbandada. Es que olvidará cómo comprendían la calamidad las gentes del Bugey. Ya no era una novatada, ya no era una estratagema de forajidos. Era el fin del mundo. Y creían que Jehová empezaba por el Bugey a despoblar la tierra. Para ellos, el sarvant se convertía en el ángel exterminador. Acurrucados en la sombra de las chozas, sin atreverse a abrir las ventanas, aguzaban el oído. El rodar de los trenes, retumbando en la calma, les parecía el trueno de Dios. Evocaban con angustia las bestias del Apocalipsis que se habían visto en el cielo: un ternero, un águila, un lucio. Los más místicos pensaban en el buey alado de san Lucas, en el águila de san Juan Evangelista, en el *ichthys*, pez símbolo de los primeros cristianos. Por eso, si algún automóvil que atravesaba la región se le ocurría tocar la bocina, oían la trompeta del Juicio y, tras santiguarse, se prosternaban con la cara contra la tierra.
+
+Diez siglos antes se habían extendido las mismas alarmas. Los terrores del año mil novecientos doce igualaban a los del año mil. Y si habían de generalizarse menos, es porque tenían una razón de ser, mientras que los otros eran hijos de la inagotable fantasía.
+
+Pese a aquella exaltación de los sentimientos religiosos, ya no se organizaban procesiones. Habría sido preciso salir. Y aun cuando se hubiera salido, ¿habría reunido cada parroquia bastantes penitentes?… La estadística no ha citado una sola familia en la que el sarvant no hiciera varias víctimas. Lejos de ser una excepción, la quíntuple desgracia de la señora Arquedouve era la de numerosas abuelas.
+
+Parecía que una epidemia infestase aquel rincón de la humanidad. De hecho, los perseguidores se le llevaban a uno de improviso, sin que nada sirviera de nada, como a menudo procede el cólera. Como en tiempos de cólera, los supervivientes conservaban un rostro de esclavo perseguido, en el que el miedo se había impreso para siempre en una mueca indigna del hombre. Ni siquiera se preocupaban por saber adónde habían ido los desaparecidos. Ninguno dudaba de su matanza. Las mujeres lloraban un poco cuando pensaban en ello; eso les producía un feliz desahogo, y el momento de las lágrimas resultó ser el instante de la dicha. La risa ya no era, en el fondo de las memorias, más que un vago recuerdo de paraíso perdido. Todos los corazones se encogían; sobre todo de noche.
+
+La noche se pasaba a la escucha, acechando el demasiado célebre ronquido. Se imaginaban percibirlo. Lo percibían por autosugestión.
+
+Y cuando despuntaba el alba en su esplendor canicular, que asaba fuera las carroñas sin número, entonces, por una rendija de la puerta, por una grieta de la pared, entre dos tejas desencajadas, la pobre gente clavaba la vista en el cielo imperturbable, límpido y azul, surcado de golondrinas: el cielo traicionero, con su máscara de serenidad. Durante todo el día contemplaban aquel azul cegador. Sus ojos deslumbrados veían aparecer una especie de gusanillos ondulados, incoloros, que se desplazaban cuando se los quería mirar; se asustaban; eran los vasos mismos de sus ojos.
+
+El murmullo de la estación se disfrazaba de zumbido temido. Sesenta veces por minuto se figuraban distinguir cualquier cosa. Muchos aseguraron haber sorprendido así la ascensión de criaturas y objetos diversos que subían solos y en línea recta por la atmósfera. Pero no lo habrían jurado, conscientes de que eran malos vigías.
+
+Mirastel fue el último castillo habitado. La señora Arquedouve y su hija Lucie apenas podían ser trasladadas, y el señor Le Tellier se aferraba a la idea de que encontraría a sus hijos allí donde el sarvant los había cautivado.
+
+Los representantes del departamento aprovecharon la circunstancia y le pidieron un informe detallado sobre la situación.
+
+A raíz de aquel informe, se quiso aplicar una nueva táctica defensiva. Pero los funcionarios delegados en el Bugey no permanecían allí ni una semana. Aquel infierno podía con las mejores voluntades, con las peores ambiciones, con las valentías más probadas.
+
+Toda la tierra vigiló entonces el Bugey. Era un punto gangrenado cuyo horrible florecimiento seguía con espanto. Como un incurable que, con el sudor en las sienes, no aparta los ojos de su chancro invasor, el mundo entero controló sin descanso los progresos del cáncer francés. La prensa internacional se convertía en boletín sanitario. San Francisco ya no sonreía.
+
+Toda la tierra vigilaba el Bugey, y todo el Bugey vigilaba el cielo. De un extremo a otro de la comarca, solo eso importaba. Todo daba igual, salvo eso. El engorde de los cerdos, la vendimia venidera, el heno por segar, los centenos en flor, la temperatura propicia o desfavorable, las disputas municipales: nadie se interesaba ya por ello. La fortuna y la miseria ya no contaban; la política había perdido su importancia; podía sobrevenir una guerra; una invasión podía amenazar a la patria; el Peligro Amarillo podía abatirse sobre Europa: ¿qué importaba todo eso?
+
+Una sola preocupación merecía inquietud. Un solo peligro valía la pena de ser conjurado: el Peligro Azul.
