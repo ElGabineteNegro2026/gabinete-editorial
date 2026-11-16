@@ -1,5 +1,7 @@
 # PRIMERA PARTE
 
+## ¿DÓNDE?… ¿CÓMO?… ¿QUIÉN?… ¿POR QUÉ?…
+
 ## I. ENTRADA EN EL MISTERIO
 
 ¿En qué fecha hay que situar la primera manifestación del Peligro Azul? Es un problema que nunca se ha resuelto del todo, pero sobre el cual importa decir unas palabras.
@@ -3122,7 +3124,7 @@ Al cabo de algún tiempo, los saqueadores dejaron de venir.
 
 Desde aquel día, los únicos seres humanos que se vieron errar por los campos y los bosques fueron míseros dementes cuyo número aumentaba de hora en hora. Salían de sus encierros voluntarios bajo el dominio de ideas pueriles, productos del espanto y de la reclusión. Medio desnudos, ociosos, los desdichados iban al azar, alimentándose de granos y raíces. El sarvant, según la historia, escogió a algunos; la mayoría se suicidó.
 
-No era raro, en efecto, que de los árboles, de los postes de los caminos, de las cruces de las encrucijadas, se balancearan ahorcados que habían huido del miedo en la muerte. A través del valle, una sucesión de pilones sostenía los cables eléctricos de Bellegarde a Lyon; casi todos habían servido de escalera a extraños desesperados que tocaban los cables y se electrocutaban. Momias carbonizadas retorcían sus posturas simiescas en lo alto de aquellos miradores y parecían hacerse bufonadas entre ellas. Los ríos arrastraban cadáveres, mensajeros del espanto que reinaba. La vía del ferrocarril era una cita de atropellados. Reinaron grandes hedores. Pero gracias a las nubes de cuervos que se abatieron sobre la comarca, el osario que era pronto fue un osario limpio.
+No era raro, en efecto, que de los árboles, de los postes de los caminos, de las cruces de las encrucijadas, se balancearan ahorcados que habían huido del miedo en la muerte. A través del valle, una sucesión de pilones sostenía los cables eléctricos de Bellegarde a Lyon; casi todos habían servido de escalera a extraños desesperados que tocaban los cables y se electrocutaban. Momias carbonizadas retorcían sus posturas simiescas en lo alto de aquellos miradores y parecían hacerse bufonadas entre ellas. Los ríos arrastraban cadáveres, mensajeros del espanto que reinaba. La vía del ferrocarril era una cita de atropellados. Reinaron grandes hedores. Pero gracias a las nubes de cuervos que se abatieron sobre la comarca, el pudridero que era pronto fue un osario.
 
 La posteridad se asombrará de semejante desbandada. Es que olvidará cómo comprendían la calamidad las gentes del Bugey. Ya no era una novatada, ya no era una estratagema de forajidos. Era el fin del mundo. Y creían que Jehová empezaba por el Bugey a despoblar la tierra. Para ellos, el sarvant se convertía en el ángel exterminador. Acurrucados en la sombra de las chozas, sin atreverse a abrir las ventanas, aguzaban el oído. El rodar de los trenes, retumbando en la calma, les parecía el trueno de Dios. Evocaban con angustia las bestias del Apocalipsis que se habían visto en el cielo: un ternero, un águila, un lucio. Los más místicos pensaban en el buey alado de san Lucas, en el águila de san Juan Evangelista, en el *ichthys*, pez símbolo de los primeros cristianos. Por eso, si algún automóvil que atravesaba la región se le ocurría tocar la bocina, oían la trompeta del Juicio y, tras santiguarse, se prosternaban con la cara contra la tierra.
 
