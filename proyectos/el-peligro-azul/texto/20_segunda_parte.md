@@ -2301,3 +2301,185 @@ Para enlutar todavía más su espantosa soledad, el duque pensó, pues, en sepul
 Pero tal era su extravío que había olvidado la hora. Giró el interruptor eléctrico con el fin de apagar el sol, que tomaba por una lámpara. Se encendió una lámpara de techo, amarillenta y fuera de lugar en el brillo del día, como un ojo de búho. El señor de Agnès se rehízo.
 
 —¡Enhorabuena! —dijo en voz alta—. Ya estás chocheando… ¡Ah, no! ¡No! ¡Ah, no! ¡Eso no, muchacho! Aunque solo fuera para verla una última vez, muerta y desfigurada, para llevarle flores y darle sepultura, ¡tienes que vivir! ¡Y vivir entero, en cuerpo y alma!… ¡Vamos! ¡Nervio!
+
+## XX. DESAPARICIÓN DE LO VISIBLE
+
+La carta de Tiburce, que tanto había conmovido a François de Agnès, no produjo ningún efecto en el señor Le Tellier cuando la recibió en Mirastel por mediación del joven duque. El astrónomo y su entorno sabían a qué atenerse desde hacía tiempo. Y todos —Maxime, curado por fin; la señora Le Tellier, blanca y rubia a la vez y sin pensar ya apenas en la elegancia; la señora Arquedouve, un poco arrugada, ¡tan menuda, tan menuda!; y la pobre pareja de los Monbardeau, envejecida, desamparada—, todos no pensaban más que en dos cosas: examinar al telescopio el fondo del aerario, con los pequeños movimientos que producía en los huecos la agitación de los prisioneros, y reconocer, a medida que se estrellaban, los cadáveres precipitados.
+
+Caían siempre de noche. Como Robert había calculado, los sarvants debían de ser más activos y estar más a sus anchas en las tinieblas; y no pasaba noche sin silbido ni mañana sin que un campesino viniera al castillo a avisar de que un muerto había caído en su viña. Los campesinos habían acabado por tranquilizarse; de la mañana a la noche trabajaban la tierra abonada de carne humana. A veces, al llegar, encontraban animales caídos durante la noche; a veces, hombres y mujeres. A su llamada, Maxime, su padre y su tío acudían. Ahora los cadáveres ya no llevaban huellas anatómicas. Ni vivisección ni disección, ni torturas. Estaban completos, decorosos, pero de una delgadez excesiva. La autopsia reveló que unas enfermedades los habían devastado sin que los sarvants tuvieran nada que ver. Los cautivos no morían más que por falta de cuidados, de remedios, de aire libre y de buena alimentación.
+
+Pero morían cada vez más.
+
+Se hizo la cuenta de los desaparecidos y se registraron los cadáveres. Hacia el 10 de octubre, el señor Le Tellier adquirió la certeza de que allá arriba no quedaban más que veinticinco desdichados, entre ellos Marie-Thérèse, Henri, Fabienne y Suzanne.
+
+Era un descubrimiento terrible. Al paso que iban las cosas, en veinte días todo estaría consumado. Los cuatro exiliados habrían muerto.
+
+Mirastel resonó de lamentaciones.
+
+La noche siguiente, dos silbidos traspasaron los corazones… Pero no eran más que las caídas de un macho cabrío y de una burra.
+
+Los que se esperaban no cayeron los días siguientes.
+
+En el cenit, la mancha oscura no se movía, no cambiaba. Solo la animación de las ranuras disminuía, más rara y más lenta. El 18 de octubre, nueve cristianos y una docena de animales habían caído desde el 10. Quedaban todavía dieciséis condenados en el aerario.
+
+El sueño abandonó el castillo. De noche, a fuerza de escuchar, todos sufrieron extrañas agujetas auriculares.
+
+A las dos de la madrugada del día 19, la sombra resonó con un ruido particular que no silbaba como de costumbre. Se habría dicho una carga de perdigones acribillando la paz nocturna… El ruido se repitió varias veces seguidas. El señor Le Tellier salió a la terraza con los suyos.
+
+La luna acababa de ponerse; en luminosidad difusa, su claridad se exhalaba todavía desde occidente.
+
+Hacía un vientecillo fresco.
+
+El ruido volvió a empezar, mientras una especie de nube oscura, que silbaba como la metralla, iba a estrellarse en la marisma, hacia Ceyzérieu. Una segunda la siguió inmediatamente. Una tercera. Una cuarta. Una quinta… Caían pesadamente una sobre otra, en el mismo lugar, abofeteando la tierra húmeda. Se llegaron a contar treinta y dos. La trigésimo tercera caída produjo un sonido muy distinto, de tintineo, de hierros entrechocados, y no tenía aspecto de nube. Todo aquello venía manifiestamente del puerto invisible y solo caía hacia el sur gracias al vientecillo fresco.
+
+¿Qué eran aquellos envíos del mundo superior? Ni hombres ni animales, desde luego; se conocía demasiado su manera de anunciarse. ¿Qué habían imaginado otra vez los sarvants?…
+
+Se esperó al sol con una impaciencia feroz.
+
+Llegó e hizo ver unas especies de montículos muy visibles en medio de la marisma. Pero había que renunciar a acercarse a ellos en el centro de la llanura movediza y peligrosa. Nada parecía moverse allí.
+
+El astrónomo decidió mirarlos con su mejor anteojo. Le acompañaron al observatorio de la torre.
+
+El tubo óptico estaba allí, montado como anteojo terrestre y apuntado a la mancha cuadrada desde hacía semanas.
+
+El señor Le Tellier puso el ojo en el ocular.
+
+—¡Vaya! —dijo—, ¿han tocado mi anteojo? ¡Ya no veo el aerario!… —Examinaba el aparato—. Pero no, nada se ha movido…, y, sin embargo, el aerario ya no está en el campo visual. ¡Ha desaparecido!
+
+—¡Dios mío! —dijo la señora Monbardeau—. ¡¿Qué más?!
+
+—¿Desaparecido? ¿Habrán trasladado ese palacio inmenso? —sugirió Maxime.
+
+—¿Una catástrofe? —prosiguió el doctor—. ¿Un temblor del suelo superaéreo?
+
+—Siempre se vería algo… ¡No queda nada! —afirmó el astrónomo—. ¡Nada!, en el punto preciso donde vi anoche la parte de abajo del aer… ¡Ah! ¡Esperen!
+
+Bajó el pequeño telescopio y apuntó a los montículos del centro de la marisma. El aumento se los detalló. Eran, sobre la extensión verdosa, montones de tierra parda, y sobre esa tierra, enterrados en sus tres cuartas partes, muchos objetos dispares: ramajes secos, ramas grises, una masa de deformidades de todos los colores, donde se distinguía un dorado con silueta de gallo…
+
+—¡El aerario está ahí! —dijo el señor Le Tellier, incorporándose—, o, mejor dicho, las cosas que lo hacían visible. Esta noche eran nubes de tierra lo que caía; los sarvants la han arrojado vagón a vagón. ¡Se han deshecho de su museo de oceanografía!
+
+Unas caras lívidas lo rodeaban.
+
+—¿Y los… los seres? —preguntó la señora Arquedouve—. ¿Los dieciséis prisioneros?
+
+—¿Henri?
+
+—¿Suzanne?
+
+—¿Marie-Thérèse?
+
+—¿Fabienne?
+
+—No hay nada vivo allí. Nada muerto tampoco… Y allá arriba ya no hay nada en absoluto.
+
+—¡Los sarvants se los han llevado a otro punto de su globo!
+
+—¡No digas eso, Maxime! —exclamó la señora Le Tellier, que temblaba de pies a cabeza—. ¡Te lo suplico! ¡Eso no!
+
+—Pero ¿qué espera usted, mamá?
+
+—¡Qué sé yo!…
+
+Maxime se había apoderado del telescopio. Consideraba los montículos. Todos callaban.
+
+En aquel momento, muy, muy lejos, entre todos los rumores del despertar de la aurora, un perro ladraba.
+
+La señora Arquedouve aguzó el oído.
+
+Los ladridos se acercaban.
+
+La ciega se apretó el corazón con las dos manos. Los demás la miraban con curiosidad. Escuchaba al perro como habría admirado el esplendor de la luz recobrada. Oprimida, no podía decir nada de su emoción.
+
+—Madre, madre —susurró la señora Le Tellier—, *¿es de verdad Floflo el que vuelve?*
+
+La señora Arquedouve bajó los párpados. Y todos se interrogaban con la mirada. ¿Floflo? ¡Floflo, al que Robert y Maxime habían visto en casa de los sarvants! ¡Floflo vivo! ¿Floflo de vuelta?… ¡La abuela se equivocaba!…
+
+Y, sin embargo, era él.
+
+Llegó sacando una lengua interminable y rosa, saltando de alegría pese a su cansancio, lamiendo las manos, las caras e incluso los botines. ¡Pero qué descarnado estaba el pobre lulú! ¡Y qué sucio, si supieran! El polvo del camino había pegado sus largos pelos negros, empapados…
+
+—No hay que ser brujo —razonó Maxime— para ver que a este perro lo han metido en el agua antes de una carrera bastante larga. Antes o durante. Se habrá bañado por el camino en las fuentes. Pero ¿de dónde viene? No de los montículos; lo habríamos visto atravesar la marisma, y además no estaría tan agotado ni tan cubierto de polvo. Por lo demás, no se puede admitir que los sarvants lo hayan lanzado desde lo alto de…
+
+Un campanillazo en el portal le impidió terminar.
+
+La turbación que los invadió los hizo palidecer; era una mezcla contradictoria de esperanza y de inquietud que producía una sensación física de debilidad repentina y de gran frío.
+
+Hubo una decepción.
+
+El visitante era un patán con una bicicleta.
+
+Pero hubo todavía una emoción:
+
+Aquel patán traía una carta para el señor Le Tellier.
+
+Y hubo entonces una alegría delirante, indescriptible, loca; pues la carta venía de un amigo que el señor Le Tellier tenía en Lucey, a orillas del Ródano, a dieciocho kilómetros de Mirastel, y aquella carta decía:
+
+->*(Pieza 988)*<-
+
+Venga deprisa. Esta mañana han encontrado en una isla del río, entre Lucey y Massignieu-de-Rives, a los desaparecidos supervivientes. Ninguno parece herido. La autoridad los ha puesto en cuarentena.
+
+Pese a lo extraño de esta última frase, el alborozo cobró tales proporciones que daba miedo verlo. Les parecía que de pronto la atmósfera acababa de cambiar. El astrónomo nos ha dicho: «¡Era como si me hubieran quitado una camisa de fuerza soportada durante seis meses!». La risa resucitaba en el fondo de las gargantas; pero los rostros habían perdido la costumbre y las mejillas se resistían. Hacían una infinidad de movimientos inútiles y caminaban de un lado a otro con gruñidos de felicidad. Por fin se calmaron. Maxime interrogó al patán.
+
+Al despuntar el día, un obrero que iba al trabajo había divisado en una isla del Ródano un grupo de personas en muy mal estado, mal vestidas, de mala salud, acostadas la mayoría, en compañía de animales increíblemente diversos, algunos de los cuales intentaban cruzar el agua. Cuando aquel hombre llegó, un perrito negro atravesaba el río a nado, hacia el norte, y la corriente arrastraba a dos o tres animales flacos, traicionados por sus fuerzas en mitad del caudal. Un águila, al parecer, intentaba sin descanso y en vano echar a volar. El alcalde había prohibido que nadie se acercara a la isla y, temiendo alguna astucia de los sarvants, había puesto a los supervivientes en cuarentena.
+
+Se apiñaron en el gran automóvil blanco, como el día del rapto. ¡Pero cuánto habían cambiado las caras desde entonces!, ¡y cómo contrastaba su alegría con sus arrugas y sus marchitamientos! ¡Y reían! ¡Y reían! (Parecían equivocarse al reír tan fuerte con semejantes caras). Por poco habrían cantado. Al pasar, el señor Le Tellier apostrofaba a los campesinos:
+
+—¡Han vuelto! ¡Están aquí! ¡Mi hija ha bajado!
+
+—¡Y mis hijos también! —rectificaba el doctor en tono cómico, fingiéndose susceptible—. ¡Mis hijos también!
+
+La misma escena se repetía en cada encuentro. Los cuñados se divertían locamente, se daban palmadas en los muslos, y los demás reían a mandíbula batiente.
+
+Llegaron.
+
+La carretera bordeaba el Ródano, que en aquel lugar se divide a través de un archipiélago árido y pelado. Una población aldeana se apiñaba en las dos orillas, a la altura de la isla de los supervivientes. Esta, igual que las demás, sacaba del caudal robusto un banco de tierra lívida, sembrado de algunos matorrales. Estaba bastante lejos de las márgenes.
+
+El señor Le Tellier quiso desamarrar una barca; pero el guarda rural se opuso «por lo de la cuarentena».
+
+En esto, el astrónomo se enfureció muy inútilmente. Lleno de cólera, miraba allá a los míseros supervivientes del aerario, tendidos en el suelo entre liebres, gallinas, jabalíes, zorros, ratoneros, pintadas y otras criaturas domésticas o salvajes que no parecían mucho más despabiladas que sus señores. El águila, de vez en cuando, se levantaba, corría con las alas desplegadas de un extremo a otro de la isla y luego volvía a caer sin fuerzas. Todos se morían de consunción: el hambre minaba a aquellos hombres y mujeres, ¡y una medida imbécil prohibía socorrerlos!
+
+A distancia, el señor Le Tellier no reconoció al principio más que a Fabienne Monbardeau-d'Arvière; luego le pareció que Suzanne…
+
+Pero lo sacó de su examen un grito terrible a su espalda. Todo el mundo se volvió.
+
+La señora Le Tellier, subida en el asiento del coche, clamaba lúgubremente:
+
+—¡Marie-Thérèse no está ahí! ¡No son más que quince!, ¡en lugar de dieciséis!, ¡y mi hija no está ahí, no está! ¡*Ellos* se la han quedado! ¡Es la única que se han quedado! ¡Oooh, Dios mío!…
+
+Se desplomó sobre los cojines. El señor Le Tellier se hizo centenario en un segundo.
+
+Y nada era más cierto. Por un medio que ha quedado en lo desconocido, los sarvants habían repatriado a todos los huéspedes del aerario, salvo a Marie-Thérèse.
+
+Henri, Suzanne y Fabienne, uno junto a otro, esbozaban de vez en cuando un gesto de reconocimiento, extenuado. La señora Monbardeau no les quitaba ojo.
+
+Pero los parientes de los demás supervivientes habían acudido, los curiosos se amontonaban sin cesar, y toda aquella gente murmuraba contra la cuarentena. No se sabe qué desgracias les habrían ocurrido al alcalde y al guarda rural si Maxime y tres jóvenes de Massignieu no hubieran abordado la isla con ayuda de una chalana que habían descubierto río arriba.
+
+Cuando se vio que no les sucedía nada malo, se levantó la cuarentena, una flotilla de embarcaciones atracó en el lazareto y la sociedad recuperó quince cuerpos inertes, famélicos y apergaminados, sin voz y sin alma aparente. El amigo del señor Le Tellier prestó su limusina a los Monbardeau; la posada de Lucey abrió sus puertas a los aparecidos que todavía no habían sido reclamados.
+
+En cuanto a los animales, los remataron sin gran razón, ni gran necesidad, ni gran humanidad. Y al hacerlo, ¿no parece que, en sentido propio y figurado, nos mostramos *por debajo* de los sarvants, ellos que no los habían matado?… ¿No es razonable creer que los Invisibles se dieron cuenta por fin de la existencia del dolor? Habiendo descubierto en los seres de abajo esa cosa sutil, atroz y maravillosa —ajena a su mundo—, ¿no fue entonces cuando detuvieron sus vivisecciones?… Porque no hay más que hablar (el estado de los cadáveres lo atestiguó): las vivisecciones terminaron de golpe; y el único motivo válido que puede darse es la misericordia de los sarvants, despertada por el descubrimiento del sufrimiento. Y si no repatriaron en el acto a los pobres diablos de los que habían empezado a compadecerse, ¿no hay que atribuir ese retraso al tiempo necesario para construir un segundo aeróscafo o algún otro aparato invisible destinado a bajarlos? A este respecto, la hipótesis que parece prevalecer es la de un artefacto automático, empujado por el viento, que habría venido a aterrizar en la isla al azar; un mecanismo de disparo lo habría hecho volver a subir por sí solo tras la descarga. No es imposible, pero nada autoriza a certificarlo. El hecho real es que los sarvants nos devolvieron a los nuestros en cuanto pudieron hacerlo, y todo lleva a creer que lo hicieron por inteligencia y bondad.
+
+Es, en efecto, una cosa bastante monstruosa, lógicamente hablando, que los poetas y los filósofos que han imaginado seres inteligentes fuera de la humanidad hayan hecho siempre de ellos criaturas sanguinarias y malvadas. Para impresionar al lector con seguridad y forjar civilizados que estuvieran lo más lejos posible del hombre, esos utopistas han negado a sus individuos quiméricos las virtudes que pasan por sernos propias. Han creído, con ese expediente, dar muestras de independencia respecto del antropomorfismo, y le han sacrificado servilmente, sin saberlo, privando a sus naciones supuestas de méritos y cualidades de los que el hombre, en masa, está igualmente desprovisto.
+
+Los sarvants nos son, creo, superiores en moral como en altitud. Y esa opinión no debe de ser tan mala, puesto que se imponía al espíritu eminente del señor Le Tellier en los mismos instantes en que se preguntaba con rabia por qué los Invisibles se habían quedado con su hija.
+
+Porque se la habían quedado, era cosa cierta. Se había hecho un recuento demasiado asiduo de los cadáveres para que el de Marie-Thérèse se hubiera escapado. Por tanto, se había quedado allá arriba. *¿Por qué?* Su belleza no explicaba nada; su belleza no tenía curso entre los sarvants, como no lo tiene entre nosotros la gracia de una araña… Entonces, ¿por qué?
+
+«¿Por qué Marie-Thérèse? —se preguntaba el señor Le Tellier—. ¿Y por qué solo ella?».
+
+Volvían. Apretaba las manos de su mujer, acurrucada en el fondo del coche. Delante de ellos, la limusina de los Monbardeau corría por la carretera. Y en ella, inclinado sobre el rostro quejumbroso de su hija, el doctor murmuraba:
+
+—¡Suzanne, Suzanne! Te perdono, ¿sabes?
+
+Una sonrisa rozó los labios violáceos. Entonces el señor Monbardeau se ocupó de Henri y de Fabienne; pero como no tenía nada que perdonarles, nunca consiguió desarrugarles el ceño. Su embotamiento superaba todos los temores.
+
+—Henri, ¿sabes por qué se han quedado con Marie-Thérèse? —dijo la señora Monbardeau.
+
+—Chis… Calma, silencio… —aconsejó el doctor.
+
+La fisonomía de su hijo había indicado una vaga expresión de ignorancia.
+
+—Déjalo, Augustine. Esta noche podremos interrogarle. Esta noche o mañana por la mañana.
+
+Los dos automóviles se deslizaban por el fondo del océano celeste. Esparcían tras de sí una cola de polvo semejante a las nubes opacas con que las sepias del mar disimulan su huida…
+
+El primero, sarcófago de ébano, llevaba la Alegría. El segundo era el carro cándido y resplandeciente de la Tristeza… Convendrán ustedes en que había un error en el reparto.
