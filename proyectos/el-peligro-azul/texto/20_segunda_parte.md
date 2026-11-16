@@ -1045,3 +1045,159 @@ Empalizadas. Me seguía pareciendo que eran empalizadas. Llegaba, aquel castillo
 ¡Ah, aquella bastilla! Me reservaba la más atroz de las desilusiones…
 
 Al leer estas últimas palabras, el señor Le Tellier no pudo evitar una gran emoción. El cuaderno rojo tembló en sus manos como si estuviera vivo y a punto de morir. La lectura terminó en un gallo tanto más impresionante cuanto que era un poco risible… Viéndolo, el duque de Agnès, que escuchaba con el ceño fruncido, se apoderó del diario y continuó de este modo:
+
+## XII. CONTINUACIÓN DEL DIARIO
+
+***
+
+La masa visible hacia la que me acarreaban por una rampa serpenteante, cuya pendiente inclinaba mi suelo y hacía gemir las ruedas bajo el esfuerzo de una energía más activa —la masa, la mácula, la bastilla—, no era una casa calada. No era una buena casa, sólida y visible, como las hay en la tierra. Pronto mis ojos, tan defectuosos, vieron que aquella masa se dispersaba en una cantidad de pequeñas masas distintas que, a la claridad cruda del cielo negro, me parecieron violentamente blancas y negras. Aquellas pequeñas masas se disponían escalonadas en franjas horizontales, como cosas colocadas sobre un estante invisible, como cosas y seres colocados en los pisos de una casa invisible…
+
+Y, forzosamente, era eso. ¡Tonto de mí por no haberlo adivinado desde el principio! ¡Era el depósito invisible de todo lo que los sarvants habían subido de la Tierra!
+
+Mi furgón imperceptible bordeó la planta baja del monumento presentido. Esa planta baja la ocupa un verdadero *bosque*, muy bajo, plantado en cuadros de tierra que, sin duda, han traído de abajo, cargamento a cargamento. Tierra parda, dispuesta en cuadros desiguales, gruesos. Cuadros separados por franjas vacías, es decir, *por los muros que no se ven*. Eso forma un vivero en una torta de humus que parece un gran tablero de damas. Y por debajo, el suelo invisible se espesa hasta el mar atmosférico sobre el que descansa. Y por encima de aquel bosque ralo, en el que reconocí las diversas especies de los árboles del Bugey, divisé una extensión *suspendida* de ramas secas, de piedras y de rocas. Era fácil ver que estaban colocadas en el primer piso, en habitaciones que correspondían a los rectángulos de tierra; pero ocupaban una superficie menor.
+
+Por encima de aquellos minerales, sobre el invisible entarimado del segundo piso, vi toda clase de animales repartidos en un espacio igual al de las piedras.
+
+Mientras bordeaba aquella fachada fantástica, entreví peces que nadaban en el seno de paralelepípedos de agua cuyo recipiente no se podía distinguir.
+
+Arca de Noé, en cierto modo.
+
+Por último, más arriba todavía, bajo un último piso reservado a los pájaros: hombres y mujeres. ¿También nuestros atormentadores, quizá? Iba a saberlo.
+
+La señorita M.-T. L. T… La buscaba con toda mi vista…
+
+Los hombres y las mujeres, en el aire, parecían muy ocupados con mi llegada. Vi muy bien a los que estaban diseminados a lo largo de la fachada apoyarse en la pared nula-a-los-ojos para mirarme con más comodidad. La luz del vacío los volvía lívidos como Pierrots, con sombras negras en la cara. Los demás, los que no estaban en la fachada, permanecían espaciados por toda la superficie del piso, como soldados mal formados para los ejercicios de flexibilidad… Me miraban a través de la capa dispersa de los animales que tenían debajo… Al verlos así aislados unos de otros —como también peones colocados sin cuidado en las casillas de un tablero de ajedrez—, al verlos quedarse allí en lugar de acudir a la fachada, comprendí que cada uno tenía una pequeña habitación separada.
+
+Me detuvieron casi en el centro. Algo que engancharon hizo resonar el techo de mi cabina; unos chirridos rechinaron alrededor; y de nuevo me elevé, rozando las plantas, luego las rocas, luego los animales.
+
+En el piso de los hombres, parada brusca. Deslizaron mi celda sobre el suelo del piso, y adiviné que ahora estaba incorporada a la masa del edificio y que ya no era más que un cubo lleno de aire, yuxtapuesto a otros cubos semejantes, cada uno de los cuales contenía a su hombre o a su mujer. Muy cerca de mí, en el compartimento vecino, un muchacho me contemplaba, y todos mis hermanos terrestres estaban vueltos hacia mí, apariciones a las que nada sostenía, al parecer, plantadas paradójicamente en la nada, pálidas y sombrías a la vez, sucias, repugnantes, con caras de manicomio, de hospital o de cárcel.
+
+Buscaba a la señorita L. T. en su multitud dispersa… No reconocí a nadie en aquellas fisonomías de pesadilla… Allí no había más que víctimas, ciertamente. ¡Los sarvants tampoco eran visibles!…
+
+***
+
+Aquí sigo todavía.
+
+***
+
+Mi vecino es manifiestamente un joven inglés, lampiño, despavorido, vestido como para el golf. ¿Atrapado de viaje? ¿De excursión?… Él y yo estamos en la hilera de prisioneros que sigue la fachada, que parece constituir la fachada. Otra hilera, paralela. Luego otra. Y otras más. Debe de haber pasillos entre las hileras de celdas invisibles. La fila de la fachada terminaba en el inglés cuando llegué; la he alargado un cubo, yo, el último en llegar. A los primeros que llegaron los alinearon allá lejos, en la otra fachada… Eso me quita posibilidades de ver a la señorita L. T.
+
+El humus pardo del vivero forma, por debajo, una reja extraña de la que serían los barrotes los que estuvieran calados. A través de esas franjas aparecen, en el fondo del abismo, franjas de Francia. Y luego veo la capa dispersa de las piedras, y luego el lomo de los animales. Inmediatamente bajo mis pies, un cerdo dormita, rosa y gris, en el seno del aire. Inmediatamente sobre mi cabeza, un águila leonada, de plumaje nocturno, pisotea en el vacío; sus garras amarillas se aplastan y se crispan sobre el invisible fondo de su jaula, ensuciado por sus deyecciones.
+
+A cada instante uno cree recibir algo que cae… y que se detiene, sin causa aparente, en medio de su caída.
+
+¡Y todavía ningún carcelero! Invisibles, pues, o vueltos invisibles. ¿No será su presencia la que produce ese chirrido odioso, intermitente, cuyo ruido, junto con el de las válvulas, es el único que se oye aquí?…
+
+¿Cómo han logrado estos hombres vivir en el vacío? ¿Es una costumbre ancestral la que les permite existir fuera de la atmósfera, de la atmósfera tan indispensable al hombre como el agua a los peces, de la atmósfera con su calor, su presión y su oxígeno…? ¿Es una raza de hombres completamente modificada por un tiempo milenario?… Es poco probable. Nuestros raptores, más bien, están provistos de escafandras resistentes e invisibles como ellos… A menos que sean esas escafandras las que los hagan invisibles… ¡La escafandra de Giges!… A menos también que no sean hombres… Pero esa conclusión repugna… Aunque… Aunque está la cuestión de la *clasificación*:
+
+Todos estos ejemplares de la fauna y la flora terrestres están colocados en orden, *pero no en el orden de los naturalistas*…
+
+Un hecho indudable es que formo parte integrante de una colección de tipos, de un museo, de una casa de fieras, o más bien de un acuario, puesto que, en lugar de estar verdaderamente como animales en jaula, estamos sumergidos en nuestro elemento vital, *sicut* peces en acuario. O más bien, puesto que ese elemento es el aire, estamos en un *aerario*… ¡Pues sí! ¡Un *aerario* tan bien concebido como el acuario soñado por Maxime Le Tellier para reproducir el ambiente de los fondos submarinos!… Y todos esos chirridos que me ponen la carne de gallina, ¿no serán una multitud misteriosa admitida a contemplarnos, quizá mediante el pago de una entrada?…
+
+Esta hipótesis se me ocurrió desde el primer minuto; su horror obsesivo me la sigue imponiendo. Se me ocurrió mirando todas aquellas caras espantosas vueltas hacia la mía… ¡Vociferaban! ¡Me interpelaban!… No oía nada: los veía gritar. El sol, muy bajo, nos iluminaba desde abajo; eso ponía sobre las cosas una luz de candilejas de teatro, brutal y lívida. Nuestras sombras no podían proyectarse más que sobre nosotros mismos. ¡Todos, todos, unos *Peter Schlemihl*! ¡Todos, hombres sin sombra!…
+
+El sol había descendido bajo el mar aéreo. La superficie del Aire apenas se adivinaba, y solo en el horizonte, con el aspecto de un anillo plano, diáfano, visionario. La Tierra inmensa, hueca y difusa, se doraba en el atardecer. Había una cinta azul entre el horizonte terrestre y el horizonte del mar aéreo, una cinta circular, y, recorriendo con los ojos la parte baja de esa cinta, distinguí (cuando me devolvieron mis gemelos, lo que contaré enseguida), distinguí los países.
+
+Desde aquí se ven las Baleares, la mitad de Cerdeña y hasta Leipzig, Ámsterdam, hasta Londres y Roma; desde aquí se descubre un círculo europeo de 1.500 kilómetros de diámetro, un tapiz geográfico extendido en hueco, en forma de copa, que desborda ampliamente la pantalla cuadriculada que forma el vivero de la planta baja. Los mares parecen llanuras oscuras. Mucha bruma, sobre todo en las lejanías.
+
+El sol se puso de golpe, pero el día había durado más que en la tierra, y yo había visto la noche entenebrecer Alemania cuando el océano Atlántico estaba aún soleado.
+
+En el cielo, de un negro espantoso, las estrellas brillaban con un fulgor incomparable. El mar atmosférico relucía serenamente. Aquí y allá, por la Tierra oscura, unas manchas vaporosas, fosforescentes, revelaban el lugar de las grandes ciudades. Las válvulas chasqueaban en un silencio de sepulcro. Mi valor flaqueó. Tuve miedo de aquellas gentes desconocidas y formidables que me habían capturado, miedo del lugar de espanto. Me avergonzaba no ser ya más que un número de colección, un artículo sin duda etiquetado… Las hermosas estrellas ya no se me aparecían como oasis de claridad en el desierto de la tiniebla… Me abatió un cansancio sin nombre, y me dormí en el mundo invisible tras haber sentido un alivio singular al cerrar los ojos, es decir, al dejar de ver por fin que no se podía ver nada.
+
+***
+
+Creí volverme loco al despertar, esta mañana del 4 de julio.
+
+¡Ah, mis pobres compañeros de miseria, a los rayos de esta aurora tan baja, en esta luz de ultramuerte!… La Tierra era una extensión verdosa, toda removida y aborregada de nubes; de vez en cuando, los Alpes lanzaban un fuego blanco. ¡Pero el aerario!, ¡con sus reclusos en todas las posturas de la miseria, de la desesperación y de la enfermedad!, ¡sostenidos en el aire como por hilos invisibles!…
+
+***
+
+Durante la noche me habían devuelto mis gemelos y mi aparato fotográfico, seguramente para ver qué hacía con ellos. El aparato está roto; ¡lloraría!… Con los gemelos empecé a pasar revista a los hombres. Pero muchos me daban la espalda. No he reconocido a nadie. Junto a cada huésped del aerario —incluso junto a cada animal— habían deslizado durante la noche hojas de lechuga, zanahorias y un agua muy hermosa que adoptaba la forma interior de su recipiente invisible: un huevo aplastado por arriba y por abajo. Es un espectáculo curioso. Mi vecino devoraba su lechuga… Debajo de él, un perro pastor lamía su agua ovoidal…
+
+Con el fin de comunicarme con mi vecino, escribí en un cuaderno «*Parlez-vous français?*» y le presenté la página. Meneó la cabeza y siguió devorando su lechuga…
+
+Pero entonces otro joven, muy flaco, que ocupaba la celda siguiente, atrajo mi atención con mímica. A las preguntas de mi cuaderno respondió con gestos, pues no tenía ni papel ni lápiz. Creí comprender que era reportero y que lo habían raptado en los alrededores de Culoz. Parece tener miedo de algo que no consigo captar.
+
+Un incidente perturbó aquella conversación. Hacia el norte, vi elevarse de la Tierra un punto negro. Con los gemelos, era un hombre. Parecía lanzado por una balista. Se detuvo a 3 kilómetros de nosotros (en horizontal), en el lugar adonde llegué yo ayer: el desembarcadero. Lo vimos levantado por la grúa y luego transportado por el flanco de nuestra colina, ¿quizá a través de calles y bulevares invisibles? Mis compañeros de cautiverio lo miraban con atención. Parecían felices de no reconocerlo… Lo izaron hasta mi nivel. Pero no lo convirtieron en mi vecino inmediato; dejaron entre él y yo, a lo largo de la fachada, el espacio de unas dos celdas. (Esa solución de continuidad se repite en todos los pisos y marca el centro del aerario, del lado de la fachada). Era un campesino amoratado, atónito, en camisa. Me di cuenta en aquel momento de que el número de pájaros había aumentado durante la noche: una lechuza, un cárabo, un búho real. La infernal trampa zumbadora ha trabajado bien desde ayer.
+
+§ He vuelto a sondear el espesor de la multitud. Esta vez he localizado a alguien: ¡Raflin!, el pretendiente rechazado de Fabienne d'Arvière; Raflin en bata, con un gorro de dormir de algodón.
+
+Por encima de las cabezas, allá lejos, del lado de los primeros que llegaron, una cabeza más grande, una cabeza de estatua, de jardinero Watteau… y también un sombrero de copa que cubría la cabeza de un maniquí… ¡Ah, la estatua de Anglefort y el espantapájaros!… ¡Cómo! ¡Con los hombres!……
+
+§ De cuando en cuando, una u otra de nuestras celdas se tapiza de escarcha y hace aparecer un cubo resplandeciente. El prisionero desfallece. Se le ve volver en sí tras el deshielo. No puede ser más que un fallo momentáneo en el funcionamiento de las válvulas. El frío y la sequedad del vacío que nos rodea son, sin duda, espantosos.
+
+§ Gracias a una ancha hendidura que abre en el humus cuadriculado un muro de contención invisible, casi debajo de mí, he podido aprovechar un claro entre las nubes para situarme. No es fácil. El aerario debe de estar un poco al sur del cenit de Mirastel. Con el telescopio del señor Le Tellier se le vería… Pero ¿qué azar llevaría su curiosidad hacia un lugar donde nada atrae a los astrónomos?… ¡Se cree tan poco que los desaparecidos están en el aire!
+
+§ Hacia las diez y media, el sol ha emergido del océano atmosférico, que se ha puesto a espejear. Ha descrito su curva en el cielo negro, como una gran naranja apenas aterciopelada por un halo llameante. La sombra del aerario se ha proyectado sobre la capa de las nubes. Luego, a la una y media, el sol ha vuelto a entrar bajo el horizonte gaseoso.
+
+Un poco más tarde, ¡he aquí que la estatua de jardinero Watteau y el maniquí espantapájaros han desfilado ante mí! Se han dirigido, uno detrás de otro, deslizándose, al primer piso, barrio de las cosas inanimadas. Deslizándose por planos inclinados. Allí se han colocado entre aperos agrícolas, agujas de reloj, una bandera tricolor, una gran bola amarilla, todo bien alineado.
+
+Y unos instantes después, un gallo de oro ha bajado, contoneándose, del piso de los pájaros y ha ido a reunirse con los dos simulacros en el baratillo del primer piso.
+
+Es bien evidente que allí se reparaban errores de clasificación, pero esto da extrañamente que pensar.
+
+***
+
+Las seis. Ha llegado un mono; un gran mono de la familia de los orangutanes. Escapado de una casa de fieras, con toda probabilidad, y sorprendido en el bosque por los sarvants. Lo han puesto cerca del campesino amoratado, con los hombres… Dentro de unos días lo bajarán, como a la estatua, al maniquí y al gallo. Pero ¿quiénes pueden ser esos individuos que se equivocan hasta ese punto?, ¿esos hombres tan ignorantes de la humanidad?, ¿tan diferentes de nosotros, tan evolucionados probablemente, que herborizan álamos, coleccionan guijarros y crían a sus hermanos de abajo?
+
+-->5 de julio.
+
+Ayer no pude seguir escribiendo: mis válvulas se detuvieron. Tuve que agotar mi reserva de oxígeno; pero me desmayé de todos modos, transido de frío, en un témpano cúbico. No recobré el conocimiento hasta la noche, durante la cual reflexioné.
+
+He aquí mis conclusiones:
+
+***
+
+No es una isla este suelo invisible que nos sostiene. No es una isla del mar atmosférico. Porque entonces sería una isla flotante, una especie de boya errante. Ahora bien, esto es fijo. Por tanto, tenemos que estar sobre un continente invisible que envuelve toda la Tierra dejando pasar la luz y el calor del sol: un continente de una sola pieza, como una delgada esfera hueca que englobara la Tierra y su atmósfera, sobre la cual descansa; un continente de una sola pieza, pero sin duda desgarrado, perforado por aberturas donde, a pesar de las leyes de la ciencia humana, el mar atmosférico de 50 kilómetros de profundidad está en contacto libre y directo con el vacío aireado, con el éter imperfecto de la segunda atmósfera.
+
+Sí, no puede ser más que un mundo concéntrico a la Tierra, una especie de continente-balsa esférico, una delgada película en la superficie del Aire, como la corteza terrestre no es, según algunos, más que una delgada película en la superficie del fuego interior. Es un globo ligero que rodea el planeta; la gravedad, actuando a la vez sobre todos sus puntos, lo mantiene a igual distancia de la Tierra, y la fuerza centrífuga que libera la rotación terrestre viene a redoblar ese efecto con una acción en sentido contrario. Cada molécula del continente invisible está solicitada por dos fuerzas opuestas que tienden cada una a inmovilizarla respecto del centro de la Tierra. Así, el mundo invisible está como remachado al mundo visible.
+
+¡Mundo invisible!, ¡como los planetas que la ciencia ha presentido!, ¡y, como ellos, habitado por un pueblo invisible! Un mundo muy ligero, sin duda, y tanto más ligero cuanto más lejos está de la Tierra… Aquí las cosas deben de estar con el aire en la misma relación en que las cosas de abajo están con el agua. Esta región es una Tierra a la que el vacío sirve de atmósfera, por así decirlo, y donde el aire desempeña el papel del agua… El mar aéreo viene a bañar sus costas… Quizá no haya más que un solo mar, un solo agujero perforado en el globo… ¡Pues sí! ¡Pues sí! ¡Es eso! Por eso los seres superaéreos, llamados sarvants, no se atreven a aventurarse con su artefacto más que en el Bugey, el Bugey que se encuentra evidentemente bajo ese mar único, el Bugey *que es el fondo de su lago*. ¡Tendrían miedo de perderse y de volver a subir bajo su continente, y de ahogarse *por falta de vacío*, ellos, para quienes el vacío es tan indispensable como el aire para los hombres y el agua para los peces!…
+
+Porque esas gentes han inventado una especie de campana de buzo, o más bien una especie de submarino. ¡Eh, he aquí la palabra!: un *subaéreo*, que les permite explorar el fondo de su mar y visitar sus llanuras desconocidas. Hacen oceanografía a su manera. Quizá los gobierne un invisible príncipe Alberto, y quizá sea él quien se monta un lindo museíto de oceanografía con los animales de las grandes profundidades, ¡a imitación de Mónaco!…
+
+El cilindro que vi blanco de escarcha al subir es el vivero de aire donde se depositan los animales pescados; no es más que una pieza de ese subaéreo, que, por su parte, tiene forma de cigarro, como nuestros propios sumergibles, ¡como también nuestros dirigibles! Es él lo que Maxime vio en la niebla, o al menos es el espacio *que el extraño barco-globo llenaba en la niebla y que aparecía tan confusamente que se veían las cosas a través*, ¡lo que Maxime achacaba a la velocidad!… Es también él —el subaéreo— lo que vimos en la nube (y por las mismas razones) el día en que creímos ver su sombra inmóvil…
+
+¡Ya caigo! ¡Ya caigo! Está «lleno de vacío», ese barco, si puede decirse así. ¡Por eso flota tan bien en el aire, como en el agua un barco lleno de aire! ¡Está provisto de *«air-ballasts»* en lugar de *«water-ballasts»* para bajar o subir!… ¡El vacío!, es decir, lo más ligero que hay en el mundo, el cero del peso, cuando el aire pesa 1,3 g y el hidrógeno 0,01… El vacío, que todos los aeronautas emplearían en lugar del hidrógeno si pudieran tener envolturas lo bastante sólidas y a la vez lo bastante imponderables para resistir el enorme empuje del aire ambiente sin anular con su peso la ventaja ascensional del vacío.
+
+Pero, de verdad, ¡todo esto es de una sencillez escandalosa! ¡El agua y el aire! ¡Si son dos elementos gemelos, gobernados por los mismos principios esenciales! ¡La hidrostática es hermana melliza de la neumática! ¡El mar acuático y el mar atmosférico! ¡Cuántas veces se los ha comparado!… Por lo demás, ni uno ni otro terminan bruscamente en una superficie precisa… El agua del mar se continúa en el aire en vapores salinos que no vemos; del mismo modo, el mar atmosférico se continúa en el vacío aireado en efluvios degradados que no sabría percibir… Ambos tienen sus mareas lunares, y el océano gaseoso tiene incluso mareas solares… ¡Tienen sus remolinos!… Aquí, sin embargo, los pájaros hacen las veces de peces superiores, y nosotros, los hombres, criaturas de los fondos a los que nos ata nuestra pesadez, somos pobres crustáceos que se arrastran miserablemente…
+
+¡La atmósfera, que pesa sobre la Tierra lo que pesaría una capa de 10 metros de agua envolviéndola por todas partes!… ¡El mar atmosférico, donde las montañas son los bajíos!, unos bajíos más accesibles a los sarvants porque están más cerca de la superficie, porque, para alcanzarlos, tienen que dejar entrar menos aire en sus *air-ballasts*, ¡lo que explica por qué pescan en ellos tan a gusto!
+
+¡Porque nos pescan! ¡Nos pescan! Luego nos encierran en estos recipientes, en estas cubas (que deben de ser transparentes incluso para los sarvants), ante los ojos de un público indiscreto, en este palacio, en este museo monumental, ¡sin duda en medio de una gran ciudad a orillas del mar!
+
+¡Y nunca hemos adivinado nada! Engañados por la invisibilidad de este universo que no estorbaba en absoluto la visión telescópica, que los bólidos que caen sobre la Tierra atravesaban como una bala Lebel atraviesa una corteza de corcho y que las estrellas fugaces dejaban muy por debajo de sí, no hemos adivinado que por encima de nosotros se asentaba un mundo más vasto que el nuestro, con un radio 50 kilómetros mayor y que gira sobre el mismo eje que el bloque terrestre, pero más deprisa todavía, puesto que está más alejado del cubo de rotación. Y jamás habríamos supuesto que allí trabajaba una población activa y, con toda verosimilitud, innumerable; que pensaba, inventaba, fabricaba; que lanzaba sobre su mar atmosférico barcos cada vez más perfeccionados (barcos cuyos restos naufragados se han quedado entre dos aires en lugar de bajar hasta nosotros); que hacía (a ciegas, creo) sondeos marítimos; y que, por último, llegaba a esa proeza naturalmente festejada, glorificada, aclamada: la construcción de un subaéreo.
+
+Es más que probable que el primero que botaron sufriera grandes daños. Mal dirigido por aprendices, arrastrado lejos por el viento como por un torbellino submarino, fue, creo, ese aeróscafo el que causó la célebre colisión del mes de marzo. Debió de chocar primero con el paquebote francés y, un segundo más tarde, con el destructor inglés, o viceversa. Aquel día, los marineros invisibles se libraron por los pelos, arrastrados tan lejos, y el subaéreo debió de sufrir averías serias cuya reparación justifica todo el tiempo transcurrido desde aquel accidente hasta las depredaciones de Seyssel.
+
+La prudencia y la experiencia les han llegado…
+
+Quizá nos acechan desde hace siglos a través del cielo; quizá esperaban con impaciencia y codicia el momento de su progreso en que pudieran bajar hasta los hombres y estudiarlos; quizá el subaéreo no sea más que una copia de nuestros dirigibles, observados con los catalejos de los sarvants… Pero eso no lo creo. Sus errores de clasificación me probarían más bien que todavía no han observado el suelo donde vivimos. Apostaría a que el aire, bajo un gran espesor, es para ellos una sustancia no transparente, como lo es para nosotros el mar; a que su suelo, invisible a nuestros ojos, es a los suyos opaco; y a que no pueden distinguir a través de él, por debajo de él, ni el océano de aire que lo sostiene ni el fondo terrestre de ese océano.
+
+Apostaría incluso a que *no tienen ojos*. ¿Para qué servirían los ojos en un mundo invisible? No: nada de ojos, y entonces todo lo que acabo de decir se aplica al sentido que en ellos sustituye a la vista. No: ¡nada de ojos!, y el día y la noche no influyen en su percepción del mundo exterior más de lo que influyen en la nuestra la presencia o la ausencia de olor. En efecto, por una parte, no poseen luz artificial para alumbrarse de noche (algo así los habría dado a conocer a la humanidad hace mucho tiempo, y no he visto esta noche el menor resplandor) y, por otra, se dirigen admirablemente en el fondo de su mar, en nuestras tinieblas más negras; lo que prueba que nuestra oscuridad no es la suya, que no es oscuridad para ellos.
+
+Y si se considera que sus fechorías se cometen con más frecuencia de noche, se puede incluso sostener que es de noche cuando mejor perciben; que es de noche cuando tienen toda la potencia de sus medios, y que la oscuridad es tan favorable a su sentido de orientación como la luz es favorable a nuestra vista.
+
+¡Locos que somos, pobres seres sumergidos por el océano de gas, nosotros que nos creemos los amos de la Tierra! ¡No sospechamos que otra humanidad, más considerable que la nuestra, existe por encima de ella, ignorándonos, suponiéndonos apenas y atribuyéndonos el ingenio que nosotros atribuimos a los cangrejos! ¡Otra humanidad que se cree evidentemente la única reina del planeta! Otro pueblo, sobre un mundo exterior al nuestro y que los astrónomos de Marte o de Venus toman quizá por la verdadera Tierra, si nuestra atmósfera no es transparente para lo que les sirve de pupilas y si ven, por el contrario, lo que nuestras pupilas son impotentes para distinguir. Nosotros, los astrónomos terrestres, ¿no tomamos así durante mucho tiempo la fotosfera —la atmósfera deslumbrante del Sol— por la superficie misma del astro?
+
+***
+
+§ Acaba de llegar un adolescente entre nosotros. Está al lado del mono. Lo hemos visto avanzar sin un movimiento, con esa extraordinaria progresión suspendida en la inmensidad. Una mujer de cierta edad se ha puesto a llorar y le ha tendido los brazos…
+
+§ Maxime Le Tellier me ha reconocido. Me hace señas de lejos.
+
+***
+
+§ Mi hipótesis del continente-balsa explica por qué los bólidos que no llegan siguiendo la dirección del radio terrestre rebotan siempre en algo que hasta ahora se creía que era el colchón atmosférico, y luego van a perderse en el infinito…
+
+A decir verdad, parece que esta última frase, relativa a los bólidos, nunca llegó a leerla el duque de Agnès. Porque, en el momento en que la empezaba, un instinto sin réplica le hizo saltar hacia delante, igual que al señor Le Tellier, y los apartó de la masa invisible contra la que ambos se apoyaban.
+
+Aquella masa, silenciosa hasta entonces, acababa de producir un chirrido desagradable justo en la espalda del señor de Agnès.
+
+—¡Siga! ¡Siga con el diario! —dijo el señor Le Tellier—. ¡Esto corre prisa, corre prisa!
+
+Pero había que contar con otros retrasos.
+
+Durante la lectura del cuaderno rojo, la concurrencia había engrosado con bomberos, guardias municipales, sabios, autoridades y sobre todo, por desgracia, obreros metalúrgicos que trabajaban por entonces en la parte trasera del Grand Palais (avenue d'Antin). Estos habían venido como curiosos y no habían entendido nada del diario, cuya primera parte ignoraban. Los buenos herreros se imaginaron —no se sabe cómo ni por qué— que había en la masa invisible prisioneros de su especie; y cuando chirrió el chirrido, uno de ellos, el compañero Virachol, llamado *Gargantúa* por su gigantismo y su obesidad, proclamó que era «sanguinario» «dejar a unos hombres ahí dentro». Y empuñaba una enorme palanca con la que quería reventar lo invisible.
+
+Sujetaron a Virachol. Pero cada vez que el chirrido volvía a empezar, Virachol volvía a empezar también. De tal modo que no podríamos reproducir todas las interrupciones que perturbaron el final de aquella lectura pública sin componer un galimatías indescifrable.
