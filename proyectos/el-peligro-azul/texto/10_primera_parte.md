@@ -1935,3 +1935,379 @@ Pero ya no eran los únicos en meditar aquel 20 de mayo de 1912. Por entonces, t
 Sin embargo, ya no era tiempo de reflexiones, y, sin dejar de rumiar la historia de su suegra, el señor Le Tellier se preparaba para la vigilancia, como se va a ver. Pero los sarvants parecían tener ahora por táctica saltar de un punto a otro, sin orden, a la buena de Dios, y se había deducido de aquella incoherencia (regular, en cierto modo) que no se abatirían sobre Mirastel veinticuatro horas después de haber registrado Ameyzieu.
 
 De todas las faltas que podían cometerse, esta fue declarada después la más grave.
+
+## XIII. LOS SARVANTS EN MIRASTEL
+
+Desde la reanudación de los pillajes nocturnos, Maxime había calculado las ventajas que ofrecería a la casa amenazada la instalación de un faro. Excelente medio de defensa y de observación, nada era más fácil de improvisar. A instancias de su hijo, el señor Le Tellier hizo venir de París dos proyectores de acetileno de una potencia notable, que dos vigilantes manejarían constantemente todas las noches. Recibidos el 20 a la una, con la tubería y el generador, se pusieron sin demora a instalarlos. Los alojaron en el desván de la torre sudoeste (la del laboratorio de Maxime), bajo la cúpula baja. Dos anchas claraboyas diametralmente opuestas, una al septentrión y otra al mediodía, horadaban con sus rectángulos modernos la techumbre Luis XIII; bastaba con apuntar por ellas los proyectores giratorios para poder dirigir sus haces en todas direcciones, pues cada uno de los dos sectores iluminables era exactamente la mitad del espacio.
+
+Como no se esperaba a los sarvants hasta el día siguiente, el trabajo de montaje se ejecutó, creemos, con más minuciosidad que rapidez. A la hora de la cena solo había un fanal en su sitio. Es cierto que se había cargado el gasógeno.
+
+Después de la comida, el señor Le Tellier —siempre pensando en el día siguiente— reunió a la servidumbre y dio a los criados un curso de observación. Preconizó la calma, la sangre fría, las notas tomadas lo antes posible, escritas en cualquier parte, en una pared si hacía falta, con un trozo de carbón, con una piedra puntiaguda… Pensaba repetir todo aquello y hacer recitar su teoría al día siguiente.
+
+Cayó la noche. La señora Le Tellier, mirándola espesarse, juntaba las manos y murmuraba: «¡Marie-Thérèse! ¿Dónde estás, mi pequeña Marie-Thérèse?». Para apartarla de su idea fija, la señora Arquedouve se preguntó en voz alta qué lugar sería la víctima esta vez. Y en esto Robert propuso terminar el montaje de la segunda linterna.
+
+Se le objetó que era mejor hacerlo a plena luz del día y que para ello se disponía de dieciocho horas de sol.
+
+Comenzó entonces una de esas veladas tan penosas para quienes tienen el corazón triste. Cada cual se ingeniaba para matar el tiempo. La señora Le Tellier intentó sacar un solitario. Su madre hizo ganchillo, labor en la que su habilidad superaba la destreza de las videntes. No lejos de ellas, en el billar contiguo al salón, el señor Le Tellier, Maxime y Robert empezaron una partida de carambolas.
+
+Habían dejado las ventanas abiertas de par en par, porque hacía buen tiempo y una noche tibia. Daban a la terraza. La luz del interior iluminaba los castaños de Indias y las primeras ramas del ginkgo, planos y pasmados como árboles pintados. Más allá del parapeto se entreveía confusamente el campo, oscuro y azul. El choque de las bolas, el ruido de los pasos que pisaban la alfombra, algunas voces del lado de la despensa…, nada más sobre el fondo del silencio. A intervalos, no obstante, un tren surcaba con una estela de carbunclos la sombra profunda, resonaba metálico en el puente de Marlieu y abandonaba la escena. Se oían también —pero aguzando el oído— leves movimientos de la grava: eran las idas y venidas de Floflo, buen centinela de guardia.
+
+Semejantes veladas, tan dulces, deberían ser siempre fiestas…
+
+*Pero ¿qué pasa?*
+
+¿Qué pasa?… ¿Por qué acude la señora Arquedouve a la sala de billar, con las manos por delante, la cara trastornada, balbuciendo de terror?…
+
+—¿Qué tiene usted? —exclama el señor Le Tellier.
+
+—¡Ah! Jean… Jean… ¡Ya están aquí!
+
+Y se aferra al brazo de su yerno.
+
+—¡Ya están aquí! Los oigo… ¡Los siento, más bien!…
+
+Ya Robert se ha lanzado y se precipita hacia la torre del proyector.
+
+—¡Cierren las ventanas! —gime la señora Le Tellier, que llega blanca como una muerta.
+
+—¡No! —replica Maxime—. Hay que intentar ver… oír… ¡Chis!…
+
+—¿Y si subiéramos a la torre? —dice el señor Le Tellier.
+
+—No… No hay tiempo… ¡Chis, chis!…
+
+Escuchan. Son como figuras de cera en un museo. Oyen a Robert subir de cuatro en cuatro la escalera de la torre; oyen reír del lado de la cocina… silbar un tren… el ir y venir del lulú… Salvo la señora Arquedouve, nadie oye nada más allá de esos ruidos. Y, sin embargo, escrutan con toda su alma la noche, que el contraste de los follajes luminosos hace más impenetrable… Querrían escuchar con los ojos… Pero las tinieblas son las mismas para sus pupilas y para sus oídos.
+
+—¡Escuchen! —susurra la ciega—. Ahora están muy cerca…
+
+No oyen nada.
+
+Sí: un mugido. Sí: un relincho. La granja se ha despertado. Los patos lanzan en la noche unos cua-cuás asustados, como si se acercara el zorro o la comadreja; y he aquí que las gallinas dejan oír un cloqueo prolongado, como cuando el águila planea sobre ellas… Las ovejas entonan un coro de lamentaciones desgarradoras… Reina la angustia entre los animales. Y Floflo, que se ha detenido, gruñe de pronto.
+
+La señora Arquedouve ha levantado el dedo y dice:
+
+—Los animales también comprenden. También ellos oyen.
+
+Se hace entonces un silencio momentáneo… Y por fin, de las profundidades de ese silencio, todo el mundo oye llegar *el zumbido*.
+
+Es la llegada de una mosca grande o, mejor, de una falena. Sí, es el zumbido de la falena suspendida sobre las flores en las que hunde su larga trompa, un murmullo a la vez robusto y suave, que parece *estridente* aunque es muy bajo, que es en efecto curiosamente *sombrío*, incluso en el seno de la oscuridad… y que a uno le trepida en el pecho como el eje de transmisión de un vapor.
+
+Por lo demás, he aquí que los cristales entran en vibración.
+
+Murmuran:
+
+—¡Viene de arriba! —¡No! —Viene de la marisma. —¡De Artemare! —¡De Culoz!
+
+—¡De la montaña! —dice la abuela, jadeante.
+
+La señora Le Tellier, con una mano sobre la garganta palpitante, pronuncia en un soplo:
+
+—Todavía está muy lejos, mamá, créa…
+
+Pero no ha terminado cuando una brisa ligera, inexplicable, aviva las frondas; las hojas susurran; y de pronto resuena un «CLAC» ensordecedor.
+
+Todos se sobresaltan con el chasquido seco que acaba de retumbar fuera, no se sabe dónde, no lejos, desde luego, y, según parece, en el aire.
+
+Floflo ladra furiosamente.
+
+—¿El rayo? —pregunta la señora Arquedouve.
+
+—No, madre —le responde el señor Le Tellier—, no ha habido relámpago. No hemos visto nada.
+
+—Entonces tampoco es una chispa, un relámpago artificial…
+
+—Evidentemente.
+
+—¡Maxime, quítate de la ventana! —implora la señora Le Tellier.
+
+—¡Escuchen otra vez! —ordena el astrónomo.
+
+El perro da voces y sale disparado hacia el fondo del jardín. Persigue a los sarvants, seguro; se escabullen… Por otra parte, el zumbido ha cesado… Pero la señora Arquedouve afirma que todavía lo distingue… El perro se calla… Se respira. Las facciones de la ciega se relajan…
+
+¡Un grito agudo!
+
+No es nada. Es la señora Le Tellier, que se asusta al ver un gran chorro de luz inesperado lanzado al cielo como una flecha de deslumbramiento, como un rayo de sol que atravesara la noche… Esa aurora disparada parece completar el chasquido de hace un momento, como un relámpago que siguiera al trueno, prodigiosamente… Pero la claridad persiste y dura.
+
+—No tengas miedo, Luce —dice el señor Le Tellier—, no es más que el faro.
+
+Un minuto después se reunía con su secretario en el pequeño desván redondo.
+
+De pie en un taburete, Robert desaparecía de medio cuerpo a través de una de las claraboyas y hacía describir al haz resplandeciente —solar por su potencia, lunar por su blancura— vastas curvas, ora celestes, ora terrestres. Dardeaba su cohete de día sobre todo el país meridional, que podía abarcar desde allí. El faro iluminaba sucesivamente pueblos, montañas, bosques y castillos; parecía proyectar su imagen sobre una pantalla negra, a la manera de una linterna mágica. Pero por más que Robert se inclinaba y levantaba el proyector con su pesado soporte para ampliar así hacia el Colombier su campo de exploración, no descubría absolutamente nada que no fuera legítimo. Los sarvants estaban ya fuera de la vista.
+
+—¿Los ve usted? —preguntó el señor Le Tellier.
+
+—He perdido demasiado tiempo —respondió el secretario—. Tenía que cebar el generador, encender… Es largo. Se han ido. Pero no han hecho nada.
+
+Y, cansado, abandonó el proyector, que basculó, barrió la extensión y quedó apuntando al suelo, irradiando sobre la terraza.
+
+—¡Oh! —exclamó Robert—. ¡Mire, maestro!
+
+—¿Qué? —dijo el astrónomo asomando la cabeza.
+
+—¡El ginkgo! ¡Lo han cortado!
+
+El señor Le Tellier pudo ver, en efecto, a la luz del acetileno, que habían descabezado el *ginkgo biloba*. Desde su puesto dominante divisó el tronco cortado, cuya sección formaba un disco pálido.
+
+De un solo golpe, el sarvant había tajado aquel madero del grosor de un cuello y duro como el roble; ¡de un solo golpe de cizalla tan bien aplicado, tan rápido y tan certero que el árbol ni siquiera se había estremecido!; ¡de un solo golpe de aquella cizalla cuyo «clac» había oído tiempo atrás un guarda forestal en el bosque, aquella cizalla en la que ya nadie pensaba y que podaba sin piedad todas las plantaciones del Bugey!
+
+—¡Bien han escogido! —observó el señor Le Tellier—. ¡Ah, los bribones! ¡El árbol más hermoso de la región! ¡El único ginkgo!… Pero ¡cómo se han escabullido! La señora Arquedouve sostiene que llegaron por la montaña; se habrán ido del mismo modo, ¡y es precisamente el sector que usted no podía iluminar!… Además, ¡pardiez!, el perro los ha seguido hasta el fondo del jardín. ¡Ah, bien que los ha olido! ¡Valiente Floflo!
+
+—¡Pobre Floflo! —dijo Robert, que parecía extremadamente preocupado.
+
+—¿Por qué «pobre»? ¿Es que se lo han llevado?… ¿Ha visto usted cómo se lo llevaban?…
+
+—No… Pero dejó de ladrar de repente…
+
+—¡Floflo!… ¡Floflo!… —gritó el señor Le Tellier.
+
+Ni rastro de Floflo.
+
+No se atrevieron a buscarlo en las tinieblas inquietantes. La cocinera lo llamó toda la noche por el resquicio de un ventanillo… Se lo habían llevado.
+
+Así fue como Mirastel fue embrujado por los sarvants, a los que también se llamaba «hombres voladores», y asimismo *ornitántropos* o *antropórnix*.
+
+Sin embargo, los testigos de todo esto seguían perplejos, no solo por la prontitud y la destreza de los merodeadores, sino además al recordar el viento que había soplado sobre las hojas. Había soplado apenas un segundo, aquel viento: el tiempo de un aletazo…, como si de verdad un ala hubiera abanicado las hojas… Y cuando se pensaba en los animales despertados, alarmados, en las aves de corral cloqueando ante el ave de presa, la hipótesis de las águilas (¡insensata!) recobraba toda su fuerza.
+
+En vano se amonestó el señor Le Tellier y recordó que los buscadores de nidos de águila reclutados por su cuñado habían vuelto con las manos vacías. No por eso dejó de estremecerse de un terror fabuloso cuando se enteró, la tarde siguiente, de una rareza nueva y sofocante.
+
+## XIV. EL ÁGUILA Y LA VELETA
+
+Los sarvants no se habían contentado con visitar Mirastel. También habían forzado el pueblo de Ouche, por encima del castillo.
+
+Avisado por la mañana, el señor Le Tellier se dirigió al lugar con Maxime y Robert. Les mostraron dos bancales de coles y uno de zanahorias, completamente cosechados por los merodeadores enigmáticos, y el sitio donde la víspera se erguía aún una piedra estrafalaria de la que no quedaba más que un agujero en la tierra.
+
+—Siempre la misma cantinela —dijo Maxime—. ¡Estos señores parodian a los fantasmas! Fingen adjudicarse las cosas excepcionales, incluso inútiles, para causar efecto: una especie de menhir, una rama de ginkgo, un lulú de Pomerania…
+
+Robert se cruzó de brazos.
+
+—¿Le parece a usted —dijo— que unas coles y unas zanahorias son rarezas inútiles?… ¿Ha observado con qué encarnizamiento devastan nuestros enemigos los cultivos de huerta desde hace poco? ¡Ellos, que al principio no se apropiaban de dos objetos idénticos, ahora echan mano a toda clase de hortalizas!
+
+—¡Vamos, vamos! ¡Todo eso es para fastidiar a los ciudadanos! ¡Para que paguen más cara su tranquilidad!
+
+—¿Ven ustedes alguna huella de herramientas? ¿De pasos? —preguntó el señor Le Tellier—. Yo no.
+
+—Nada; como siempre —respondió Robert. Y añadió—: Diga, señor Maxime, de todos modos, reflexione: cuando se trata de animales y de seres humanos, los sarvants tampoco son muy exigentes en cuanto a la calidad, ¿verdad? Arramblan con cualquier mujer, con un hombre cualquiera, con el primer gato que encuentran y con montones de conejos sin valor, salvo excepciones que parecen debidas al azar… Confiéselo. ¿No es eso lo que piensa, si lo reflexiona? ¿No es eso?
+
+—Sí, es justo —confesó el incrédulo al cabo de un instante.
+
+—Pues bien… —prosiguió Robert en un tono casi alegre—. Pues bien…
+
+—¿Qué, por fin?
+
+—Que podría ser que estuviera usted en un error, nada más.
+
+Y cortó toda insistencia dejando a sus compañeros. Rogó al señor Le Tellier que le disculpara si no volvía a la hora del almuerzo, y bajó hacia Artemare.
+
+El padre y el hijo tomaron de nuevo el camino de Mirastel.
+
+—¡Con tal de que no cometa imprudencias! —murmuró el astrónomo.
+
+—Es testarudo —dijo Maxime—. Impenetrable y testarudo. ¡Pero valiente! No es la primera vez que se va solo… Lo sé. Se escapa a hurtadillas…
+
+—Daría su sangre por encontrar a Marie-Thérèse…
+
+—Ella lo vale —refunfuñó Maxime—. ¡Vale la sangre de un duque!
+
+—De todos modos —prosiguió el señor Le Tellier sin recoger la alusión—, quisiera que ya estuviese de vuelta… Y además habría querido consultarle sobre el faro…
+
+—¿El faro? ¿Qué hay que hacer con él? Muy sencillo: desmontar el proyector e instalarlo, junto con el otro, en Machuraz. Salvo al principio de su campaña, esos bromistas nunca han vuelto a las mismas localidades; no volverán a Mirastel. Pero todavía no han fastidiado a Machuraz; hay que pedir a los dueños del castillo permiso para alojar allí nuestra luz. Vamos enseguida.
+
+Así se hizo.
+
+***
+
+Los dos Le Tellier no quisieron confiar a nadie el cuidado de desmontar la linterna y volver a embalar espejos y lentes. Pusieron en aquella manipulación tanto miramiento y tanta falta de práctica que se vieron obligados a terminar el trabajo después de cenar. El asunto de la víspera les había enseñado a no dejar para mañana lo que se puede hacer hoy. Volvieron a subir, pues, al desván de la torre con una lámpara y pusieron manos a la obra, mudos y con aire preocupado, porque Robert Collin no había vuelto.
+
+Trabajaron así algún tiempo, sin decir nada, escuchando por si alguien subía la escalera gritando «¡Aquí estoy!». Pero el crujido del papel de embalar llenaba él solo todo el crepúsculo y, de cuando en cuando, por encima de ellos, chirriaba la alta veleta…
+
+Por fin alguien subió la escalera.
+
+—¡Aquí estoy! —dijo Robert.
+
+—¡Ah, amigo mío, qué inquietos nos ha tenido! —exclamó el padre.
+
+—¿De dónde diablos viene usted? —se informó el hijo.
+
+—De la cumbre del Colombier.
+
+Maxime inspeccionó al secretario y se burló:
+
+—¡Qué limpio viene usted para un hombre que baja de la montaña! ¡Qué muchacho tan cuidadoso! Ahí lo tienen, de punta en blanco como esta mañana, con su levita cepillada, sus botines relucientes…
+
+—Ha sido una grave imprudencia —rezongó el señor Le Tellier—. ¡Bien sabe usted que el lugar es peligroso!
+
+—No temo nada —dijo Robert limpiando sus gafas de oro con un gestito sosegado—. Creo haber encontrado un preservativo contra los… sarvants… No, no: no me pregunten nada. Confiarles mi procedimiento sería ponerles sobre la pista de mis hipótesis… y les suplico que me den crédito. Por lo demás, tengo que hablarles de un hecho… del que acabo de ser espectador… Desearía su opinión al respecto… No deben enfadarse si hoy me limito a revelarles el hecho, sin decirles lo que yo mismo pienso de él… Además, lo que pienso es tan vago y tan… No me creerían. Me enredarían las ideas con objeciones… Y, en fin, ¿verdad?, tengo interés… en cierto modo… en encontrar la solución yo solo, a causa de… En fin, es una especie de concurso… La señorita Marie-Thérèse, ¿verdad?…
+
+—¡Siga de una vez! ¡Siga! —rugió Maxime, impaciente—. ¿Qué ha visto usted?
+
+El hombrecillo se ajustó las gafas sobre la nariz, se tironeó la fea barba espumosa y dijo:
+
+—He visto un águila.
+
+Ahora los miraba a los ojos, al uno y al otro.
+
+El señor Le Tellier acababa de dar un respingo.
+
+—¿Ah? —dijo—. He pensado mucho en eso hoy… ¡Pero es tan extraordinario!…
+
+—He visto un águila extraordinaria —recalcó Robert Collin.
+
+Maxime le apremió:
+
+—Extraordinaria… ¿en qué sentido?… ¿Enorme?
+
+—Eso no lo sé. Me faltaba un término de comparación para calcular su tamaño. Estaba apoyado en el poste de la cruz, desde hacía quizá una hora, cuando la vi pasar muy lejos, hacia el este, por encima del Ródano, y muy alta. Aquella águila volaba del sudeste al noroeste. No me había fijado en ella hasta entonces, porque había otras un poco por todas partes. Pero aquellas eran águilas normales… como lo había sido también ella hasta el momento en que… En resumen, lo que hizo que me fijara en ella fueron unos aletazos desordenados y totalmente extravagantes… Tenía unos gemelos; me serví de ellos enseguida. Y comprobé que la rapaz se entregaba a una especie de conjuro enloquecido, sin dejar de avanzar a una marcha que me pareció mediana (aunque también ahí me faltaban puntos de referencia para determinar la velocidad del animal).
+
+»La seguía con facilidad.
+
+»Pero de pronto desapareció de mis gemelos… Entonces, a simple vista, la vi subir por el cielo siguiendo una oblicua cercana a la vertical y con una rapidez considerable… Solo que parecía disminuida… empequeñecida… Tuve la suerte de poder alcanzarla de nuevo con los gemelos y, antes de que se hundiera en las nubes, reconocer la causa de aquella disminución. *Y es que el pájaro había plegado las alas*.
+
+—¿Eh? —protestó Maxime—. ¿Subía *sin volar*? ¿Sin planear siquiera?
+
+—¡Eso sí que es fuerte! —completó su padre.
+
+Robert lo confirmó:
+
+—Sin volar. Sin planear. ¡Sin hacer más movimientos que un águila disecada en una percha!
+
+—Al menos, ¿está usted seguro de haber visto bien?
+
+—Sí, señor Maxime, respondo de mí. Y entonces, ¿qué dicen ustedes del fenómeno?
+
+—Veamos —dijo el astrónomo—. ¿De qué naturaleza eran los aspavientos que precedieron a ese vuelo fantástico?
+
+—Aletazos brutales, en todas direcciones, que debían de exigir todo el vigor del animal.
+
+—… ¿y que lo mantenían a buena marcha y a la misma altura?
+
+—Sí.
+
+—En suma —propuso Maxime—, ¿era comparable a las contorsiones que practican los discóbolos antes de lanzar el peso o el disco?
+
+—Dios mío… sí.
+
+—Entonces —prosiguió el señor Le Tellier—, ¿sería un impulso que su águila habría tomado antes de lanzarse hacia el cenit?… ¿Sería una manera de almacenar energía?…
+
+—Eso le pregunto yo, maestro… Pero es seguro que un ave carnicera que vuele con esa diligencia puede eclipsarse en un santiamén después de haber cometido su latrocinio.
+
+—¿Y de qué color era?
+
+—Leonado claro; algo así como el plumaje de una rapaz nocturna.
+
+—¡Ah! ¡Vaya, vaya! —dijo el señor Le Tellier sin darse bien cuenta de lo que pensaba—. Después de todo, quizá fuera gigantesca, esa águila, puesto que usted no… ¡*Escuchen*!… *¿Quién sube la escalera?*…
+
+Callaron. Los peldaños de madera resonaban sordamente. Alguien subía por las espiras y tropezaba con los escalones en su precipitación… El señor Le Tellier tomó la lámpara y se acercó a la puerta en el momento en que la señora Arquedouve surgía de la sombra…
+
+Tenía una cara del otro mundo, y lanzó con voz gris este grito de alarma:
+
+—¡Los sarvants!… ¡Otra vez! ¡Vuelven!…
+
+Había sido un clamor terrible y singular, como un aullido susurrado.
+
+—¿Vienen?… —repetía el señor Le Tellier.
+
+—¡Rayos y truenos! —juró Maxime—. ¡Ya no tenemos faro!
+
+Pero, sin perder un segundo, Robert había apagado la lámpara de un soplo, y las dos claraboyas recortaban ahora dos rectángulos de cielo que parecían aclararse poco a poco. Maxime comprendió la maniobra; saltó sobre la caja que contenía el generador, metió el busto por una de las lumbreras y levantó contra el tejado el bastidor acristalado.
+
+Robert, en la otra claraboya, hacía el mismo zafarrancho. Cada uno descubría la mitad de la extensión; todo quedaba, pues, a merced de su penetración. Estaba oscuro, sin embargo. Pero en un radio de un centenar de metros un hombre —o algo de igual volumen— no podía escapárseles.
+
+Entre ellos, detrás de ellos, en la oscuridad del desván, oían temblar a la señora Arquedouve, y detrás de ellos, entre ellos, en el pináculo de la cúpula, chirriar de vez en cuando la veleta de hierro forjado.
+
+El zumbido de falena acababa de nacer… ¿Dónde?… En todas partes, al parecer: a la derecha, a la izquierda, en el aire, en el fondo de los pechos…
+
+Como la víspera, miraban la noche con todos sus ojos, sus débiles ojos de animales diurnos…
+
+El establo, la cuadra, el gallinero se despertaron. El aprisco sollozó…
+
+La penumbra les parecía unas veces deslumbrante, luego oscura hasta volverse opaca…
+
+A lo lejos (?), el sarvant zumbaba.
+
+Robert sintió que una brisa le acariciaba la frente y redobló su vigilancia.
+
+Maxime también sintió la brisa…
+
+Y la veleta chirrió… *Pero, en lugar de chirriar una sola vez, sucedió el prodigio admirable de que ya no dejó de chirriar y se puso a girar sin tregua, como una carraca*…
+
+La brisa, que seguía soplando, se calmó. Maquinalmente, los dos vigías se habían vuelto hacia la veleta. La vieron entonces inmovilizarse a medida que caía el viento. Y reanudaron la vigilancia de la llanura y de la montaña.
+
+De pronto, detrás de ellos, entre ellos, en el pináculo de la cúpula, retumbó el «CLAC» ensordecedor.
+
+Un retroceso instintivo metió las dos cabezas al abrigo del tejado, y se oyó la caída de un objeto duro y pesado que raspaba en su descenso las pizarras sonoras… Luego nada… Luego la llegada del objeto a la grava de la terraza…
+
+El zumbido se había desvanecido.
+
+—¡Caramba! —jadeó el señor Le Tellier enjugándose las sienes.
+
+—¡Desaparecidos! ¡Volados! —dijo Robert, que había vuelto a su posición de observación—. ¡Maldita sea! ¡Qué mala pata!… La veleta ya no chirría en absoluto… *¡Ah! ¡Ya no está ahí!* ¡Se ha caído!… ¡Es ella la que se ha caído!
+
+—La han derribado —completó Maxime en la otra abertura—. Pero esta vez no se han llevado nada. Han dejado caer su presa. Seguramente se les ha escurrido de las manos…
+
+—¡Y el proyector! —añadió el astrónomo—. ¡Esto es lo que se llama tener la negra!
+
+—¡No he visto nada! —refunfuñaba Robert—. ¡Detrás de nuestras cabezas! ¡Qué mala suerte!… ¡Y no haber podido resistir el movimiento nervioso que nos ha hecho meternos dentro, cobarde y estúpidamente…!
+
+—¡Ejem! ¡Ejem! —dijo la señora Arquedouve, desplomada en los últimos peldaños del caracol.
+
+—¿Qué ocurre, abuela?… ¿Es que vuelven a la carga?
+
+—Se… Se están yendo ahora… Ya. Se han ido.
+
+—¿Sí?… En fin —dijo el señor Le Tellier—, ¿se han ido *de verdad* ahora? ¿Se puede salir sin peligro?… Sería bueno ir a buscar la veleta. Su examen quizá nos informe… Se ha comportado de un modo asombroso…
+
+Bajaron.
+
+Pero de la veleta-carraca no encontraron más que una depresión de su tamaño y de su forma, abierta en la grava, bajo las ventanas del laboratorio, donde había caído.
+
+—¡Esto ya es demasiado! —gruñó Maxime—. ¡Han vuelto a recogerla!… La abuela tenía razón: ¡no se habían ido!… Eso prueba que no se les oye más que de muy cerca… ¡Oh, y pensar que se les habría visto desde mi laboratorio!, ¡que se les habría visto recoger esa veleta!, ¡y que sabríamos qué cara tienen!
+
+—La cara… o el pico… —aventuró el señor Le Tellier.
+
+Robert, meditabundo, pensaba en voz alta:
+
+—Esa veleta… girando sobre sí misma…, parecía el centro de un… parecía atrapada en medio de un torbellino… de un pequeño ciclón… amortiguado… ¡Eh, señor Maxime!: la brisa la sintió usted de izquierda a derecha, naturalmente, puesto que estábamos espalda contra espalda y yo la sentí de derecha a izquierda, ¿no?
+
+—Pues no, pues no; soplaba desde mi derecha…
+
+—¡Ah, ah!… Era, pues, una brisa circular…
+
+—¡Diablos! —exclamó el señor Le Tellier.
+
+Pero Robert le preguntó precipitadamente:
+
+—En fin, con todo esto, ¿qué piensa usted de mi águila?
+
+—… Varias cosas contradictorias. Que, si bien las águilas se llevan a veces reses jóvenes y niños, no tienen por costumbre robar veletas… Pero pienso también que la manera en que se agitaba su águila se parece asombrosamente al modo de volar que empleaban, según dicen, los hombres de Châtel; y que quizá una especie de… disfraz… ¿Me sigue usted? Un hombre disfrazado de águila… para mistificar… Siempre ha habido un lado burlesco en todo esto…
+
+Maxime se burló:
+
+—¿Disfrazado? ¿Por qué no metamorfoseado, como el periodista de Turín convertido en enano?… Mi querido papá, no le reconozco…
+
+—Eres tú a quien no se reconoce. Sé perfectamente lo frágiles que son mis inferencias. Pero, a falta de algo mejor, me veo obligado a entregarme a las conjeturas que pueden enunciarse en la forma científica «*todo ocurre como si*». Además, me interrumpes y no había terminado. Puede ser también que estemos ante una fuerza reciente —o recientemente descubierta—, una fuerza… una ligereza más bien, que los seres vivos estarían en condiciones de adquirir, y de adquirir sin quererlo, a pesar suyo…
+
+—¡Ta, ta, ta! Tenemos miedo, y eso es todo. ¿Qué hemos hecho hasta ahora, sin contar las meteduras de pata? Dialéctica y cobardías. ¡Con tantas precauciones nunca veremos a los sarvants! Nada impide tanto ver al adversario como un escudo demasiado grande… Mire, es ridículo no alejarse ya de los pueblos sino en grupo. ¡Justo lo necesario para que el enemigo nos vea!… Yo estoy harto de todas sus cobardías. En adelante haré como Robert: ¡iré solo adonde me parezca!
+
+El señor Le Tellier, sintiendo a Maxime en la pendiente de la cólera, le dio las buenas noches.
+
+Cuando hubo llegado al vestíbulo, Robert dijo a Maxime:
+
+—Escuche. Está usted en vías de cometer temeridades. Pues bien, créame: *si sale solo, vístase como una de las personas desaparecidas. Hágase copia de una de ellas*. Si hace falta, tíñase el pelo y la barba; aféitese, si es preciso. No olvide ni el bastón ni los guantes. Llegue incluso a reproducir la manera de andar.
+
+»Hoy, antes de subir al Colombier, fui a casa del doctor Monbardeau y allí, siguiendo sus indicaciones, me puse un traje caqui que pertenece a su hijo y es igual al que llevaba el día de su rapto. El señor Monbardeau tuvo la bondad de completar el parecido; mojamos en cal un fieltro negro para blanquearlo; me calcé unos botines amarillos… Por eso me encontró usted tan limpio a mi regreso. Acababa de devolver mi vestuario prestado.
+
+»Es un buen truco. Al menos eso creo… En todo caso, parece haberme dado resultado hoy, puesto que aquí estoy. Pero: discreción, ¿eh?
+
+—¡Pero bueno! ¿Es que está usted chiflado? —dijo el otro, a la vez risueño y desconcertado—. Si la estratagema es eficaz, ¿por qué mantenerla oculta?
+
+—Por diversas razones, pero, ante todo, porque existe *actualmente* otro medio de inmunizarse, que es fruto del empirismo y que vale sin duda lo que mi procedimiento, resultado del cálculo. Ese medio es precisamente el que usted rechaza y que consiste en reunirse en fuerza lejos de las viviendas. Eso es conocido; todo el mundo acepta esa obligación temporal; y quienes se niegan a someterse a ella —imbéciles, cabezotas o fanfarrones (dicho sea sin ofenderle)— tampoco querrían mi sistema.
+
+—Algo de verdad hay en eso…
+
+—Solo que… solo que… esos dos preservativos… El primero, el popular, ¿seguirá surtiendo efecto siempre?… Y el segundo, el mío, ¿es perfecto?… ¿Ha sido por casualidad que los sarvants no me han llevado en esta primera experiencia? ¿Será que no me han visto?… Por paradójico que pueda parecer, *lo deseo de todo corazón*, ¿sabe usted? Porque, por poco que se verifique este rincón de mi teoría, toda mi teoría resulta exacta; y entonces…
+
+Se pasó la mano por la frente, como ante apariciones espantosas. Y su mano temblaba, y el sudor le perlaba la frente.
+
+—… Y entonces, querido, usted no ha cenado —terminó Maxime—. Tiene hambre. Estómago vacío, cerebro hueco. La inanición le hace desvariar.
+
+—Señor Maxime —dijo Robert—, daría mi vida por equivocarme.
