@@ -939,3 +939,109 @@ El cañón, gravemente, consagró el triunfo del pájaro azul.
 Por un cruce de sus destinos, el capitán Santus volvía a la sombra y el señor Le Tellier lo sustituía en el pavés de la fama, junto al señor de Agnès.
 
 Pero París no sabía que sus ídolos, aun siendo tan contrarios, no tenían los dos más que un pensamiento en el alma, un amor en el corazón y un nombre en los labios: Marie-Thérèse.
+
+## XI. CONTINUACIÓN DEL DIARIO
+
+Ocupado en el pilotaje de su aparato, el piloto del *Épervier* no había advertido nada de la emoción general. Se enteró del suceso milagroso al bajar del aeroplano, en medio de una concurrencia rala. La aglomeración se había trasladado al Grand Palais, adonde convergía ahora la estrella centrípeta del movimiento parisiense. El puente Alejandro III estiraba la apretura de los emigrantes; el duque de Agnès se metió en él.
+
+No entraba quien quería en el edificio, severamente custodiado. El 131.º de línea guardaba sus portales contra una democracia desvergonzada y, además, inconmensurable.
+
+El aviador se presentó al coronel portero al mismo tiempo que tres oficiales de marina. Tras hacer valer sus títulos, pasaron.
+
+La tranquilidad del vestíbulo, varias veces catedralicio, tan desierto, apenas alegrado por gorriones piadores, contrastaba extrañamente con el mitin enloquecido del exterior. En aquella época del año, el templo de los Salones y del Concurso Hípico estaba en vacaciones. En el centro de su área inmensa, que producía un vértigo horizontal, bajo su bóveda acristalada, cuya altura de abismo producía un vértigo al revés, se agrupaba una reunión de caballeros infinitamente pequeños. Aparte, unos agentes pigmeos y unos bomberos ácaros, sentados en el suelo, parecían descansar.
+
+El duque de Agnès sabía bien que se trataba de una cosa invisible, y no por eso le sorprendió menos no ver nada.
+
+Reconoció en el grupo al doctor Monbardeau y al señor Le Tellier, que hablaba con el prefecto de policía.
+
+—En fin —decía este último—, si usted se empeña absolutamente, léalo.
+
+—Es indispensable —replicaba el señor Le Tellier—. Pido encarecidamente que nadie toque *el objeto* antes de que hayamos conocido todo el diario. Eso nos evitará sin duda contratiempos y quizá accidentes.
+
+—Sea —concedió el prefecto de policía. Y, dirigiéndose a los oficiales—: Señores, den de comer a sus hombres —dijo.
+
+Las voces, algo agudas al principio, se amplificaban con resonancias cavernosas y atronadoras que estallaban en los ángulos de la arquitectura.
+
+—¡Ah, caballero! —dijo el astrónomo al ver al duque—. ¡Venga! ¡Que le felicitemos y que le contemos una historia!
+
+El joven vencedor sonrió ante las felicitaciones y estuvo a punto de llorar con el relato de la historia, que le comunicaba la muerte de Robert Collin. Pero lo que le intrigaba ante todo era la cosa invisible, aquella cosa que lo había zarandeado tan rudamente sobre el Pavillon de Hanovre.
+
+—¿Dónde está? ¿Dónde está? —decía.
+
+—Mire —indicó el señor Le Tellier—, camine derecho hacia delante, hacia aquel pilar de fundición; la encontrará. —Luego, en tono de secreto, añadió en un murmullo—: ¿Sabe usted? ¡Hay una especie de hélice, a popa!
+
+El señor de Agnès caminó con los brazos por delante, como quien está a oscuras o es ciego, y fue a dar contra la cosa dura, lisa, fría y que, para su mirada, no existía. Entonces el señor Le Tellier le mostró en el polvo una huella aplanada, en forma de navecilla, semejante al sello ojival de los prelados; le dijo que aquello lo causaba el fondo, la base, el apoyo de aquella rareza; y le mostró alrededor unos pobres gorrioncillos que, al volar, habían venido a romperse la cabeza contra aquella muralla insospechable.
+
+—Observe —terminó— que esa corriente de aire que sentíamos ya no la sentimos. La cosa la intercepta. Estaremos de maravilla, para leer el diario de Robert, al abrigo de este biombo singular…
+
+Abrió el cuaderno rojo.
+
+Sus oyentes se agruparon.
+
+El señor Le Tellier se apoyó tranquilamente en el vacío y reanudó la lectura *da capo*.
+
+Volvió a ver la formación del cilindro de hielo alrededor de Robert, enloquecido, que subía hacia el cenit, y luego la desaparición del inesperado tarro; por último repitió aquella frase de la memoria en la que lo había detenido el clamor popular:
+
+… Fue entonces cuando quise coger de nuevo mis gemelos para observar aquella mácula. Pero recordé que, en los primeros instantes de mi desvanecimiento, se me habían escapado de las manos. Me sentía muy contrariado por ello cuando, para mi profundo estupor, los vi junto a mí, bañándose en un charco de agua circular en el que yo mismo estaba hundido: un gran disco líquido, imprevisto, de unos 4 metros de diámetro, exactamente como el agua visible de una bañera invisible. Aquel charco redondo me llevaba como la alfombra de la fábula persa. Tomaba en él un baño de asiento forzoso, pero bendecía aquella ilusión de soporte que permitía a mis ojos descansar sobre algo y me libraba así del vértigo. A través de él (pues era claro y tranquilo), la Tierra indefinida palidecía.
+
+Comprendí que aquella agua procedía de la fusión del cilindro. Y, puesto que estaba allí, redonda y plana como una muela, es que había debajo de ella un suelo invisible que nos sostenía a ella, a mí y a mis gemelos. El hielo —¡pardiez!— se había formado en el interior de un cilindro material, permanente pero invisible, ¡una torrecilla-ascensor con la que los habitantes de aquella mácula cuadrada subían a sus prisioneros hasta ellos! No estaba ni en una columna de atmósfera aspirada ni en un fluido magnético, sino en un montacargas invisible, movido por una fuerza ignorada, un recipiente cerrado donde la presión y la temperatura se mantenían iguales a las de abajo y donde, por consiguiente, el barómetro y el termómetro indicaban siempre las mismas cifras… Y hacía un momento, cuando había aparecido el hielo, cuando yo había desfallecido, ¿la causa? ¡Una avería! ¡Una simple avería de aquella organización!…
+
+Me quedé un rato aturdido… No obstante, nosotros los astrónomos no podemos maravillarnos mucho tiempo por una invisibilidad cualquiera; y, por admirado que estuviera de un pabellón, de una garita, que, después de todo, no era para mis ojos más que lo que un verdadero ascensor ha sido siempre para mi nariz, es decir, imperceptible; que no era para mis ojos más que lo que el oxígeno, por ejemplo, ha sido siempre para ellos, es decir, invisible; pero que para mis manos era bien duro, liso, curvo y frío, y que, golpeado con el dedo, sonaba en mis oídos; eso no me impidió secar mis gemelos con el pañuelo para mirar la mácula cuadrada donde la ingeniosa cuba iba sin duda a depositarme. Seguramente, la cuba la izaban desde allá arriba (pues a semejantes altitudes no podía tratarse de aeróstatos, ni siquiera inflados de hidrógeno puro, y menos aún de más pesados que el aire). ¿Drizas invisibles? ¿Corrientes hertzianas? ¿Atracción imantada? Lo uno o lo otro. Desde la mácula me expedirían a algún planeta…
+
+Así razonaba, y me equivocaba. Cuanto más había subido, más se había acentuado hacia el sur la separación de aquella mácula, que se presentó con el aspecto de un cuadrado pardo, cuadriculado de líneas sin color. Me dirigía, pues, hacia otra parte. Y eso me causó desazón.
+
+El horizonte terrestre se había elevado en el curso de mi ascensión. Al sur, al oeste, al norte, se teñía de un azul verdoso característico… ¡Los mares! ¡Debía de estar prodigiosamente alto! Hechas unas aproximaciones numéricas, hallé que debíamos de estar a 40 kilómetros del suelo… Diez más y alcanzaría una zona…
+
+«¡Ah, diablos! —pensé—. Es justamente por ahí donde la ciencia sitúa… Veamos, ¿qué dice la ciencia de la atmósfera desde el punto de vista que me interesa?
+
+»La atmósfera: capa gaseosa que envuelve la Tierra y la sigue en todos sus movimientos. Su espesor no se conoce con certeza. Se sabe que no se pierde en el vacío; eso es todo. Su límite teórico estaría a 10.000 leguas; las apreciaciones varían de 70 kilómetros a 40.000.
+
+»Lo que se sabe de fuente evidente es que hay en la atmósfera dos capas distintas.
+
+»Una, la más baja, en contacto con el suelo, mide aproximadamente 50 kilómetros de profundidad. Es rica, inestable, recorrida por nubes, atormentada por vientos. Es el medio propio de la vida terrestre, y de ella habla la gente cuando habla de “la atmósfera”. Esta capa se enrarece a medida que se aleja del suelo y, hacia los 50 kilómetros, se convierte en el vacío; no en el vacío absoluto, no en el éter, sino en el vacío relativo que se puede obtener con la máquina neumática.
+
+»Ese vacío relativo es el que constituye la segunda capa de atmósfera, cuyo espesor es problemático. Es una atmósfera *etérea*, según la palabra de Quételet; es un vacío apenas matizado de aire, un vacío ligeramente aireado, donde el hombre no podría vivir más que en el vacío absoluto. Zona estable y serena, se superpone a la primera —insensiblemente, dicen los meteorólogos, pero con seguridad hacia los 50 kilómetros— y poco a poco se convierte en el vacío absoluto».
+
+Así pues, por poco que prosiguiera mi ascensión, ¡iba a penetrar en aquella capa tan terrible para mí como el fondo del agua!… ¡Y el medio que atravesaba debía de estar ya tan enrarecido!…
+
+Pero entonces, ¿y la mácula?
+
+La mácula, la observé. Sobre el cielo extraordinariamente oscuro, estaba casi a mi nivel. La veía, pues, con comodidad. Como era lógico, había cambiado de forma. Pero mis ojos son mediocres, y me llevé a ellos los gemelos. Al mismo tiempo, desabroché la correa de mi aparato fotográfico para servirme de él… ¡Paf! Una sacudida violenta me tiró cuan largo era en el charco, que de pronto chapoteaba, y —¡desgracia!— ¡se me cayeron los quevedos y se me escaparon los gemelos! Simultáneamente me pareció que la noche caía de golpe *por encima de mí*. Oí *por encima de mí* deslizamientos metálicos, golpes secos… El horrible abrazo rígido que me había arrebatado del Colombier volvió a agarrarme y, justo en el instante en que sacaba del bolsillo unos quevedos de repuesto, me sentí levantado verticalmente y luego detenido. Oí debajo de mí un deslizamiento metálico; el abrazo me bajó una pulgada, me soltó, y me encontré de pie sobre un nuevo soporte invisible que debía de estar a la altura del techo del cilindro, si recordaba bien la aparición helada. Unos 5 metros más abajo, el charco redondo se calmaba. Para colmo de mala suerte, mi aparato fotográfico también se había soltado: lo veía nadando, fuera de mi alcance, junto a mis gemelos y mis anteojos. Era un gran desastre para mí. Pero… *[Aquí algunas palabras tachadas].*
+
+Ahora bien, el cielo, de repente, se había vuelto negro como la tinta, *y, sin embargo, era de día*. Desde lo alto de la nueva cabina, a la que comprendía muy bien que me habían trasvasado tras superponerla a la primera, he aquí lo que descubría:
+
+Una superficie horizontal se extendía a lo lejos, por todos lados, absolutamente desnuda y tranquila. Describía a mi alrededor, en el horizonte, la inmensa circunferencia de la alta mar, y por encima de ella el firmamento era una cúpula negra donde los astros brillaban en exceso, todos, y todos *fijos*. Y en aquel cielo ultranocturno, semejante al que se vería desde la luna o desde algún astro sin atmósfera, el sol, sin rayos, declinaba, ancho disco preciso. La superficie nevada de aquel mar relucía plateada hacia el horizonte; pero cuanto más cerca estaba de mí, menos relucía y más se volvía diáfana, ideal, fantasmal; acababa por desaparecer; debajo de mí no tenía más que el abismo de 50.000 metros, sin que nada se interpusiera entre él y mis ojos, y aquel abismo estaba lleno de luz.
+
+Me encontraba en la superficie de un océano de claridad o, mejor dicho, de atmósfera; un océano cuyo fondo se veía: la Tierra, con las algas de sus bosques, los bajíos de sus montañas. Acababa de emerger a un medio mortal, en la superficie de un mar atmosférico; y aquel mar no era otro que la primera capa, la famosa primera capa, que no terminaba gradualmente, en una progresión enrarecida, como la ciencia había supuesto con razón, sino que terminaba de golpe, en seco, como un mar verdadero. Por contrario que fuese a las propiedades expansivas de los gases, las dos atmósferas se superponían como dos líquidos de densidad diferente; y ahora el vacío horrible me rodeaba.
+
+En mi nuevo recipiente, la misma temperatura y la misma presión que antes; el mismo ruido de válvulas. Me aventuré a palpar el invisible compartimento y lo encontré cúbico y exiguo; podía tocar el techo.
+
+Mientras me dedicaba a esta ocupación, se oyó un chirrido innumerable en las paredes de mi celda y en el techo (?). Raspar de hierros, tintineo de garfios. Todo aquello no debía de hacer ningún ruido en el exterior, en el vacío, mal medio; pero yo, en mi cubo de aire conductor de sonoridades como de luz, oía todo lo que tocaba los tabiques.
+
+De pronto me sentí poderosamente levantado, yo y mi garita, y, gracias a mis tres objetos perdidos, que parecieron de pronto bajar y describir un arco descendente, adiviné que acababan de hacerme describir una curva ascendente bastante complicada, análoga a la de las mercancías en el extremo de una grúa de vapor cuando las descargan… El agua del charco, allá abajo, había desaparecido; sin duda la partida de mi cabina la había puesto en contacto con el vacío, y se sabe que en el vacío no son posibles los líquidos.
+
+Inmóvil ahora, más alto que antes, miraba, estúpido, mis gemelos y mi cámara perdidos… El vértigo volvía a apoderarse de mí…
+
+Y entonces he aquí que los chirridos volvieron a empezar y que la cabina se puso en movimiento. Unos traqueteos la hacían resonar; me llegó un rodar de ruedas, repercutido a través de la sustancia invisible, y vi alejarse gemelos y cámara. Me volví bruscamente en el sentido de la marcha, fuera de mí ante la idea de que un accidente pudiera ponerme en contacto con el vacío, y queriendo saber adónde iba…
+
+La mácula venía hacia mí.
+
+Me pareció situada a 4 o 5 kilómetros hacia el sur (las estrellas me informaron mejor que la brújula, que funcionaba mal). Hasta donde mis quevedos me permitían calcularlo, era una especie de casa calada. La única característica de la que pude asegurarme —y fácilmente— es que no estaba asentada como un pontón sobre la meseta soñadora y fantasmal, sino que parecía sostenerse sola en el vacío, bastante alta: a 12 veces su altura por encima del mar atmosférico.
+
+(Creo que escribo muy mal. ¡Pero si se supiera en qué situación me encuentro!).
+
+Y mi vehículo invisible tampoco avanzaba a ras del mar aéreo. Seguía una línea ondulante, a alturas variables, trazando sinuosidades de abajo arriba, de derecha a izquierda, subiendo y bajando pendientes, tomando recodos, aminorando en las subidas, acelerando en las bajadas, pero acercándose continuamente a la casa calada. Se habría dicho que rodaba por un camino invisible, sobre un suelo invisible posado sobre la superficie del aire como una isla flotante. Se habría dicho que, llegado a cierto puerto celeste tras una travesía gaseosa, un polipasto me había depositado en un muelle, sobre un camión que esperaba allí, y que aquel camión me transportaba por una carretera sinuosa, a través de un paisaje inadvertido, con destino a aquel edificio enrejado, visible este, pero construido sobre una colina indiscernible…
+
+Iba por fin a conocer a mis raptores y a volver a ver a la persona por la que había venido.
+
+El vértigo, sin embargo, volvió a hacerse sentir, más fuerte que nunca, agravado por la marcha de «montaña rusa» de mi vagón. (¿Vagón?). Tuve que extender mi pelliza sobre el suelo (?) para solidificarlo a mis ojos y ocultarles la vista de la Tierra-fondo-de-abismo.
+
+¡Qué situación… tan enorme!
+
+Me esforcé en hacerme creer a mí mismo que aquel extraño suelo inquebrantable e invisible, sostenido por la atmósfera en su periferia, bien podía ser de creación artificial, bien podía ser una fabricación de ingenieros. Habría querido creerlo, para tranquilizarme del espanto que me causaba la idea de semejante cosa *natural y desconocida*, aquel granero insospechado de la Tierra… aquel granero de Damocles… Estaba sumamente sobreexcitado… Aquella idea revoloteaba bajo mi cráneo como una mariposa enloquecida en una caja, aquella idea, bajo esta forma pueril y morbosa: ¡que ciertos sabios, a fuerza de darse aires, se habían convertido en los *sarvants*!!! Pero por más que hacía: *sentía muy bien que estaba en un mundo natural*. Lo mejor, lo más agradable, era suponer que sus habitantes eran los mismos hombres que lo habían descubierto… quizá hombres vueltos invisibles… quizá tan visibles como yo mismo, y que iba a verlos por fin en su castillo de empalizadas.
+
+Empalizadas. Me seguía pareciendo que eran empalizadas. Llegaba, aquel castillo; yo subía la cuesta hacia él. Subía la montaña invisible, en medio del vacío. Ascendía por encima del Aire ahora, hacia la construcción. Sentía la necesidad de manifestar la alegría que me invadía a causa de la persona a la que venía a reunirme aquí… y de la que aquella bastilla contenía probablemente… *[Más palabras tachadas].*
+
+¡Ah, aquella bastilla! Me reservaba la más atroz de las desilusiones…
+
+Al leer estas últimas palabras, el señor Le Tellier no pudo evitar una gran emoción. El cuaderno rojo tembló en sus manos como si estuviera vivo y a punto de morir. La lectura terminó en un gallo tanto más impresionante cuanto que era un poco risible… Viéndolo, el duque de Agnès, que escuchaba con el ceño fruncido, se apoderó del diario y continuó de este modo:
