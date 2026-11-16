@@ -2189,3 +2189,115 @@ Arnold, no obstante, se esforzó por fabricar materia invisible, por hacer la s�
 Aquel desafortunado inventor perdió el juicio. Su patria lo hospitalizó. Sigue en Gotemburgo. Unas veces quiere ir a pintar los continentes superaéreos para reducirlos a polvo. Y otras, creyendo haber encontrado el antídoto de la arnoldina, el insensato habla de barnizar esa bóveda transparente para que la noche se extienda para siempre sobre la ingratitud y la ironía.
 
 Así es como lo invisible —¡pasa, pasa!— apareció y volvió a desaparecer.
+
+## XIX. TIBURCE ABANDONA
+
+En su habitación blanca y rosa, toda clara a la clara luz de la mañana, que hace de las habitaciones de las muchachas, más que nunca, «habitaciones de muchacha», la señorita de Agnès acababa de terminar su aseo.
+
+La doncella arreglaba un desorden de perifollos.
+
+La señorita Jeanne de Agnès miró su rostro en el fondo de un espejo y le hizo una muequecita triste porque no era demasiado bonito. Luego se acercó a un calendario perpetuo e hizo funcionar su resorte para ponerlo al día.
+
+El calendario marcó:
+
+->**MIÉRCOLES**<-
+
+->**16**<-
+
+->**OCTUBRE**<-
+
+Y el reloj de pared inglés dio:
+
+—¡Las diez!
+
+La señorita Jeanne pensó, casi simultáneamente, que la hora del correo había pasado; que desde hacía un mes Tiburce el loco, Tiburce el terco, Tiburce el Pendenciero, no había dado noticias; y que cumplía veinte años aquel día.
+
+Con la frente contra los cristales de la ventana, miró cómo se deshojaban los castaños de la avenue Montaigne.
+
+Tres golpes discretos turbaron su ensueño.
+
+—¿Qué pasa? —dijo.
+
+Una voz de hombre respondió, obsequiosa y sorda:
+
+—Es el señor duque, señorita, que pregunta si la señorita tendría la bondad de bajar un momentito a su gabinete.
+
+—¿…?… ¡…!
+
+Sin decir nada, helada, con el pecho agitado, la señorita de Agnès se dirigió a la habitación de su hermano.
+
+Él la esperaba de pie y, aunque estaba a contraluz, ella distinguió sus ojos enrojecidos y su aire deshecho. Le dijo a quemarropa, en un tono extraordinariamente dulce y afectuoso:
+
+—Escucha, Juanita… Primero, escucha: sigues queriendo mucho a Tiburce, ¿verdad?… Pobre conejito, estás temblando… No creas…
+
+—Pues sí… lo quiero, a Tiburce…
+
+—Pues bien, Juanita mía, te casarás con él, anda, conejito mío; te casarás con él de todos modos. Antes, ¿sabes?, fui un necio oponiéndome a vuestra boda; y luego, subordinarla al éxito de Tiburce, ¿ves?, hacer depender vuestra felicidad de la mía, eso era de un egoísmo sin nombre, ¡sin nombre!… Pero te casarás con él, ¡anda, pequeña!
+
+—François, te lo agradezco de todo corazón… —Le cogía las manos y hablaba con timidez—. Entonces… ¿no ha tenido éxito?… ¿Dices que me casaré con él *de todos modos*?… ¡Y lloras!… —Lo besaba—. … ¿No ha tenido éxito?
+
+—¡Pardiez! —exclamó el duque con voz temblona—. ¡Estaba bien claro que fracasaría! ¡No sé cómo he sido tan idiota para aferrarme a esa hipótesis! ¡Pero es que la otra, la otra hipótesis, la de los sarvants, era tan espantosa!… ¡Tan espantosa y tan definitiva! Mira, esta mañana he vuelto a ver a dos ingenieros, y mi correo… ¡no son más que respuestas de ingenieros! Todo eso: desesperante. Nunca se irá allá arriba. ¡Nunca! ¡Nunca! ¡Nunca!…
+
+La señorita de Agnès prosiguió con ternura:
+
+—¿Tienes una carta de Tiburce?
+
+—Sí. Aquí está. Te he llamado para que la leas y para tranquilizarte al mismo tiempo.
+
+Ella desplegó el billete.
+
+->*(Pieza 934)*<-
+
+-->Angora, Turquía asiática,
+
+-->a 11 de octubre de 1912.
+
+Mi querido, ¡oh, muy querido amigo!, ¡perdóname!
+
+¡Perdona mi necedad!… ¡Aquellos a quienes perseguía alrededor del mundo no eran los que yo buscaba!
+
+Ahora veo claro. ¡El dolor me ha lavado los ojos con tantas lágrimas!…
+
+Me he dejado despistar varias veces seguidas por viajeros distintos, empujado por mi idea fija y menos guiado por las circunstancias que por una manía que yo mismo agitaba delante de mis propios pasos.
+
+¡Oh, estas últimas semanas! ¡Esa carrera febril, a caballo, desde Basora hasta aquí, ese galope a través de Mesopotamia, a lo largo del Tigris, donde cada día ganaba terreno a los Yeniserlis y los Rotapoulo!
+
+Ellos iban sin prisa, visitando las ruinas, entreteniéndose en los paisajes, dando un rodeo hacia Babilonia, volviendo a Bagdad, explorando los escombros de Nínive tras haber saboreado Mosul… Me llevaban quince días de ventaja…
+
+Los alcancé entre Diarbekir y Angora… y allí comprobé que no eran Hatkins con la señorita Le Tellier y los Monbardeau, sino realmente dos jóvenes matrimonios griegos, verdaderos Yeniserlis, verdaderos Rotapoulo, buena gente, en suma, a quienes confié mi desilusión y que me consolaron lo mejor que pudieron.
+
+Hemos llegado aquí juntos. Angora es el término de la vía férrea que viene de Constantinopla. Una jornada de vagón me separa de la capital de Turquía. Pero estoy rendido de cansancio y de tedio, y pienso quedarme aquí —¿cuánto tiempo?, no lo sé— descansando entre las flores y el sol, pensando en mi estupidez como en alguna enfermedad de la que estuviera convaleciente. ¡Ay! ¡Hacer novela en la realidad! ¡Convertirse en Sherlock Holmes! ¡Pobre de mí! ¡Qué enfermo estaba!…
+
+Pero, François, ahora —te lo suplico— no me dejes desesperar a propósito de la señorita Jeanne. Prométeme que quizá… dentro de mucho tiempo… Perdona; termino. Cuando pienso en ello, se me nubla la vista.
+
+Adiós.
+
+-->Tiburce.
+
+La señorita de Agnès contempló a su hermano.
+
+—Yo también, François, necesito perdón. Sabía muy bien que Tiburce no encontraría a Marie-Thérèse, y si le dejé partir fue porque contaba con su empeño para doblegar tus resoluciones. Pero ahora que mi plan ha dado por fin resultado, me parece que no es muy honrada esta maquinación…
+
+—¡Ah, amiga mía, era tu diplomacia la que tenía razón frente a mis prejuicios! Por lo demás, tranquilízate: Tiburce se habría ido a pesar de tu prohibición; ¡estaba tan convencido!
+
+—Es posible, y siento un extraño alivio al saberlo desengañado. ¡Un muchacho tan bueno en semejantes errores!… Pero, ahora que lo pienso, François, ¿cómo tú, que conocías la verdad, podías dejarte enredar otra vez por esas patrañas?
+
+—Desde que me enseñaron lo que es el aerario y lo que son los sarvants, decirme que Marie-Thérèse es presa de los sarvants en el aerario… eso es lo que mi espíritu no puede soportar, ¡y no las ideas locas, no las locuras alentadoras!
+
+—Ánimo, hermano mío. Yo también te quiero. Ánimo.
+
+—Lo tendré. Lo tengo. Pero estoy hundido… Voy a intentar dormir un poco. Déjame, conejito mío, ¿quieres?
+
+Cuando su hermana se hubo retirado, el duque de Agnès sintió un aislamiento más absoluto de lo que había deseado. En todas partes, en adelante, ¿no estaría solo como estaba solo en aquella sala? ¿Se podía no estar solo en la ausencia para siempre de Marie-Thérèse?…
+
+Tendió hacia el cielo de los sarvants la amenaza y la vanidad de sus puños, y de pronto le vino una embriaguez de amargura, un deseo frenético de sufrimiento y de sollozos.
+
+«¡Ah! —pensaba como un niño mimado—. ¡Quieren que sea desgraciado! ¡Ah! ¿Lo quieren? ¡Pues bien, lo seré, desgraciado!, ¡e incluso más allá de lo que quieren!».
+
+Así el hombre pretende siempre salirse con la suya frente a su destino.
+
+Para enlutar todavía más su espantosa soledad, el duque pensó, pues, en sepultarse en el negro sudario de la oscuridad.
+
+Pero tal era su extravío que había olvidado la hora. Giró el interruptor eléctrico con el fin de apagar el sol, que tomaba por una lámpara. Se encendió una lámpara de techo, amarillenta y fuera de lugar en el brillo del día, como un ojo de búho. El señor de Agnès se rehízo.
+
+—¡Enhorabuena! —dijo en voz alta—. Ya estás chocheando… ¡Ah, no! ¡No! ¡Ah, no! ¡Eso no, muchacho! Aunque solo fuera para verla una última vez, muerta y desfigurada, para llevarle flores y darle sepultura, ¡tienes que vivir! ¡Y vivir entero, en cuerpo y alma!… ¡Vamos! ¡Nervio!
