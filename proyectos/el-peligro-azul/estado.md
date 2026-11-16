@@ -13,6 +13,7 @@
 
 ## Traducción (en curso desde el 16-11-2026)
 - `texto/10_primera_parte.md`: **primera parte completa**, capítulos I-XXI (≈ 50.400 palabras). Cotejada párrafo a párrafo con el original (mismo número de párrafos por capítulo).
+- `texto/20_segunda_parte.md`: segunda parte en curso, capítulos I-XI.
 - Fuente: `fuente/*.json` (respuesta de la API de Wikisource, un fichero por capítulo; no se suben al repositorio, ver `fuente/.gitignore`).
 
 ### Dudas y decisiones de traducción
@@ -25,6 +26,9 @@
 - Diálogo «a la francesa» del capítulo X (acta de la deliberación): se mantiene el formato teatral («Garan. —…»), con acotaciones en cursiva.
 - Términos: *sarvants* en cursiva solo la primera vez, luego en redonda y minúscula (el original alterna «Sarvants» con mayúscula); «Peligro Azul» con mayúsculas como en el preliminar. Se conservan sin traducir *mollards*, el patois del boyero (cap. XII) y los títulos de periódicos.
 - Groserías del original suavizadas solo lo justo («s'en foutait pas mal» → «le importaba un bledo»).
+
+- Diario de Robert Collin (2.ª parte, caps. IX y XI-XIII): en el original va todo en cursiva, con las palabras enfáticas en redonda. Para no componer en cursiva capítulos enteros se invierte: diario en redonda y énfasis en cursiva.
+- Cap. IX (2.ª parte): el barómetro marca «160 millimètres» en el original; es errata por 760 (la frase dice «la misma presión que en la superficie»). Corregido.
 
 ## Pendiente
 - Traducir la segunda parte (21 capítulos) y el epílogo. Son unas 110.000 palabras en total (recuento de los HTML), ≈ 340 páginas.
