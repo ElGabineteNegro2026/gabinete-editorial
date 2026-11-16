@@ -439,3 +439,179 @@ El señor Le Tellier bajó al laboratorio de Maxime para comunicárselo al seño
 ¡El análisis de la sangre revelaba la presencia de glóbulos *animales* mezclados con glóbulos *humanos*! ¡Aquella sangre podía ser la de una criatura híbrida semejante a los centauros, a los sátiros, a las sirenas de la antigüedad fabulosa!… Y el sarvant, entonces, ¿se llamaba el doctor Lerne o el doctor Moreau?…
 
 La semana siguiente, muchas veces, de noche, silbaron cosas que caían… Abrían agujeros en la tierra. Eran guijarros muy limpiamente serrados o con vestigios de un ataque químico, ramas tajadas por el cuchillo de un naturalista experto. Eran también carnes de aves, de peces, de mamíferos, todas muy sabiamente trabajadas. Mucha humanidad en pedacitos… Muchos difuntos a los que costaba mucho reconocer…
+
+## VI. EL CEBO
+
+A través de un sueño agitado, el señor Le Tellier creyó sentir una mano que lo tocaba. Se despertó de golpe.
+
+La señora Arquedouve estaba junto a la cama, en la claridad del alba. El castillo dormía. El reloj de péndulo, esa lamparilla del silencio, era lo único que hacía un poco de ruido. Las cuatro de la mañana.
+
+—¡Jean! ¡Están aquí!
+
+«Están», pronunciado con aquella voz, eran los sarvants.
+
+El señor Le Tellier saltó de su cama y, poniéndose a toda prisa una bata, preguntaba a la ciega:
+
+—¿Los oye usted?
+
+—El zumbido, sí. Lo oigo desde hace un cuarto de hora. Dudaba… temía equivocarme… Son ellos.
+
+—¡Un cuarto de hora! ¿Qué están tramando? ¿Dónde están?
+
+—Creo que primero dieron vueltas alrededor del castillo. Ahora se diría que ya no se mueven… No abra la ventana, no, es inútil; creo que están al otro lado del castillo, detrás.
+
+—Es sorprendente, no oigo nada en absoluto. Y por aquí, tiene usted razón, delante de Mirastel no se descubre absolutamente nada.
+
+—Venga a la galería —aconsejó la señora Arquedouve—. Desde allí podrá ver. Pero tenga mucho cuidado al pasar junto a la puerta de Lucie; ¡recuerde que la menor alarma podría provocar una recaída!
+
+Se dirigieron de puntillas a la galería. Así se llamaba un ancho corredor que recorre la fachada trasera, en el primer piso.
+
+—El zumbido se acerca —murmuró la ciega—. O, mejor dicho, somos nosotros los que nos acercamos a él. Jean, ¿no lo siente? Y eso que hace tanta calma.
+
+—Sí: empiezo —susurró el señor Le Tellier—. Es como una mosquita que uno tuviera en el corazón, prisionera… Detengámonos.
+
+Iban a llegar a la primera ventana de la galería.
+
+—No se deje ver, madre; voy a avanzar a hurtadillas…
+
+Los cristales temblaban imperceptiblemente. El señor Le Tellier adelantaba la cabeza con precaución. Evocaba el paisaje que iba a aparecérsele: el césped ascendente, ceñido de bosques, sobre la escarpadura del Colombier dominador; y se conmovía mucho calculando qué personajes, qué máquina habitaban aquel decorado…
+
+Detrás de él, la señora Arquedouve, conteniendo el jadeo, esperaba a que hablara.
+
+Vio llegar al marco de la ventana los árboles de la alquería, la pendiente de la montaña, el bosque, el comienzo del claro de césped, la cuarta parte de este, la tercera, la mitad…
+
+—¿Qué pasa, Jean? Se ha estremecido usted… ¡Pero dígame…!
+
+—¡Ah, es la alegría, madre! —exclamó el señor Le Tellier, alborozado—. ¡Maxime… Maxime está ahí!… Ha podido escaparse. ¡Ah!… ¡Maxime, hijo mío, ya voy!
+
+—Pero, Jean, ¿está Maxime ahí solo?
+
+—Sí, solo en medio del césped. Está sentado en medio del césped… Déjeme bajar, correr… Creo que necesita que lo cuiden…
+
+—¡Vaya! ¡Vaya deprisa!… ¡Maxime ha vuelto! —repetía alegremente la abuela.
+
+Y se fue por todo el castillo despertando a sus hijas, al doctor, a los criados y anunciándoles la noticia encantadora.
+
+—¡Maxime ha vuelto! ¡Se ha escapado de allá arriba! ¡Vengan! ¡Vengan!
+
+Entretanto, el astrónomo salía a la escalinata y gritaba a su hijo:
+
+—¿Por qué no entras, pequeño? ¿Te duele algo? Deberías habernos llamado…
+
+Pero, al ver a su padre, Maxime se irguió y, de lejos, con voz y gestos de catástrofe:
+
+—¡No se acerque! —ordenó—. ¡En nombre de Dios, quédense en la casa!
+
+El señor Le Tellier se detuvo. No eran los sarvants los que le daban miedo, sino su hijo. Lo veía mucho mejor que desde la ventana, puesto que estaba más cerca.
+
+Maxime se mantenía de pie. Tenía un aire tan triste, tan triste… Estaba demacrado, sucio; su chaqueta descosida colgaba en jirones; sin sombrero; y, sobre todo, aquel rostro extraviado que los ojos, agrandados por el horror, parecían invadir… ¡Y todo eso bañado de sol naciente y en la aurora de un regreso!
+
+«Maxime está loco —pensó el señor Le Tellier—. Esta aventura ha rematado la obra de locura que la historia de la pequeña Jeantaz había empezado. La herencia también… La madre no tiene la moral muy firme… ¡Maxime está loco!».
+
+Sin dar un paso más, para no contrariarle, le dirigió palabras tranquilizadoras:
+
+—Entendido; no me moveré. Pero entonces ven, ¡ven! Te esperamos. No hay que quedarse ahí…
+
+El joven hizo un gesto desesperado. Gruesas lágrimas corrían por sus mejillas demacradas.
+
+—¡Papá! ¡No puedo ir! No puedo…
+
+—Vamos, vamos, querido pequeño, repónte… ¿Has visto a tu hermana, allí… donde estabas?… ¿Y a Suzanne?… ¿Y a Henri?… ¿A Fabienne?… ¿Has visto a Robert?
+
+—No he visto más que a Robert. ¡Y aun así!
+
+En esto, se produjo cierta agitación en el castillo. Todos los que la señora Arquedouve había avisado salían al encuentro de Maxime, apenas vestidos, con cara de fiesta: su abuela, su madre, su tío y su tía, los viejos criados…
+
+Y él, convulso, imperioso, desolado, aullaba:
+
+—¡Que no se acerque nadie! ¡Váyanse! ¡Entren! También a ustedes los van a coger. Los están acechando. ¿Es que no oyen el zumbido?
+
+¡Alto! ¡El zumbido! ¡Es verdad! Todos lo oyeron entonces… Pero ¿qué lo producía?… Las miradas recorrían el bosque circundante; era el único escondite donde podía sospecharse la emboscada del sarvant.
+
+—¡Pero no se ve nada! —dijo el señor Le Tellier—. ¿Están en el bosque, Maxime?
+
+—No pueden comprenderlo; pero obedézcanme. No tenemos tiempo que perder en comentarios… Obedezcan, no se acerquen… No se puede ver nada, pero me tienen de todos modos. Estoy aquí como un cebo… un señuelo para atraer a la gente…, porque desde hace algún tiempo ya no pueden capturar a nadie… ¿Lo entienden? Así que no se acerquen. Si me quieren, ¡hagan que se me lleven solo a mí!
+
+Un grito sordo acogió esta súplica, y la señora Le Tellier volvió *locamente* al castillo. Varias criadas, muy emocionadas, la siguieron. Se oyeron sus coloquios despavoridos y las exclamaciones de la desdichada madre que huía: «¡Se lo van a llevar otra vez! ¡Se lo van a llevar otra vez! ¡Oh, se lo van a llevar otra vez! ¡Oh! ¡Ooooh!…».
+
+El señor Monbardeau razonó:
+
+—Escucha, Jean: a mi juicio, tu hijo exagera. ¡Reflexiona! ¡No se ve nada, qué diablos!, y no hay nubes… Maxime debe de estar atrapado en un fluido electromagnético cuya producción causa el zumbido, un fluido gobernado desde lo alto de la mancha. Recuerda, es una hipótesis de tu cosecha: el imán animal. Solo que, sígueme bien: los sarvants nunca han raptado a más de tres personas a la vez. Estoy seguro de que si nos ponemos cinco, a la vez…, si nos precipitamos sobre Maxime, tú, yo, el jardinero, tu chófer y el cochero… ¿Sí? ¿De acuerdo, Jean? ¿De acuerdo, Célestin? ¿Clément? ¿Gauthier?… Atención, entonces; voy a contar hasta tres. A la de tres, cargamos sobre el señor Maxime y lo llevamos al castillo. Uno… Dos… ¡*Tres*!
+
+El doctor había pensado bien: el sarvant no estaba en condiciones de coger de una vez a cinco personas. El equipo de salvamento llegaba a mitad de camino del prisionero sin prisión cuando una fuerza enigmática, levantando a Maxime, fue a depositarlo veinte metros más allá, contra la linde del bosque. El zumbido, más agudo entretanto, volvió entonces a su pedal tenebroso. Los corredores se habían detenido.
+
+¡Qué escena! Habría que saber manejar el lápiz del sardónico señor Jean Veber para dibujar aquel castillo detrás de aquel césped: en las ventanas, caras trastornadas de criadas sin cofia, en camisola de noche; delante de la escalinata, algunos criados varones alrededor de la señora Monbardeau, rígida de espanto bajo la bata de casa; la señora Arquedouve con sus ojos de ciega agrandados por el deseo de ver; en el césped, el bloque de los cinco hombres apretando unos contra otros el pijama del doctor, el delantal del jardinero, la bata del astrónomo, el chaleco a rayas del cochero, el mono azul del mecánico, y haciendo la mueca de las calamidades; luego, solo, frente a todas aquellas miradas, el lamentable objeto de tantas emociones, desplomado en la hierba y llorando, como un Jesús caído por tercera vez. Todo ello en una atmósfera contradictoriamente legendaria y cotidiana, es decir, burlesca.
+
+—Pero ¿qué hacer? ¿Qué hacer, pues? —balbuceaba con voz temblona el señor Le Tellier—. Dime, Maxime, ¿qué hay que hacer?
+
+—¡Ay, ay! ¡Si cogen a uno de ustedes, me llevarán otra vez! ¡Si no cogen a nadie, me llevarán igualmente!… Procuremos que dure… ¡Es tan terrible allá arriba! ¡Hay suplicios!…
+
+Pero de pronto el señor Le Tellier lanzó esta alarma:
+
+—¿Quién va? ¿Quién va?… He visto a alguien deslizarse en el bosque… ¿Quién va?… Una sombra, les digo, que se… ¡Ah!
+
+Un relámpago fulguró entre las ramas; una detonación retumbó en el bosque, muy cerca de Maxime; apareció un humo blanquecino; el joven se desplomó pesadamente…
+
+Su madre, con una escopeta en el puño, salía del humo. Una mujer de nieve habría estado menos lívida. Vociferaba:
+
+—¡Así ya no lo harán sufrir! ¡Ya no sufrirá! ¡Lo prefiero así, lo prefiero así!
+
+—¡Desgraciada! ¡No salgas! —vociferaba también el señor Le Tellier—. ¡Escóndete! ¡Pero escóndete de una vez!
+
+La demente retrocedió entre los matorrales hasta desaparecer.
+
+En ese preciso momento, el cuerpo de Maxime fue sacudido por un gran sobresalto y volvió a caer. El estupor de los presentes se prolongaba. Semejante a la mirada de la serpiente, que fascina los ojos, el zumbido del sarvant magnetizaba sus oídos.
+
+Luego aquella sonoridad oscura y grave pareció de pronto debilitarse, alejarse al fondo de los pechos, y ya no se oyó más que la naturaleza y la mañana.
+
+El señor Le Tellier interpeló a la señora Arquedouve. Estaba tan trastornado que la ciega no sabía quién acababa de hablar.
+
+—Madre, le pregunto si cree que se han ido… o al menos si… la fuerza ya no está… si el fluido ha vuelto a subir… si la imantación ha dejado de actuar…
+
+—Ya no hay nada, que yo sepa.
+
+—¡Cómo! —dijo el señor Monbardeau—. ¿Habrían abandonado a Maxime?… ¡Oh, entonces es que ha muerto! ¡Deprisa, vamos a ver!… ¡Es que ha muerto! ¡Para nada quieren un cadáver esos viviseccionistas! ¡Por eso lo han dejado!
+
+Todos juntos caminaban hacia la forma tendida.
+
+—¡Ah, caramba, caramba! —dijo muy bajo el médico—. ¡En plena cabeza! ¡En pleno *peñasco*! ¡Ah, caramba!… ¡No! —exclamó—. ¡No ha muerto! ¡Respira!… ¡Vivo! Pero tiene toda la pinta de un muerto. ¡Ah, los canallas! No lo han visto desde allá arriba, con sus telescopios. Por otra parte, no me extraña, ¡a cincuenta kilómetros!
+
+—¿Vivo? —La señora Le Tellier salía del bosque—. ¿Vivo? ¿Maxime?… ¿Se nos queda y no lo he matado?…
+
+Reía a carcajadas, la querida y bienaventurada señora; besaba el rostro inanimado de su muchacho. Y su cabellera suelta, mitad pelirroja y mitad blanca, se esparcía extrañamente.
+
+Ahora bien, sin distinción de sexo, los viejos criados y los jóvenes sirvientes bebían ya el alcohol que sigue a los trances emocionantes.
+
+Y fue aquel día, el once de agosto, cuando empezó a soplar el viento del sudeste.
+
+## VII. DEL 11 DE AGOSTO AL 4 DE SEPTIEMBRE
+
+Para disparar contra su hijo se había servido de una vieja escopeta de caza que había pertenecido a su difunto padre, el señor Arquedouve. En el morral enmohecido no había encontrado más que un solo cartucho de bala, de bala redonda. Si el tiro había tenido a bien salir, fue, pues, por uno de esos azares dañinos que no se osaría poner en una novela y que es sin duda la única inverosimilitud de esta historia vivida.
+
+La antigüedad del arma y lo añejo de la pólvora hicieron que, en lugar de atravesar la cabeza de Maxime, la bola de plomo se alojara en el espesor óseo del peñasco, detrás de la oreja. Aquella misma tarde se supo que el herido saldría adelante. Pero la curación sería larga; y, por el momento, no había recobrado el conocimiento. No había que contar con él para desvelar el misterio de la mancha cuadrada. El doctor, anticipándose incluso al despertar del joven, prohibió toda conversación excitante.
+
+La señora Le Tellier prometió callarse como los demás. Era ella quien cuidaba a Maxime. Y hay que saber que lo hacía admirablemente. La razón le había vuelto. Lo que un susto había causado, otro susto lo había suprimido. No obstante, parecía que la locura se había ido *antes* del disparo y que la señora Le Tellier había cometido aquel acto en su sano juicio. Hablaba sin remordimiento de lo que había hecho, diciéndose dispuesta a repetirlo si se presentaba la ocasión con Marie-Thérèse, y declarando preferible la muerte a «tratos tan vergonzosos». Era una teoría que podía defenderse, y la señora Le Tellier no se habría privado de sostenerla con más calor aún si hubiera conocido en toda su atrocidad la *lluvia* y el *granizo* del 3 de agosto.
+
+Pero su marido y su cuñado habían guardado el secreto al respecto, y esperaban guardarlo mucho tiempo, aunque semejante disimulo resultaba cada día más difícil.
+
+¿Más difícil?… ¿Por qué?
+
+Porque a menudo, en mitad de la noche, en las tinieblas caldeadas por el viento del sudeste, crecían unos silbidos siniestros que el doctor y el astrónomo conocían bien… La señora Arquedouve se inquietó violentamente. Le dijeron que eran caídas de aerolitos. San Lorenzo, época de las estrellas fugaces, apoyó aquella mentira. La señora Arquedouve aceptó la explicación.
+
+Desde el alba, el señor Monbardeau y el señor Le Tellier partían, con el corazón encogido, hacia las cosas caídas (nunca más volvieron a caer de día), y no abandonaban los alrededores de Talissieu sin haber descubierto al menos tantos objetos como silbidos había habido. Encontraban gran cantidad de detritos minuciosamente trabajados, pertenecientes a los tres reinos de la naturaleza. Los animales y las personas llevaban a veces estigmas singulares, reveladores de asfixia total o parcial, de compresión y descompresión, o de las torturas más refinadas… Tras identificar los cadáveres negativamente —es decir, tras adquirir la seguridad de que no eran los de Marie-Thérèse, Henri Monbardeau, su mujer, Suzanne o Robert—, les daban sepultura.
+
+Cuando, por el aspecto de un supliciado, habían reconocido a alguien de la comarca, la prudencia les aconsejaba no decir nada. Pero, al extenderse el rumor de la tregua, otras gentes caritativas del Bugey dieron, como ellos, en ir de pueblo en pueblo, en ambulancias automóviles, para hacer de enfermeros y de proveedores. También ellos advirtieron que en Talissieu granizaban muertos. Sembraron la noticia. Y pronto, en aquella comarca de letargo, donde poco a poco se había instaurado entre los campesinos una vida vegetativa casi tranquila, el terror se redobló.
+
+Durante sus investigaciones matinales, el señor Monbardeau y el señor Le Tellier se encontraron con hombres y mujeres que se entregaban a la misma tarea funeraria. Eran los parientes o los amigos de los desaparecidos. No se sabe qué angustia insoportable los había expulsado de sus tugurios fortificados, a riesgo de ser raptados a su vez. Varios venían de muy lejos. La reclusión los había puesto amarillos; la luz del día les hacía guiñar los ojos constantemente. Vagaban sin método y a veces sin propósito. Un sol formidable golpeaba sus cabezas de marfil, a la sombra desde hacía tanto tiempo. La insolación los mataba o los hacía matarse. La ardiente brisa del sudeste balanceó a otros ahorcados.
+
+Por eso y por los perros rabiosos, los zorros, los lobos (y algunos osos, se ha dicho), por las enfermedades de toda clase, se siguió muriendo mucho en el Bugey del 11 de agosto al 4 de septiembre. Pero está probado que el sarvant no contribuyó a ello en modo alguno, aunque una multitud de obsesos ha sostenido lo contrario.
+
+El señor Le Tellier se opuso con todas sus fuerzas a aquellas salidas mortíferas, que terminaron por sí solas.
+
+Como la época de su cese coincidió con una mejoría sensible en el sopor de su hijo, el astrónomo resolvió acudir a la invitación apremiante que el duque de Agnès le había hecho en una carta fechada el 22 de agosto (*pieza 618*) e ir a pasar a París unas horas de descanso, lo cual, dicho sea entre paréntesis, le permitiría mostrar al duque un poco de simpatía y de gratitud.
+
+Esa carta no la reproduciremos. Es muy larga. El señor de Agnès comunica en ella al señor Le Tellier que se ha fijado el 6 de septiembre como fecha del duelo de velocidad entre su aeroplano y el dirigible del Estado. Recuerda el nombre de su máquina, el *Épervier*; da el de la aeronave, el *Prolétaire*; proporciona datos técnicos sobre la carrera y desea vivamente que el señor Le Tellier asista a la lucha y juzgue por sí mismo el hipogrifo moderno en el que se va a perseguir a los raptores de su hija. Dice que su monoplano pasa de los 180 por hora, pero que su rapidez no es nada comparada con su estabilidad. No es todavía el equilibrado automático, pero ya es «algo condenadamente bueno. Partiendo del principio de que, si el aviador viera las olas del viento como el navegante ve las del agua, le sería fácil gobernar contra ellas, Bachmès ha ideado un aparato estabilizador cuyo fin es hacer perceptible al piloto el oleaje aéreo. Unas antenas ligeras irradian alrededor del aeroplano. Por sensibilidad eléctrica, se conmueven con el menor remolino hasta treinta metros de su punta y comunican sus indicaciones a la esfera colocada ante los ojos del interesado».
+
+La salida se daría en pleno París, sobre la explanada de los Inválidos, donde también se efectuaría la llegada. (Esta medida tenía por objeto evitar los desplazamientos de una multitud nerviosa). Los dos competidores irían a doblar la catedral de Meaux y volverían sobre sí mismos, cubriendo ochenta y cinco kilómetros.
+
+El señor Le Tellier partió el 4 de septiembre a las diez y veintinueve de la noche, como la última vez.
