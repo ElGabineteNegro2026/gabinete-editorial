@@ -229,3 +229,213 @@ Aquellas cartas llegaban a los destinatarios más contrastados, bajo techos blan
 «¡50 kilómetros!», pensaban los sabios.
 
 Y entonces, recordando el tenor de la carta y lo que se les pedía que inventaran, meneaban la cabeza. Y este decía una palabra breve y ronca, aquel dulce y larga, otro melodiosa, y otro más gutural. Pero tantas palabras diversas tenían un sentido único, y no había jerga tan pobre que no poseyera el término oportuno; pues en todas las lenguas, a despecho de los proverbios, el adjetivo imposible tiene su equivalente.
+
+## IV. UN MENSAJE DE TIBURCE
+
+->*(Pieza 502)*<-
+
+*Duque François de Agnès,*
+
+*Avenue Montaigne, 40,*
+
+*París,*
+
+*Francia,*
+
+*Europa.*
+
+-->Nagasaki, 20 de julio de 1912.
+
+*Ante scriptum*: Ante todo, quédate tranquilo; conservo la mayor esperanza de alcanzar a los fugitivos. Sentado esto, voy a darte cuenta de mi trabajo. Sucintamente, porque dentro de un rato tomo el paquebote de Singapur, vía Cantón.
+
+Mi querido amigo:
+
+Salgo de la cárcel. He pasado en ella ocho días.
+
+Desde mi último cablegrama he atravesado América, de Nueva York a San Francisco, persiguiendo a cuatro personas que me llevaban varios días de ventaja. En esas cuatro personas —cuatro hombres, decían los informes— había reconocido fácilmente a Hatkins y a Henri Monbardeau, a la señora Fabienne Monbardeau y a la señorita Marie-Thérèse Le Tellier, que viajaban con disfraces y travestidas.
+
+En San Francisco me entero de que el paquebote de Nagasaki ha levado anclas la víspera de mi llegada… Huelo algo, gano a precio de oro a un empleado de la compañía y, mal que bien —porque, ¡ay!, no sé más que francés—, desenredo que un grupo de seis pasajeros se ha embarcado en dicho paquebote. Ninguno de sus nombres corresponde a ninguno de los del cuarteto que busco; pero, de esas seis personas, cuatro tienen unas señas *diametralmente opuestas* a las de mis fugitivos… ¿Me sigues? ¡Eran ellos, pues, *demasiado bien* disimulados! Eran ellos, con un par de cómplices adicionales.
+
+No había que vacilar; me embarco a mi vez.
+
+Llego. Nagasaki. Paso revista a todos los hoteles, uno a uno, y, tras mil dificultades ocasionadas por mi ignorancia del japonés y del inglés, consigo sin embargo, mediante una acumulación de confidencias caramente pagadas, conquistar la prueba de que una pareja francesa que se parece a los Monbardeau se aloja en un hotel, y de que otra pareja, que debe de ser Hatkins y la señorita Le Tellier, se ha hospedado en un hotel vecino. El olfato sigue guiándome. Me alojo en el hotel donde sospecho que Hatkins y la señorita Marie-Thérèse se esconden bajo la apariencia del reverendo James Hodgson y de su hija. Reservo una mesa cerca de la que deben de ocupar en la cena —con el fin de adquirir la certeza de su identidad— y luego voy a disfrazarme yo mismo.
+
+Al primer toque de gong, Tiburce ya no era más que un viejo sacerdote italiano (no ignoras que es el disfraz favorito de mi maestro Sherlock Holmes. Me había llevado doce trajes de transformación, pero aquella sotana me pareció la indicada). ¡Ah! Sin presumir, puedo decir que mi cara arrugada, mi nariz aguileña, mi peluca blanca daban el pego. ¡Qué buen maquillaje!…
+
+Sin embargo, cuando bajaba la escalera que lleva al restaurante, una señora respetable que la subía me miró con cara de pasmo… Otras personas hacen lo mismo y, en el umbral del comedor, el director del hotel, avisado por uno de esos imbéciles, me ruega que pase a su despacho. Mi astucia queda descubierta. (¡No entiendo nada!). Intento, a pesar de todo, imitar el habla italiana; pero no sé italiano… Entonces suben a mi habitación. Registran mi equipaje. Por mi guardarropa heteróclito, me toman primero por Frégoli gastando una broma… Pero, en el fondo de mi quinto baúl, he aquí que descubren el estuche de ladrón del que ningún detective serio debe separarse. ¡Bueno! Ya no soy más que un estafador. Se levanta atestado. Me encierran. Gracias al cónsul de Francia, mi detención no dura más que ocho días; todo se aclara. Pero me cuesta Dios y ayuda evitar que me repatríen bajo custodia.
+
+En esto me informan de que, *al día siguiente de mi encarcelamiento*, el seudorreverendo Hodgson y su supuesta hija partieron con destino a Singapur, *vía* Cantón. *Subito* —como decía el viejo sacerdote italiano— me las arreglo para poder seguirlos esta misma noche, dejando, por desgracia, en manos de las autoridades de Nagasaki mi estuche, mis trajes, mis afeites… ¡toda mi preciosa sherlockería!
+
+Me pregunto si los Monbardeau acompañan a los falsos Hodgson. En Singapur lo veré.
+
+De todos modos, esta serie de partidas precipitadas indica *la huida*; y, puesto que huyen, es que *son ellos*.
+
+Adiós, amigo mío. No me olvides ante la señorita de Agnès.
+
+Confianza.
+
+-->Tiburce.
+
+*Post scriptum*: Atareado, sin dejar de combinar tácticas, no puedo escribirte a menudo. Perdona. Lo haré siempre que me sea posible.
+
+Sobre todo, recuérdame a tu hermana.
+
+## V. LLUEVE… GRANIZA…
+
+Volvamos a Mirastel.
+
+El señor Le Tellier, de vuelta de su viaje a París y a Saint-Genis-Laval, no había encontrado entre los suyos otro cambio que una mejoría sostenida en el estado de su mujer. Y del 8 de julio al 3 de agosto, es decir, desde la fecha de su regreso hasta la fecha a la que hemos llegado, la existencia en el castillo fue desesperadamente uniforme. La observación de la mancha inmutable, impasible, era el asunto principal, tarea estéril y fuente de nerviosismo.
+
+Algunos días, es cierto, el espectáculo de los *Lebaudy* y los *Clément-Bayard*, de las *libellules* y las *demoiselles* rivalizando en altura, entretuvo las miradas a pesar de las conciencias. Pero, tras los accidentes del *Sylphe* y del *Antoinette 73*, la arena atmosférica pareció abandonada. El abatimiento volvió a caer. El señor Le Tellier sintió para sí mismo la urgencia de una distracción.
+
+Mientras la señora Arquedouve y su hija mayor atendían las cargas domésticas y cuidaban de la señora Le Tellier, el doctor Monbardeau, valerosamente, iba a socorrer a los desdichados enfermos y recluidos. El señor Le Tellier resolvió acompañarle.
+
+Fueron los primeros habitantes del Bugey que volvieron a circular regularmente en automóvil. Se ha pretendido que «no tenía nada de tan valeroso, dado que jamás fue asaltado un automóvil y que los sarvants ya no hacían prisioneros desde hacía algún tiempo». De acuerdo; pero, permítanme, antes del *Sylphe* tampoco había sido asaltado ningún globo; antes del *Antoinette 73*, ningún aeroplano; y notarán que, si el sarvant ya no cogía a *terrestres*, era únicamente por no encontrarlos a su alcance, fuera de las casas y dentro del incomprensible círculo cabalístico cuyo trazado parecía no querer franquear. Había, pues, muchas probabilidades, por el contrario, de que se lanzara sobre el gran automóvil blanco que salía cada día de Mirastel, se detenía ante todas las puertas y se ofrecía así a los golpes de un agresor al que la impaciencia debía de envalentonar.
+
+Bajo la capota de lona atravesada de sol, un día —el tercero del mes de agosto— el doctor y el astrónomo conversaban. El coche, que venía del castillo, iba a entrar en Talissieu. El médico se quejaba del calor y de la sequía, que no cedían, de la pestilencia que se respiraba sin tregua; expresaba sus temores sobre una epidemia probable cuando dejó de conversar para asombrarse:
+
+—¡Vaya! ¡Llueve! ¡Esto es fuerte!
+
+Gruesas gotas caían sobre la capota; se las veía por transparencia. El señor Monbardeau sacó la mano abierta al exterior y, lanzando un grito, la retiró mojada de un líquido rojo…
+
+—¡Pare! —ordenó su cuñado—. ¿Estás herido, Calixte?…
+
+—No: ¡acaba de caer!
+
+—¿Qué? ¡No es posible!
+
+Echaron pie a tierra delante de las primeras casas del pueblo, frente a la cruz y no lejos del arroyo.
+
+Varias gotas ensangrentaban la capota y el estribo. Otras enrojecían el polvo más atrás, por donde el automóvil había pasado bajo el chaparrón de púrpura.
+
+El mecánico abrió unos ojos redondos.
+
+—¿No serán pájaros que se pelean en el aire? —dijo—. Ya se ha visto.
+
+—No, no, ¡mire! —respondió su amo.
+
+Los tres (¡se habrían dicho tres condenados escapados del Infierno!), los tres, instintivamente, habían levantado la cabeza. No se veía nada, nada más que azul, el azul del Peligro. Nada, salvo unos pajarillos —gorriones, vencejos— cuya sangre entera no habría hecho más que una sola de aquellas gotas.
+
+El doctor:
+
+—¿Será el fenómeno conocido con el nombre de «lluvia de sangre», que producirían unas partículas contenidas en el agua?…
+
+¡Pobre doctor! ¿Por qué hacía erudición mientras sus labios balbucían? ¿Para tranquilizarse a sí mismo o para tranquilizar al señor Le Tellier?… ¿Y por qué el pobre astrónomo se creyó obligado a responder, entre sus dientes que castañeteaban?:
+
+—No, no; no hay ninguna nube; no hay lluvia. Además, un chaparrón no se habría limitado a tan poca cosa…
+
+A través de sus quevedos plegados, que le servían de lupa, el señor Monbardeau examinaba la mancha granza que se secaba en el dorso de su mano.
+
+—Es sangre, sí —dijo al cabo de un minuto—, sangre de verdad, que no se coagula de modo muy normal, lo confieso, ¡pero sangre al fin y al cabo! Volvamos, haré el análisis y… y te diré si es… sangre de hombre o de animal…
+
+—Bien me figuro que es sangre —murmuró el señor Le Tellier—. Pero antes de volver y hacer el análisis, que es interesante, quisiera consignar algunas observaciones, aquí, con el testimonio de ustedes dos.
+
+»Miren las gotas de la capota: están alargadas en forma de signos de exclamación. Eso se justifica por el movimiento del automóvil mientras recibía esta ducha. Ahora vengan por aquí… Miren las gotas del suelo: son estrellas dentadas como rodajas de espuela. Si piensan que no hace el menor viento, les será fácil concluir que la sangre cayó perpendicularmente a la tierra y desde un punto inmóvil situado en el cenit del lugar de llegada.
+
+—¡De la mancha cuadrada! —aseguró el señor Monbardeau.
+
+—No, no es de la mancha cuadrada; porque no está rigurosamente encima del lugar donde nos hallamos. Está, matemáticamente, en el cenit de Ceyzérieu, puesto que está a siete grados al sur del cenit de Mirastel. Encima de nosotros no hay *nada*. ¿Me oyes, Calixte?: ¡nada!… Y además, piénsalo, a esa altura de cincuenta kilómetros *ya no son posibles los líquidos*, dado que allí es el vacío casi perfecto, salvo error científico…
+
+»Otra cosa más. ¿Cómo explicar que la sangre no se haya secado, si ha recorrido cincuenta kilómetros en caída libre? Haría falta entonces que estas gotas fueran un residuo… Toda la sangre de un hombre, reducida a unas cuantas lágrimas… De un hombre… o de una mujer… o de un animal…
+
+—Volvamos, te digo. Dentro de media hora sabremos la verdad en cuanto a la especie que ha sangrado. Volvamos; esta salpicadura me revuelve el estómago, tengo prisa por analizarla, por poder limpiármela.
+
+La mano ensangrentada se contraía de horror… Y, sin embargo, quizá era la propia sangre del señor Monbardeau: la de su hija o la de su hijo…
+
+Subieron de nuevo al coche… Un silbido balístico, cada vez más violento y sobreagudo, se oyó por encima de la capota y terminó en el «plof» de un objeto que cae al agua…
+
+Asomaron la cabeza… Un segundo silbido rayó el cielo azul con un surco mate y acabó entre ramas rotas…
+
+—¡Eh! ¿Aerolitos? —dijo el señor Monbardeau.
+
+Detrás de las paredes de Talissieu se percibían ruidos de fortificación… Y luego, ese silencio de los silencios que es el de una multitud que no se ve y que calla.
+
+Los automovilistas se dirigieron a la orilla del arroyo que corre por un bosque y lo bordearon en el sentido de la corriente.
+
+El agua clara se enturbiaba de pronto y arrastraba una nube de limo que acababa de levantar el choque del objeto precipitado.
+
+Esperaron a que se posara el fango, y entonces, ved aquí: distinguieron en el fondo del arroyuelo, incrustada en el cieno pedregoso, una cabeza humana que, con un ojo sin párpados y una órbita sin ojo, miraba inclinarse sus tres angustias… y vio retroceder sus tres espantos.
+
+El mecánico, en la energía de su retroceso, había caído sentado en medio de un matorral. Salió de él de un brinco, como si hubiera tocado la Zarza Ardiente, y mostró algo que se había alojado allí: el segundo aerolito, una pierna de hombre, desollada, rojiza y sanguinolenta.
+
+—Pero, pero —tartamudeó el doctor—, esto, esto lo ha hecho… alguien del oficio… alguien familiarizado con el escalpelo… Es una preparación… ¡Uy! ¿Qué es esto otra vez?
+
+Se agachó hacia una pequeña chuchería que, en aquel instante, había golpeado su sombrero, y recogió —¡Señor!— un dedo meñique minuciosamente despiezado.
+
+—¡Cuidado! ¡Ya vuelve a empezar! —aulló el mecánico.
+
+Silbidos… Un haz de silbidos…
+
+A su alrededor, enfermos de repugnancia, se abatía un granizo infame de vísceras, de pies, de brazos y de muslos, todo un cadáver troceado, cada uno de cuyos fragmentos era una preparación anatómica espantosa y, sin embargo, notable, todo un cuerpo trabajado por estudiantes de medicina virtuosos, y procedente de aquel rincón del cielo donde *nada* existía.
+
+—¿Respondes de lo que dices? —farfulló el señor Le Tellier—. ¿Es disección?
+
+El doctor examinaba los restos. Sacaron del barro la horrible cabeza…
+
+Los dos padres se parecían a aquellos pobres villanos de los tiempos de los alquimistas y de los Gilles de Rais que, habiendo perdido a sus hijos, temblaban por si los habían degollado sobre un tajo filosofal.
+
+—Sí —sostuvo el señor Monbardeau—, son miembros y órganos disecados… ¡si no *viviseccionados*!… ¡Eh, eh! Este antebrazo bien podrían haberlo preparado en vivo…
+
+—¡Oh! —protestó el señor Le Tellier, a punto de desfallecer.
+
+Una aprensión terrible les oprimía el corazón: ¿quién era aquel muerto?
+
+—La cabeza está irreconocible —decía el doctor—. La de un hombre, ¡pardiez!, pero ¿cómo reconocer…? ¡Oh, Dios mío, Dios mío! —gemía, enloquecido—. Se diría… No, me equivoco, ¿verdad?… ¡No! Mira los dientes: no es nadie. Quiero decir: no es uno de los nuestros…
+
+El astrónomo sondeaba el espacio con una mirada espantosa.
+
+—Entonces —pronunció lentamente—, ¿habría allá arriba unos experimentadores criminales, refugiados más allá del alcance común, en un cantón inexpugnable donde se persigue algún descubrimiento ignominioso?…
+
+—No es seguro. En definitiva, aquí no hay más que simples preparaciones, ejecutadas con mucha habilidad, pero sin ajustarse a las reglas clásicas de los anfiteatros…
+
+—Dime: quizá no sean los primeros desechos que caen por aquí… Podríamos batir los alrededores…
+
+Una vez enterrados los restos, se pusieron a buscar, cada uno por su lado.
+
+Y cada uno hizo un hallazgo.
+
+El señor Le Tellier encontró ramas de fresno curiosamente hendidas, extrañamente descortezadas, *botánicamente* cortadas en rodajas y en láminas.
+
+El señor Monbardeau, por su parte, encontró los huesos de un ternero, o de una ternera. Aquellos huesos estaban dispersos, pero de cierta manera: aquí la columna vertebral, allí una paletilla, más allá la pelvis. Los contó: al esqueleto le faltaba la pata trasera izquierda. El doctor llamó al señor Le Tellier y le dijo que aquel animal había sido arrojado del cielo por partes, como el difunto al que acababan de enterrar. «Los insectos y las bestias carnívoras se habían encargado de limpiar los huesos, y por eso no se advertían, bajo los despojos, las magulladuras con que habían contusionado el musgo al caer de tan alto. El musgo, por otra parte, es un cojín amortiguador que se endereza pronto».
+
+Pero el astrónomo sostuvo que aquellos restos podían datar de mucho tiempo atrás, que la comarca estaba cubierta de carcasas semejantes y que no había que ver sarvants en todas partes con el pretexto de que…
+
+La voz del mecánico lo sorprendió. Terminada su ronda, que juzgaba suficiente, aquel muchacho volvía y, mientras caminaba, se ingeniaba para mirar lo mejor posible la copa del sicómoro a cuyo pie discutían los cuñados.
+
+—¿Qué es eso que se mueve así ahí arriba? —preguntó—. Si los señores tienen la bondad de apartarse, ¡rediós!, voy a tirar ahí dentro…
+
+Sacó un revólver del bolsillo e hizo fuego.
+
+El árbol perdió algunas hojas y unos cuervos echaron a volar, dejando ver una pata de ternera blanca o de ternero blanco, atrapada en la horquilla más alta del sicómoro.
+
+Tal fue el hallazgo del mecánico.
+
+Era concluyente. El ternero —o la ternera— había caído del cielo muy recientemente, y una de sus fracciones se había quedado en aquel lugar elevado, adonde los bovinos no suelen ir a morir ni enteros ni por lotes.
+
+El señor Monbardeau formuló su juicio del modo siguiente:
+
+—Mira, Jean, no intentemos engañarnos. Por encima de nosotros, en su mirador inexpugnable, un biólogo sin fe ni ley se entrega a feroces experimentos de anatomía comparada. —Y, tras un silencio en el que lo que se había atrevido a decir lo asustó a él mismo, prosiguió—: Por ejemplo, si el sarvant es el biólogo que supongo, la materia humana debe de faltarle más bien desde hace algún tiempo; ¡escucha este desierto!
+
+Sus búsquedas los habían alejado del pueblo y acercado a la vía férrea. Hasta donde alcanzaba el oído, no se captaban más que frufrús de follajes, zumbidos de mosquitos, gorjeos y sobre todo graznidos, chillidos y gañidos de todos los sepultureros de pluma y de pelo que ocupaban la provincia. Por el oído, se podía creer que los hijos de Adán ya no reinaban.
+
+Como para protestar, una locomotora y unos vagones desfilaron con una barahúnda especialmente ostentosa. Aquella hidra de hierro resoplante y silbante tenía por lo menos cuatrocientas cabezas de ambos sexos, cuatrocientas caras viajeras que guarnecían las ventanillas y en las que se leía el miedo a atravesar el Bugey a remolque de una caldera susceptible de averías.
+
+Los de Mirastel regresaban.
+
+—Lo curioso —dijo el señor Monbardeau— es que *ellos* no rebasen ese círculo…
+
+—Lo curioso —dijo el señor Le Tellier— es que las cosas que *ellos* arrojan no se arrojen desde la mancha, puesto que no está encima…
+
+—¡Bah! La mancha es un dique flotante que se mueve a voluntad.
+
+—No puedo admitirlo.
+
+En efecto, la mancha parda no se había movido. Seguía cuadrándose en el centro del círculo azul, en el telescopio de la torre.
+
+En el cenit, nada.
+
+El señor Le Tellier bajó al laboratorio de Maxime para comunicárselo al señor Monbardeau, que por su parte estaba enfrascado con la mancha roja. Pero el astrónomo, que pensaba sorprender al doctor, fue él quien quedó petrificado:
+
+¡El análisis de la sangre revelaba la presencia de glóbulos *animales* mezclados con glóbulos *humanos*! ¡Aquella sangre podía ser la de una criatura híbrida semejante a los centauros, a los sátiros, a las sirenas de la antigüedad fabulosa!… Y el sarvant, entonces, ¿se llamaba el doctor Lerne o el doctor Moreau?…
+
+La semana siguiente, muchas veces, de noche, silbaron cosas que caían… Abrían agujeros en la tierra. Eran guijarros muy limpiamente serrados o con vestigios de un ataque químico, ramas tajadas por el cuchillo de un naturalista experto. Eran también carnes de aves, de peces, de mamíferos, todas muy sabiamente trabajadas. Mucha humanidad en pedacitos… Muchos difuntos a los que costaba mucho reconocer…
