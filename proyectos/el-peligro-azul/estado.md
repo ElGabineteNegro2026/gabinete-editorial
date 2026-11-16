@@ -27,7 +27,7 @@
 - Groserías del original suavizadas solo lo justo («s'en foutait pas mal» → «le importaba un bledo»).
 
 ## Pendiente
-- Traducir, la segunda parte (≈ 21 capítulos) y el epílogo. Son unas 110.000 palabras en total (recuento de los HTML), ≈ 340 páginas.
+- Traducir la segunda parte (21 capítulos) y el epílogo. Son unas 110.000 palabras en total (recuento de los HTML), ≈ 340 páginas.
 - Prólogo (CONSULTA) y apéndice. Para el apéndice: el preliminar cita otros relatos de Renard (*El doctor Lerne*, *Le Voyage immobile*, *L'Homme truqué*…), que merece la pena comentar.
 - Cubierta Límite Abisal: buscar grabados de dominio público de cielo, abismo o seres aéreos (p. ej. Grandville, Doré, láminas de *La Nature*).
 
