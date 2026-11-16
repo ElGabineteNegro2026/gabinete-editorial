@@ -2103,3 +2103,89 @@ El señor de Agnès se sonrojó como si el senador Bérenger acabara de desperta
 —¡Ah, señor, qué me hace usted decir! ¡Tenga piedad de mí! ¡Todas mis angustias, todos mis celos, todo mi martirio eterno, antes que una lágrima en las pestañas de su hija!
 
 Y el duque prosiguió largo rato en ese tono, confesando su amor y su mal con una voz nerviosa, ronca y vacilante, con esa énfasis de melodrama que rebaja al tono de malas tiradas las exaltaciones de la vida más hermosa.
+
+## XVIII. APARICIÓN DE LO INVISIBLE
+
+Tras la marcha del sabio cuya autoridad había dominado la fase parisiense del Peligro Azul, se aprovechó su retirada para poner en ejecución cierto proyecto que el astrónomo siempre había combatido. Queremos hablar de la admisión del público en el Grand Palais. El señor Le Tellier no se oponía a ella en principio, pero sostenía con razón que debía ser gratuita y que, en todo caso, había que esperar a que el aeróscafo dejara de ser invisible, al menos en parte, mediante una pintura o cualquier otro procedimiento.
+
+Por desgracia, el público gruñía. (Es decir, que tres o cuatro periodistas lo hacían gruñir). Se vio llegar el momento en que la cuestión se volvería electoral y, aunque el subaéreo seguía siendo reacio a todo maquillaje visibilizador, se decidió el acceso del pueblo y se tasó en cincuenta céntimos por cabeza, en beneficio de los damnificados del Bugey. La entrada de pago solo se impuso para evitar las aglomeraciones.
+
+Desde el primer día, el domingo 22 de septiembre, ocurrió lo que había predicho el señor Le Tellier. La multitud vio, en total, una valla alta y sólida que defendía un recinto desocupado; unos agentes de policía la reforzaban por dentro. Nunca mejor dicho que se había pagado por no ver nada. En el alma obtusa de la multitud había tomado cuerpo la idea de que, «¡caramba, siempre se vería, por cualquier cosa, que aquel chisme era invisible!». ¡Y querían ver! ¡Y estaban furiosos por no ver nada por sus diez perras!
+
+Estalló un motín. «¡Nos roban! ¡Es una superchería!». La existencia de los sarvants ya no era más que una patraña de funcionarios estafadores destinada, en fin de cuentas, a esquilmar al contribuyente una vez más. Todos aquellos trabajadores endomingados se recordaban unos a otros las enormes sumas enviadas en socorro del Bugey desde todos los puntos de Francia y del extranjero, de las que el comité de reparto no había distribuido más que 3.746 francos con 95. Incluso quienes habían aceptado lo invisible en el cruce Louis-le-Grand ya no lo admitían, ahora que habían desembolsado su moneda de plata para contemplarlo.
+
+A una orden, los agentes golpearon el aeróscafo resonante…
+
+—¡Uh! ¡Uh! —¡Compinches! —¡Robert-Houdin! —¡Uh! ¡Uh! —¡Ahí están los polizontes queriendo hacerles la competencia a los hermanos Isola! —¡Compinches! —¡Basta! ¡Basta! —¡Vergüenza!…
+
+En cumplimiento de una segunda orden, los agentes volvieron a colocar cuerdas alrededor del subaéreo…
+
+Luego los mandos alcanzaron la plataforma oculta y se pasearon por ella sin apoyo, como los astros en la infinita sutileza…
+
+Luego se fue a buscar los vaciados de la hélice y de la pinza-cizalla-cesto…
+
+Luego se invitó a doce ciudadanos a venir a tocar el aeróscafo…
+
+Pero nada pudo dar la vuelta a la multitud, que veía por todas partes compinches y traidores. El Grand Palais se llenó de un estruendo sin nombre. El público hervía como un charco en fermentación. Si hubiera creído en la realidad del barco, habría intentado hacerlo pedazos. Aquí y allá se produjeron refriegas; asfixiaron a algunos chiquillos. Hubo que devolver el dinero.
+
+El prestigio del Peligro Azul acababa de recibir un golpe irreparable. Al día siguiente, los periódicos de la oposición sostuvieron que no se trataba solo de una estafa gubernamental y de un crimen del estatismo, sino también de una estratagema para distraer la atención cívica de la situación social, cada vez más tensa. El poder se había servido de aquella distracción indigna como se servía a veces de alarmas de guerra, tan falaces como la nocividad, como la existencia misma de las tierras invisibles.
+
+Y cuando, triunfalmente, el químico Arnold, de Estocolmo, anunció al mundo que había encontrado la pintura tan deseada y hecho aparecer así el trozo de aeróscafo que Francia le había confiado, la democracia se negó a ver en ello otra cosa que un nuevo maquiavelismo de los impostores. «¡Qué engañifa! ¡Iban a pintar de nuevo algún viejo submarino desguazado, fuera de servicio, y a exhibirlo como el aeróscafo invisible recubierto de la célebre *arnoldina*! ¡Bravo, tartufos! Pero ya se sabía a qué atenerse».
+
+Así nació la leyenda del Peligro Azul, que, sin embargo, era historia y bien historia.
+
+***
+
+No obstante, en verdad, la arnoldina estaba descubierta.
+
+El químico sueco vino a París sin perder un minuto. Traía el fragmento de aeróscafo sobre el que tantas combinaciones habían probado su impotencia antes de la amalgama vencedora. Arnold había tenido cuidado de no pintar más que la mitad; era, pues, una barra mitad invisible y mitad amarilla, de un magnífico amarillo canario.
+
+Pero, primera decepción, las Cámaras se negaron a votar la más mínima subvención. Y, en segundo lugar, un proyecto de sociedad anónima con un capital de cuatrocientos mil francos para pintar el aeróscafo fracasó miserablemente.
+
+Arnold se mostró más grande que todo un pueblo. Tomó a su cargo los gastos considerables —pues aquel color valía más de tres mil francos el litro— y fabricó cantidades de arnoldina.
+
+De ordinario, la pintura disimula las cosas. Hoy la pintura iba a mostrar las cosas.
+
+Cuando todo estuvo preparado, Arnold convocó alrededor del navío un congreso de sabios para asistir a aquel barnizado de un nuevo género, como el Grand Palais nunca había contenido otro. Belloir levantó sus gradas y rodeó el aparato invisible con un circo de tablas…
+
+El día fijado, que cayó en 5 de octubre, ante una galería de celebridades cosmopolitas, el escandinavo se puso la blusa blanca y dio la primera pincelada.
+
+Los cinematógrafos y las cámaras instantáneas dibujaban un gran círculo; los botes de arnoldina estaban repartidos por todas partes; una orquesta tocaba una marcha heroica.
+
+Lo invisible apareció poco a poco.
+
+Como si la brocha cargada de crema amarilla hubiera tenido el don de crearlos, todos los detalles del barco surgieron en el espacio, uno por uno. Fueron en primer lugar la terrible pinza, y la espantosa cizalla, y el horrible cesto en forma de salabre, con su red de mallas, los tres en el extremo de varas articuladas que se alargaban mediante casquillos corredizos. Las máquinas exhibieron después sus complicaciones de finura y de enmarañamiento, sus esferas innumerables y chuscas, las cajas desiertas donde el galope sin avanzar de los batracios mecanizados engendraba la fuerza viva del aparato. Se vio el eje de transmisión alargarse, convertirse en un largo tubo y florecer en una hélice amarilla como él, amarilla como las máquinas y la pinza-cizalla. Se vio la brocha de Arnold pintar en bulto redondo, en plena atmósfera, instrumentos desordenados, unos de aspecto elemental y voluminoso, otros infinitamente confusos y múltiples, cuyos primores, ¡ay!, empastaba la arnoldina.
+
+Suspendido en medio del vacío, Arnold reptaba, se deslizaba, se escurría entre la disposición invisible de las cabinas. Tras pintar el organismo del aeróscafo, se agregó ayudantes y continuó su tarea de encantador.
+
+La pinza-cizalla y su cesto desaparecieron en una torre azafrán que se parecía a la chimenea de un vapor; la concurrencia se estremeció: había reconocido el cilindro donde tantos cautivos se habían entregado a tantos terrores…
+
+Pero el aire se tabicaba de muros, de techos y de suelos; las celdas se acumulaban en torno a la maquinaria y los aparejos. El aeróscafo parecía una embarcación construida al revés que las demás, empezando por donde de ordinario se termina; todavía faltaba el casco. Para embadurnarlo, Arnold y sus ayudantes, subidos en escaleras, extendían la arnoldina a grandes brochazos. Pieza a pieza, las entrañas del subaéreo se ocultaban bajo la cortina de azufre, rígida y abombada, que desplegaban de un modo mágico.
+
+Por fin, perfecta ya la capa de arnoldina, un largo cigarro del color de los canarios se encontró en el circo; y ante su parecido sorprendente con un dirigible —parecido que el tinte cetrino acentuaba todavía más—, todos se asombraron ruidosamente.
+
+Arnold volvió a entrar en el subaéreo para embadurnar el fondo de la bodega…, y cuando salió por una de las escotillas, a los acordes del himno sueco, solo, de pie en medio de la arena, sobre el lomo del aeróscafo al que parecía derribar, se le hizo una apoteosis. ¡El color! ¡El color! ¡Principio de visibilidad sin el cual nuestros ojos serían maravillas inútiles! ¡El color, que solo él justifica la existencia de la vista! El color, él se lo había dado a la materia clandestina, ¡y ahora todo el mundo *veía lo invisible*!
+
+Arnold saludó. Las manchas de su blusa llenaban de sol su gesto y, de su brocha empapada de arnoldina, caían soberbiamente gotas de oro.
+
+La multitud se retiró como a disgusto. Cuando el último espectador hubo salido del Grand Palais, la pintura estaba seca, y había llegado la noche, sin luna y sin estrellas, tan espesa que el aeróscafo habría podido creerse todavía invisible, perdido en las tinieblas que abolen el color y revientan nuestros ojos.
+
+Ahora bien, en el corazón de aquella sombra, mientras un banquete de mil quinientos cubiertos alimentaba al congreso de los sabios y festejaba la victoria de los hombres sobre lo invisible, en el corazón de aquella sombra se cumplía una obra oscura, inexorable, la obra incomprensible de fuerzas desconocidas, infinitesimales, una obra de átomos y corpúsculos en trabajo, en lucha quizá…
+
+Aquello ocurrió en la sombra y en el silencio. No se sabe cómo ocurrió.
+
+Belloir, que vino al rayar el alba para desmontar el circo, ya no encontró el subaéreo, sino solamente, en su lugar, una alfombra de polvo amarillo canario en forma de navecilla. Una alfombra muy delgada. Un polvo tenue en grado sumo.
+
+Por más que se corrió en todas direcciones, y se tanteó el aire, y se vareó el vacío con inmensas pértigas… El aeróscafo ya no existía. La pintura sueca, corrosiva de la sustancia invisible, lo había roído en unas horas.
+
+La gloria del químico se hundía en la ruina y el ridículo. Se arrancaba los cabellos; no comprendía cómo el aeróscafo se había pulverizado, cuando la muestra, tomada del propio barco y de la que se había servido para sus experimentos, había resistido el ataque…
+
+Por fin, la verdad se abrió paso en la mente de Arnold. Entre todos los tratamientos a que había sometido el espécimen antes de tener éxito, algún baño, sin duda, poseía la virtud de inmunizarlo contra la acción nociva de la arnoldina, mientras que el aeróscafo no se había beneficiado de ninguna operación previa.
+
+¡Un baño! Sí, pero ¿cuál? ¡Había probado tantos!… Y además, ¿para qué buscarlo ahora que el aeróscafo ya no existía?
+
+Arnold, no obstante, se esforzó por fabricar materia invisible, por hacer la síntesis de aquella rareza cuyo análisis le había costado mil tormentos (y eso para quedar incompleto, pues el compuesto daba con los ácidos reacciones extravagantes). Solo consiguió diluir varios especímenes en una mezcla demoníaca, enfebrecida de corrientes alternas, y se las arregló tan bien que destruyó así todo lo que quedaba en este mundo del metal inestimable.
+
+Aquel desafortunado inventor perdió el juicio. Su patria lo hospitalizó. Sigue en Gotemburgo. Unas veces quiere ir a pintar los continentes superaéreos para reducirlos a polvo. Y otras, creyendo haber encontrado el antídoto de la arnoldina, el insensato habla de barnizar esa bóveda transparente para que la noche se extienda para siempre sobre la ingratitud y la ironía.
+
+Así es como lo invisible —¡pasa, pasa!— apareció y volvió a desaparecer.
