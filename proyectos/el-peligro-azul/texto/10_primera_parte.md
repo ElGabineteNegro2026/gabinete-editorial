@@ -1015,3 +1015,355 @@ Envuelto en un macfarlán de grandes cuadros, aquel joven afeitado, descolorido 
 El señor Le Tellier puso los ojos como calderones.
 
 —¿Cómo dice?
+
+## VIII. TIBURCE
+
+Tiburce se esforzó por alcanzar el colmo de la flema y por mirar a su interlocutor bien de frente.
+
+—Digo que soy *sherlockista* —repitió. Pero entonces se puso tan colorado que sus labios desaparecieron en el incendio de toda su cara—. *Sherlockista* u *holmesiano*, si lo prefiere; como se dice *carlista* o *garibaldino*.
+
+En aquel momento, el señor Garan representaba con bastante acierto la ironía, el señor de Agnès la contrariedad y el señor Le Tellier la incomprensión. Viéndolo, Tiburce prosiguió:
+
+—En fin, señor, ¿habrá oído usted hablar de Sherlock Holmes?
+
+—Eh… ¿Sería pariente de aquella Augusta Holmès que hacía música?
+
+—En absoluto. Sherlock Holmes es un virtuoso, pero un virtuoso detective. Es un policía genial, cuyas fantasiosas hazañas ha contado sir Arthur Conan Doyle…
+
+—¡Eh, caballero, en la hora en que estamos, al diablo las novelas! ¡Y fuera su Shylock Hermes!
+
+—*Sherlock* —rectificó Tiburce—, *Sherlock Holmes*. —Y prosiguió sin inmutarse demasiado—: Pues bien, señor, yo soy el émulo vivo de ese héroe imaginario y aplico a las dificultades de la vida real su método incomparable.
+
+El duque de Agnès, advirtiendo que el señor Le Tellier se irritaba cada vez más, aventuró tímidamente:
+
+—Afirmo… en verdad… que Tiburce nos será de gran ayuda.
+
+Y Tiburce:
+
+—Escúcheme unos instantes. Si le falta fe, es que no comprende. Deje que me explique.
+
+»Verá usted, señor, mi vocación se decidió en la época en que estudiaba filosofía; no un día en que me empollaba a alguno de esos escolásticos cuyas obras tanto había de querer, sino una tarde en que leía el cuento de Voltaire titulado *Zadig o el destino*. Hay en él, señor, cierto pasaje que es como el prototipo de todas las intrigas policíacas, donde Zadig, aun sin haber visto nunca la perra de la reina, no deja de describírsela de manera asombrosa al Primer Eunuco, gracias a los vestigios que dejó a su paso por un bosquecillo.
+
+»Aquella lectura me abrió los ojos, y resolví cultivar en mí las disposiciones a la perspicacia, que sentía imperiosas y ricas, dicho sea sin falsa modestia.
+
+»Algún tiempo después cayeron en mis manos los cuentos de Edgar Poe; me maravilló el espíritu sagaz del policía Dupin. Por último, en estos últimos años ha florecido toda una literatura en pos de *Los crímenes de la calle Morgue*, *La carta robada* y *El misterio de Marie Rogêt*, y mi vocación se fue perfilando cada vez más. A decir verdad, Sherlock Holmes domina esta producción como Napoleón domina la historia de su tiempo; pero cada una de esas obras tiene, no obstante, su importancia y constituye un breviario del cazador de lo desconocido. Su conjunto, reforzado con varios tratados de lógica, compone la biblioteca del detective aficionado; y esa biblioteca, señor, no se separa de mí.
+
+Diciendo estas palabras, Tiburce abrió una maleta que había disimulado bajo la esclavina de su macfarlán y sacó de sus profundidades una retahíla de volúmenes sólidamente encuadernados. Los fue dejando uno a uno sobre el escritorio, colocando codo con codo a Aristóteles y Maurice Leblanc, a Mark Twain y Stuart Mill, a Hegel y Gaston Leroux, a Conan Doyle y Condillac, haciendo vecinos *El perfume de la dama de negro* y los tres primeros tomos de *The Spectator*, y las *Aventuras de Arsène Lupin* y la *Lógica inductiva y deductiva*.
+
+—He aquí a mis maestros —dijo con un gesto pomposo—. Pero no vaya a creer que el estudio de estos libros es mi única tarea. Estudio una barbaridad, señor, y de todos los géneros, a fin de adquirir los conocimientos universales del gran Sherlock. No dejo un manual de álgebra, de carpintería, de medicina o de ganadería sino para correr a la sala de esgrima, al club de boxeo, al gimnasio o al picadero; y mis vacaciones las empleo en hacer lógica aplicada: en pasar de los principios a la práctica, de la teoría al servicio de campaña.
+
+»Y me atrevo a decirlo: mis comienzos son alentadores. Permítame someterle uno o dos ejemplos de mi buen hacer. Eso estimulará su confianza.
+
+Como el señor Le Tellier parecía resignado, Tiburce prosiguió con aplomo, pese al aire burlón del señor Garan:
+
+—De todas mis pequeñas proezas, le señalaré solamente las que mi amigo De Agnès, aquí presente, podrá certificar.
+
+»Este invierno, charlábamos él y yo en su cuarto cuando entró la señorita Jeanne de Agnès. Le dije a quemarropa: «Señorita, viene usted de la casa que lleva el número 13 de la calle de Prony. Acaba de tomar el té en el invernadero de la canonesa de Bouvillon». Y como se asombraba, le hice notar, en su vestido de terciopelo, la marca del asiento de rejilla en que se había sentado. Un entrelazado extraño había quedado impreso en el fino terciopelo, y se reconocían en él los arabescos de unos sillones muy curiosos, de labor exótica, con que la señora de Bouvillon ha amueblado el invernadero de su palacete. Ahora bien, en ese invernadero apenas se entra más que para el *five o'clock*…
+
+—No era muy difícil —murmuró el señor Le Tellier.
+
+—Ha hecho algo mejor, señor —dijo el duque de Agnès—. Acaba de hacer algo muy notable que me ha decidido a traerlo aquí.
+
+—¡Bah! ¡Nada en absoluto! —exclamó Tiburce con desdén—. Anteayer recibí de François una tarjeta neumática citándome. Acudí; y le dije que había escrito ese *azul* en el Café de la Restauration, que en aquel momento el café estaba lleno de parroquianos y que él mismo tenía prisa por acabar con su correspondencia.
+
+»¿Por qué *en el café*? Porque la goma de la tarjeta sabía a vermú con granadina, mezcla que rara vez se bebe en otra parte…
+
+—¡Cómo! —exclamó el señor Le Tellier—. ¿Ha lamido usted esa goma que otro ya…?
+
+—Es el oficio. Continúo:
+
+»¿Por qué en el *Café de la Restauration*? Porque en los trazos de los caracteres, escritos a lápiz, se dibujaban las estrías del secante sobre el que el señor de Agnès los había escrito, secante del que no encontrará usted ejemplares más que en casa de particulares o en esa taberna. Ahora bien, yo sabía, por el vermú con granadina, que había que descartar la idea de particulares.
+
+»¿Por qué *mucha gente*? Porque, habiendo pedido recado de escribir, François de Agnès no había conseguido más que un secante y ninguna pluma (puesto que se había servido de un lápiz). Luego todas las plumas estaban en uso; y eso implica la presencia de una multitud.
+
+»¿Por qué *con prisa*? Porque no había esperado a tener una pluma; lo cual, sin embargo, no habría tardado.
+
+»¡Eh! ¿Qué me dice de esto?… Veo con gusto, señor, que vuelve usted sobre su primera impresión. ¡Vamos, vamos! ¡Encontraré a su hija, se lo digo yo! ¡Y mire, quiero convencerle todavía más!
+
+Entonces Tiburce se hundió en un canapé, cruzó las piernas, clavó la vista en un rincón del techo, se royó un poco las uñas y soltó con voz rápida y negligente, agria y blanca —con aquella voz, en fin, que el actor Gémier prestaba al personaje de Sherlock Holmes—:
+
+—Señor, posee usted un perro de la raza llamada «grifón Boulet de pelo duro». Y de ese perro de muestra hace usted un perrito faldero. Porque no es usted cazador. No es cazador, sino pianista. Muy buen pianista, incluso; o al menos cree serlo. Añadiré que ha servido usted en caballería, que lleva habitualmente monóculo y que uno de sus pasatiempos favoritos es el tiro al blanco. ¡Chis! Cállese; ruego que no me interrumpa.
+
+Y, sin dejar de mirar hacia arriba, continuó:
+
+—Los bajos de su pantalón están cubiertos de pelos. Ahora bien, esos pelos no pueden pertenecer más que a un perro de la especie antedicha o a una cabra. Pero no entra en nuestras costumbres hacer dormir cabras a nuestros pies. Luego… Concluya usted mismo. Por otra parte, sé que sus ocupaciones no le dejan tiempo para cazar, y deduzco de ello que su perro, pese a su naturaleza, es un perro de salón por destino. Toca usted el piano; sí. Al darle la mano, he reconocido en la yema de sus dedos las callosidades profesionales de los pianistas. Me han revelado que toca usted incluso con mucha frecuencia. Ahora bien, un hombre de su edad y de su inteligencia no podría mostrar tanta asiduidad en el ejercicio de un arte tan delicado si no sobresaliera en él o no creyera sobresalir. A causa de Ingres y de su violín, no me atrevo a afirmar su talento de pianista, a despecho de su genio de astrónomo. Ha servido usted en caballería; pues camina con las piernas separadas y baja las escaleras como si temiera engancharse las espuelas en los peldaños. Luego tiene usted costumbre de montar. Y es una costumbre que viene de lejos, pues nunca se le ve cabalgar en París. Como su juventud humilde y estudiosa no le permitió la equitación, es preciso, por consiguiente, que haya montado usted los corceles del gobierno. Silencio, se lo ruego. Lleva usted monóculo. Exactamente. He descubierto su huella en el pliegue de su órbita derecha. Y sostengo que tira usted a menudo con pistola o con carabina, pues su ojo izquierdo tiene la costumbre de cerrarse para apuntar: es un poco más pequeño que el otro, y los pliegues de la arruga llamada «pata de gallo» están más marcados a la izquierda que a la derecha. Como no caza, se sigue que practica usted el tiro al blanco. Eso es todo. He dicho.
+
+—¡Si no está usted contento con eso! —exclamó Garan en tono burlón.
+
+Pero el señor Le Tellier no estaba para bromas. Sin decir palabra, sacó de la sombra, de debajo del escritorio, un calientapiés de piel de cabra y lo arrojó en medio de la estancia.
+
+—He aquí el grifón Boulet de pelo duro —dijo.
+
+Luego abrió un armario y, mostrando su máquina de escribir:
+
+—He aquí el piano.
+
+De un cajón sacó su lupa de relojero, se la encajó bajo el arco de la ceja derecha y añadió con voz cortante:
+
+—He aquí el monóculo.
+
+Por último, mostró una fotografía que lo representaba en la postura propia de su oficio: el ojo derecho en el ocular de un anteojo meridiano y el ojo izquierdo cerrado, como les ocurre a todos los astrónomos durante sus observaciones.
+
+—Y he aquí la carabina o la pistola —dijo con un silbido irritado—. En cuanto a la caballería, no sé lo que quiere usted decir. Puede que tenga las piernas arqueadas, pero nunca he montado a caballo. Y ahora, mi joven amigo, permítame declararle que, para hacer el bobo, ha escogido usted mal la hora y el lugar; y que, si fuera tradición servirse de canarios para sacar auspicios, sería usted un pájaro de muy mal agüero. Eso es todo. He dicho.
+
+Garan soltó una carcajada de lo más inconveniente.
+
+Pero apenas hubo vomitado el señor Le Tellier estas imprecaciones bajo el imperio de la cólera, se arrepintió de haberlo hecho. Tiburce ya no intentaba doblar a Sherlock Holmes. Verdoso y avergonzado, balbucía vagas excusas temblorosas. Parecía desolado; mucho más desolado, incluso, de lo que su chasco justificaba. Tanto que el astrónomo, movido a compasión, se apresuró a añadir:
+
+—Después de todo, uno puede equivocarse alguna vez… Mañana tendrá usted más suerte, ¿verdad?… Disculpe un arrebato de mal humor. Vamos, señores, voy a hacer que les acompañen a sus habitaciones.
+
+Llamó. Apareció un criado. Pero el duque de Agnès dejó marchar a sus dos compañeros.
+
+—Quisiera hablarle —dijo al señor Le Tellier—.
+
+»Ante todo, señor, perdóneme lo de Tiburce. He aquí por qué lo he traído. Tiburce sigue siendo amigo mío desde el colegio. Hace años que lo conozco, años que soy testigo de su bondad, de su gran corazón, y meses que asisto a su estupidez, que es reciente. Es el más fiel, el más abnegado, el más… ingenuo… de los perrillos de aguas. Sin embargo, esas cualidades no habrían bastado para decidirme, y no lo habría traído a Mirastel de no ser por esto:
+
+»Tiburce estaba presente cuando recibí su telegrama. Trastornado por una noticia tan asombrosa, enterado de golpe de la desaparición de la señorita Marie-Thérèse y de la aceptación —sobreentendida— de mi petición (puesto que usted reclamaba mi ayuda), me quedé un rato aturdido por haber ganado de pronto mi causa y perdido a mi prometida.
+
+—Perdón, perdón, pero…
+
+—Un instante. En esto, señor, Tiburce me juró que encontraría a la señorita Marie-Thérèse. Yo estaba aún bajo la influencia de su último éxito, ya sabe: la historia de la tarjeta-telegrama. Olvidaba, en mi desconcierto, las innumerables meteduras de pata de que el seudo-Sherlock se había hecho culpable… «¡Ah —le dije—, si encuentras a Marie-Thérèse, pídeme lo que quieras!». Al punto me di cuenta de mi necedad.
+
+»Desde hace dos años, señor, Tiburce ama a mi hermana, y Jeanne también lo ama a él. Desde luego, si solo dependiera de mí, su boda sería ya un acontecimiento antiguo; porque no conozco mejores criaturas que Tiburce y Jeanne. Por otro lado, sabe usted que mi buena hermanita no es muy guapa… Tiburce, que goza de una fortuna colosal, no se casaría, pues, con ella por su dote… En suma, sería la felicidad…
+
+—Y bien, ¿entonces? —dijo el señor Le Tellier.
+
+—Pues bien, señor, me acuerdo de mi difunto padre, el duque Olivier, de mi difunta madre, nacida d'Estragues de Saint-Averpont, y de todos mis antepasados. ¿Consentirían ellos, en los cielos, que una De Agnès llevase un nombre plebeyo?
+
+—¿Qué opina la señorita de Agnès?
+
+—Mi hermana se ha sometido al parecer del cabeza de familia, al mío. En nuestras casas, esas decisiones nunca se discuten… Solo que… ejem… cuando Tiburce me dijo: «¿Me das a la señorita Jeanne a cambio de la señorita Marie-Thérèse?», ¡qué quiere usted!… me pareció que en el fondo de su tumba mis antepasados ya no debían de pensar en gran cosa… y respondí: «Sí. Encuentra a Marie-Thérèse, y Jeanne será tu mujer».
+
+»Una hora después, mientras hacía mis gestiones en la prefectura de policía, mi locura me dejó estupefacto. ¡Bien habría querido retirar mi promesa y no traerme al inútil de Tiburce! Pero ya no tenía derecho. Por seguro que esté de su incapacidad, ahora tengo que facilitarle una tarea cuyo éxito he jurado recompensar.
+
+—¡Ahora comprendo su cara de chasco! ¡Pobre muchacho! Es una lástima que no sea más espabilado, este señor Tiburce; habría encontrado a Marie-Thérèse. Con semejante móvil, se llega a todo. ¡El amor!…
+
+—¡Ah, señor, el amor! Si mide usted las probabilidades de éxito por la grandeza del amor, entonces, ¿no seré yo quien encuentre a mi prometida?
+
+—Ejem, su prometida… Es decir, que… ¡eh! Escuche usted… Me azoré un poco en el momento del telegrama… Hay otro joven que, al mismo tiempo que usted, me ha pedido la mano de mi hija… Le confieso que, por mi parte, eh… En fin, ella elegirá. Será libre de elegir entre usted y el señor Robert Collin… Pero, en buena justicia, es bien seguro que el que la encuentre…
+
+—Pero, señor —protestó el duque de Agnès, completamente desconcertado—, ¿no sabe usted que la señorita Marie-Thérèse me hace el honor de amarme?
+
+—Es usted quien me lo dice, señor.
+
+—¡Oh, oh! Pero… me había parecido que todo el mundo lo sabía…
+
+«Decididamente —se dijo el señor Le Tellier—, he vivido demasiado en las estrellas».
+
+## IX. EN LA CUMBRE DEL COLOMBIER
+
+En los momentos críticos, cada recién llegado parece un salvador. Las mujeres y el doctor Monbardeau acogieron a los señores de Agnès, Tiburce y Garan como a una trinidad de mesías. Y no cabe dudar de que Maxime y Robert habrían compartido su sentimiento si el primero no se hubiera quedado confundido al ver metido en aquel asunto a su antiguo condiscípulo, Tiburce el simple, y si la presencia del duque de Agnès hubiera podido despertar en el ánimo de Robert otra cosa que celos.
+
+Por consejo del señor Garan, aquella noche se abstuvieron de toda conjetura sobre las desapariciones y se limitaron a preparar la expedición del día siguiente hacia el secreto del Colombier.
+
+Cuando cada cual se fue a acostar, la gran esperanza suscitada por el refuerzo de investigadores profesionales había caído ya. Tiburce se había revelado el más pazguato de los maniáticos, y Garan, bajo su apariencia de capitán de paisano, acababa de demostrar una mentalidad de guardia municipal. No obstante, varias personas auguraban algo bueno de una ausencia bastante larga, que había quedado en el misterio, que había hecho antes de la cena, y sobre la cual, por discreción, nadie quiso interrogarle.
+
+Debían partir al salir el sol.
+
+Cuando el sol apareció, Garan llevaba ya una hora piafando. Hubo que prestarle un gabán, un bastón y unas polainas, pues no había traído nada. Tiburce, por su parte, se retrasó. Llegó por fin corriendo, con ruido de zapatos claveteados y de objetos que entrechocaban; y se pudo admirar su equipo: sus botas, su *alpenstock*, su capucha, su sombrero tirolés y la profusión de sacos, bolsas, estuches, fundas, vainas y morrales que le colgaban alrededor del cuerpo como frutos estrafalarios.
+
+El señor Le Tellier se encogió de hombros.
+
+La señora Arquedouve y sus hijas habían resuelto sensatamente no salir de Mirastel. Demacradas a la claridad del alba —en dos días envejecidas dos años—, asistieron a la partida de los automóviles.
+
+Los investigadores eran siete.
+
+Pasado Don, Garan se hizo mostrar el cruce de caminos donde Marie-Thérèse se había encontrado con Henri y Fabienne Monbardeau.
+
+En Virieu-le-Petit, el inspector interrogó de nuevo a la dueña de la taberna, que mantuvo sus primeras declaraciones.
+
+Luego la caravana se puso en marcha, y pronto hubo rebasado el lugar donde Henri Monbardeau había escondido el morral de la posadera, el lugar donde se perdía la pista de los tres desaparecidos.
+
+Al cabo de hora y media de subida a través de los bosques que reverdecían, después de que la estrecha senda hubiera rodeado con su cornisa muchos barrancos suntuosos y atravesado con su cinta numerosos pastos más hermosos que hermosos céspedes, se divisó la triple joroba del Grand-Colombier. Desde la antevíspera, los tres casquetes de nieve habían menguado un poco. La cruz gigante aparecía minúscula, muy alta, muy lejos todavía; unas águilas planeaban por encima y describían sus lentas espirales.
+
+Bajo la guía de Robert, emprendieron la penosa ascensión del calvario. La pendiente se empinaba cada vez más; resbalaba más a medida que las suelas la pulían, y tomaba para sus asaltantes la apariencia de una muralla infinita.
+
+Tiburce resoplaba. Se había descargado de su cargamento en beneficio de unos y otros; pero sus botas de clavos redondos patinaban a cual más. Hubo que izarlo. El viento áspero, que raspaba la vertiente, se le llevó el sombrero tirolés. Cuando se detenía, no se atrevía a mirar hacia atrás, a causa del vértigo; y así se privaba de contemplar, allá abajo, el fastuoso despliegue del Valromey y los tejados liliputienses de Virieu-el-más-Pequeño.
+
+El señor Monbardeau y el señor Le Tellier, presas de una ardiente curiosidad, apretaban los labios para no interrogar a Maxime ni a Robert.
+
+Este último, que iba por delante de todos —y a quien la gravedad de las circunstancias había espabilado singularmente—, alcanzó el borde de la funda blanca y se detuvo. Las águilas que giraban se elevaron. Se oía crepitar la nieve bajo el sol. Cincuenta metros más arriba, el viento hacía silbar la cruz.
+
+—¡Ah! —exclamó el señor Monbardeau—. ¡Hay pasos en la nieve!
+
+—¡No hagan más huellas! —recomendó Maxime—. Quédense fuera.
+
+Robert se ajustó las gafas y habló.
+
+—Aquí es donde volvemos a encontrar el rastro de los que buscamos. Con toda seguridad, siguieron el camino que acabamos de recorrer. Su paseo tenía por objeto la cruz del Colombier. Fueron los primeros en hacer este año la excursión tradicional; y la nieve ha modelado su paso, del que la tierra seca, el césped y las rocas no habían conservado nada.
+
+—¿Está usted seguro de que son ellos? —dijo Garan.
+
+—Completamente. Escúchenme y miren. Estamos ante tres rastros paralelos que hienden la alfombra de nieve a unos tres metros uno de otro y que suben hacia la cima. Son recientes y de la misma fecha, pues el deshielo los ha deformado ligeramente y del mismo modo. Además, ese intervalo de tres metros es exactamente el que toman entre sí unos compañeros de escalada. Testigo lo que acabamos de hacer nosotros mismos. Luego tres personas han venido aquí, juntas, hace poco.
+
+»Pues bien, digo que el rastro de la izquierda es el del señor Henri Monbardeau. Es el único, en efecto, que han dejado unos zapatos de hombre, zapatos de excursionista, anchos y claveteados para la montaña. Los otros dos los imprimieron unos botines de mujer. Pero la huella del centro delata unos borceguíes sólidos, de tacón plano, guarnecidos de puntas; mientras que el rastro de la derecha muestra con claridad los contornos de unos botines ligeros, de tacón Luis XV. No se podrían encontrar vestigios que correspondieran con mayor exactitud a las señas pedestres de los tres desaparecidos; y eso bastaría para convencernos de que tenemos aquí las huellas del señor Henri, de su mujer y de la señorita Marie-Thérèse. Pero eso no es todo.
+
+»Observen esos agujeritos redondos que acompañan cada rastro y que son mucho más importantes en las dos pistas de la izquierda que en la de la derecha. Son, por un lado, agujeros de bastones herrados y, por otro, pinchazos de sombrilla o de paraguas. Rascando la nieve se advierte que aquellos terminan en punta y este en plano.
+
+»Además, el rastro de la derecha va acompañado de indicios particulares. Se diría que la nieve ha sido barrida…
+
+—¡Pardiez! ¡Es la falda! ¡La falda larga de mi hija! —exclamó el señor Le Tellier.
+
+—Usted lo ha dicho, maestro.
+
+—Muy bien —aprobó Garan.
+
+—¡Muy bien! —opinó Tiburce, boquiabierto.
+
+—He ahí un descubrimiento excelente —prosiguió el inspector—. La dirección de las huellas, a la salida de esta zona reveladora, va a orientarnos. Demos la vuelta a la joroba siguiendo el borde de la nieve; las encontraremos por fuerza. Es inútil helarse los pies siguiendo las pisadas.
+
+—Perfecto —asintió Robert—. Es, palabra por palabra, el razonamiento que me hice yo.
+
+Empezaron a bordear el límite de la capa deslumbrante, en fila india. Inclinados sobre el flanco del rápido declive, rodearon el montículo y pasaron al otro lado de la montaña, frente a los Alpes.
+
+El Mont Blanc dominaba el horizonte formidable y espejeaba entre las nubes. En esta cara, el abismo se ahondaba más vertiginoso. En el fondo de su valle profundo, el Ródano parecía inmóvil e irrisorio; y los hombres, microscópicos, desaparecían.
+
+—¡Vaya! ¡Más pasos! Pero ¿suben o bajan?…
+
+—No los tenga en cuenta —respondió Robert al señor Monbardeau—. Son los míos y los de Maxime… Enseguida lo comprenderá. Ayer caminamos sobre nuestras propias huellas para no multiplicar los rastros.
+
+Siguieron bordeando la nieve, girando así en torno a la cruz, que seguían teniendo muy por encima de ellos y de la que no veían más que la parte superior.
+
+Ahora bien, sucedió que, a fuerza de girar, se encontraron de nuevo en su punto de partida, veinte minutos después de haberlo dejado, tras haber recorrido todo el perímetro del casquete blanco *y sin haber visto el menor rastro descendente*.
+
+El señor Monbardeau y el señor Le Tellier exclamaron a la vez:
+
+—¡Se han quedado allá arriba!
+
+El reflejo de la nieve hacía aún más pálida su palidez.
+
+—¡Hombre, naturalmente! —recalcó Tiburce—. ¡Puesto que no han bajado, es que siguen allá arriba!
+
+El señor Le Tellier vaciló.
+
+—Robert, amigo mío, ¿por qué nos ha ocultado…?
+
+—Subamos —dijo el secretario—. Solo les pido que den un rodeo, para que los tres rastros que tenemos aquí queden bien aislados y bien nítidos.
+
+La cresta del Grand-Colombier no es nada espaciosa. Su franja aplanada no tiene dos metros de ancho por treinta de largo. El señor Monbardeau, que trepaba con una especie de furia, llegó el primero y se quedó mudo de asombro junto al poste de la cruz.
+
+Allí donde su imaginación había tendido ya los cadáveres de su hijo, de su nuera y de su sobrina, no había nadie. No había nada.
+
+¿Nada? ¡Ah, sí!
+
+—¡El bastón de Henri! ¡Su bastón, roto! ¡Está roto!
+
+—¡No lo toque! —gritó de lejos Maxime—. ¡Es esencial; no lo toque!
+
+—Pero ¿y las huellas? ¿Las huellas?… —preguntaba el señor Le Tellier—. Por fuerza las huellas tienen que… ¡Oh! ¡Esto ya es demasiado!
+
+En efecto, era *demasiado*.
+
+Los tres rastros subían hasta la cresta, pero allí cesaban de repente. Los desaparecidos habían llegado, en efecto, a la cumbre del Colombier, *pero no habían bajado de ella, y, sin embargo, ya no estaban allí*.
+
+Maxime, viendo a su padre y a su tío incapaces de observar y de razonar, se encargó de exponerles la situación, de estudiarla por ellos y de hacer las observaciones que requería.
+
+—Veamos —dijo—. Un poco de atención y de tranquilidad. Examinemos las cosas y retomemos las huellas a partir del borde de la nieve.
+
+»Prosiguen su ascensión, paralelas al principio; luego, las dos huellas de los extremos se separan ligeramente de la del centro; de modo que, una vez en la línea de cumbre, Fabienne se encuentra a un metro a la izquierda de la cruz, Henri a cinco metros de Fabienne, a su izquierda, y Marie-Thérèse a seis metros de ella, a su derecha. Allí nuestros paseantes se detuvieron para contemplar el panorama; cada pista, en efecto, nos presenta el mismo ligero pisoteo, la misma superposición de huellas, y se ve muy bien que los bastones y el paraguas (o la sombrilla) se apoyaron con fuerza en el suelo. Todo da fe de una breve parada. Pero el parecido entre las tres pistas no va más allá.
+
+»En efecto, la pista de Henri termina en seco en ese pisoteo plácido y normal del excursionista que descansa. Es como un callejón sin salida.
+
+»Con la pista de Fabienne es distinto. Descubrimos, partiendo de su pisoteo, cuatro huellas de pasos que se dirigen hacia Henri. Y eso es todo. Segundo callejón sin salida. Notemos, no obstante, a propósito de esos cuatro pasos, que la distancia entre uno y otro delata grandes zancadas. Mi prima Fabienne debía de correr cuando dio esos cuatro pasos…, correr hacia su marido… Por lo demás, en medio de su pisoteo estacionario, advertimos la marca de una suela vigorosamente hundida, que atestigua una partida brusca, un impulso enérgico.
+
+»La pista de Marie-Thérèse —la de la derecha— es más complicada. Desde el pisoteo, una serie de pasos precipitados se dirige hacia la cruz; pero de pronto, a un metro de ella, un quiebro los desvía a la derecha, y esos pasos se ponen a bajar la vertiente del Ródano a toda velocidad. Contamos seis huellas desde el quiebro; pero ya no son zancadas, son verdaderos saltos; es una carrera loca por una pendiente escabrosa, y termina de repente en la sexta huella. Último callejón sin salida.
+
+»Hubo, pues, un instante en que Fabienne y Marie-Thérèse se apresuraron en la misma dirección, que era, para Fabienne, la de Henri, y para Marie-Thérèse, la de Fabienne y Henri. Una causa desconocida impidió a la primera llegar hasta su marido e hizo retroceder a la segunda. Sin duda fue esa misma causa la que los escamoteó a los tres.
+
+—Seguramente no ocurrió sin lucha —dijo el señor Monbardeau—. Ese bastón roto… Es el bastón de Henri, sin duda… Lo reconozco.
+
+—Sea el del señor Henri o el de otro —respondió Robert—, el punto capital es que sea el bastón del que el señor Henri se servía el sábado. Su contera de hierro no puede adaptarse más que a las huellas de la izquierda.
+
+—Lo que no comprendo —masculló Tiburce— es que esté tan lejos de las huellas del señor Henri Monbardeau…
+
+—¡Ah, perfectamente! —prosiguió Robert—. Señores, les ruego que tomen nota de la posición que ocupa este bastón, a saber: cerca de la cruz, entre la pista ascendente de la señora de Henri Monbardeau y el quiebro de la señorita Le Tellier, es decir, a unos siete metros y medio del pisoteo donde se manifiesta por última vez la presencia —la presencia *tranquila*, insisto— del señor Henri.
+
+—¿Lo habrá arrojado desde allí? —propuso el señor Monbardeau.
+
+—No. Lo he pensado. No es posible. Porque entonces lo habría lanzado contra las dos mujeres, a riesgo de herirlas; y su hijo no es hombre que pierda la cabeza hasta ese punto.
+
+—Pero ¿quién le dice a usted —objetó Garan— que las dos mujeres estaban allí cuando se arrojó el bastón? Puede que ya hubieran dejado su sitio…
+
+—Distingamos. Afirmo que estaban en su lugar de parada mientras el señor Henri estaba en el suyo, provisto de este bastón, cuyo molde tubular tienen aquí, junto a sus huellas de pausa; pues fue al dirigirse hacia él cuando dejaron los rastros aquí presentes, uno de los cuales se detiene en seco y el otro se desvía antes de desaparecer no menos completamente. Pero afirmo también que el señor Henri no arrojó el bastón desde el lugar donde se había detenido, en primer lugar porque habría podido herir a sus compañeras, y en segundo lugar porque la nieve, alrededor del bastón caído, no presenta ningún arañazo, lo cual prueba que el bastón llegó al suelo no en oblicuo, sino verticalmente. Lo arrojaron, pues, *desde arriba*.
+
+Tiburce, mordiéndose los labios ardientes, le interrumpió:
+
+—El señor Henri Monbardeau pudo lanzarlo al aire, y habría vuelto a caer…
+
+—Pues no, caballero. En primer lugar, lo repito, no se habría arriesgado a un gesto peligroso para sus vecinas. Y además, miren la rotura. Hizo falta un golpe tremendo para producirla, y seguramente quien rompió este bastón de ese modo *lo tenía bien agarrado con la mano*. Semejante esfuerzo, por parte de un hombre, requiere también un punto de apoyo, o al menos estar bien plantado sobre los pies. Ahora bien, no encuentran ustedes vestigio de ello entre las huellas del señor Henri… Este bastón se rompió entre el punto donde se detuvo su propietario y el punto donde lo ven ustedes clavado en la nieve, que lo ha moldeado como un estuche. Y si lo examinamos más de cerca, este bastón, comprobaremos que la rotura, que forma en él un ángulo casi recto, no puede ser sino consecuencia de un golpe violento *contra una arista muy dura*… Les haré observar que la cruz es un armazón de abeto revestido de un blindaje de chapa pintada de blanco, cilíndrico arriba y *rectangular* abajo. Podría suponerse, pues, que el bastón se rompió contra una de las cuatro aristas de su parte inferior. No es así. Ninguna abolladura ha martillado la chapa, y el bastón no conserva la más mínima partícula de pintura blanca. Véanlo ustedes mismos. Es decisivo.
+
+»¿Contra qué se rompió, entonces? Contra algo que estaba aquí y que ya no está. Y contra algo que se mantenía suspendido en el aire.
+
+—Es usted muy fuerte —dijo el inspector con una risita.
+
+Intervino el duque de Agnès:
+
+—Me pregunto a qué vienen todos estos embrollos de razonamientos. ¿No está claro que a los desaparecidos se los llevaron por medio de un globo?… Un dirigible…
+
+—¡O un aeroplano! —añadió Tiburce.
+
+—¡Ah, eso no! —replicó el duque—. No existe ningún aeroplano lo bastante perfecto como para recoger sucesivamente a tres personas a ras de tierra, ni lo bastante potente como para llevárselas, a ellas y a la tripulación que requeriría un golpe de mano tan complejo. Mientras que un dirigible…
+
+—¿Raptados? ¿Raptados? —monologaba el señor Le Tellier—. Pero ¿con qué fin? Si los hubieran raptado, ya habríamos recibido noticias, amenazas, ofertas de… ¿Qué sé yo?
+
+—¡No es posible! —remachó el señor Monbardeau alzando los ojos al cielo.
+
+—No puede ser más que un dirigible —declaró Tiburce.
+
+Pero el señor Monbardeau señaló las águilas que planeaban.
+
+—Miren —dijo en tono extraño—: tanto valdría pretender que han sido águilas colosales las que nos han quitado a nuestros hijos.
+
+Tiburce se rio.
+
+—No se ría —dijo Robert—. Por estrambótica que sea la idea, se me ha pasado por la cabeza. Desde luego, la hipótesis es falsa *a priori*. *Pero lo explicaría todo*. Porque un dirigible, señor de Agnès, se ve venir, es una masa que atrae las miradas. Y si los raptores se hubieran acercado en una aeronave, nuestros amigos se habrían puesto a cubierto, y sus pasos en la nieve indicarían movimientos de retirada; mientras que no hay nada de eso.
+
+—Es verdad —dijo el duque.
+
+—¡En cambio, águilas siempre se ven en la cumbre del Colombier! ¡Nadie presta atención a las águilas!… Ahora bien, les desafío a calcular el tamaño de un pájaro que pasa cerca del cenit, porque no pueden medir la altura a la que pasa. Hay que conocer uno de los dos factores para deducir el otro; y si…
+
+—Muy exacto, caballero.
+
+—… y si unas águilas fabulosas, lejos de todo objeto de comparación, hubieran planeado a mil metros por encima de los tres excursionistas, estos las habrían tomado sencillamente por águilas comunes, situadas a tiro de fusil. Dicho esto, admitamos que una de esas rapaces quiméricas se dejó caer sobre el señor Henri Monbardeau. Lo sorprende, se lo lleva. La señora Fabienne Monbardeau se precipita en auxilio de su marido. Pero un segundo pájaro se abate y se la lleva. La señorita Marie-Thérèse se lanza a socorrer a su prima; pero, al ver a la tercera águila que se precipita sobre ella, echa a huir enloquecida hasta que…
+
+—¡Cállese! —susurró el señor Le Tellier señalando al señor Monbardeau, que abría unos ojos espantosos.
+
+—No es más que una manera de hacerme entender, maestro. Repóngase, doctor, y perdóneme. Es una hipótesis absurda y fantástica. Solo la he formulado para materializar nuestras reflexiones… Aunque esta conjetura fuera verosímil, la historia del bastón vendría a desmentirla. Habría que imaginar picos de bronce lo bastante firmes como para romper bastones contra ellos. Y no hay picos de bronce, como no hay buitres capaces de llevarse setenta kilos de carne humana.
+
+El señor Monbardeau se enjugó la frente y dijo con voz ronca:
+
+—Pájaros… no. Pero… ¿hombres… voladores?… Miren, aquí abajo: Seyssel, Anglefort… Y piensen en la estatua que se llevaron, allí…
+
+—¡Ah, tío! —protestó Maxime—. ¡Por favor, no mezcle esa patraña con la desgracia que nos golpea!
+
+Pero Robert le impuso silencio:
+
+—He ahí otra suposición de aspecto lunático y, sin embargo, también la he considerado; pues estimo que, para llevar la mente a la verdad, nada vale lo que el estudio de las hipótesis falsas. En la ciencia a veces, como en la gramática siempre, dos negaciones equivalen a una afirmación. Cuando sé que una cosa no está aquí, sospecho que puede estar allí. Y además, a fuerza de perder, se acaba ganando. Consuélese, doctor. Los ladrones de hombres —si ladrones hay— no son sarvants del aire, si sarvants hay. El rapto *de una sola* persona a través del cielo exigiría la alianza de *tres* individuos que volaran con la fuerza (proporcionada a su tamaño) de los cóndores más vigorosos. Habrían hecho falta, pues, *nueve* cómplices para ejecutar el rapto del sábado. Ahora bien, si unas águilas, aun descomunales, pueden pasar inadvertidas por las razones que les he dado, ¡una bandada de nueve *ornitántropos* no podría pasar inadvertida! Nuestros amigos se habrían retirado al verlos acercarse; y, una vez más, estas huellas no revelan ni desvío, ni retroceso, ni huida antes del ataque contra el señor Henri, que fue asaltado el primero.
+
+»No, no: el dirigible, las águilas, los hombres voladores, nada de eso se sostiene.
+
+El señor Monbardeau apretaba los puños:
+
+—Entonces… ¿Entonces qué?… ¡No se han volatilizado!… ¡No se han disuelto en el aire como terrones de azúcar en el agua, supongo!… ¡El rayo no los ha mandado al diablo!… ¡No se han escapado por la cumbre del Colombier como la electricidad por las puntas!… ¡No han subido al cielo como profetas!, ¿eh?… Entonces, ¿qué? ¿Qué? ¿Qué?… ¡Esto es idiota, a la postre!
+
+Robert hizo un gesto evasivo.
+
+Garan sonrió y, atusándose hacia arriba bigotes y cejas, decidió:
+
+—Ya no tenemos nada que hacer aquí.
+
+—¡Perdón! La nieve va a seguir fundiéndose —replicó el señor Le Tellier—; voy a tomar un croquis de todas estas huellas.
+
+Fue entonces cuando dibujó el esbozo que reproducimos para mayor claridad.
+
+Al verlo, Tiburce anunció que haría algo todavía mejor y que iba a fotografiar la nieve desde lo alto de la cruz.
+
+Pero el intrépido sherlockista había confiado demasiado en su agilidad. No logró subir más que hasta la mitad de la distancia que le separaba de los travesaños; y fue Maxime quien, acordándose de los mástiles y las vergas del *Borda*, consiguió la empresa.
+
+Mientras estaba a horcajadas sobre los brazos del inmenso patíbulo —destinado, al parecer, a crucificar a algún titán—, el inspector le pidió que comprobara si el cinc no tenía ninguna marca ni la pintura ningún arañazo que pudieran atribuirse al roce de cuerdas.
+
+—Nada —respondió Maxime.
+
+Y tomó algunas fotografías de las huellas.
+
+Por desgracia, cuando Tiburce, de vuelta en Mirastel, quiso revelar las preciosas fotografías, se dio cuenta de que había olvidado cargar la cámara.
