@@ -755,3 +755,187 @@ Fue entonces cuando quise coger de nuevo mis gemelos para observar aquella mácu
 Aquí el señor Le Tellier dejó de leer el cuaderno rojo. Un clamor incalculable había desviado su atención.
 
 El automóvil desembocaba en la plaza de la Ópera. El cañonazo acababa de anunciar la salida de la carrera y rodaba sobre París en ecos de entusiasmo y de gloria.
+
+## X. EL FAMOSO VIERNES 6 DE SEPTIEMBRE
+
+Por primera vez, el viejo cielo de Lutecia iba a servir de liza a unas regatas aéreas. Estaba de un azul de gala.
+
+Toda la ciudad hormigueaba. La mitad del pueblo invadía los tejados. Desde la mañana, los edificios se coronaban con el hervidero de los hombres. Se habían alquilado buhardillas como proscenios de estreno. Sobrecargados de espectadores, varios balcones se habían hundido ya. Algunas casas parecían animadas, tanto se embadurnaban sus fachadas y sus azoteas de humanidad bulliciosa. La onda espesa de la multitud movía sus lentos remolinos por los ríos de las calles, por los estanques de las plazas, y sobre todo en los barrios cortados por el itinerario de la competición. Aquella recta ideal, trazada desde los Inválidos hasta la catedral de Meaux, atravesaba el cruce de la rue Louis-le-Grand, la rue de la Chaussée-d'Antin, el bulevar de los Italianos y el bulevar de los Capuchinos; y allí, mejor que en ninguna otra parte, los inmuebles desaparecían a medias bajo un caparazón vivo. La ciudad prodigiosa hacía de tribuna para todo un mundo. La llenaba un rumor infinito de Coliseo titánico. Un olor a casa de fieras y a riego, que subía del suelo, hacía más pesado el calor del hermoso día estival.
+
+No se hablaba del Peligro; no se hablaba más que de la carrera. Los dos aparatos competidores alimentaban intensas charlas. Nadie los había visto todavía y, sin embargo, cada cual tenía su favorito: unos preferían lo menos pesado que el aire a lo más pesado, otros apostaban contra el Estado o contra el Capital, y muchos otros basaban su opinión en la simpatía más o menos irresistible que sentían hacia los pilotos.
+
+Los pilotos —los dioses del momento— eran el duque de Agnès, jinete del *Épervier*, y el capitán Santus, conductor del *Prolétaire*. Unos vendedores ambulantes vendían su biografía y su retrato. Los tendían en la punta de una pértiga a los curiosos de los balcones y se colgaban de los coches que intentaban ganar las afueras del lado de Meaux.
+
+A medida que avanzaba la hora, el público, apiñado, se volvía trepidante. La circulación de las calzadas aumentaba como en las arterias de un febril.
+
+En el cruce Louis-le-Grand, la efervescencia alcanzó su punto máximo hacia las nueve y cuarenta y cinco. Desde ese instante, los de abajo, sin poder ver nada, gritaban a los de arriba, detrás de las letras monstruosas de los carteles, entre los rótulos publicitarios y los tubos de chimenea:
+
+—¿Los ven? ¿Están en el aire?
+
+Desde la plataforma del Pavillon de Hanovre, desde las buhardillas del Vaudeville, desde lo alto de todas las alturas, les respondían:
+
+—¡No!
+
+Seguían las chanzas. Aquello producía una linda confusión de apóstrofes. Y los de abajo seguían mirando a los de arriba, que miraban todos, a lo lejos, a la derecha de la cúpula de los Inválidos, más dorada de sol aún que de pintura, dos granitos brillantes, dos globitos cautivos mantenidos a cien metros de distancia y que determinaban la línea de salida, que era también la línea de llegada.
+
+Allá, bajo los globitos, debía de haber un despliegue considerable de tribunas, de músicas y de flores. El fasto nacional drapeaba allí su terciopelo encarnado con flecos de oro. *La Marsellesa*, sin duda…
+
+Pero, a las nueve y cincuenta, la concurrencia de las techumbres se agitó, como el campo que despierta la brisa; hubo como un suspiro de alegría, profundo, estremecido, gigantesco; y luego esta frase cien mil y cien mil veces repetida:
+
+—¡Ahí sube el *Prolétaire*!
+
+Lo veían. Era un largo cigarro afilado, amarillo, bermejo. Subía, satinado de reflejos matinales. Con los gemelos se distinguía la hélice, que giraba con destellos de relámpago…
+
+—¡Ahí está De Agnès! ¡Ahora el *Épervier*!
+
+—¿Eh? ¿Tan pequeño? ¿Esa cosita que planea, que va y viene?…
+
+—Es él; pero ya ve usted que describe espirales alrededor del dirigible…
+
+—¡Ah! ¡Están a la misma altura!…
+
+—A la altura de los globitos…
+
+—¡Más allá de los globitos!…
+
+Se seguían apasionadamente las evoluciones del aeroplano y de la aeronave. El *Prolétaire*, majestuoso, viró y puso rumbo a Meaux. Ya no se le veía de perfil, sino de frente. Parecía así algún globo esférico de escasas dimensiones. El *Épervier*, a su lado, extendía sus alas rígidas. Así debían de cruzar la línea de salida; se comprendía.
+
+Entonces tronó el cañonazo de señal, disparado por una culebrina de los Inválidos anterior a las montgolfieras y ahora dos veces histórica. Entonces tronó el cañonazo patético, suntuoso, solemne, al que respondió un incalculable clamor popular, y que rodó sobre París en ecos de entusiasmo y de gloria.
+
+Santus y De Agnès habían salido.
+
+Una alegría enorme pataleó en el plomo de las azoteas. Venían derechos al cruce. Las sombrillas se cerraron y, más alto que todo, los cinematógrafos recortaron su silueta prevista. Los gemelos disfrazaban a la gente con dos largos ojos de langosta negra. Les mostraban el *Prolétaire* y el *Épervier* lado a lado, cada vez más grandes, el *Prolétaire* amarillo y el *Épervier*… ¡ah, *azul*! ¡Azul, el *Épervier*!… La noticia corrió entre la multitud como un fuego fatuo resonante. ¡Azul! ¡El monoplano era azul! No se lo esperaban, pero se alegraban de que aquel pájaro fuera azul, color del tiempo y del Peligro, como un poco de cielo materializado en elegancia. ¡Azul, el pájaro! ¡De un tamaño de *Las mil y una noches* y del matiz de los cuentos de hadas!
+
+—¡Vuela hacia mí, ligero! —decía la multitud entre risas sin número…
+
+Los cinematógrafos empezaron a funcionar, las fotojumelas apuntaban… Volaban a cien pies de altura. En el aire tranquilo se acercaban como una tromba, silenciosamente. El aeroplano, provisto de su captador eléctrico, no armaba el estrépito habitual. Se veían las dos hélices girar como dos soles nebulosos… y se oyó su doble zumbido de sirenas sobreagudas, que daba una especie de acorde irritante que conmovía los nervios como cuerdas de violín. Se distinguieron las antenas estabilizadoras del *Épervier*, finas, finas, como pelos de bigote de gato todo alrededor del aparato, o más bien como flacas, flaquísimas patas de típula…
+
+Una estela de ovaciones los seguía. Cuando llegaron al cruce, brotó de él hacia ellos una explosión de vítores tan desenfrenados que era comparable a la traca final de unos fuegos artificiales. Fue un himno de vociferaciones en el que cada cual se desgañitaba gritando el nombre de su preferido, así:
+
+—¡Bravo, Santus! ¡Bravo! ¡Ánimo, De Agnès! ¡Ánimo!
+
+Porque entonces el *Prolétaire*, a la derecha y por encima del *Épervier*, llevaba una ligera ventaja.
+
+Los corazones palpitaban de un lirismo patriotero. La multitud parpadeaba de pañuelos y de sombreros frenéticos. El capitán Santus se quitó el quepis, sus ayudantes saludaron militarmente; el duque de Agnès hizo una seña con la mano.
+
+Se habría creído ver un obús de cobre perseguido por un águila de acero. Las dos tempestades que eran sacudieron las oriflamas en lo alto de los mástiles. Un viento de orgullo y de embriaguez barrió unas caras pálidas, y en el tejado del Vaudeville una actriz conocida, dirigiéndose al universo, proclamaba con su hermosa voz:
+
+—¡Qué gran cosa, después de todo, ser francés!
+
+Pero de pronto el coro grandioso se espantó. El océano de los hombres se encrespó de inquietud.
+
+En el momento en que los rivales cruzaban el Pavillon de Hanovre, el *Prolétaire* había hundido la popa; su empenaje cruciforme bajó de una sacudida, bajó todavía más, y su envoltura indestructible se ahuecó de pronto, como si, en el interior mismo del globo, alguien hubiera tirado de ella con obstinación… Frenado, el dirigible picaba de cola desesperadamente… Pero la bolsa volvió a hincharse del mismo modo que se había formado, de improviso; la aeronave cabeceó, dio un salto, arrancó de nuevo… y…
+
+Y le tocó al *Épervier*, que, sin causa aparente, se puso a inclinarse de una manera espantosa, con el ala izquierda levantada… Se vio al duque de Agnès manejar sus mandos a toda prisa, virar a su pesar y no poder enderezarse. El monoplano escoraba… iba a estrellarse en el abismo tapizado de criaturas… El abismo tuvo un estertor de ejército agonizante… ¡luego un rugido de victoria! El *Épervier* daba bandazos, un balanceo de mil demonios mecía su envergadura azul, pero ya no se inclinaba. Un segundo viraje le devolvió el aplomo y lo relanzó en la justa, en persecución del *Prolétaire*.
+
+La aclamación que sembraban a su paso disminuyó. La gente se había vuelto para seguirlos hasta perderlos de vista. Algunas mujeres, sin embargo, aspiraban su frasco de sales. «¡Dios, qué susto, querida!». Los automóviles roncaban, tocaban la bocina, la sirena, silbaban, impacientes por llegar más allá de Pantin.
+
+¿Qué había pasado? ¿Se habían contrariado mutuamente los remolinos de las hélices? ¿Una corriente de aire atmosférica?…
+
+Los comentarios iban a buen paso cuando estalló, sordo, un ruido siniestro: gemidos, golpes, un alboroto de horror…
+
+Todas las miradas se dirigían a la terraza del Pavillon de Hanovre. Un tumulto lanzaba allí a unos contra otros. Aquellos enloquecidos alzaban los ojos; unos hilos telegráficos se habían roto espontáneamente y su caída había provocado el desorden. La balaustrada de piedra contenía una muchedumbre, y los grupos esculpidos que la decoran sostenían racimos de fugitivos en busca de un refugio.
+
+La escultura de la izquierda se desplomó de golpe con su tripulación aullante. El bloque cayó sobre los mirones de la acera, entre la sangre, el espanto, el pasmo… ¡Había demasiada gente sobre las estatuas, caramba! Las otras también iban a venirse abajo…
+
+Pero no. Lo que se vino abajo fueron sillares, cascotes, que no dejaban de desprenderse de la pared, en el mismo lugar, y acribillaban con nuevos golpes a los heridos jadeantes. Saliendo de la brecha en la galería, un manantial infernal de ruina y de demolición bajaba a lo largo del viejo muro gris; un rayo lento labraba la mampostería, la hendía con un surco blanco, profundo, cruel…
+
+Y la multitud de multitudes que guarnecía el lugar, presa de angustia, miraba alargarse el espantoso arañazo…
+
+Seguía bajando, desollando la rotonda, abriendo barrancos en su fachada, reventando las ventanas, rompiendo las rejas, lapidando a los muertos y a los moribundos… Cuando llegó a la altura del castaño vecino, el árbol se estremeció, crujió…; aquel rayo sin llama, sin estruendo, aquel rayo perezoso le arrugó las hojas, le rompió las ramas, de arriba abajo… Y entonces ocurrió el suceso indescriptible:
+
+Se oyó de repente, *en pleno centro del cruce*, el terrible estrépito de dos trenes que chocan, y se vio una catástrofe sin igual en los siglos de la historia: un barullo fantástico de coches empotrados, de caballos derribados, de cocheros lívidos, de chóferes dementes y de seres ensangrentados que se debatían y huían en todas direcciones bramando:
+
+—¡El Peligro Azul!
+
+Vista desde los tejados, sin embargo, la refriega se ordenaba un poco.
+
+Desde la rue de la Chaussée-d'Antin hasta el Pavillon de Hanovre había como una alameda de cosas inmovilizadas, aplastadas, de donde venía un concierto de quejas singularmente lejanas y *extrañamente subterráneas*, y, a cada lado de aquella avenida de calamidad que cerraba todo el ancho del cruce, dos rodetes de vehículos destrozados, llenos de formas, de extravíos, de espasmos.
+
+Escalonada en las gradas de los pisos, la multitud de alrededor se había sobresaltado de una pieza. Aquí y allá, unos energúmenos gesticulaban; pero los demás, jadeantes, se quedaban paralizados de miedo y de estupefacción. Nadie decía su angustia y, sin embargo, salía de la multitud un rugido de simún en un bosque de baobabs. De trecho en trecho se exhalaban pobres lamentaciones femeninas.
+
+¿Qué se pensaba? Nada, en el momento. Tras unos segundos de pánico, muchos testigos tuvieron la idea peregrina de un «endurecimiento del aire», o de una «barricada magnética», o también de un muro espeso de cristal —de un cristal puro en grado superlativo— bajado lentamente a través del bulevar, como un telón de teatro, contra el cual, por uno y otro lado, la circulación habría venido a chocar, mientras aquel extraño rastrillo aplastaba contra el adoquinado de madera a los desdichados que se habían encontrado allí.
+
+Se imaginara lo que se imaginase, lo cierto es que una compuerta diabólica represaba la calle.
+
+Pese a la desbandada de cataclismo que se produjo entonces en nombre del Peligro Azul, algunos socorristas se precipitaron… Pero el obstáculo hipócrita detuvo su impulso. Venían a chocar contra él con la última violencia. Chocaban en el vacío, contra nada en absoluto. Se encontraban con una *ausencia* infranqueable. El aire, ofensivo, les rompía el cráneo. La policía, a duras penas, retomó la dirección de la existencia. Un oficial de paz intervino, hizo despejar las dos filas de coches y dispuso el cordón de sus agentes alrededor de la región pérfida, cuyo aislamiento se imponía. Así quedó delimitado un espacio alargado que partía del Pavillon de Hanovre y se adentraba una decena de metros en la Chaussée-d'Antin. La vista de los uniformes engendró la confianza y desató las lenguas. Una asamblea revolucionaria habría sido más silenciosa. Ya no se hablaba de la carrera; no se hablaba más que del Peligro.
+
+Durante aquellas charlas impetuosas, las ambulancias y las camillas hendían la nube de transeúntes que afluían de todas partes, y se intentaba sin resultado llegar hasta los desdichados a quienes la atmósfera inaccesible mantenía aplastados contra el suelo.
+
+El prefecto de policía, que acababa de llegar, empezaba a perder su seguridad cuando un caballero condecorado, abriéndose paso en medio de un verdadero pastel de semejantes suyos, se hizo conducir hasta él por un agente.
+
+Aquel caballero tenía un gran porte. Llevaba el brazalete blanco de los comisarios oficiales y apretaba contra el pecho un cuaderno rojo. Le seguía otro caballero en traje de viaje. Alguien lo reconoció. Su nombre voló de boca en boca, mientras el prefecto de policía, sombrero en mano, se ponía a las órdenes del señor Le Tellier.
+
+El astrónomo ejercía una especie de dictadura. Las masas temerosas, necesitadas en su debilidad, habían olfateado su competencia y lo adoptaban como protector. Hojeó con calma el cuaderno rojo y luego se lo guardó en el bolsillo. Después, escoltado por un estado mayor de personajes diversos, emprendió la vuelta al espacio impracticable golpeándolo con la palma de la mano…
+
+*El aire, a cada bofetada, devolvía un sonido mate.*
+
+Un agente lo imitó; sus compañeros, tranquilizados, se pusieron también a abofetear la atmósfera impenetrable; tanto que todo el cordón golpeaba y parecían ensayar un simulacro de paliza. Aquel boxeo en el vacío hacía, sin embargo, un ruido de lavadero. El señor Le Tellier se apresuró a ponerle fin. Pero había bastado aquella breve demostración de conjunto para revelar *visualmente* la presencia de un gran cuerpo *invisible* y el dibujo que este adoptaba a la altura de los agentes. El público de los pisos altos lo había captado de una ojeada y, como no se olvidaba la grieta inexplicable del Pavillon, los espíritus dieron un giro y el suceso cambió de fórmula: «Una gran cosa oblonga, invisible, acababa de caer del cielo tras estar a punto de derribar el *Prolétaire* y hacer volcar al pájaro azul».
+
+El señor Le Tellier, prosiguiendo su ronda, seguía palpando; pero en los dos extremos de la cosa necesitó un taburete para alcanzarla: los extremos se levantaban; uno de ellos, por lo demás, correspondía al final del arañazo en la rotonda de Hanovre, y aquel arañazo terminaba a dos metros de la acera.
+
+El otro extremo, en la rue de la Chaussée-d'Antin, fue objeto de una atención sostenida por parte del astrónomo. Una escalera de mano más alta navegó por encima de las cabezas, de mano en mano, hasta él. El señor Le Tellier dio algunas instrucciones que fueron transmitidas al instante. Unos correos ciclistas se alejaron. Y el examen de la cosa prosiguió.
+
+Según los gestos y las maniobras del *palpador*, parecía que terminaba en dos puntas, a la manera de un torpedo… ¡Ya se adivina qué temores podía desencadenar semejante palabra! No faltaron. «Meteoro», «estrella fugaz», ya se había dicho; no era nada. ¡Pero «torpedo»! ¡Artefacto *fabricado*! ¡Máquina explosiva! ¡*Bomba*, en fin, y desmesurada!… ¿Es que los sarvants eran anarquistas?, ¿nihilistas que habían decidido la perdición de París?…
+
+Las brigadas centrales y un batallón de la guardia republicana, solicitados por el señor Le Tellier, llegaron a punto para contener una desbandada tan peligrosa como un motín. La tropa regularizó la evacuación de los ciudadanos, los hizo retroceder sin rudeza y despejó el cruce. Estaba libre cuando aparecieron tres automóviles escarlata, llenos de bomberos de cascos relucientes, que doblaron la esquina de la rue de la Michodière al lúgubre toque de rebato de su bocina de dos notas.
+
+Poco después, nuevas llegadas de bomberos. Estos traían cuerdas y gatos.
+
+El señor Le Tellier les pidió que formaran círculo y pronunció esta breve arenga, con una voz que sus allegados no habrían reconocido:
+
+—Señores, el señor prefecto de policía les ha hecho venir aquí para llevar a cabo una tarea poco corriente. Hace un rato ha caído sobre París un objeto voluminoso; a ustedes les toca despejar con él la vía pública.
+
+»Ese objeto *no pueden verlo*. Está ahí, dentro del cordón cerrado de los agentes que lo rodean. Está ahí, sobre esa capa de desdichados yacentes; es él quien los comprime.
+
+»Les digo que es invisible; no se asusten por ello; para los sabios es una cosa bastante natural. Díganse sencillamente que ese objeto goza de una *transparencia absoluta*; eso les ayudará a comprender.
+
+»¿Qué es exactamente? No lo sabemos. Y es muy importante que lo sepamos. Por eso he resuelto, de acuerdo con las autoridades, hacer transportar el objeto al Grand Palais, donde podremos estudiarlo a nuestras anchas.
+
+»Es grande. Pero tengo todos los motivos para suponer que no es tan pesado como podría creerse. Está hecho como una lanzadera de tejedor que alcanzara el tamaño de un globo dirigible… sin barquilla. Es un huso cuyo centro solo es cuadrado y cuyos extremos son dos conos afilados, puntiagudos, exactamente como un habano de lujo…
+
+»Les recomiendo la parte que se encuentra en la Chaussée-d'Antin. Está… adornada con un… sistema… del que hay que cuidar.
+
+»Creo poder asegurarles que no hay ningún peligro. No obstante, aunque el objeto es de una sustancia muy firme al tacto, les ruego que actúen con mucha prudencia, como si su carga fuera tan frágil como una pieza de cristalería, y como si de la menor grieta hubiera de salir la muerte…
+
+»Acerquémonos.
+
+»Está varado de través… Obstruye el cruce, ¿ven ustedes?… Miren: estoy al otro lado y ahora tengo que gritar para que me oigan…; detiene las ondas sonoras, pero no los rayos visuales…
+
+»¡Vamos, al trabajo!
+
+Los oficiales distribuyeron a cien hombres a derecha e izquierda de la invisibilidad. Se deslizaron cincuenta cuerdas por debajo, entre el revoltijo del aplastamiento. Cada bombero sostenía el extremo de una maroma.
+
+Un capitán ordenó:
+
+—¡Oh… iza!
+
+Las cuerdas se tensaron, levantando su carga misteriosa. Pero cada una se ajustaba al perfil de su punto de aplicación, y así las cincuenta cuerdas delataban la forma aplanada de barquilla que pesaba sobre ellas. Nada era más singular que aquellas eslingas *tensas* pero *no rectilíneas*.
+
+Aquellos bomberos hicieron una conversión que estorbó el inextricable amasijo convulso y luego, entremezcladas con guardias municipales que sostenían la invisible carga y hacían de cariátides jubiladas, cuyo esfuerzo se eterniza en soportar la nada, sus dos filas paralelas se pusieron en marcha hacia la Ópera.
+
+Un escuadrón de guardias municipales encuadraba el convoy funambulesco. La infantería de la guarnición formaba valla a su paso, conteniendo a duras penas las oleadas de pilluelos y modistillas, de burgueses y de apaches que se acumulaban revueltos. Una leyenda se propagaba entre los grupos, nacida de la alocución mal interpretada del señor Le Tellier tanto como de su título de astrónomo; se decía que había llegado de la luna un globo dirigible de cristal de roca, tripulado por selenitas, y que no se le podía conocer con los ojos. Presentada en esos términos, la aventura provocó risas; el miedo a ser engañado engendró la sospecha de un engaño, en el que algunos creerán hasta el fin de sus días.
+
+En la rue de la Paix, de la cornisa a los entresuelos, una floración de probadoras y de modelos, un parloteo de costureras y de sombrereras se asomaba a las ventanas para ver pasar… lo que pasara. El pasmo las hizo callar. «Pues ¿qué, eso era todo? ¿Unos cordeles que llevaban como si hubiera algo encima? ¿Y los guindillas haciendo melindres con las manos en alto? ¡Anda, menudo entierro! ¿Dónde está el catafalco?…». La noción de lo invisible superaba sus medios.
+
+En la rue de Rivoli, un pinche de cocina lanzó una canica por encima de las cuerdas «para ver si por casualidad no le estaban tomando el pelo al hijo de su padre». La canica rebotó en un casco. Detuvieron al chiquillo para edificación de la plebe.
+
+El cortejo avanzaba. En la plaza de la Concordia, seis generaciones de parisienses, de provincianos, de extranjeros estaban alrededor como una arena movediza que se amontonaba en dunas detrás de las hileras de soldados con el arma al pie. La multitud daba la impresión de la humanidad.
+
+El señor Le Tellier, con el prefecto de policía, marchaba en vanguardia. Por el camino consultaba el cuaderno rojo. Se le oyó, delante del obelisco, enviar guardias a caballo al ministerio de Marina, muy cercano, al Canal de experiencias de carenas (en Grenelle) y a la Escuela Superior de Aeronáutica, con la misión de convocar en el Grand Palais al mayor número de oficiales de marina destinados en París.
+
+Las preguntas llovían sobre los portadores de cuerdas; pero la consigna los volvía sordos. Tenían la sensación de transportar una inmensidad relativamente ligera, pero que ofrecía mucha resistencia e inercia, lo que atribuían por sí mismos al volumen.
+
+Entre los caballos de Marly, la columna apresurada osciló. Bajo las viseras de metal o de cuero, caras amasadas de alarma se habían vuelto. Un murmullo creciente acudía desde la lejanía…
+
+Pero no era la llegada de un segundo desastre. ¡La carrera! ¡La carrera volvía! Se habían olvidado de ella…
+
+Dos átomos germinaban en el fondo del cielo, dos dragones quiméricos y verdaderos, hijos del Hombre y de la Ciencia, que competían en gracia y en ráfaga, y que llegaban en una estela de hurras más hermosa que ninguna sinfonía.
+
+¡El *Épervier* dejaba atrás al *Prolétaire*! Se precipitaba hacia la meta, flecha por la velocidad, ballesta por la apariencia…
+
+El cañón, gravemente, consagró el triunfo del pájaro azul.
+
+Por un cruce de sus destinos, el capitán Santus volvía a la sombra y el señor Le Tellier lo sustituía en el pavés de la fama, junto al señor de Agnès.
+
+Pero París no sabía que sus ídolos, aun siendo tan contrarios, no tenían los dos más que un pensamiento en el alma, un amor en el corazón y un nombre en los labios: Marie-Thérèse.
