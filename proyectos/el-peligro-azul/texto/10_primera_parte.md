@@ -1367,3 +1367,319 @@ Mientras estaba a horcajadas sobre los brazos del inmenso patíbulo —destinado
 Y tomó algunas fotografías de las huellas.
 
 Por desgracia, cuando Tiburce, de vuelta en Mirastel, quiso revelar las preciosas fotografías, se dio cuenta de que había olvidado cargar la cámara.
+
+## X. DELIBERACIÓN
+
+Este capítulo X no es otro que la pieza 197 del expediente. Se presenta en forma de un pequeño cuadernillo de ocho páginas. El señor Le Tellier lo escribió entero de su puño y letra. La primera hoja contiene una nota explicativa, muy posterior al documento mismo, que data del día apacible en que el astrónomo reunió todos los materiales del presente estudio.
+
+-->14 de febrero de 1913.
+
+*Fue en la noche del 7 al 8 de mayo de 1912 cuando tracé las líneas siguientes. Fuertemente conmovido por el extraño espectáculo de los pasos en la nieve, rendido de cansancio y de pena, no podía gozar del descanso que tanto necesitaba. El insomnio, sin misericordia, me hacía dar vueltas en el lecho, y las tinieblas aumentaban mi exaltación.*
+
+*Para engañar aquella fiebre, decidí encender una lámpara y trabajar. Pero la única ocupación que no me importunaba era reflexionar sobre la suerte misteriosa de mi hija; y no pude hallar algún sosiego a mis inquietudes más que redactando de memoria un acta de la sesión que acabábamos de celebrar en el salón de Mirastel, al bajar del Colombier. Veía en esa tarea una distracción de mis sufrimientos y esperaba, además, que me proporcionaría un texto sobre el que se podría meditar con más comodidad que sobre un conjunto de pensamientos huidizos.*
+
+*Mis recuerdos siempre han sido fieles; esta acta refleja, pues, con mucha exactitud nuestro consejo de familia, apenas reducido y simplificado en la medida conveniente.*
+
+*Veo todavía, alrededor de la gran mesa, nuestros rostros de tristeza y de cansancio. El bastón roto de mi sobrino estaba allí, en medio del círculo, como una pieza de convicción en un tribunal. Mi cuñada no podía apartar de él la mirada… Se veía también sobre la mesa, delante de la señora Arquedouve, el esquema que yo había levantado de las huellas y cuyos trazos Maxime había punteado con una aguja, a fin de hacer sensible a los dedos de su abuela ciega la efigie de la cosa asombrosa y terrible.*
+
+->**DELIBERACIÓN DEL 7 DE MAYO, A LAS SEIS DE LA TARDE**<-
+
+Yo. —Ahora que conocemos todo lo que se puede conocer en cuanto a vestigios materiales y testimonios concretos, hay que razonar e intentar descubrir algo que oriente nuestras búsquedas… Un punto de dirección… ¡Porque hay que actuar, por fin! Propongo que cada uno dé su parecer por turno.
+
+Garan, *con una mirada de soslayo a Maxime y Robert*. —No les ocultaré que mi convicción está casi formada. Sin embargo, no soy infalible; y, en todo caso, un poco de discusión no hará daño. Pero, antes de preguntarse *dónde*, *quién* y *cómo*, habría que saber *por qué*.
+
+Tiburce, *royéndose las uñas*. —Exactamente. ¿Por qué *X* raptó a la señorita Le Tellier y al señor y la señora de Henri Monbardeau?
+
+Yo. —¡Otra vez «raptó»! ¡Siempre «raptó»! ¡Nada prueba que los hayan «raptado»! ¡No pongamos el carro delante de los bueyes!
+
+Garan. —De acuerdo. La primera pregunta es, en efecto, esta: ¿tenía alguno de los tres desaparecidos una razón para desaparecer voluntariamente?
+
+Calixte. —Pero ¡nos estamos extraviando, vamos! ¡Lo que ha ocurrido en el Colombier no es más que una repetición, una continuación, de lo que ocurrió en Seyssel, en Corbonod, en Anglefort, en Culoz! ¡Una continuación racional! ¡*Alguien* empezó por llevarse minerales, luego simulacros humanos y, después de las seudopersonas, *alguien*, o *X*, como dice el señor Tiburce, *alguien* o *X* ha robado hombres de verdad!… No digo, claro está, que *X* sea el sarvant…
+
+Maxime. —¡Menos mal que no lo dice! ¡Vamos, hombre! La progresión orgánica que usted señala en los cuerpos del delito no puede ser más que fortuita, ¡caramba!… A menos que… a menos que los robos de Seyssel se cometieran para preparar el rapto del sábado y despistar a la policía, haciendo creer en alguna serie fantástica…
+
+Garan, *guasón*. —No está mal, no está mal. Volveremos sobre ello. Pero empecemos por el principio. ¿Conoce alguien lo bastante la vida de los tres desaparecidos como para afirmar que no tenían ningún motivo para eclipsarse, ya fuera juntos, ya cada uno por su lado?
+
+Calixte. —En cuanto a mi hijo y mi nuera, estoy seguro. No tenían ninguna razón…
+
+Augustine. —Ninguna. Henri es el más franco…
+
+Maxime. —Y yo respondo de Marie-Thérèse.
+
+Garan. —Doctor, ¿conoce usted a fondo a su hijo?
+
+Calixte. —Desde luego que sí…
+
+Garan, *insinuante*. —¿No tenía secretos para usted?
+
+Calixte, *desconcertado*. —No… No lo creo…
+
+Garan. —¿Sabía usted que recibe cartas en la lista de correos de Artemare? *(Estupor general).* Anoche hice una pequeña indagación por ese lado… La misma mañana del suceso, el señor Henri Monbardeau se presentó en la ventanilla de correos y preguntó si había alguna carta con las iniciales *H. M.*
+
+Calixte. —No sabía nada… Yo… de verdad…
+
+Maxime. —¡Alto! Van ustedes por mal camino. Tío, esa carta sé yo lo que es. Henri me perdonará que lo haya traicionado; pero hay intereses capitales que dominan la situación: debo hablar. Esas cartas con las iniciales *H. M.* *son cartas de Suzanne*. Ella y su hermano se escriben a escondidas.
+
+Calixte. —¡Cómo! ¡Se escriben!
+
+Maxime. —Sí, tío. ¡Oh, la pobre chica…!
+
+Calixte, *temblando de indignación*. —Una pobre chica que se entera de la desaparición de su hermano (no se habla de otra cosa en toda la comarca) y a la que ni siquiera se le ocurre… expresarnos… su dolor y su… y su…
+
+Augustine. —Amigo mío, ¡la echaste y le prohibiste que nos escribiera!
+
+Calixte, *llorando*. —En semejante circunstancia… creo que… le… le habría perdonado… ¡Debería haberlo sentido!
+
+Garan. —Doctor, tengo curiosidad por saber quién es esa Suzanne.
+
+Tiburce. —Sí. ¿Quién es esa Suzanne, doctor?
+
+Augustine. —Mi hija mayor, caballero; no vive con nosotros…
+
+Calixte, *muy nervioso*. —¡Vive con un sinvergüenza que nos la quitó! ¡La he repudiado! ¡La he maldecido! Parece que mi hijo ha seguido tratándola, como ven… Yo lo ignoraba.
+
+Yo. —Dejemos eso. Estamos seguros, ¿verdad?, de que ni Marie-Thérèse, ni Henri, ni Fabienne tenían la menor razón para darnos esquinazo.
+
+Varias voces. —Completamente.
+
+Garan. —Bien. Entonces, puesto que se fueron sin quererlo (lo cual, por lo demás, parece desprenderse de los hechos), ¡es que los raptaron! Así pues, segunda pregunta: ¿quién tenía interés en raptarlos?
+
+Tiburce, *fumando a todo vapor*. —Evidentemente.
+
+Garan. —Pasemos revista, pues, a la lista de quienes podían beneficiarse de esta triple desaparición, de todas las personas, por ejemplo, que…
+
+Robert. —¿Personas? ¡Ejem!
+
+Garan. —Señor Collin, he de confesarle que esa interrupción… estrafalaria, *por su parte*, me resulta singular, por no decir sospechosa… Si no son personas, ¿qué son entonces?… ¿Querría usted insinuar —usted, un sabio, usted, que hace un rato sostenía lo contrario— que las águilas o los sarvants tienen algo que ver en este embrollo?… Viniendo de usted, esa explicación grotesca sería sospechosa en grado sumo; y le advierto que su conducta ya me ha parecido turbia.
+
+Yo. —¡Oh, caballero! ¿Qué está usted diciendo?
+
+Robert. —¡Pero si no es eso en absoluto lo que quería decir! Solo que me resulta difícil pronunciarme antes de haber ahondado en ciertos problemas…
+
+Lucie. —En fin, yo no conozco a nadie que haya tenido nunca nada contra mi hija. *(Enterneciéndose).* Marie-Thérèse no ha hecho más que el bien a su alrededor. La bondad misma… la dulzura…
+
+Yo. —Querida, no suponemos necesariamente rencor en los raptores. Un rapto puede tener otros móviles…
+
+Garan. —A la señorita Marie-Thérèse, señora, puede haberla raptado alguno de los pretendientes a los que ustedes han rechazado estos días…
+
+Yo. —¿Cómo? ¿Usted sabe…?
+
+Garan. —Si mis jefes me han designado para seguir este asunto, es porque, por mi servicio habitual, estoy encargado de la seguridad de la colonia extranjera de París. Como tal, encargado el 12 de abril de asegurar un discreto servicio de orden en la inauguración del telescopio Hatkins, asistí a la fiesta que usted daba, señor Le Tellier. Así pues, como ya había tenido ocasión de ocuparme de usted una primera vez, se creyó conveniente escogerme cuando el señor de Agnès fue a la Prefectura a pedir a alguien. Personas bien informadas me han asegurado que, a raíz de aquella ceremonia, se formularon varias peticiones de mano, y tengo buenas razones para creer que su brusca partida fue una escapatoria. ¿Quiere darme la relación de las peticiones que han recibido?
+
+Yo. —Desde luego. Había… Pero, a decir verdad, no recibimos más que tres peticiones categóricas. Las demás no fueron sino tanteos, aproximaciones destinadas a sondearnos.
+
+Garan. —¿Solo opusieron ustedes tres negativas formales?
+
+Lucie. —Sí.
+
+Garan. —No examinemos más que eso. Solo un candidato definitivamente descartado puede resolverse al extremo de un rapto. ¿Procedían las tres peticiones de extranjeros?
+
+Yo. —Sí. Pero una de ellas sería la nota bufa de este drama, si este drama no fuera el nuestro… Es la petición de Abd-ul-Kaddur Bajá.
+
+Garan, *con una sonrisa contenida*. —¿No? ¿No es posible? ¿Abd-ul-Kaddur? ¿El hombre de las odaliscas?… ¡Ah, el animal! ¡Lo que me hizo sudar durante su estancia! ¡Qué vigilancia!… Es un trastornado, enfermo de cuerpo y de espíritu, gastado por todos los abusos. ¡Ah, no se ha perdido ni una sola extravagancia! Pedir la mano de su hija, ¡eso es maravilloso! En todo caso, dejémoslo al margen. Tal como lo conozco, su capricho no habrá durado. Y además salió de París *bajo mi custodia* la misma mañana de las desapariciones, el 4 de mayo, en tren especial; y por la tarde, a las seis, lo embarcamos en Marsella, a él, a sus doce mujeres y a su séquito, con destino a Turquía. *Fui yo quien veló por él hasta el final*; y eso precisamente causó el retraso del señor de Agnès, que tuvo que esperar a que yo volviera en el expreso de Marsella antes de poder ponerse en camino hacia el Bugey. ¿Cuáles son las otras dos peticiones?
+
+Yo. —Una procede del señor Evans, un abogado de Chicago. Me escribió al día siguiente de la inauguración, y tengo la seguridad de que volvió a América en cuanto conoció nuestra respuesta negativa.
+
+Garan, *tras recogerse*. —A excluir también. George Evans es hermano del secretario de embajada recientemente nombrado en París. Su familia no tiene ninguna relación en Francia. Poca fortuna. Luego no posee los medios para preparar y ejecutar un rapto de semejante calibre. Además, como usted dice, Evans partió el… veamos… el 20 de abril, es decir, trece días antes del rapto. Nada que hacer por ahí. ¿El tercer aspirante?
+
+Yo. —Don Pablo de las Almeras, el agregado militar…
+
+Garan. —¡Ah, ese sería capaz de muchas calaveradas! Cabeza loca, juerguista, millonario y español, sería de él de quien sospecharía… ¡si no estuviera prometido desde hace unos días con la señorita da Posta-Xérez, y prometido de verdad!
+
+Lucie, *con amargura*. —Pronto ha olvidado a Marie-Thérèse…
+
+Garan. —Ahora bien: ¿habrá raptado alguien a la señorita Le Tellier sin haber pedido su mano? ¿Con su propio consentimiento?
+
+Maxime. —No, señor… Mi hermana no tenía secretos para mí. Afirmo que no.
+
+Garan. —Señor Maxime, me gustaría oír eso de otra boca que no fuera la suya.
+
+Maxime, *con violencia*. —¿Qué quiere usted decir? *(Lo calman).*
+
+Garan. —Basta. Yo me entiendo.
+
+Maxime. —No permitiré…
+
+La señora Arquedouve. —¡Paz, paz! Se está discutiendo, pequeño…
+
+Lucie, *a Garan*. —Caballero, mi hija también tiene mucha confianza conmigo. El único hombre que habría podido raptarla en esas condiciones —quiero decir, por su propia voluntad— tenía, por el contrario, toda clase de razones para dejarnos a Marie-Thérèse. Además, está aquí. Es el duque de Agnès. Añado que mi hija nunca habría consentido en huir de ese modo.
+
+Augustine. —Pero, caballero, ¡vamos! ¡Un rapto de esa naturaleza no habría supuesto el de mi hijo y su mujer!
+
+Garan. —Perdón. Se los habrían llevado accesoriamente, para suprimir a dos testigos. Pero veo que hay que renunciar a esclarecer las cosas tomando a la señorita Le Tellier como víctima principal. Estudiemos ahora el lado Monbardeau. En lo que toca a la señora de Henri Monbardeau, mi investigación en Artemare es concluyente. Una sola persona tenía provecho en apropiársela: su antiguo pretendiente, el llamado Raflin…
+
+Calixte. —¿Es que lo sabe usted todo?
+
+Garan. —En el campo la gente es charlatana… El llamado Raflin, decía, al que hay que descartar, pues ese muchacho es incapaz de maquinar semejante operación y, además, guarda cama en Artemare desde hace dos meses con una fractura de la pierna izquierda. He aquí, pues, un nuevo punto adquirido: la señora de Henri Monbardeau no era el objetivo capital de la redada. Queda entonces su marido. ¿Se conoce a alguien que…?
+
+Calixte, *levantándose de pronto y como iluminado*. —Sí: ¡Hatkins!
+
+Tiburce. —¡Ah! ¡Por fin! ¡Una pista!
+
+Garan. —¡Hatkins! ¿El multimillonario? ¿El filántropo?… ¿Usted lo acusa?…
+
+Calixte. —Sí, ¡Hatkins, el donante del telescopio!, sí, ¡el benefactor de los hospitales!: ¡lo acuso!
+
+Garan. —¡Es inadmisible!
+
+Yo. —¿Verdad que sí?
+
+El señor de Agnès. —Es insostenible. Lo he tratado mucho con ocasión de concursos de aviación…
+
+Calixte. —¡Ah, ya ven ustedes: se interesa por los aeroplanos!
+
+El señor de Agnès. —Deje en paz a los aeroplanos. Es un ramo que me es familiar, y sostendré siempre que los aeroplanos no han desempeñado papel alguno en esta aventura. No los hay lo bastante obedientes ni lo bastante amplios. Por lo demás, uno solo, inmenso, o varios en flotilla, ¡eso sí que habría atraído la atención de los tres excursionistas! Y bien sabe usted que sus huellas…
+
+Garan. —¿Por qué sospecha usted que Hatkins ha raptado a su hijo, doctor?
+
+Calixte. —Porque mi hijo se negó a venderle su descubrimiento del suero antiescleroso.
+
+Yo. —¡Vaya!
+
+Calixte. —Sí… No debía publicarse hasta dentro de algún tiempo. Pero ya está: por medio del ultramicroscopio, Henri ha encontrado el *bacillus sclerosans*. Lo ha aislado, cultivado, atenuado, y ahora la curación de la arteriosclerosis es un hecho consumado. El nombre de mi hijo está ligado a una de las más bellas victorias de la ciencia, puesto que, según dicen, uno tiene la edad de sus arterias… Y es ese triunfo lo que el señor Hatkins quería comprarle. ¡También él es doctor, Hatkins!
+
+El señor de Agnès. —No es muy bonito, en efecto.
+
+Garan. —Dios mío, es americano. Estoy seguro de que Hatkins ya no pensaba en ello al día siguiente; como estoy seguro de que el precio ofrecido era un tesoro.
+
+Calixte. —Cinco millones. No ha vuelto a hablar de ello.
+
+Garan. —Ya lo ve.
+
+Tiburce. —Después de todo, nada prueba que la carta *H. M.* de la lista de correos no viniera de Hatkins…
+
+Maxime. —¡Qué absurdo!
+
+Yo. —¡Qué atolondrados somos! El señor Hatkins empezó su vuelta al mundo mucho antes de las desapariciones… Está en Nueva York.
+
+Tiburce. —¿Y si hubiera hecho ejecutar el escamoteo por cómplices mientras él se procuraba una coartada?
+
+Yo. —Entonces, ¿mi hija y mi sobrina solo estarían prisioneras por casualidad? ¿Hatkins retendría a mi sobrino hasta que se plegara a su voluntad?…
+
+Garan. —¡No, no, no y cien veces no! No es Hatkins. Ese yanqui compraría cualquier cosa, pero no puede hacer más que el bien.
+
+El señor de Agnès. —Es exactamente mi opinión.
+
+Yo. —Y la mía.
+
+Maxime. —¡Pardiez!
+
+Robert. —Tengo la convicción de que no es él.
+
+Tiburce. —¡Y yo estoy seguro de que es él!
+
+Calixte. —¡Así se habla!
+
+Yo, *a Tiburce*. —Pero ¿por qué está usted seguro?
+
+Tiburce. —No lo sé. Es una idea, así.
+
+Garan, *encogiéndose de hombros*. —¿Y cómo se las ha arreglado, si me hace el favor?
+
+Tiburce. —Eso tampoco lo sé.
+
+Yo. —¡Vamos, vamos! Estamos chapoteando, y el tiempo pasa, ¡y hay que actuar, lo repito! Que cada cual dé su parecer. Yo fluctúo, vacilo. No distingo razones… y, sin embargo, me parece de veras que es un rapto… pero un rapto de los tres paseantes por igual… impersonal. Un rapto por bandidos (¡qué quieren, siempre vuelvo a lo mismo!)… unos bandidos que van a exigir un rescate…
+
+Maxime. —Ha dado usted en el clavo, papá. Son una especie de piratas, unos bandoleros de tierra que disponen de medios nuevos y poderosos, incomprensibles por el momento. Esperan a que usted y mi tío estén «a punto» para escribirles. Esperan a que estén en el colmo de la desesperación y dispuestos a todos los sacrificios. Después quizá realicen otras capturas y otras ganancias.
+
+La señora Arquedouve. —¿No creen ustedes que las depredaciones atribuidas a los sarvants tienen alguna relación con nuestra desgracia?
+
+El señor de Agnès. —Desde luego, señora. Han aterrorizado la comarca, han facilitado los raptos, han agravado la inquietud: proceden de los mismos forajidos. Se han dedicado a imitar a los espectros. Y, por mi parte, no me sorprendería que esos explotadores no dieran a conocer su fin, sus exigencias y su identidad hasta haber cometido numerosos raptos, para acreditar más tiempo la fábula de los sarvants y obtener por ese procedimiento un alza de la tarifa de las devoluciones. Los campesinos pagarán con menos dolor en el momento en que la declaración de los bandidos, al desenmascararse, los libre de todo temor supersticioso.
+
+Garan, *cortando por lo sano*. —¡Pues no! Las historias de Seyssel… (Hasta ahora he consentido discusiones ociosas, ¡pero ya basta!) Las historias de Seyssel, Culoz y otros lugares no son más que una mistificación pura y simple, ¡igual que los pasos en la nieve del Colombier, que son una mistificación pura y simple!
+
+Maxime. —¿Qué entiende usted por eso?
+
+Garan. —Entiendo, señor Maxime Le Tellier, y usted, señor Robert Collin, que no me gustan mucho las personas que le llevan a uno a un lugar donde han pasado varias horas antes; donde han hecho, en soledad, lo que les ha parecido; y que le muestran allí, en forma de huellas disparatadas, el lindo resultado de su trucaje. Y entiendo, en fin, que son ustedes unos directores de escena de primer orden.
+
+Maxime, *blanco de ira*. —¡Le ruego que se calle!
+
+Robert. —Me río de sus insinuaciones.
+
+Garan, *a Robert*. —¿Qué hizo usted, sobre todo usted, solo, en el Colombier, en la noche del domingo al lunes?
+
+Robert. —Me quedé porque, de noche, quería espiar, montar guardia, y, de día, reflexionar ante las propias huellas.
+
+Garan. —¡Vamos, hombre! *(Protestas unánimes).*
+
+Yo. —Le suplico, caballero, que no siga.
+
+Garan. —Perfecto. ¡Oh, se acabó! Ahora me callaré.
+
+Lucie, *desesperada*. —¡Oh, pues habrá que encontrarlos! Por más que busco… La cabeza me da vueltas… Esas huellas… Ese aniquilamiento súbito… Esa supresión total…
+
+Tiburce, *citando a uno de sus autores*. —«En la vida real hay efectos tan singularmente extraños, circunstancias tan extraordinarias, que superan todo lo que la imaginación más fantástica y más audaz podría inventar. Regla general: cuanto más estrafalaria es una cosa, menos misteriosa resulta». Desconfíe de las ensoñaciones, señora. Una leyenda…
+
+Augustine. —Los periódicos mencionan otra leyenda además de la de los sarvants a propósito de todo esto.
+
+Lucie. —Sí, mi doncella me ha hablado muy en serio de un dirigible fantasma. Haría juego con el buque fantasma y sería el espectro del *République*, siniestrado hace tres años, tripulado por todas las víctimas del aire: ¡una tripulación de aparecidos! Los criados relacionan esa necedad con el famoso dirigible que se creyó ver varias noches seguidas en las costas de Inglaterra, en 1909, y que se desvanecía en la sombra… Es insensato; pero ¿no es espantoso que puedan nacer suposiciones tan monstruosas a propósito de…?
+
+Yo. —¿Han pensado ustedes que, si el rapto se produjo de noche, los raptores pudieron acercarse sin ser vistos?
+
+Robert. —Se produjo de día. No se sube al Colombier cuando está oscuro; y además, nuestros tres amigos no habrían dejado a sus padres en la inquietud.
+
+Yo. —En efecto. Ya no se sabe qué pensar. Es hora de concluir. Señor Garan, ¿qué decidimos?
+
+Garan. —¡Oh, yo ya no quiero decir nada!
+
+Yo. —Sea. ¿Y usted, Robert?
+
+Robert. —No puedo decir nada, mi querido maestro… Nada todavía, al menos.
+
+Garan, *entre dientes*. —Ya lo creo…
+
+Yo, *vivamente*. —¿Y usted, señor Tiburce?
+
+Tiburce. —¡Hatkins! ¡Hatkins!
+
+Calixte. —¡Bravo! *(Exclamaciones de indignación).*
+
+Tiburce. —¡Eh! ¿Qué pasa? Ante todo, busquemos explicaciones sencillas, posibles, naturales. ¡No salgamos de lo natural! *(Citando)*: «Hace tiempo que tengo por principio que, cuando se ha excluido lo imposible, lo que queda, por improbable que sea, es la verdad». Ahora bien, «lo que queda», a mi juicio, es la hipótesis de los bandidos y la hipótesis de Hatkins. Y esta última, por ser la menos complicada, debe de ser la buena.
+
+Robert. —Lo «imposible»… ¿Qué hombre podría saber lo que es imposible? ¿Y lo que es natural?…
+
+La señora Arquedouve. —Por mi parte, estoy con el señor Robert. Siento que ha meditado con toda la fuerza de su saber.
+
+Lucie, *agotada la paciencia*. —¡Y yo quiero que me devuelvan a mi hija! ¡Lo quiero! ¡Lo quiero!…
+
+Yo. —¿Qué se hace, por fin? ¿Qué se hace?
+
+Tiburce, *hojeando una guía de ferrocarriles*. —¡Salgo tras los pasos de Hatkins! Hay un paquebote mañana por la tarde. Mañana por la mañana les dejaré.
+
+Garan. —Partiremos juntos; yo me desentiendo de todo esto. Vuelvo a París.
+
+Yo. —Robert, Maxime, ¿qué van a hacer?
+
+Robert. —Pensar.
+
+Maxime. —Esperar. Esperar el requerimiento de los corsarios.
+
+Yo. —¿Y usted, señor de Agnès?
+
+El señor de Agnès. —Voy a ponerme, con mi ingeniero, a construir aeroplanos tan rápidos y tan estables como sea posible… finos veleros… para la caza de los piratas aéreos…
+
+Maxime. —¡Ah, eres de mi opinión!
+
+Robert. —Hágalo, caballero; puede no ser inútil.
+
+Tiburce. —¡Hatkins, les digo!
+
+El señor de Agnès. —¡Estás loco!
+
+Tiburce. —¡Oh, déjame esperar que tengo razón, tú que sabes por qué trabajo!… Y además, ¿no está convencido el señor Monbardeau?
+
+Calixte. —¡Ejem! Ya sabe usted… después de todo, ¡yo nunca lo he visto, a ese Hatkins! ¡Ahí están todos, proclamando su inocencia!…
+
+Tiburce. —¡Eh, peor para ellos! ¡A la buena de Dios!
+
+Calixte. —Voy, no obstante, a hacer explorar los nidos de las águilas… ¿Qué dices tú, Jean?
+
+Yo. —No me pregunten nada más; estoy aturdido…
+
+Garan. —Le ruego que olvide lo que he dicho hace un rato… Era mi deber ser sincero.
+
+Yo. —No se le guarda rencor. Ha expresado usted su opinión con franqueza y, en definitiva, es defendible, lo reconozco. Solo que, verá usted, mi hijo y mi secretario están por encima de toda sospecha. Usted no lo sabía.
+
+El señor Le Tellier termina así:
+
+*Al acabar aquella reunión, vi al señor de Agnès acercarse a Robert. Los dos jóvenes conversaron unos instantes y se separaron con un leal apretón de manos. Los que estaban al corriente de la situación comprendieron que el duque acababa de asegurar a su humilde rival el desprecio en que tenía las alegaciones del inspector. Luego debieron de convenir en hacer todo lo posible por encontrar a Marie-Thérèse, el uno con su ciencia, el otro con su riqueza, ambos sin preocuparse del porvenir.*
