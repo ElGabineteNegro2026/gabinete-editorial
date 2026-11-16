@@ -1371,9 +1371,7 @@ Esa nota estaba así concebida:
 
 *Palacio de la Santé, celda 14, segunda división.*
 
-*Señor director del Grand Journal: Ha insertado usted en su número del martes último una gacetilla redactada de acuerdo con algunas palabras que se me escaparon la otra tarde en el curso de una conferencia que sostuve en la Santé sobre política extranjera. Esa gacetilla, verídica en sus partes esenciales, precisa, sin embargo, una pequeña rectificación. Las cartas existen, efectivamente, y nadie puede discutir la excepcional importancia de las mismas, puesto que desde hace diez años son objeto de una búsqueda ininterrumpida por parte del gobierno interesado en*
-
-*ellas. Pero nadie sabe dónde se encuentran y nadie sabe tampoco una sola palabra de lo que contienen… El público, estoy seguro, no me tomará a mal el hacerle esperar en satisfacer su legítima curiosidad. Aparte de que yo no tengo en mis manos todos los elementos necesarios para la busca de la verdad, mis ocupaciones actuales no me permiten, en modo alguno, el consagrar a este asunto el tiempo que yo quisiera.*
+*Señor director del Grand Journal: Ha insertado usted en su número del martes último una gacetilla redactada de acuerdo con algunas palabras que se me escaparon la otra tarde en el curso de una conferencia que sostuve en la Santé sobre política extranjera. Esa gacetilla, verídica en sus partes esenciales, precisa, sin embargo, una pequeña rectificación. Las cartas existen, efectivamente, y nadie puede discutir la excepcional importancia de las mismas, puesto que desde hace diez años son objeto de una búsqueda ininterrumpida por parte del gobierno interesado en ellas. Pero nadie sabe dónde se encuentran y nadie sabe tampoco una sola palabra de lo que contienen… El público, estoy seguro, no me tomará a mal el hacerle esperar en satisfacer su legítima curiosidad. Aparte de que yo no tengo en mis manos todos los elementos necesarios para la busca de la verdad, mis ocupaciones actuales no me permiten, en modo alguno, el consagrar a este asunto el tiempo que yo quisiera.*
 
 *Todo cuanto puedo decir, por el momento, es que estas cartas fueron confiadas por el agonizante a uno de sus amigos más fieles, y que, a causa de ello, ese amigo tuvo que sufrir las pesadas consecuencias de su devoción. Espionaje, investigaciones domiciliarias, nada le fue ahorrado.*
 
@@ -1399,9 +1397,7 @@ De hecho, veinticuatro horas después apareció la nota prometida.
 
 *Las famosas cartas están ocultas en el castillo feudal de Veldenz, capital del gran ducado de Deux-Ponts, castillo en parte devastado en el curso del siglo XIX.*
 
-*¿En qué lugar exactamente? ¿Y en qué consisten exactamente esas cartas? Tales*
-
-*son los dos problemas que yo estoy entregado a descifrar y cuya solución expondré dentro de cuatro días.*
+*¿En qué lugar exactamente? ¿Y en qué consisten exactamente esas cartas? Tales son los dos problemas que yo estoy entregado a descifrar y cuya solución expondré dentro de cuatro días.*
 
 *Firmado: Arsène Lupin.*
 
@@ -1463,9 +1459,7 @@ Cuatro días de silencio, y luego esta última nota, cuya resonancia aún no ha 
 
 *Los periódicos publicarán entonces las fotografías de esas cartas, cuyo tono yo conozco ya, pero que quiero reproducir con sus textos íntegros.*
 
-*Esta publicación segura, inevitable, tendrá lugar dentro de dos semanas,*
-
-*contadas día por día, desde el 22 de agosto próximo.*
+*Esta publicación segura, inevitable, tendrá lugar dentro de dos semanas, contadas día por día, desde el 22 de agosto próximo.*
 
 *De aquí allá, yo me callo… y espero.*
 
@@ -1493,9 +1487,7 @@ Lupin palideció de angustia. Por debajo de esos títulos había leído estas pa
 
 *Cerca de Augsburg ha sido hallado el cadáver de un anciano degollado por medio de un cuchillo. Se ha logrado aclarar su identidad: se trata del señor Steinweg, quien ha figurado en el asunto Kesselbach.*
 
-*Por otra parte, nos telegrafían que el famoso detective inglés Herlock Sholmès ha*
-
-*sido solicitado con toda urgencia en Colonia. Allí se entrevistará con el emperador y luego se dirigirán ambos al castillo de Veldenz.*
+*Por otra parte, nos telegrafían que el famoso detective inglés Herlock Sholmès ha sido solicitado con toda urgencia en Colonia. Allí se entrevistará con el emperador y luego se dirigirán ambos al castillo de Veldenz.*
 
 *Herlock Sholmès, al parecer, se ha comprometido a descubrir el secreto de Apoon.*
 

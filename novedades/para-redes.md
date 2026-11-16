@@ -28,7 +28,7 @@ material nuevo, cuya autoría exacta (Ásmundsson, Stoker o ambos) sigue discuti
 ## 813 — Maurice Leblanc (El Archivo Lupin, Dossier IV)
 
 - **Colección:** Archivo Lupin · Dossier IV
-- **Fecha prevista:** por confirmar. Falta el ISBN, que se asigna al iniciar KDP.
+- **Fecha prevista:** semana del 23 al 29 de noviembre de 2026 (día exacto por confirmar al publicar en KDP).
 - **Precio:** 13,95 € tapa blanda; 2,99 € ebook (IVA incluido)
 - **Portada:** `novedades/portadas/813_portada.jpg` (1600 × 2560 px). Cubierta completa en `proyectos/813/cubierta/`.
 

@@ -729,8 +729,6 @@ El señor Formerie exclamó:
 
 El señor Formerie no había olvidado la extraña aventura de la diadema de la princesa de Lamballe y la forma admirable en que Lupin se la había jugado a él algunos años antes. El asunto se recordaba como un caso célebre en el Palacio de Justicia y todavía era motivo de risas. Y en cuanto al señor Formerie, éste guardaba un justo sentimiento de rencor y el deseo de cobrarse una revancha aplastante.
 
-> *Nota del autor:* véase este relato en las obras de Arsène Lupin.
-
 —El crimen es evidente —manifestó el juez con el aire más convencido—. Y el móvil nos será fácil descubrirlo. Entonces todo va bien… Señor Lenormand, le saludo a usted… y me siento encantado.
 
 Pero el señor Formerie no estaba en modo alguno encantado, pues, por el contrario, la presencia del señor Lenormand le agradaba muy poco, ya que el jefe de Seguridad no disimulaba en absoluto el desprecio que sentía hacia él. Por consiguiente, se irguió, y siempre solemne, dijo:
@@ -4165,9 +4163,7 @@ El salón estaba contiguo y le hicieron entrar allí inmediatamente.
 
 El barón desplegó un número del *Grand Journal* y señaló con el dedo una gacetilla titulada *Comunicado*. La gacetilla decía:
 
-*La desaparición del señor Lenormand no ha dejado de emocionar a Arsène Lupin. Después de una rápida investigación, y como continuación a su proyecto de*
-
-*esclarecer el asunto Kesselbach, Arsène Lupin ha resuelto encontrar al señor Lenormand vivo o muerto, así como también entregar a la justicia al autor o autores de esta abominable serie de fechorías.*
+*La desaparición del señor Lenormand no ha dejado de emocionar a Arsène Lupin. Después de una rápida investigación, y como continuación a su proyecto de esclarecer el asunto Kesselbach, Arsène Lupin ha resuelto encontrar al señor Lenormand vivo o muerto, así como también entregar a la justicia al autor o autores de esta abominable serie de fechorías.*
 
 —¿Es, en efecto, suyo este comunicado, mi querido príncipe?
 
@@ -4639,9 +4635,7 @@ El martes por la mañana, a eso de las once, Valenglay, presidente del Consejo, 
 
 *Señor presidente del Consejo: Sabiendo todo el interés que usted tiene por el señor Lenormand, quiero ponerle al corriente de los hechos que la casualidad me ha revelado.*
 
-*El señor Lenormand está encerrado en los sótanos de la villa Glycines, en*
-
-*Garches, cerca de la residencia de Retiro.*
+*El señor Lenormand está encerrado en los sótanos de la villa Glycines, en Garches, cerca de la residencia de Retiro.*
 
 *Los bandidos del Palace Hotel han resuelto asesinarle hoy a las dos.*
 

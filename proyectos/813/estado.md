@@ -15,6 +15,12 @@
   - Próximo título: *El tapón de cristal*.
 
 - 16-11-2026: aprueba el prólogo y el apéndice reescritos.
+- 16-11-2026 (decisiones finales):
+  - Papel crema, definitivo.
+  - Lanzamiento la semana del 23 al 29 de noviembre de 2026.
+  - Ilustración de la cubierta D aceptada tal cual, a 1333 × 2000 px.
+  - Se eliminan todas las notas del traductor.
+  - Se corrigen los párrafos partidos.
 
 ## Hecho (16-11-2026)
 - Texto limpio en `texto/` desde el RTF:
@@ -45,9 +51,11 @@
   Reescritos: prólogo ≈ 1.000 palabras y apéndice ≈ 1.250, con apartados en versales y cierre «El expediente continúa abierto».
   Interior: 446 páginas. Cubierta regenerada: lomo de 28,32 mm.
 
+- 16-11-2026: eliminada la única nota del traductor que quedaba en el texto (la nota 1, colocada como «Nota del autor» en el cap. I). La nota 2 ya no estaba.
+  Unidos 6 párrafos partidos, todos en textos en cursiva: notas de prensa y cartas de Lupin.
+  Búsqueda automática de párrafos que terminan sin puntuación o empiezan en minúscula: no queda ninguno.
+  Interior: 444 páginas. Cubierta regenerada: lomo de 28,19 mm. DOCX y EPUB regenerados.
+
 ## Pendiente
-- Resolución de la ilustración D: el responsable envía una versión mayor, que llega a esta sesión con 1333 × 2000 px (unos 216 ppp a sangre; KDP recomienda 300 = 1838 × 2775 px). Si el original es mayor, sustituir `cubierta/chatgpt_etretat_noche.png` y volver a ejecutar `scripts/cubierta.py`.
-- ISBN (al iniciar KDP) y fecha de lanzamiento.
-- Nota 2 del traductor (puerta del Palacio de Justicia): no se ha encontrado su llamada en el texto, porque el RTF no conserva las marcas. Queda fuera hasta localizarla.
-- Revisión de lectura completa: pueden quedar párrafos partidos que empiezan por mayúscula.
-- Valorar papel blanco (lomo 25,2 mm) frente a crema.
+- ISBN (al iniciar KDP): añadirlo a libro.toml y regenerar el interior, los ebooks y la cubierta.
+- Revisión de lectura completa (opcional): la búsqueda automática no detecta párrafos partidos que terminan con punto.
