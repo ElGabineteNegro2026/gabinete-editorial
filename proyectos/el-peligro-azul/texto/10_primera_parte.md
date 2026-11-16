@@ -391,3 +391,333 @@ Solo que, ya fuera porque la vecindad combinada del río y la montaña era neces
 Los periodistas regresaron, cada cual a su república, a su reino o a su imperio; los campesinos recobraron la sonrisa; Géruzon creyó haber tenido un sueño; y aquella tranquilidad inesperada solo había de decepcionar un poco al mejor de los seres: me refiero al señor Le Tellier. Pues, al instalarse en Mirastel la tarde del 26 (día siguiente al descalabro de Culoz), contaba con emplear sus vacaciones en el estudio razonado del misterio.
 
 Los partidarios de la tesis de la «mistificación» llegaron a sostener que la llegada de un hombre tan clarividente no era ajena al cese de las hostilidades.
+
+## IV. MIRASTEL Y SUS MORADORES
+
+Ha llegado la hora de pintar el paraje adonde acababan de llegar el señor Le Tellier, su familia y su secretario; la hora también de esbozar el retrato de los que traía consigo y de los que allí encontraba; la hora, en fin, de revelar por qué Mirastel había de recibir a sus huéspedes anuales en fecha tan prematura.
+
+A quien lo observa desde el mediodía —por ejemplo, al turista que navega por el lago del Bourget—, el Colombier le parece un pitón formidable, un *kopje* aislado. Se le tomaría entonces por un hermano gigante de esos cerros que salpican la comarca con sus bruscas redondeces y que los naturales llaman *mollards*. Es una ilusión. El Colombier no tiene nada de pitón. Lo que usted contempla como tal es la grupa de una larga, larguísima cadena en la que termina el Jura. El Colombier viene de muy lejos, del norte, y ha alzado su espinazo tortuoso a lo largo de leguas y leguas antes de detenerse aquí, en un derrumbamiento escalonado de cerros y barrancos —descenso magnífico de bosques bajos y achaparrados, sucesión de gargantas abruptas y de landas onduladas, especie de ábside de alguna catedral sobrehumana, de donde irradian los contrafuertes de roca y verdor como arbotantes que fueran montañas.
+
+La vertiente oriental del Colombier muere al nivel del Ródano, que festonea su contorno con sus meandros. La vertiente occidental no desciende tan abajo y forma, al extenderse, la agradable meseta del Valromey. En cuanto a la grupa, linda con una vasta marisma que atraviesa el Ródano.
+
+Pues bien, al pie de esa grupa, en el camino vecinal de gran comunicación que se ciñe a su curva, la rodea y va de Ginebra a Lyon pasando por los lugares encantados del sarvant, se suceden pueblos y castillos alternados.
+
+Los municipios están construidos al borde de la carretera y se llaman Culoz, Béon, Luvrieu, Talissieu, Ameyzieu y Artemare. Entre ellos, pero más arriba, en el flanco de la montaña, se yerguen las mansiones en su belleza diversa y más o menos señorial: Montverrand, feudal; Luyrieu, una ruina; Châteaufroid, neomedieval; Mirastel, Luis XIII; y Machuraz, de un siglo XV renacentista mezclado con un Renacimiento resucitado.
+
+De todos estos castillos, solo Mirastel nos interesa.
+
+Es fácil de reconocer. Desde el ferrocarril, que bordea la carretera a cierta distancia, se le ve destacarse sobre el fondo verde oscuro de la montaña, entre Machuraz, que tiene muros blancos bajo tejas rojas, y Châteaufroid, cuyas dos torrecillas lucen góticamente unos conos de pizarra azul. Es de ladrillo —ladrillos que se han vuelto rosados y cuya cálida claridad lo baña siempre de sol— y está flanqueado por cuatro torres en las esquinas. Tres de ellas conservan todavía sus viejos tejados de pizarra gris, en forma de globos puntiagudos como cascos sarracenos; pero la cuarta sostiene una cúpula de observatorio. El jardín de Mirastel, inclinado sobre la ladera como sobre un pupitre, lo rodea de un ondular de frondas. Su terraza, plantada de árboles, le sirve con su muralla de zócalo rocoso. Domina a sus dos vecinos, y él mismo está dominado por las aldeas montañesas de Ouche y Chavornay, que, hacia la izquierda, se escalonan detrás de él jalonando el camino pedregoso de las cumbres.
+
+Dos calzadas carreteras suben en lazadas hasta el portal de Mirastel. Una viene de Talissieu, la otra de Ameyzieu. Ambas parten, pues, de la carretera. Pero en medio del vago triángulo que dibuja su horquilla, un sendero de cabras escala la empinada cuesta y le lleva a uno directamente de la carretera al umbral del recinto.
+
+¿Cómo escapó tan completamente este castillo, en la frescura de su juventud, al odio de Richelieu? ¿Por qué no es, como tantos otros, una ruina que de lejos se toma por una roca, entre todas esas rocas que el atardecer asemeja a bastillas desmanteladas? La leyenda quiere que por entonces no albergara a ningún hidalgo pendenciero, sino a un apacible caballero inofensivo, aquejado sin duda de insomnio, que, pasando los días leyendo en los libros y las noches leyendo en el cielo, gustaba de hacer el censo de las constelaciones desde lo alto de una torre elevada.
+
+De ahí vendría el nombre de Mirastel, que quiere decir *Mira-estrellas* u *Observador-de-los-astros*.
+
+A decir verdad, cuando el difunto señor Arquedouve compró esta residencia, la torre del noroeste no había tenido nunca cubierta: terminaba en una azotea. Y en los desvanes se descubrió —bajo la apariencia de un montón de cobres recortados y grabados, embellecidos con figuras alegóricas— gran número de antiguas máquinas de astronomía, tales como esferas zodiacales y equinocciales, horizontes azimutales, cuadrantes, sextantes, globos celestes, astrolabios, gnomones y otros cachivaches renovados de los caldeos, a los que conviene añadir uno de esos interminables telescopios cuya disposición mejoraba Kepler en la época en que Mirastel era flamante.
+
+El señor Arquedouve, rico industrial lionés, adquirió la finca en 1874, once años después de su boda y a instancias de su esposa, que estaba loca por el paisaje y no soñaba más que con la astronomía. Aquella mujer superior, émula de las Hipatias, de las señoras Lepaute y de las señoras du Châtelet, quiso instalar un observatorio en la azotea de la torre; y las obras estaban acabadas cuando una doble desgracia vino a herir a la señora Arquedouve.
+
+Una amaurosis bastante inexplicable la privó para siempre de la vista, y su marido falleció, dejando a la pobre ciega con dos hijas, Augustine y Lucie, de diez y ocho años.
+
+Desde aquel día, la señora Arquedouve no volvió a salir de Mirastel. A pesar de su enfermedad, la energía y la costumbre hicieron de ella una educadora notable y un ama de casa consumada. Atendía en su casa las tareas más diversas con una destreza increíble. Pero, fuera de su parque, volvía a las tinieblas; y daba mucha lástima, en las hermosas noches centelleantes, verla alzar sus ojos muertos hacia el esplendor de un cielo que no podían sondear, *pero cuya silenciosa armonía escuchaba*.
+
+Su ideal era tener un yerno que fuese astrónomo. Lo consiguió. Cuatro años después de la boda de su hija mayor con el doctor Calixte Monbardeau, establecido en Artemare, la menor se casaba con Jean Le Tellier, entonces adscrito al Observatorio de Marsella.
+
+Fue el señor Le Tellier quien sacó provecho de la instalación de la torre. Había en ella un buen anteojo ecuatorial que le permitió proseguir en Mirastel, durante la estación cálida, algunos de sus trabajos.
+
+Y ahora el señor Le Tellier era director del Observatorio de París. Y ahora la señora Arquedouve era cuatro veces abuela. Pero, ¡ay!, una afrenta deplorable había venido a abrumarla todavía más.
+
+Suzanne Monbardeau, la mayor de sus nietos, se había dejado seducir por un tal Front, de Belley, un donjuán palurdo, desprovisto de todo sentimiento. Él la había raptado; y como el señor Monbardeau no quería volver a oír hablar de su hija, la triste Suzanne vivía con su amante en una modesta casita apartada de la pequeña ciudad y no trataba ya, de toda su familia, más que a su hermano Henri. Y aun este, para verla, tenía que esconderse a la vez de Front y de sus padres. Mucha miseria, como se ve.
+
+Suzanne, en abril de 1912, tenía treinta años, y su hermano veintinueve. Sujeto fuera de serie, doctor y biólogo, adscrito al Instituto Pasteur, hoy célebre por su admirable tratamiento de la arteriosclerosis, Henri Monbardeau acababa de casarse con una encantadora muchacha de la comarca, Fabienne d'Arvière; y la nueva pareja descansaba en Artemare de un viaje de novios algo fatigoso cuando los Le Tellier recibieron la hospitalidad de la señora Arquedouve.
+
+Su primo Maxime Le Tellier andaba por entonces en los veintiséis años. Admitido en el *Borda*, guardiamarina y luego alférez de navío, hacía poco que había dejado la marina de guerra para ocuparse de oceanografía con el príncipe de Mónaco. Advertido de que toda su familia iba a reunirse en el Bugey, había hecho coincidir con aquella reunión el mes de libertad al que tenía derecho.
+
+Y he aquí, en la seducción de sus dieciocho años y la gracia de su belleza rubia, a Marie-Thérèse Le Tellier, su hermana, de la que habría que describir en versos de gran poeta la cabellera de oro con reflejos de plata, la tez de corola fresca, la mirada húmeda, tal como la amaba Greuze, el talle redondo, fino, flexible… ¡Y amable! ¡Y buena! ¡Hay que saber cuánto!… En fin, a aquella niña no se la podía oír hablar sin adorar su pensamiento; y, sin embargo, el aspecto de su figura era tan turbador que los jóvenes no la escuchaban, y, al ver sus labios maravillosos, no pensaban más que en los besos de mañana y no en las palabras de hoy.
+
+Suzanne y Henri Monbardeau, Maxime y Marie-Thérèse Le Tellier habían vivido lo mejor de su infancia en Mirastel y en Artemare, en verano. Allí, Fabienne d'Arvière se había mezclado en sus juegos de adolescentes; allí también un pobre huerfanito, al que el señor Le Tellier costeaba los estudios, había pasado en su compañía muchas hermosas vacaciones antes de convertirse en el fiel secretario de su protector.
+
+¡Artemare y Mirastel! ¡Cuántos recuerdos! Los jóvenes Monbardeau idolatraban a la tía Le Tellier; los pequeños Le Tellier no juraban más que por la tía Monbardeau; y era, durante la estación del sol, un perpetuo ir y venir entre el castillo de la señora Arquedouve y la quinta del doctor. Se vivía en ambas. Se almorzaba aquí o allá. A menudo, incluso, se dormía. Se tomaba pensión en ellas, a veces varios días seguidos.
+
+La señora Arquedouve presidía alegremente los regocijos del castillo. Y era tan vivaracha aquella menuda damita de bandós lisos casi azules, con su vestido de alpaca negra de corte monacal, con una pequeña esclavina y también un cuello y unos puños de lencería; era, aquella delicada damisela, tan despierta y tan inquieta, que se olvidaba que fuese ciega, y sin duda ella misma lo olvidaba también a ratos.
+
+La falta de Suzanne, ¡ay!, había arrojado sobre todo aquello la sombra púrpura de la vergüenza… Pero, ¿verdad?, uno no está obligado a sonrojarse sin descanso porque una hija de la casa se haya convertido en presa de un seductor…
+
+Y fue en medio de una reunión bastante jovial donde el señor Le Tellier hizo su entrada en Mirastel, precedido de su mujer, Lucie, y de su hija, Marie-Thérèse, y seguido de su hijo Maxime y de su secretario, el señor Robert Collin.
+
+***
+
+Los sarvants estaban entonces en toda su gloria, y durante la cena la conversación no giró más que en torno a ellos.
+
+En cuanto acabó la comida, los cuatro primos se escaparon. Todos los años, el mismo rito alegre empujaba a los recién llegados a dar, nada más apearse, la vuelta a Mirastel.
+
+Buscaron, en la noche ya caída, la silueta de la antigua mansión, con sus veletas de hierro forjado apuntando a las estrellas; recorrieron la granja contigua al castillo, el parque en pendiente, la terraza plantada de castaños de Indias en flor. El *ginkgo biloba*, el rarísimo árbol cuyos antepasados se remontan al diluvio, fue saludado allí como un viejo tío vegetal. Luego el cuarteto se adentró bajo la centenaria glorieta de carpes que lleva al portal y cuya bóveda tenebrosa hacía en medio de la noche una noche más nocturna.
+
+Eran cuatro manchas en movimiento, dos grandes y oscuras y dos pequeñas y claras, que se deslizaban, con un ruido de guijarros removidos, sobre la grava sacada del río. Y decían frases en las que el nombre de Suzanne volvía con frecuencia…
+
+Pero he aquí que, ladrando y meneándose, algo negro se precipita hacia los paseantes. Es Floflo, un lulú de Pomerania de pelo lustroso de caricias, un amigo de la infancia también él, y contemporáneo de Marie-Thérèse, aunque ya sea un perro anciano… Lo festejan. Olvidan un poco a Suzanne. Y prosiguen la ronda sentimental a la luz de la luna, que acaba de surgir de una cresta.
+
+Muy bien. ¿Y los padres?
+
+¿Los padres? Conversan en el salón con la señora Arquedouve y Robert Collin. Y mientras la señora Monbardeau, con el pensamiento puesto en los sarvants, se inquieta para sus adentros por la salida de los «niños», que tacha de imprudencia, la abuela, dirigiéndose al señor Le Tellier, le pregunta:
+
+—Jean, ¿por qué viene usted tan pronto a Mirastel?
+
+Pero el astrónomo no contesta de buenas a primeras. Mira a su mujer con aire incómodo. Esta, entonces, mide al secretario con mucha arrogancia; recorre con mirada malévola al pobre hombrecillo enclenque que está allí, tan flaco y tan feo; parece hacer inventario de sus desventajas físicas, de sus pómulos salientes, de su frente excesiva, de su fea barba espumosa; y clava la vista, tras las gafas de oro, en los grandes y hermosos ojos inmensamente soñadores, como si fueran tan desheredados como el resto.
+
+Robert Collin lo ha comprendido. Siente que está de más, se levanta y balbucea: «Si me lo permiten, voy… ejem… voy a deshacer el equipaje». Luego se retira limpiando sus quevedos de oro.
+
+Y la señora Monbardeau:
+
+—¡Qué buen muchacho es este Robert! ¡Cómo lo tratas, Lucie!
+
+—No me gustan los estorbos —dice la señora Le Tellier en tono lánguido—. Ese caballero siempre de tercero, ¡es insoportable!… ¡Y encima con esa cara!
+
+—¡Luce! ¡Luce! —la reprende el señor Le Tellier.
+
+Ahora bien, el lector tiene suerte. Las dos hermanas no podían decir nada que las pintara más al vivo en menos palabras: la una indulgente y buena, franca y sin afectación; la otra indolente y llena de acritud, dura con el prójimo. Añadamos que la señora Le Tellier se teñía el pelo con alheña; que se pasaba horas tendida sin razón valedera; que sus uñas parecían aceitadas a fuerza de relucir y de ser pulidas y repulidas, y la habremos descrito de sobra.
+
+Mientras tanto, la señora Arquedouve ha repetido su pregunta, y, puesto que ya están en familia:
+
+—Madre —empieza el señor Le Tellier—, yo volveré a París dentro de una quincena. Pero le he traído sobre todo a Marie-Thérèse.
+
+—¿Es que está enferma? ¿O qué?… —se alarma la abuela, que piensa en su otra nieta, Suzanne…
+
+—No. Tranquilícese. Pero ¿sabe usted que el 12 de abril inauguramos el ecuatorial donado por el señor Hatkins?… ¿Qué te pasa, Calixte?
+
+El doctor se había sobresaltado.
+
+—Nada —dice—. Es ese nombre de Hatkins… Sigue, sigue.
+
+—Aquella fiesta, madre, fue muy brillante. Asistieron ilustres personajes, conocidas figuras de la buena sociedad y no pocos extranjeros distinguidos. Nuestra Marie-Thérèse, que hacía allí su presentación, obtuvo un éxito loco… y desde aquella tarde —¡que se la lleve el diablo!— he recibido tantas y tantas peticiones de mano, tan apremiantes, tan halagüeñas e incluso tan… imprevistas, que, negándonos por una parte a casarla tan joven, y no sabiendo ya, por otra, qué responder a la avalancha incansable de cartas y de visitas que esa excelente razón no bastaba a desalentar, hemos tomado el partido de huir. ¡Aquello ya no había quien lo aguantase! Aquí nadie vendrá a perseguirnos.
+
+La señora Arquedouve dijo con dulzura:
+
+—El duque de Agnès (ya sabe: ese compañero de clase de Maxime, el aviador que vino a Mirastel el año pasado), ¿ha pedido la mano de Marie-Thérèse?
+
+—No…
+
+—Es una lástima. Me habría gustado.
+
+—A mí también —afirmó la señora Le Tellier.
+
+—A ella también —concluyó la señora Monbardeau.
+
+—Dios mío —replicó el astrónomo, desconcertado—, Dios mío… el duque de Agnès no es un sabio… No vería inconveniente, sin embargo, en que… Pero no la ha pedido.
+
+—¿De verdad has recibido tantas proposiciones? —se admiró el doctor.
+
+Y la señora Le Tellier, lánguida:
+
+—Las había impagables, figúrense. Un abogado de Chicago. Un oficial de caballería español. Un agregado de embajada húngaro. ¡Y hasta aquel turco: Abd-ul-Kaddur!
+
+—¡Ah, el turco es el colmo! —exclamó el señor Le Tellier, echándose a reír—. ¡Un bajá venido a visitar París con doce criaturas de su harén!… ¡Las paseaba sin descanso, herméticamente veladas, en el fondo de tres landós de alquiler!
+
+—¿Hatkins no se ha puesto en la lista? —preguntó el señor Monbardeau con rostro severo.
+
+—No… ¿Por qué?
+
+—¡Uf! Respiro.
+
+—Pero, mi querido amigo, el señor Hatkins no conoce a Marie-Thérèse… Además, todo el mundo sabe que guarda un culto ferviente al recuerdo de su mujer… Por último, el señor Hatkins es el más humilde de los filántropos y no se dejó ver, ni un segundo, en la inauguración. *Nunca ha visto a mi hija*, respondo de ello.
+
+—Tanto mejor, tanto mejor.
+
+—Pero, en fin…
+
+—Tengo mis razones.
+
+—Ya que lo conoces, ¿sabes que va a partir con unos amigos para dar la vuelta al mundo?
+
+—¡Me trae sin cuidado!
+
+En ese momento entraban los «niños», guiñando los ojos ante la luz de las lámparas. El señor Monbardeau los interpeló:
+
+—¡Eh! ¿No os habéis encontrado con el sarvant?
+
+Y todos se echaron a reír, con mejor o peor gana.
+
+—¿Estáis contentos? —preguntó la señora Arquedouve.
+
+—¿Lo duda usted, abuela? ¡Desde mañana volvemos a la buena vida de antes! —respondió Maxime.
+
+—¡Volverás a encontrar tu laboratorio con tus antiguas colecciones, tu acuario!
+
+—Incluso va a volver a servir, ese acuario. Quisiera intentar aquí algunos experimentos útiles para mis trabajos de oceanografía. El viejo Philibert me proporcionará peces cada ocho días… Y además pienso pintar mucha acuarela.
+
+—¡Y hacer excursiones, supongo! —exclamó Marie-Thérèse—. ¡Todo este invierno no he pensado más que en el momento en que pudiera tocar la cruz del Grand-Colombier! ¡Es tan hermoso allá arriba!
+
+—¡Ah, siempre la intrépida montañera! —dijo alegremente la señora Monbardeau—. Marie-Thérèse, ¿vendrás pronto a pedirnos techo y mesa en Artemare?
+
+—¡Tía, ya lo había pensado!
+
+—¡Oh, no enseguida! —reclamó la abuela, acariciando con su mano de ciega, móvil y vivaz, la cabellera de su nieta.
+
+—Cuando te apetezca —prosiguió la tía Monbardeau—. No hace falta avisar; tu habitación estará preparada. Y la tuya también, Maxime.
+
+El modesto 9 caballos del médico rural hacía su teuf-teuf en la terraza, delante del castillo. Los cuatro Monbardeau se acomodaron en él.
+
+—¡Adiós! ¡Adiós! ¡Hasta mañana! ¡Hasta pronto!
+
+La luz de la luna bañaba el soberbio panorama montañoso.
+
+El auto bajaba deprisa por los zigzags de la cuesta.
+
+Apoyados en el parapeto, los de Mirastel gritaban entre risas:
+
+—¡Cuidado con el sarvant!
+
+La bocina bramó en la curva de la carretera.
+
+Hacía tanta calma que se oyó el ronroneo del motor hasta Artemare, donde se detuvo.
+
+## V. LA ALARMA
+
+Ocho días más tarde. El cinco de mayo. Siempre en Mirastel.
+
+Es agradable figurarse al señor Le Tellier entrando aquella mañana en su gabinete de trabajo; pues es un hermoso espectáculo el encuentro de un hombre feliz con un rayo de sol en el centro de una estancia noble y espaciosa.
+
+El señor Le Tellier atraviesa la gran sala, echa una ojeada a los libros que tapizan la pared, abre la ventana, aspira una bocanada de aire puro, de aire luminoso y matinal, de aire dominical —es domingo y bien se nota—, y finalmente se acoda y mira.
+
+Entre los castaños de Indias en flor alineados en la terraza, ve sucederse los planos de la majestuosa perspectiva: la marisma; luego el acantilado, a cuyo pie se desliza el Séran y huye el ferrocarril; luego, sobre el acantilado, una meseta poblada de arbustos achaparrados donde culmina, en el centro, el castillo de Grammont; luego, allá lejos, anegados de bruma, picos, agujas, aristas, montañas con un poco de nieve todavía en la cumbre, que pronto se habrá fundido: el Mont du Chat (¡Aix-les-Bains!), el Nivolet (¡Chambéry!); y por último, perdidos en el fondo del espacio, los Alpes del Delfinado, como una niebla dentada.
+
+Un tren silba a lo largo del acantilado. Un automóvil ronca en la carretera. Y el señor Le Tellier piensa con satisfacción que le queda por consumir una linda semana, bien larga, antes de que el tren o su gran automóvil blanco se lo lleven a París.
+
+Su rostro no es más que una sonrisa.
+
+Por mucho que el sarvant se haya desvanecido como un fantasma que no era, el señor Le Tellier ha encontrado de todos modos con qué recrearse. No, desde luego, espiando el mundo estelar; pues, para venir a Mirastel, ha interrumpido sus importantes trabajos sobre la estrella Vega, o *alfa* de la Lira, cuya velocidad radial medía; y semejantes empresas exigen potentes anteojos de precisión. Pero ha descubierto en el desván, en un cuartucho polvoriento y no lejos de los gnomones desvencijados, un arcaico tratado de astronomía. Y se entretiene en descifrarlo con su lupa de relojero.
+
+Sobre el escritorio, el viejo volumen en cuarto le ofrece sus hojas manuscritas para que las deletree… Pero hace tan buen tiempo esta mañana que el señor Le Tellier se concede un poco de holgazanería. Divaga. Hoy los habitantes de Mirastel deben ir a almorzar a Artemare, adonde Marie-Thérèse se les ha adelantado desde ayer. Divaga. Mira, ahí pasan, errantes, la señora Arquedouve y la señora Le Tellier bajo el *ginkgo biloba*, «ese gracioso superviviente de la flora primitiva», como dirían los manuales. Floflo las acompaña. Divaga. ¡Ah, ahí está el cartero!… ¿Y quién se pone a cantar? Es Maxime, en la torre del sudeste, la que alberga su laboratorio… Sí, Maxime canta un aire de opereta mientras estudia el interior de sus infortunados peces… Muy bonita, esa cancioncilla…
+
+—La vida es hermosa —murmura el señor Le Tellier—. Es hermosa… y, sin embargo, ¡cómo se siente bajo el sol de mayo la humillación de envejecer!…
+
+Un suspiro. Y se vuelve hacia el libraco de cosmografía.
+
+Es entonces, y no más tarde ni más temprano, cuando oye llamar a la puerta con un golpecito seco, tan seco, a fe mía, como si algún esqueleto hubiera golpeado con su falange huesuda la tabla de la hoja.
+
+—¡Adelante!
+
+¿Es de verdad un esqueleto el que va a entrar?… Sí, puesto que es un hombre. Es incluso un esqueleto con muy poca carne encima y no muchos músculos, puesto que es Robert Collin. Avanza vestido con su eterna levitilla; el musgo pálido de su barba le hace copos en las mejillas; la miopía le da unos ojos muy dulces, cercados de oro. Trae el correo.
+
+—Buenos días, Robert, ¿qué tal?
+
+El interpelado se atraganta, se quita las gafas y dice:
+
+—No, maestro, no estoy bien… Tengo que hablarle… de asuntos… graves, y estoy… estoy emocionado… ridículamente.
+
+—Hable, amigo mío. ¡Cómo! ¿Tiene usted miedo de hablarme? Y eso que sabe cuánto le estimo.
+
+—Sé todo lo que le debo, mi querido maestro: la vida, primero, y la educación, y la instrucción. Usted me ha dado una familia y mucha amistad… y esa estima a la que alude. Por eso no debería… Pero, verá usted, uno tiene también deberes para consigo mismo… Y no tengo derecho a callarme, aunque sé con certeza que mi audacia es inútil… Solo que júreme, maestro, que no me guardará rencor si mi petición le parece demasiado fuera de lugar…
+
+El señor Le Tellier presiente de qué se trata. Por lo demás, está más conmovido que sorprendido y más contrariado que conmovido.
+
+—Se lo juro —dice.
+
+—Pues bien, maestro: amo a la señorita Marie-Thérèse y tengo el honor de pedirle su mano.
+
+«¡Patapum! Ya estamos», exclama mentalmente el señor Le Tellier.
+
+El otro continúa. Recita un trozo preparado, salta a la vista.
+
+—Soy pobre, huérfano, torpe y feo. No ignoro lo grotesca que es mi persona. Pero, cuando se tiene la audacia de amar, ¿qué quiere usted?, hay que tener la audacia de declararlo. Y el que divisa la felicidad, aunque sea a alturas insensatas, tiene el deber de lanzarse hacia ella. Ahora, mi querido maestro, he cumplido esa obligación para con mi propio individuo. Conozco de antemano su respuesta. He hecho lo que debía. No hablemos más de ello.
+
+—Amigo mío, yo también tengo deberes. El mío, en este asunto, es consultar a mi hija… cuando tenga veinte años. Así pues, dentro de dos años le haré saber sus sentimientos. Y puedo decirle, mi querido Robert, que realzan a mis ojos el valor de Marie-Thérèse y que nos honran a todos. Hago algo más que quererle, amigo mío: le admiro. Es usted un gran sabio y, lo que es mejor, es usted una buena persona.
+
+—Ella no querrá… Soy demasiado contrahecho…
+
+—¿Quién sabe? —pronuncia el señor Le Tellier, pensativo—. Está usted dotado de singulares cualidades científicas… una extraña perspicacia… una especie de adivinación… que puede llevarle a los puestos más envidiados. Marie-Thérèse no lo ignora. Yo sé que le aprecia a usted como merece…
+
+—¡Está su familia, maestro!
+
+—Es verdad; pero Marie-Thérèse es libre de elegir…
+
+—¡Ay!
+
+—¡Vamos, vamos, vamos! Nada de tristezas. ¡Si no le desanimo! Reflexione. ¡No llore! ¡Vamos! Le estoy echando un discurso de esperanza, con un sol radiante, a usted que es joven… ¡y llora usted! ¡Ah, qué hermosa mañana de primavera, Robert! Es tan hermosa y tan primaveral que uno querría estar enamorado, aunque solo fuera para sufrir por ello.
+
+—Seré franco, mire: temo que… que la señorita Marie-Thérèse ame ya a alguien. He reconocido… en este sobre dirigido a usted… la letra del señor duque de Agnès… Viniendo después de todas las solicitudes que le han asaltado (y que mi corazón se excusa de haber husmeado), esta carta me ha… trastornado. He querido adelantarme a ella esta mañana; por eso he hablado…
+
+—Démela.
+
+En efecto, la carta está firmada «François d'Agnès» y empieza así:
+
+->*(Pieza 104)*<-
+
+«Querido señor:
+
+»He adivinado por qué dejaba usted París con tanto misterio; y ello me decide a intentar ante usted una gestión que es poco probable que le sorprenda. Tenía la esperanza de hacerle mi petición no por carta, sino por…».
+
+El señor Le Tellier ya no se atreve a levantar los ojos del billete. Recuerda cierta afirmación de la señora Monbardeau sobre Marie-Thérèse y el duque de Agnès. Compara a los dos pretendientes: este pequeño sabio enclenque de nada y el *sportsman* intrépido, juvenil y magnífico, noble de corazón y de linaje, rico en oro y en ingenio, adorable, en fin, ¡es verdad! Y en su pensamiento hay voces que cuchichean: «¡Salve, Le Tellier! Tu hija será duquesa».
+
+Pero llaman a la puerta. Y se estremece. Esta vez es un golpe sordo, como si algún cadáver fugado de la tumba hubiese venido a golpear la hoja con sus puños pesados y blandos…
+
+Y he aquí que los dos interlocutores se estremecen… Pues es de verdad una especie de cadáver el que entra, antes de que se haya dicho «¡Adelante!». Es un hombre de una palidez terrosa. Sus ropas desgarradas están cubiertas de inmundicias, sus zapatos han caminado mucho tiempo sobre piedras. Abre unos ojos extraviados y se queda allí, en la puerta, tiritando como un pobre.
+
+Al principio, el señor Le Tellier retrocede. (Ese desconocido es espantoso). Luego, de repente, se lanza hacia el espectro diurno y lo toma en sus brazos con suavidad, con suavidad… Pues la cualidad más terrible del intruso lívido, enloquecido, tembloroso, sepulcral, es ser el señor Monbardeau… irreconocible.
+
+Su cuñado no tiene más que una idea: Marie-Thérèse está desde ayer en casa de su tío; algo le ha sucedido.
+
+—Mi hija… ¡Habla de una vez! ¡Habla!
+
+—¿Tu hija?… ¡No se trata de tu hija! —articula penosamente el doctor—. Son mis hijos, Henri y su mujer, Henri y Fabienne… *¡Han desaparecido!*
+
+El señor Le Tellier respira. El señor Monbardeau, desplomado en una silla, prosigue, llorando:
+
+—¡Desaparecidos!… Ayer. No queríamos decíroslo… Pero ahora ya no hay duda… ¡Qué noche!… Ayer por la mañana se fueron los dos de paseo… al Colombier…, ¡contentos! Habían dicho: «Quizá almorcemos allá arriba». Así que, claro, nadie se preocupó por su ausencia en el almuerzo… Y ya está, ya está… Pasó el día… A la cena, ¡nadie todavía! ¡Y sin noticias! Ni un mensajero que dijera: pierna rota, accidente, *et cætera*… ¡Nada! ¡Nada!… Era ya muy tarde cuando empecé a buscar… Tinieblas… Recorrí los pueblos. Pero la gente se asustaba, me tomaba por el sarvant, ¡se negaba a abrirme, los muy brutos!, y no contestaba… Recorrí los bosques. Grité como un loco, al azar, estúpidamente… Al alba volví a casa, con la esperanza de encontrarlos allí… ¡Pero no!… ¡Y Augustine en un estado!… Entonces me decidí a venir aquí… Temía espantar a las mujeres. Vine por la alquería para no encontrarlas en el parque. Me había parecido entrever a la señora Arquedouve y a Marie-Thérèse…
+
+—¿A Marie-Thérèse?… ¡Vamos, viejo amigo, serenémonos! No estás en tus cabales. ¡Hay que conservar la cabeza, voto a tal! Bien sabes que Marie-Thérèse está en tu casa desde hace veinticuatro horas. ¡Haz memoria, vamos! Almorzó con vosotros ayer por la mañana, y…
+
+—¿Almorzó? ¿Marie-Thérèse? ¿Ayer por la mañana?… ¡Nada de eso! No la hemos visto… Pero entonces… Pero…
+
+El señor Le Tellier siente que palidece de pies a cabeza. Mira, sin verlo, a Robert Collin, cuya cara es la de un ajusticiado. Y escucha aquel aire de opereta que Maxime sigue cantando… y que nunca más podrá soportar.
+
+—¡Han desaparecido los tres! —exclama el doctor.
+
+—¡Busquemos!… Hay que buscar enseguida. ¡Deprisa, deprisa!
+
+Y el señor Le Tellier tiene el aire de un insensato.
+
+—Sí —dice el señor Monbardeau—. Busquemos. Pero no como yo. Con método. ¡Yo he perdido el tiempo más precioso de mi existencia!
+
+—No nos pongamos nerviosos; tienes razón. Lógica, lógica.
+
+—¿Y si avisáramos al señor Maxime? —aventura Robert Collin—. Nunca seremos demasiados…
+
+—Eso es —dice el señor Le Tellier—. Además, ya no es hora de cantar.
+
+Van de sala en sala hasta la canción.
+
+En medio de sus colecciones y de sus acuarios, en la rotonda guarnecida de vitrinas y de cubetas, aparece Maxime. Canta, pero tiene las manos todas rojas y el mandil blanco ensangrentado. Acaba de arrancar la vejiga natatoria al pez que está ahí; ahora la diseca, y canta. Pero está tan rojo de sangre que, pese a su prisa y a su turbación, el señor Le Tellier da un paso atrás.
+
+—Papá… tío… ¿qué ocurre?
+
+El doctor lo cuenta: Marie-Thérèse, Henri y Fabienne han desaparecido. Hay que encontrarlos.
+
+Entonces Maxime y Robert se ponen de acuerdo. Solo ellos son capaces de razonar, lo sienten. Los dos padres no saben más que desconsolarse. No son hombres de acción, ¡y la pena les anega la inteligencia!
+
+Robert y Maxime resumen la situación. En suma, la tarea es doble. *Primo*, Henri y Fabienne partieron de Artemare; eso deja un rastro que hay que buscar. *Secundo*, Marie-Thérèse partió de Mirastel; eso deja otro camino. Dada la simultaneidad de las dos partidas, hay mucho que apostar a que nuestras dos pistas se unen y a que un mismo accidente causó las tres desapariciones. ¡No importa! Hay que desenredar sistemáticamente cada itinerario. Robert Collin, el doctor y el señor Le Tellier reconstruirán el trayecto de Henri y Fabienne; el automóvil del astrónomo los transportará. En cuanto a Maxime, se encarga de comunicar a su madre y a su abuela la siniestra noticia y de reconocer luego el camino seguido por Marie-Thérèse.
+
+El antiguo oficial de marina organiza fríamente las operaciones.
+
+Robert Collin apresura el embarque. Se sienta junto al chófer. El automóvil arranca.
+
+Postrado sobre el acolchado de cuero amarillo, el señor Le Tellier da miedo verlo. Se parece al señor Monbardeau como un hermano de sufrimiento. Los campesinos de Ameyzieu, que vuelven de misa, no han saludado a aquella figura cenicienta, endurecida, extraña.
+
+Sin embargo, delante de la oficina de correos de Artemare, el señor Le Tellier se galvaniza. Manda parar, se apea y desaparece en la oficina. Cinco minutos después sale. Le ayudan a subir de nuevo.
+
+—¡Adelante!
+
+La administradora de correos admira desde su ventana el cómodo doble faetón que huye veloz y furtivo, a toda rueda, y transmite el despacho que acaban de entregarle:
+
+->*(Pieza 105)*<-
+
+*Duque de Agnès,*
+
+*Avenue Montaigne, 40,*
+
+*París.*
+
+Marie-Thérèse desaparecida. Venga enseguida con profesionales acostumbrados a búsquedas.
+
+-->Jean Le Tellier.
