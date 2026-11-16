@@ -1048,8 +1048,6 @@ Al leer estas últimas palabras, el señor Le Tellier no pudo evitar una gran em
 
 ## XII. CONTINUACIÓN DEL DIARIO
 
-***
-
 La masa visible hacia la que me acarreaban por una rampa serpenteante, cuya pendiente inclinaba mi suelo y hacía gemir las ruedas bajo el esfuerzo de una energía más activa —la masa, la mácula, la bastilla—, no era una casa calada. No era una buena casa, sólida y visible, como las hay en la tierra. Pronto mis ojos, tan defectuosos, vieron que aquella masa se dispersaba en una cantidad de pequeñas masas distintas que, a la claridad cruda del cielo negro, me parecieron violentamente blancas y negras. Aquellas pequeñas masas se disponían escalonadas en franjas horizontales, como cosas colocadas sobre un estante invisible, como cosas y seres colocados en los pisos de una casa invisible…
 
 Y, forzosamente, era eso. ¡Tonto de mí por no haberlo adivinado desde el principio! ¡Era el depósito invisible de todo lo que los sarvants habían subido de la Tierra!
@@ -1074,11 +1072,7 @@ En el piso de los hombres, parada brusca. Deslizaron mi celda sobre el suelo del
 
 Buscaba a la señorita L. T. en su multitud dispersa… No reconocí a nadie en aquellas fisonomías de pesadilla… Allí no había más que víctimas, ciertamente. ¡Los sarvants tampoco eran visibles!…
 
-***
-
 Aquí sigo todavía.
-
-***
 
 Mi vecino es manifiestamente un joven inglés, lampiño, despavorido, vestido como para el golf. ¿Atrapado de viaje? ¿De excursión?… Él y yo estamos en la hilera de prisioneros que sigue la fachada, que parece constituir la fachada. Otra hilera, paralela. Luego otra. Y otras más. Debe de haber pasillos entre las hileras de celdas invisibles. La fila de la fachada terminaba en el inglés cuando llegué; la he alargado un cubo, yo, el último en llegar. A los primeros que llegaron los alinearon allá lejos, en la otra fachada… Eso me quita posibilidades de ver a la señorita L. T.
 
@@ -1104,13 +1098,9 @@ El sol se puso de golpe, pero el día había durado más que en la tierra, y yo 
 
 En el cielo, de un negro espantoso, las estrellas brillaban con un fulgor incomparable. El mar atmosférico relucía serenamente. Aquí y allá, por la Tierra oscura, unas manchas vaporosas, fosforescentes, revelaban el lugar de las grandes ciudades. Las válvulas chasqueaban en un silencio de sepulcro. Mi valor flaqueó. Tuve miedo de aquellas gentes desconocidas y formidables que me habían capturado, miedo del lugar de espanto. Me avergonzaba no ser ya más que un número de colección, un artículo sin duda etiquetado… Las hermosas estrellas ya no se me aparecían como oasis de claridad en el desierto de la tiniebla… Me abatió un cansancio sin nombre, y me dormí en el mundo invisible tras haber sentido un alivio singular al cerrar los ojos, es decir, al dejar de ver por fin que no se podía ver nada.
 
-***
-
 Creí volverme loco al despertar, esta mañana del 4 de julio.
 
 ¡Ah, mis pobres compañeros de miseria, a los rayos de esta aurora tan baja, en esta luz de ultramuerte!… La Tierra era una extensión verdosa, toda removida y aborregada de nubes; de vez en cuando, los Alpes lanzaban un fuego blanco. ¡Pero el aerario!, ¡con sus reclusos en todas las posturas de la miseria, de la desesperación y de la enfermedad!, ¡sostenidos en el aire como por hilos invisibles!…
-
-***
 
 Durante la noche me habían devuelto mis gemelos y mi aparato fotográfico, seguramente para ver qué hacía con ellos. El aparato está roto; ¡lloraría!… Con los gemelos empecé a pasar revista a los hombres. Pero muchos me daban la espalda. No he reconocido a nadie. Junto a cada huésped del aerario —incluso junto a cada animal— habían deslizado durante la noche hojas de lechuga, zanahorias y un agua muy hermosa que adoptaba la forma interior de su recipiente invisible: un huevo aplastado por arriba y por abajo. Es un espectáculo curioso. Mi vecino devoraba su lechuga… Debajo de él, un perro pastor lamía su agua ovoidal…
 
@@ -1136,8 +1126,6 @@ Y unos instantes después, un gallo de oro ha bajado, contoneándose, del piso d
 
 Es bien evidente que allí se reparaban errores de clasificación, pero esto da extrañamente que pensar.
 
-***
-
 Las seis. Ha llegado un mono; un gran mono de la familia de los orangutanes. Escapado de una casa de fieras, con toda probabilidad, y sorprendido en el bosque por los sarvants. Lo han puesto cerca del campesino amoratado, con los hombres… Dentro de unos días lo bajarán, como a la estatua, al maniquí y al gallo. Pero ¿quiénes pueden ser esos individuos que se equivocan hasta ese punto?, ¿esos hombres tan ignorantes de la humanidad?, ¿tan diferentes de nosotros, tan evolucionados probablemente, que herborizan álamos, coleccionan guijarros y crían a sus hermanos de abajo?
 
 -->5 de julio.
@@ -1145,8 +1133,6 @@ Las seis. Ha llegado un mono; un gran mono de la familia de los orangutanes. Esc
 Ayer no pude seguir escribiendo: mis válvulas se detuvieron. Tuve que agotar mi reserva de oxígeno; pero me desmayé de todos modos, transido de frío, en un témpano cúbico. No recobré el conocimiento hasta la noche, durante la cual reflexioné.
 
 He aquí mis conclusiones:
-
-***
 
 No es una isla este suelo invisible que nos sostiene. No es una isla del mar atmosférico. Porque entonces sería una isla flotante, una especie de boya errante. Ahora bien, esto es fijo. Por tanto, tenemos que estar sobre un continente invisible que envuelve toda la Tierra dejando pasar la luz y el calor del sol: un continente de una sola pieza, como una delgada esfera hueca que englobara la Tierra y su atmósfera, sobre la cual descansa; un continente de una sola pieza, pero sin duda desgarrado, perforado por aberturas donde, a pesar de las leyes de la ciencia humana, el mar atmosférico de 50 kilómetros de profundidad está en contacto libre y directo con el vacío aireado, con el éter imperfecto de la segunda atmósfera.
 
@@ -1180,13 +1166,9 @@ Y si se considera que sus fechorías se cometen con más frecuencia de noche, se
 
 ¡Locos que somos, pobres seres sumergidos por el océano de gas, nosotros que nos creemos los amos de la Tierra! ¡No sospechamos que otra humanidad, más considerable que la nuestra, existe por encima de ella, ignorándonos, suponiéndonos apenas y atribuyéndonos el ingenio que nosotros atribuimos a los cangrejos! ¡Otra humanidad que se cree evidentemente la única reina del planeta! Otro pueblo, sobre un mundo exterior al nuestro y que los astrónomos de Marte o de Venus toman quizá por la verdadera Tierra, si nuestra atmósfera no es transparente para lo que les sirve de pupilas y si ven, por el contrario, lo que nuestras pupilas son impotentes para distinguir. Nosotros, los astrónomos terrestres, ¿no tomamos así durante mucho tiempo la fotosfera —la atmósfera deslumbrante del Sol— por la superficie misma del astro?
 
-***
-
 § Acaba de llegar un adolescente entre nosotros. Está al lado del mono. Lo hemos visto avanzar sin un movimiento, con esa extraordinaria progresión suspendida en la inmensidad. Una mujer de cierta edad se ha puesto a llorar y le ha tendido los brazos…
 
 § Maxime Le Tellier me ha reconocido. Me hace señas de lejos.
-
-***
 
 § Mi hipótesis del continente-balsa explica por qué los bólidos que no llegan siguiendo la dirección del radio terrestre rebotan siempre en algo que hasta ahora se creía que era el colchón atmosférico, y luego van a perderse en el infinito…
 
@@ -1201,3 +1183,319 @@ Pero había que contar con otros retrasos.
 Durante la lectura del cuaderno rojo, la concurrencia había engrosado con bomberos, guardias municipales, sabios, autoridades y sobre todo, por desgracia, obreros metalúrgicos que trabajaban por entonces en la parte trasera del Grand Palais (avenue d'Antin). Estos habían venido como curiosos y no habían entendido nada del diario, cuya primera parte ignoraban. Los buenos herreros se imaginaron —no se sabe cómo ni por qué— que había en la masa invisible prisioneros de su especie; y cuando chirrió el chirrido, uno de ellos, el compañero Virachol, llamado *Gargantúa* por su gigantismo y su obesidad, proclamó que era «sanguinario» «dejar a unos hombres ahí dentro». Y empuñaba una enorme palanca con la que quería reventar lo invisible.
 
 Sujetaron a Virachol. Pero cada vez que el chirrido volvía a empezar, Virachol volvía a empezar también. De tal modo que no podríamos reproducir todas las interrupciones que perturbaron el final de aquella lectura pública sin componer un galimatías indescifrable.
+
+## XIII. FIN DEL DIARIO
+
+-->6 de julio.
+
+Hacer llegar estas indicaciones a quien pueda salvarnos. Pero ¿por qué medio hacerlas llegar? ¿Por qué medio? ¿Evadirse? ¿Cómo? Y además sería la muerte espantosa… Aquí, en nuestras celdas, hace calor, se respira un aire suficientemente húmedo, y nuestro cuerpo soporta esa presión normal de 15.500 kilos que necesita. ¡¡Pero fuera!!… Hay que reconocer que son bastante fuertes estos sarvants para haber calculado todos los elementos indispensables para nuestra vida y haberlos reunido…
+
+§ Esta mañana había nuevos huéspedes de toda clase. Decididamente, es de noche cuando los sarvants prefieren operar. ¿Es por las razones expuestas más arriba o es solo porque saben que la oscuridad nos debilita?
+
+§ De vez en cuando hay gente que se precipita de cabeza contra los muros invisibles. Se les ve magullarse.
+
+§ Cuanto más reflexiono sobre lo que he encontrado acerca del mundo en el que estoy, más creo que tengo razón. He encontrado algo más: creo saber por qué el aerario contiene tantos representantes del género humano y, proporcionalmente, tan pocos de cada familia animal. Es que los sarvants se imaginan que el traje es un pelaje, y que ese pelaje marca tantas variedades en la especie como modalidades presenta él mismo. Un hecho lo corrobora: la gran cantidad y la gran diversidad, aquí, de animales de la misma raza pero de pieles o plumajes diferentes, como conejos, patos, etc… Los sarvants —aristócratas a su manera— creen que la levita es de otra casta que el blusón. Y esto da la razón al sistema que yo había adoptado: vestirme como uno de los desaparecidos para escapar del Peligro Azul. La señora Le Tellier solo fue desdeñada por los sarvants a causa de eso; bajo la glorieta, recordaron que ya poseían, de la clase *erguida* y de la subclase *de patas inferiores adherentes*, un ejemplar *de cuerpo negro y crin amarilla*; y la soltaron, en lugar de llevársela con Maxime y el ternero que acababan de confiscar en las cercanías…
+
+Podría concluirse que todos los sarvants se parecen y que van desnudos.
+
+§ Hace un rato, el inglés, mi vecino, ha sufrido un síncope. Ha dado todas las señales de un ser colocado bajo la campana de una máquina neumática; luego ha recobrado poco a poco el sentido. Pero las paredes de su celda no se han forrado de escarcha; por consiguiente, *la presión había disminuido sin que la temperatura bajara*. ¿Sería un experimento? No me gusta nada.
+
+«Celda», he escrito; habría que decir «loquera». Mi vecino está loco. ¡Y cuántos más!
+
+§ ¡Felicidad! ¡Felicidad! ¡Felicidad! Me parece haber visto, allá lejos, cierto vestido gris… Y no lejos de él he reconocido a Henri Monbardeau, aunque con trabajo. ¡En qué estado de delgadez!…
+
+-->7 de julio.
+
+Así pues, es siempre de noche cuando nos traen de comer, sin que podamos darnos cuenta. Es también de noche cuando limpian nuestras cabinas… Encontrado, al despertar, zanahorias y mi ración de agua.
+
+Registrando el aerario con mis gemelos, he descubierto en la planta baja la despensa —un montón de hortalizas robadas en los huertos de la Tierra— y luego la cisterna de agua muy pura, venida de un manantial del Colombier o quizá extraída gota a gota del mar atmosférico.
+
+§ ¡Qué horrible rebaño encerrado formamos!… Mil detalles inmundos… Casa de cristal donde no se puede uno aislar. Y además el miedo ha matado el pudor…
+
+§ Hacia las once, entre las franjas de humus, he visto algo como una pildorita que pronto ha desaparecido. No puede ser más que un globo.
+
+§ Al sacar mi revólver para examinarlo, ¡cuántas miradas suplicantes he visto implorarme!… Unos me tendían la frente como un blanco, otro se abría la camisa y me mostraba el lugar de su corazón… ¿Saben siquiera si las balas de mi browning llegarían hasta ellos?
+
+§ Los sarvants, ¿qué pueden ser?… Obsesionado con esta pregunta.
+
+§ A las tres y treinta, he vuelto a ver un globo evolucionando abajo. Dirigible. Debía de estar altísimo, porque lo veía bastante bien con mis gemelos. ¿Qué significa eso? ¿Habrán visto la mácula y los hombres se esfuerzan por acercarse a ella?
+
+§ Estas horas de ociosidad, al ruido arrullador de las válvulas, son desesperadamente largas. Me devano los sesos a propósito de los sarvants…
+
+¡Estos seres del vacío, donde ningún líquido es posible, no pueden tener sangre! ¡Estas gentes invisibles y secas!… Deben de ser más diferentes de nosotros los hombres que los habitantes de un planeta fantásticamente alejado de la Tierra pero que estuviera, como ella, dotado de atmósfera… La sustancia de este mundo invisible no debe de tener nada en común con la de nuestro mundo central… Los sarvants tienen un alma unida a un cuerpo que no está hecho de la vieja materia tradicional. Están formados de éter, o de electricidad, o de no sé qué, que sin duda está concentrado…
+
+¿Por qué no? ¡Nosotros, los hombres, nos creemos siempre dechados! ¡Siempre nos imaginamos que después de nosotros hay que retirar la escala de los seres! ¡Y pensamos conocerlo todo, preverlo todo, suponerlo todo!… Si una criatura estuviera hecha *de agua*, ¿podríamos verla *en el agua*? Pues bien, entonces, si una criatura estuviera hecha *de aire*, ¿la veríamos *en el aire*?… Seres del color del agua, del color del aire… Pero, bien mirado, ¡no sería sencillamente más que un fenómeno de mimetismo!… Por otra parte, puesto que es posible e incluso probable que existan planetas invisibles, este mundo se vuelve por eso mismo de lo más natural.
+
+Pero ¿cómo están conformados los sarvants? ¿Qué contornos presentarían a nuestros ojos al volverse visibles, ellos y sus vegetales, ellos y sus animales, ellos y todo este universo que parecen regir?… Por más que miro el humus del vivero para captar la huella de sus pasos, no veo nada. ¡Ah, cuántos progresos que realizar, pobres hombres, antes de poder subir aquí, vivir aquí, observar aquí!…
+
+Además, tengo que informar a la humanidad; tengo que desvelarle la existencia del mundo superaéreo… Y ahí ya no sé qué hacer.
+
+§ El vestido gris ya no se deja ver… El tiempo se arrastra indefinidamente… ¿Es que vamos a morir todos aquí?… ¿Mi sacrificio? ¿Inútil?…
+
+-->8 de julio.
+
+Ayer y hoy los pescadores invisibles no han traído más que animales.
+
+§ Siempre y siempre globos. «Un globo es una boya», decía Nadar. Nunca me había parecido tan cierto. ¡No pueden dar más que saltitos muy pequeños hacia nosotros! Pero ¿no prueba eso que se ha señalado el aerario?
+
+Mediodía. Ahora algunos animales están de dos en dos; los sarvants hacen experimentos de apareamiento. Han diferenciado los sexos, pero todavía se equivocan con las razas. Así, acaban de poner una zorra con un lobo, que se ha apresurado a zampársela. Los desdichados carnívoros están a régimen vegetariano, y al lobo no le ha disgustado aquel pequeño extra. ¡Eso ha debido de extrañar a los biólogos invisibles!
+
+Las dos. He visto a Floflo, el lulú de la señora Arquedouve. Parece encontrarse bien.
+
+Las tres. ¡Indignante! ¡Los Invisibles nos tratan como a los animales! ¡Hay ahora celdas habitadas por parejas humanas que han emparejado!… Los prisioneros así reunidos conversan tristemente, pero se ve bien que la facultad de poder hablar de su aflicción disminuye su amargura. Por desgracia, hay locos, y los sarvants me parecen incapaces de comprender la locura y los peligros que puede acarrear a quien se acerca a ella…
+
+§ Estos extraños matrimonios se multiplican. Es evidentemente el vestido y el pantalón lo que sirve de base a los doctos experimentadores para determinar lo femenino y lo masculino; ¡han emparejado a Maxime con un venerable cura de sotana! Maxime y el sacerdote conversan de un modo muy animado.
+
+Las cuatro y veinte. ¡Los sarvants han puesto a la señora Fabienne Monbardeau con Raflin, su antiguo enamorado! ¡Coincidencia inaudita!… El infortunado Raflin ha perdido la bata; de lo contrario, creo, lo habrían tomado por una señora. Está en calzoncillos y da miedo verlo, tan lúgubre y esquelético. No se ocupa de su compañera más que para intentar quitarle su ración de remolacha… Henri Monbardeau, que comparte la celda de una campesina, los mira como un hombre borracho…
+
+Yo sigo solo en mi cabina invisible… ¡Oh, vestidito gris entrevisto el otro día…! Sí, pero no soy el único que sigue soltero a la moda de los sarvants… Y además —¡terror!— hay locos… Y —¡oh, Dios mío!— está el gran mono…
+
+Las seis de la tarde. Acabo de ver un segundo el rostro de la señorita Suzanne Monbardeau. Cuando la reconocí, en lo más hondo de los grupos, buscaba el vestido gris.
+
+-->9 de julio.
+
+Vistos todavía muchos globos, minúsculos granos de mostacilla. ¿Para qué?
+
+Las tres y cuarto. Una de las válvulas de mi celda se hace más lenta. ¿Va a detenerse? ¿Experimento? Es de temer. Multitud de chirridos en la pared del lado del pasillo…
+
+*[A partir de este punto y hasta el final del cuaderno rojo, la letra de Robert Collin tiembla, ondula, balbucea y se vuelve en cada hoja más trabajosa y menos regular].*
+
+*[Una página cubierta de arabescos ilegibles].*
+
+-->10 de julio.
+
+Era un experimento de enrarecimiento. Me ha dejado un entumecimiento general que es casi una parálisis; no puedo tenerme en pie, y hace varias horas que intento escribir sin conseguirlo. ¡Con tal de que tenga fuerzas para hacer lo que debo hacer!
+
+§ El lobo que mató a la zorra ha muerto; lo han matado también, creo. ¿Talión? ¿Justicia?… Han retirado su cuerpo no sé adónde.
+
+Dos horas para escribir estas ocho líneas.
+
+-->11 de julio.
+
+Los sarvants han subido tierra toda la noche. Un cuadro más en la planta baja.
+
+-->12 de julio.
+
+Ya no tengo calma desde esta semiparálisis. Suciedad, aislamiento, angustia, impotencia. Egoísmo, salvo por Marie-Thérèse. Hastío, hastío. Nerviosismo. Y, sin embargo, yo he traído objetos útiles: estuche de aseo, gemelos ¡y este cuaderno bendito! Pero los demás: ¡nada! Me envidian cuando me ven cepillarme, escribir, observar la Tierra… ¡Oh, la buena y vieja Tierra!
+
+13. Pasada revista a las paredes de mi celda (con la angustia insoportable de ser espiado por algún guardián sin aspecto). Imposible rascar nada con el cuchillo; ningún polvo; como el vidrio. Comprobadas fácilmente las válvulas: en la parte baja de la pared, 2 orificios de tubos, y el otro encima, en triángulo; este para la salida del aire viciado, los otros para la llegada del aire puro; se nota el sentido de las corrientes. No comprendo este sistema. Las válvulas están bastante adentro de los tubos; apenas las rozo con la punta del dedo.
+
+14. Hoy, verdadera erupción de aeróstatos. Un esférico sube muy alto; me entretengo siguiéndolo en la franja libre que hay en el nadir y que me permite ver el Bugey.
+
+§ La noche ha interrumpido mi observación. Escribo a la luz de las estrellas, porque quiero anotar unos resplandores incomprensibles por debajo de nosotros… ¡Ah, fuegos artificiales! ¡14 de julio! ¡Fiesta nacional! ¡Nosotros aquí, en casa de los sarvants, y nuestros conciudadanos haciendo pirotecnia!
+
+-->15 de julio.
+
+Tenemos nuevos camaradas: 4 hombres arrebujados en pieles.
+
+Cerca de la estatua de Anglefort (el jardinero Watteau), una barquilla de globo, aparejos, una envoltura fláccida y desgarrada donde veo letras, un nombre medio oculto por un pliegue de la seda engomada: LE SYL… El *Sylvain*, probablemente.
+
+§ Ya no siento ninguna sorpresa al ver a la gente suspendida en el aire ni a las cosas andar solas. El cielo de tinta y sus astros excesivos, la corona degradada del mar aéreo, todo me es indiferente; la suerte de mis compañeros de encierro me da igual. Y, sin embargo, ¡qué horror de pesadilla, esta exposición de mis semejantes! Aquí he comprendido por qué los museos de cera siempre me han repugnado tanto: es que evocan la idea de un museo de hombres.
+
+§ Los propios animales parecen desesperados.
+
+-->17 de julio.
+
+Entre otros objetos, esta noche ha enriquecido el aerario con una rama de acacia. Pues bien, esa rama no deja de agitarse. Un cortaplumas invisible la incide, la hiende, la escudriña metódicamente desde la corteza hasta la médula.
+
+-->18 de julio.
+
+Ya no hay globos.
+
+§ Henri Monbardeau ha dejado la celda de la campesina por otra donde no puedo verlo. La mala suerte ha querido que, en todos estos cambios, la señorita Marie-Thérèse se quedara detrás de la masa de individuos. Los tratos que pueda sufrir me inquietan más que nunca.
+
+§ La he visto, creo. Esos cabellos rubios de reflejos plateados no pueden ser más que los suyos.
+
+§ Por los espacios vacíos entre los internos se puede reconstruir con bastante facilidad la arquitectura del aerario, los pasillos. Muy simétrica. Busco en vano para qué puede servir ese gran vacío en medio de la fachada, junto a mi cabina. ¿Son cabinas dejadas vacantes en cada piso? Y entonces, ¿por qué? ¿Es un entrante en la construcción? Y entonces, ¿para qué sirve? ¿Es una sala alta cuyo suelo sería el de la planta baja y el techo el del último piso? ¿Una sala (o unas salas) de conferencias?…
+
+§ Los sarvants cultivan. El cuadro de humus que añadieron el otro día es un campo de zanahorias (para nuestro uso, como es lógico).
+
+§ Los sarvants ya no se dejan engañar por nuestras ropas. Ved cómo: una loca se ha desnudado. Unos minutos después han desnudado a otras personas. ¡Ah, los desdichados! ¡Qué caras de espanto! Les han dejado vestirse de nuevo. Pero, en fin, ¿quién es ese «*les*»? Por ello han bajado al mono al piso de los animales; he visto muy bien que intentaban quitarle la piel… ¡Uf! Respiro.
+
+§ Esto es mejor todavía: a los 4 aeronautas del *Syl…*, que no se habían quitado sus pellizas, ¡también los han bajado un escalón! ¡Los sarvants ni siquiera se han tomado la molestia de ver si sus pieles de cabra y de foca eran amovibles! De entrada los han tomado por monos.
+
+-->20 de julio.
+
+Escribo cada vez con menos facilidad. ¡Este cuaderno, que debía ser tan completo! En fin, lo esencial quedará consignado en él.
+
+*[Nada los días 21, 22, 23, 24. Varias páginas llenas de cálculos, de croquis torpes y penosos. La palabra Marie-Thérèse escrita por todas partes, en todos los sentidos, y por lo demás tachada. Luego un dibujo que quiere representar, sin duda, a la muchacha].*
+
+-->25 de julio.
+
+Sé para qué son las salas vacías.
+
+-->26 de julio.
+
+Ayer temblaba todavía demasiado para escribir. ¡Es espantoso lo que he visto! He visto, muy cerca de mí, ahí, a un hombre desnudo, acostado a mi altura. Veía, impresa en su carne pálida y temblorosa, la marca roja de las ataduras invisibles que lo inmovilizaban. *¡Quieren saber cómo estamos hechos!* ¡Oh, esos tajos repentinos!, ¡esas heridas bruscas!, ¡esas apariciones de llagas que se abrían sin que se viera el instrumento del suplicio! ¡Y esa boca aullante! ¡Y toda la sangre! ¡Toda la sangre!… No he podido quedarme de frente; me he vuelto…
+
+Fue entonces cuando vi a todos los demás que miraban aquello, fascinados, con los ojos abiertos de horror… Pero, en su multitud petrificada, algo negro se movió.
+
+Era el viejo sacerdote de Maxime, que gesticulaba para atraer las miradas… Todo el mundo lo miró entonces. El sacerdote hacía grandes señales de la cruz… Agitaba unos brazos de bendición… La multitud de los prisioneros se arrodilló hacia él… Nuestros ojos ya no se apartaban de sus labios, que se movían con aire de elocuencia, que decían elocuencias, elocuencias que solo Maxime podía oír…
+
+El viejo sacerdote mantenía los brazos extendidos en forma de cruz viviente. Y se puso a girar sobre sí mismo, para que cada uno de nosotros pudiera contemplar el crucifijo, en lugar del espectáculo espantoso que sangraba a mi lado.
+
+Maxime estaba lívido a los pies del viejo cura. Y yo volvía a verlo en su laboratorio de Mirastel, cubierto de sangre, cubierto de la sangre de los animales *¡de los que quería saber cómo están hechos!*… ¡Ay, qué hacemos con las bestias! Caín, ¿qué has hecho de tu hermano?…
+
+§ Ese hombre al que despiezan vivo… *Vivo*, luego *en aire respirable*… ¡Luego los sarvants también están allí en aire respirable!… Luego tienen una especie de escafandras para entrar en el aire, como nosotros nos pondríamos escafandras para ir a viviseccionar a los peces en su elemento acuático…
+
+§ Ya no miro a mi lado.
+
+§ Los sarvants no pueden ser criaturas más grandes que nosotros. Las dimensiones de los pasillos y la altura de los pisos lo prueban.
+
+-->27 de julio.
+
+¡El desdichado! ¡El desdichado! ¡La espantosa tortura! *Han* continuado. *Continúan*…
+
+En el piso de abajo, han llevado al cerdo a la habitación vacía que está bajo el supliciado. Ha empezado a sufrir esos dolores sin igual que van a acrecentar la ciencia y el valor de los sarvants.
+
+Los chirridos hormiguean contra mi celda; se apiñan en masa para ver mejor la operación…
+
+-->28 de julio.
+
+Son pequeñas incisiones… pequeños golpes de pequeñas hojas… un trabajo minucioso, esmerado…
+
+§ Abajo del todo, una gran culebra está sufriendo… ¿Y después de ella, qué animal? ¿Y después del hombre, quién? ¿Qué mujer? ¡Oh, Dios mío, qué mujer! ¡Es para volverse loco!
+
+§ La sangre —esa sangre que ellos no poseen, ese líquido vital proscrito de su anatomía— parece intrigar a los sarvants. Reúnen todas las sangres derramadas en un mismo tarro invisible y, cosa curiosa, ya han encontrado un medio que les impide coagularse.
+
+§ Una ternera también —blanca— paga su deuda a la ciencia de los Invisibles. La columna de sangre sube en el tarro. El hombre sigue vivo.
+
+§ No es posible que los sarvants conozcan lo que es el sufrimiento tal como lo conocen los hombres. La serpiente está en trozos.
+
+§ Así pues, en su clasificación, la serpiente está abajo del todo y el pájaro arriba del todo. Han puesto en primer lugar a los que son capaces de acercarse más a ellos y con mayor facilidad. ¡Vamos! ¡No son mucho más inteligentes que nosotros! (¿No lo he dicho ya?).
+
+-->30 de julio.
+
+El hombre no ha muerto. La ternera blanca agoniza. En la sala de operaciones de los pájaros, un murciélago está moribundo. ¡Un murciélago con los pájaros!
+
+-->31 de julio.
+
+§ Ya no duermo: temo demasiadas cosas. Tengo siempre la mano sobre el revólver.
+
+§ Esta noche, bajo la luna que hacía brillar a lo lejos el anillo del mar atmosférico, he asistido a la retirada de los restos de la ternera. Los han dirigido al puerto aéreo y desde allí los han precipitado.
+
+§ El tarro de sangre es como un fuste de columna de rubí. A cada instante se sumergen en él cosas invisibles; hace una hora no dejaban de remover aquella mezcla con un agitador; mientras escribo, extraen de él frascos que se llevan (para estudiarlos). Veo alejarse en todas direcciones rojeces líquidas de formas variadas.
+
+§ Así pues, para los Invisibles somos crustáceos. Nos pescan y nos estudian como nosotros pescamos y estudiamos a estos. Pero ¿se detiene el paralelo en este parecido? Nosotros nos comemos los crustáceos… y cuando pienso en la langosta a la americana…
+
+-->1 de agosto.
+
+Hoy…
+
+§ Hace 16 días (desde la llegada del *Syl…*) que los sarvants no han hecho ninguna captura humana. Es plausible que las gentes del Bugey ya no salgan en absoluto, por una parte, y que, por otra, los sarvants hayan renunciado por completo a arriesgarse más allá del fondo de su mar.
+
+§ El hombre ha muerto. *¿A quién le toca?*
+
+§ ¿A quién le toca?
+
+-->2 de agosto.
+
+Prosigue la disección de los miembros del desdichado. Puede durar todavía algún tiempo.
+
+-->3 de agosto.
+
+Lo han arrojado esta mañana, en pleno día. Han arrojado sus restos al mar. Y han arrojado también toda la sangre, bajo el imperio de no sé qué idea inexplicable, supersticiosa quizá…
+
+-->4 de agosto.
+
+Un mes que estoy aquí, impotente para ver este mundo bañado de luz, prisionero de este mundo como de una extraña noche sin oscuridad, como en unas tinieblas deslumbrantes.
+
+§ Yo, que tanto he deseado ver a Marie-Thérèse más de cerca, ya no temo más que esto: ¡verla demasiado de cerca!
+
+§ Es una rabia: lo cortan todo, lo despedazan todo. Unas ramas se estremecen y pierden, una a una, sus hojas; luego se rompen y se dividen en mil recortes. Unas piedras se parten con aparente espontaneidad. Pájaros, mamíferos y también peces se cubren de chirlos. Pero la sala de operaciones de los hombres está vacía por el momento.
+
+§ Ya no lo está. Tiene que haber una Providencia; necesito darle las gracias: ¡no es Marie-Thérèse! Pero ya no quiero mirar hacia allí.
+
+-->6 de agosto.
+
+Raflin ha sucumbido. Lo habían vuelto a poner en una celda separada. Tengo la certeza de que murió durante un experimento de aire comprimido. Verdaderamente, la solidez de nuestras paredes es admirable para resistir semejantes presiones interiores. Solo el aire a la presión terrestre debería hacerlas estallar si nuestras cajas no fueran más sólidas que cajones acorazados. Ninguna presión equilibra en el exterior el empuje interno. Y además, ¿cómo diablos hacen para evitar el vaho que debería condensarse en la superficie de nuestros tabiques, exactamente como en los cristales de una habitación caldeada cuando fuera hace frío?… Misterio.
+
+-->7 de agosto.
+
+El cadáver de Raflin ha desaparecido, pero no lo he visto arrojar al mar. Tres mujeres y un hombre (mi vecino inglés) han muerto también, no sé por qué. He visto precipitar al inglés y a 2 de las mujeres. ¿Y la otra, dónde?
+
+-->8 de agosto.
+
+Es seguro que los cadáveres no les interesan. La vida los atrae por encima de todo. Arrojan a los difuntos con su ropa, sin preocuparse más de ellos. Sin embargo, cuando muere un animal, ignoro qué hacen con él. Animales vivos siguen llegando. Pero ya no hombres.
+
+-->10 de agosto.
+
+Nada nuevo; siempre los mismos horrores.
+
+§ He vuelto a ver la cabellera rubia, y más tarde he vuelto a ver el vestido gris. Uno u otro pertenece a Marie-Thérèse, sin duda, pero no los dos; no están en el mismo sitio. A menos que la hayan cambiado de celda entre mis dos observaciones. ¡Qué sola y triste debe de estar!
+
+-->11 de agosto.
+
+Acontecimiento: por primera vez han bajado a tierra a un prisionero. ¡Y es Maxime! ¿Con qué fin? Tenía aire de condenado cuando lo agarraron. Su zambullida fue vertiginosa. Era muy temprano.
+
+Las ocho de la tarde. Maxime no ha vuelto.
+
+§ Hay una mujer que no deja de reír… ¿Locura?
+
+-->12 de agosto.
+
+Maxime no ha vuelto. Y, sin embargo, esta noche los pescadores invisibles han traído animales. Así pues —como estoy seguro de que no hay más que un subaéreo, un solo aeróscafo—, es que dicho aeróscafo ha vuelto a subir sin Maxime. Ahora bien, si los sarvants lo han abandonado, es que ya no es más que uno de esos cadáveres que desdeñan. ¡Maxime muerto! ¿Qué ha pasado?
+
+-->13 de agosto.
+
+Esta mañana, ni animales, ni piedras, ni plantas, ni hombres. Eso no ha ocurrido nunca. ¿Qué pasa?
+
+§ El azar habría podido hacerme elegir a mí en lugar de Maxime, y entonces habría encontrado la manera de entregar el cuaderno a alguien. Aunque no lo hubieran descubierto más que sobre mi cuerpo inanimado…
+
+Las once. Nos han dado menos agua que de costumbre y la lechuga no estaba muy fresca.
+
+Las dos. ¡A fin de cuentas, me sacan de quicio estos sarvants! No saben de lo que soy capaz… Voy a pegarles… Voy a hacerles una mala jugada… Voy a…
+
+*[Estas tres últimas líneas, de una letra incoherente, están borradas; mal, puesto que todavía se pueden restituir. Siguen otras líneas más, estas completamente tachadas. Luego siete hojas arrancadas. Luego quince líneas cubiertas de rayas. Así pues, del 13 al 24, nada. Y por fin esto:]*
+
+-->24 de agosto.
+
+He suprimido todas las demencias que había escrito. Durante diez días se han dedicado a hacer conmigo los experimentos más crueles. Sin sacarme de mi celda, me han sometido a todas las presiones, a todas las depresiones, a todas las mezclas de gases. He pasado de la excitación más desenfrenada al abatimiento más postrado: he respirado aire sobreoxigenado, sobrenitrogenado. También me han metido protóxido de nitrógeno, de eso estoy seguro: durante una hora no he podido dejar de reír, y he comprendido por qué aquella mujer reía tanto el otro día. En un momento dado, recuerdo que quise reventar mi prisión con una bala de revólver —pero la bala se aplastó contra el muro invisible— y luego detener las válvulas con mi cuchillo. Por eso me han confiscado esas dos armas. Los chirridos no dejaban de oírse… ¡En fin, se acabó! ¡He salido de esta!… ¡Por suerte! ¡Y el cuaderno! ¡Me habrían arrojado al mar sin él!…
+
+Las hortalizas que nos dan están podridas y el agua que bebemos huele mal. El nivel de la cisterna baja. Relacionando estos hechos con el hecho de que no se ha capturado ninguna presa desde el 12, es fácil deducir que el barco de avituallamiento se ha perdido. El aeróscafo ha naufragado. No encuentro mejor explicación.
+
+-->25 de agosto.
+
+Me pregunto si no será una alucinación debida a algún nuevo experimento del que no me daba cuenta: abajo, a 20 metros de la fachada del aerario y a la altura de la planta baja, solo en el espacio e inmóvil como una estatua: ¡Raflin!… ¡El difunto Raflin, al que vi morir!… Pero ¿quién es esa mujer rígida que sale de debajo del vivero y avanza hacia Raflin?… ¡Oh, es una de las mujeres que murieron al mismo tiempo que él!… Ahí está, inmóvil junto a él… Y —no puede ser más que una ilusión, ¡sí, sí!— ¡y todos esos animales rígidos, inmóviles, que salen del mismo lugar, en procesión, y van a colocarse no lejos de la pareja, de la horrible pareja humana!… ¡Mis gemelos!… No, no es un espejismo de la fiebre. Son criaturas *disecadas*, rellenas de no sé qué cosa invisible. ¡Los sarvants han naturalizado un ejemplar de cada modelo terrestre! ¡Hay un taller de taxidermia en los sótanos del aerario!…
+
+*[Los días 26, 27, 28 y 29 de agosto, Robert Collin se abstuvo de consignar sus impresiones en el cuaderno rojo].*
+
+-->30 de agosto.
+
+Desde hace cuatro días siento que mi razón vacila. Por lo demás, apenas puedo sostener el lápiz. Si quiero que este diario sea razonable y sirva de algo, es hora de tomar una decisión.
+
+§ El agua es mejor, pero ya no es la misma. Los sarvants deben de obtenerla de otra manera. Las hortalizas, ahora, están bastante frescas, porque empiezan a cosechar las de la plantación.
+
+§ Muchos huecos entre los hombres.
+
+§ El aerario no es nada en abominación al lado de ese macabro museo de enfrente —al otro lado de la calle, ¿quién sabe?—, ese lúgubre museo de oceanografía aérea, anexo del Instituto donde estamos. ¡Con sus vitrinas invisibles, sus momias, se parece todavía más a algún salón de figuras de cera de feria! Aunque viviera mil años, toda mi vida volvería a ver a aquel hombre y a aquella mujer disecados…
+
+-->31 de agosto.
+
+Importa que mi diario —que contiene ya todas las indicaciones necesarias— llegue sin tardanza al señor Le Tellier o a algún otro capaz de sacarle partido. Si me viviseccionan, si siquiera me disecan, el cuaderno se perderá. Si me quedo, ídem. Si me asfixian antes de que haya tomado mis precauciones, ídem. Pero si muero en mi celda, con el cuaderno rojo bajo la ropa, me precipitarán tal cual. Es la única manera en que puedo ser útil a Marie-Thérèse.
+
+§ Ya no tengo cuchillo; no tengo nada que pueda servirme para bloquear las válvulas. Tengo, pues, que sujetarlas yo mismo.
+
+-->1 de septiembre.
+
+He vacilado cobardemente toda la noche. ¡Cómo! ¡Abandonaría aquí a Marie-Thérèse! ¡Y la abandonaría para siempre!… Es también una muerte espantosa… Está además ese paso por el vacío, que va a deformar mi pobre cuerpo…, y esa caída en la que no se puede pensar sin estremecerse, ¡ni siquiera para el propio cadáver!…
+
+¡Marie-Thérèse! ¡Si pudiera volver a ver una vez más, aunque solo fuera su cabellera rubia o el bajo de su vestido gris!… Pero hace mucho que no veo aquí a los que conozco. Los han devuelto a su sitio primitivo, detrás de esa muralla humana. No volveré a ver a Marie-Thérèse.
+
+-->2 de septiembre.
+
+Ataré el cuaderno bajo la camisa, bien sujeto con el cinturón.
+
+Las seis de la tarde. Ha habido demasiados chirridos. He tenido miedo de ser vigilado, detenido en mi tarea y puesto en la imposibilidad de volver a empezar.
+
+§ La escarcha se verá enseguida, desde el principio, puesto que el aire caliente dejará de llegar. Con tal de que los sarvants…
+
+-->3 de septiembre.
+
+No hay ningún chirrido. Los disecados, allá lejos, oscilan, giran. Es bien evidente que los manipulan. Es incluso posible que los estén inaugurando, porque los sarvants parecen haber abandonado el aerario. Los desdichados a los que atormentaban de cien maneras distintas tienen un respiro. Nuestros verdugos se han trasladado en masa a la galería de enfrente. Es la hora. Voy a tapar los tubos de las válvulas con la tela de mi ropa y a apretar con todo mi peso.
+
+No escribo despedidas; el tiempo apremia y no necesito enternecerme.
+
+Voy a atarme el cuaderno al pecho.
+
+*[Siguen sesenta y seis páginas en blanco].*
