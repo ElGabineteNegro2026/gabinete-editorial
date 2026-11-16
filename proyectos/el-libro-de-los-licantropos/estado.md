@@ -1,6 +1,6 @@
 # El libro de los licántropos — antología · Archivo Arcano vol. V (tapa dura)
 
-**Fase:** aprobado → texto (reunión de fuentes)
+**Fase:** EN PAUSA desde el 16-11-2026, por decisión del responsable: prioridad a *El peligro azul*. Antes, aprobado → texto (reunión de fuentes).
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba la antología como siguiente volumen de Archivo Arcano, con la selección propuesta en `candidatos/2026-11-16_el-libro-de-los-licantropos.md`.
