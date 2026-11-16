@@ -615,3 +615,143 @@ Esa carta no la reproduciremos. Es muy larga. El señor de Agnès comunica en el
 La salida se daría en pleno París, sobre la explanada de los Inválidos, donde también se efectuaría la llegada. (Esta medida tenía por objeto evitar los desplazamientos de una multitud nerviosa). Los dos competidores irían a doblar la catedral de Meaux y volverían sobre sí mismos, cubriendo ochenta y cinco kilómetros.
 
 El señor Le Tellier partió el 4 de septiembre a las diez y veintinueve de la noche, como la última vez.
+
+## VIII. EL CUADERNO ROJO
+
+Llegó el día de la carrera.
+
+Hacía buen tiempo. El señor Le Tellier se dio cuenta cuando la portera vino a abrir los postigos y a servirle el chocolate. (El digno sabio detesta los hoteles tanto como lo que él llama «andarse con aspavientos», y por eso se había alojado en su casa y sin ayuda de cámara).
+
+Hacía buen tiempo. El sol iluminaba el piso, despojado de sus cortinas y sus alfombras, con las arañas envueltas en fundas, los muebles cubiertos con forros y lleno de un olor a alcanfor, a vetiver y a pimienta. Los cristales estaban embadurnados de blanco de España, y en el salón unos sobres ocultaban las afamadas acuarelas: los Harpignies, los Filliard, los Le Main.
+
+Hacía buen tiempo. La carrera sería hermosa. Mientras se vestía, el señor Le Tellier repasó lo que habían convenido él y el duque de Agnès. El cañonazo de salida tronaría a las diez; a las nueve y media, un automóvil del duque estaría a la puerta del señor Le Tellier, lo llevaría a los Inválidos para asistir al primer acto de la prueba y luego iría enseguida a apostarse a la entrada de París, para que pudiera ver las peripecias de los últimos kilómetros. Una insignia especial serviría al coche de pase de preferencia.
+
+Hacía buen tiempo. Un barullo de pueblo en marcha subía del bulevar Saint-Germain, negro de gente que pasaba en el mismo sentido, de izquierda a derecha. A esa hora, todo el hormigueo de la capital debía de dirigirse hacia la línea del recorrido, cuyo trazado publicaban los periódicos.
+
+«¡Eh, se acerca el momento!», pensó el señor Le Tellier.
+
+Cogió su reloj, que iba en hora, para metérselo en el bolsillo del chaleco.
+
+«Las nueve y media en punto».
+
+Justo entonces sonó un timbrazo en la antesala, como para dar aquella media, a falta de los relojes parados.
+
+Sonriendo por la coincidencia, el señor Le Tellier fue a abrir él mismo… Y la sonrisa abandonó sus labios, de pronto descoloridos.
+
+El señor Monbardeau estaba allí, en traje de viaje, y le miraba con tristeza.
+
+—¿Qué ocurre ahora?… ¿Es grave?…
+
+—Tranquilízate. Todos los que dejaste en Mirastel están bien. Pero, en efecto…
+
+—Marie-Thérèse…
+
+—¡No, no!… ¡Robert ha muerto, mi pobre amigo!
+
+—¡¡Ah!!… Pero ¿cómo lo sabes?… ¿Y por qué dejar solos a Maxime, que está todavía tan enfermo, y a las mujeres?… ¿No podías escribirme o telegrafiarme?
+
+—Tenía mis razones, puedes creerlo… Escúchame:
+
+»Anteanoche —la noche de tu partida— me despertó un silbido de caída; y, como de costumbre, fui ayer por la mañana temprano en la dirección indicada. La señora Arquedouve me había dicho: «Esta noche ha caído un aerolito entre Aignoz y Talissieu». Allí está la marisma.
+
+»Al cabo de tres horas, ayudado por algunos hombres temerarios y sobre todo codiciosos, a quienes había prometido una buena propina, me fue dado encontrar…
+
+»Era en un lugar cenagoso en extremo; avanzábamos sobre tablas que había que levantar sin cesar detrás de nosotros y volver a echar delante… En el fondo de una especie de charca abierta por la violencia del choque, una masa informe se hundía lentamente en el fango. La desenterramos a costa de esfuerzos increíbles… Algo me decía que no debíamos ceder…
+
+»Vi enseguida que no había muerto de la caída, *sino mucho antes*. La conmoción no había triturado más que un cadáver… Murió asfixiado… asfixiado *sobre todo*. Tenía la cara hinchada, los labios gruesos y negros como toda la cara, los ojos extraordinariamente apagados, la boca llena de sangre coagulada. Me pareció ver también que había sufrido presiones diversas… Cuando ponemos animales en el vacío, como experimento, se vuelven como estaba Robert… Una breve autopsia me demostró que su cuerpo se había inflado, que se había abotargado, que la sangre había brotado de la epidermis como un sudor a chorros…, que, en cierto modo, había estallado… Algunos restos anatómicos llevaban ya marcas análogas, pero mucho menos acentuadas… No fue viviseccionado, no, no, ¡él no lo fue!
+
+—¡Qué abominación!… Pero eso no me dice por qué has venido.
+
+—He venido para cumplir su última voluntad.
+
+El señor Monbardeau sacó del bolsillo un cuaderno rojo con cierres de cobre que el astrónomo recordó haber visto en algún sitio.
+
+—He venido para entregarte este manuscrito. Robert lo llevaba bajo la ropa, atado con un cinturón sobre la piel. Lee lo que pone en la etiqueta.
+
+—«*Para entregar lo antes posible al señor Le Tellier, director del Observatorio. Si ha muerto: al doctor Monbardeau, de Artemare. Si ha muerto: al duque de Agnès. Si ha muerto: al jefe del Estado*».
+
+Al ver la letra de Robert Collin, el señor Le Tellier no pudo contener las lágrimas. Abría los cierres con una mano torpe a fuerza de impaciencia, y decía:
+
+—¡Querida, querida víctima de su abnegación! ¡Pobre muchacho!… ¡Ay! ¡Hace dos meses que se dejó raptar! Fue antes de todas esas historias de la mancha cuadrada, ¿verdad?… ¡Dos meses de cautiverio por amor a Marie-Thérèse!… ¡Ay, qué hermoso sueño había tenido! ¡Y pensar que ese sueño no se habría realizado!, ¡que Robert, sin duda, no habría llegado a ser lo que está reservado al duque llegar a ser… si alguna vez nos devuelven a mi hija!… Para él, ¿no es mejor estar muerto?…
+
+»Veamos qué me dice… ¡Eh! ¿Quién está ahí?
+
+—Disculpe, señor —dijo la portera, que acababa de entrar—, abajo hay unos *señores* que dicen que le están esperando.
+
+—¡Ah, el auto! ¡Es verdad!… Mira, Calixte, estoy absolutamente obligado a ir a esa carrera… Y ya voy con retraso… Toma: vas a venir conmigo. Te llevo. Leeremos el cuaderno por el camino. Ven como estás; ven… ¡Mi buen Robert! ¡Qué pérdida! ¡Qué pérdida!…
+
+Entre la multitud que deambulaba, un centenar de mirones formaba corro alrededor del automóvil. Aquel fastuoso cuatro plazas les intrigaba por ser tan largo y tan bajo, pintado de gris ratón como un torpedero, por ir montado por dos chóferes con librea caqui y brazalete con cinta tricolor, y por llevar a modo de faroles dos banderolas con los colores del Aéro-Club, organizador deportivo de la jornada.
+
+Los chóferes se quitaron la gorra. Uno de ellos entregó al señor Le Tellier el brazalete blanco de los comisarios oficiales.
+
+—Démonos prisa, señor —le dijo en tono respetuoso—; vamos a perdernos la salida, no hay vuelta de hoja.
+
+Pero el señor Le Tellier consideraba ahora que la carrera era secundaria y, mientras el coche arrancaba con un brío de 90 caballos conducido por un mercenario despiadado con los neumáticos, empezó a leer al señor Monbardeau lo que Robert había escrito para él, con un lápiz nítido y regular, al menos en las primeras páginas.
+
+Iba por la quinta línea cuando uno de los hombres de caqui se volvió:
+
+—Creo que no vale la pena ir hasta la explanada… No hay vuelta de hoja: un gentío loco… Nunca llegaríamos… Si el señor quiere, podríamos tomar por la Concordia y la rue Royale, y luego enfilar los grandes bulevares. Así *los* veremos pasar, y siempre será algo ganado para llegar antes a la salida de París… No hay vuelta de hoja.
+
+—Haga lo que quiera —dijo el astrónomo.
+
+Y reanudó la lectura interrumpida.
+
+## IX. EL DIARIO DE ROBERT COLLIN
+
+Tal como se va a leer el diario de Robert Collin, así lo leyó el señor Le Tellier al señor Monbardeau, en el automóvil del señor de Agnès, en medio del pueblo de París. Así pues, el astrónomo empezó de nuevo:
+
+-->4 de julio, a las tres de la tarde.
+
+Veinticuatro horas transcurridas desde mi rapto. Hasta ahora he tenido demasiadas cosas que observar para poder escribir. Pienso llevar un diario con lo que vea y hacerlo llegar a quien pueda servirse de mis informaciones para liberar a los prisioneros. ¡Hacerlo llegar! ¿Cómo? No lo sé…
+
+Fue, pues, ayer a las tres (ayer, miércoles 3 de julio) cuando me convertí en presa de los sarvants. Voluntariamente. Hacía ya tiempo que me exponía solo. Parecían no quererme. Por fin, ayer, cuando atravesaba el Forestel (un prado a medio camino del Grand-Colombier y de Virieu-le-Petit), oí que el proverbial zumbido se acercaba, que bajaba hacia mí.
+
+El chirrido de los saltamontes era tan fuerte como él. Parecía lejano. Miré hacia arriba, pero no vi nada. Mi corazón hacía más ruido que los sarvants y los saltamontes. El momento tan esperado me asustaba. Tenía ciertamente idea de algunas cosas, pero vaga. Sabía que iban a llevarme por el aire, muy alto (por eso iba vestido con las prendas más abrigadas que existen). Esperaba la impresión del bombeo o de la atracción que iba a elevarme hacia un globo u otro artefacto escondido en la lejanía, cuando me sentí atrapado brutalmente por detrás, por el torso, y levantado como por una garra gigantesca, dura, violenta.
+
+Gestos locos. Intento de volverme hacia el agresor. Trabajo perdido. Forcejeé. Mientras tanto, lo que me sujetaba tiró de mí hacia atrás, hacia sí, y me soltó. Solo que *no caí*. Había entre mis pies y el suelo un espacio de unos centímetros. Resonó un chasquido inexplicable. El zumbido cobró importancia y se complicó con otros sonidos, pero eso es todo lo que oía; ya ni saltamontes ni nada más. Entonces intenté huir, maldiciendo mi temeridad, loco de miedo. Pero al instante choqué con una resistencia, con una rigidez *sin aspecto*. Salté en sentido contrario: la misma muralla. Como si un hipnotizador me hubiera ordenado creer que siempre había un obstáculo delante de mí; como si el aire se hubiera solidificado a mi alrededor sin dejar de ser igual de transparente. Creí de verdad en una sugestión, sobre todo a causa de la levitación, que me recordaba experimentos de espiritismo tachados hasta entonces de fraude.
+
+Todo esto: un segundo.
+
+Luego, de repente, una fuerza incalculable venida de abajo —subida implacablemente desencadenada de no sé qué empuje que sentí actuar de golpe bajo mis suelas— me lanzó al aire. Se habría dicho que la tierra me arrojaba al cielo. Era una especie de bala de cañón proyectada…
+
+Y estaba *solo* en medio del espacio, subiendo en línea recta, deprisa, deprisa… Debajo, el prado del Forestel ya no era más que el centro mezquino de un círculo inmenso que se agrandaba sin cesar, y el Colombier parecía aplastarse al nivel de lo demás. A causa de mi rápida ascensión, el círculo —la Tierra— parecía un embudo móvil cuyos puntos se hubieran precipitado todos hacia el centro, aspirados por una ventosa central. Sensación de náusea por encima de aquella cubeta vertiginosa, atrozmente repugnante. El vértigo me paralizaba. Al principio había gesticulado como los hombres de Châtel para escaparme. Ahora el espanto del abismo me petrificaba: el miedo a caer de nuevo en él si la fuerza misteriosa llegaba a faltar.
+
+Me di cuenta de que estaba en la postura de quien está en cuclillas. ¿En cuclillas? ¿Sobre qué? Sobre una plataforma inmaterial y, sin embargo, sólida, inmaterial y, sin embargo, real, irreal y, no obstante, material; ¡una bandeja que no existía y que, sin embargo, sí, que vibraba! Imposible moverme para comprobarlo. El vértigo: armadura sin junturas. Quise consultar los instrumentos de que me había provisto, el barómetro entre otros; imposible.
+
+No obstante, logré razonar en mi inmovilidad. Conseguí escuchar. El zumbido perseveraba alrededor. Había también el ruido, el viento de mi ascensión: *sssssssssss…* Pero no sentía ningún soplo. Pensé entonces que estaba en una corriente de aire ascendente, en el seno de una columna vertical de viento artificial que me levantaba tan deprisa como ella misma brotaba hacia el cenit… Pero eso no explicaba el contacto sólido de mi punto de apoyo.
+
+En aquel momento aún tenía la convicción de que aquella ascensión no era más que la primera fase del viaje, de que iba a llegar pronto al artefacto donde estaba la bomba o el imán, y de que ese artefacto me llevaría a través del éter, sin duda a algún astro. Pues mi segunda intención siempre había sido que los sarvants eran los habitantes de algún planeta, ya que sus actuaciones siempre me habían parecido extraterrestres, maravillosas, como se dice. Por eso vigilaba hacia arriba la aparición de aquel artefacto, que no se mostraba.
+
+Y seguía elevándome. El disco de la Tierra comprendía una extensión inmensa de país, ya mucho menos rica en colores, y borrosa. El Mont Blanc formaba un resalte deslumbrante que se nivelaba cada vez más. Había rebasado con mucho su altura.
+
+«¡Cómo! —pensé—. ¡Estoy a más de 4.810 metros y no tengo frío!».
+
+Calculo en 6.000 metros la altitud a la que me encontraba. Puesto que la temperatura baja aproximadamente 1° cada 215 metros, debería haber estado cubierto de carámbanos; mi respiración debería haber formado un vapor espeso; debería haber tiritado; debería haber sufrido el mal de montaña, contra el que me había llevado un globo de oxígeno… Probablemente todo aquello iba a producirse… Observé mi aliento, que debía volverse fatigoso, acelerado, laborioso; mi corazón, que debía precipitar sus latidos. Acechaba la sensación de plenitud de los vasos, el latido de la carótida. Esperaba sangrar por la nariz de un momento a otro. La cabeza iba a dolerme, sin duda. Luchaba de antemano contra el embotamiento de los sentidos, la somnolencia, la postración moral. Me parecía sentir ya la sed característica, el deseo de bebidas frías: náuseas, lengua seca, eructos, dolores en las rodillas, en las piernas, como tras una larga caminata, agotamiento… Pero, salvo la náusea debida al vértigo, nada de eso. Ninguno de los síntomas que había estudiado cuidadosamente en los libros.
+
+Y, sin embargo, seguía subiendo, y tenía la certeza de que, si hubiera podido coger el termómetro y mirarlo, habría visto que marcaba unos 16 o 18° sobre cero. En suma, se estaba muy bien. ¡Y, sin embargo, estaba por lo menos a 9.000 metros!, ¡más alto que el Gaurisankar!, ¡allí donde el termómetro habría debido marcar 35° bajo cero!… Recordé con estupor que, sin la ayuda del oxígeno, ningún hombre había alcanzado aquellas regiones sin desmayarse. Berson y Süring llegaron a 10.500 metros, pero con respiradores de oxígeno. Y además, ¿no estaba yo ahora más alto? ¡Era un sueño! Había que comprobarlo…
+
+Hice un esfuerzo, que tuvo éxito, pues el vértigo disminuía con el alejamiento de la Tierra; y pude coger detrás de la espalda el globo de oxígeno, cuya boquilla mantuve cerca de mis labios por si había alarma. Luego, el termómetro: ¡+18° centígrados! Y el barómetro: ¡760 milímetros!, ¡exactamente la misma presión que en la superficie del suelo!, ¡la presión media de la tierra firme!… ¿Es que de verdad seguía en tierra?… Me creí idiota. ¡Mi estado de ánimo difería un tanto del estado heroico que me había vaticinado!
+
+Naturalmente, una página de este cuaderno representa un minuto.
+
+Escuché mejor. Me pareció percibir…, y percibí con bastante claridad, un dulce y pequeño chasquido doble que hacía, aterciopelado: «*clip clap, clip clap, clip clap*», y así sucesivamente. Como estaba solo —¡y qué soledad!—, atribuí aquel ruido a mí mismo. ¿No era un efecto de la altitud sobre mi fisiología?…
+
+Por medio de mi reloj, y pensando que seguía elevándome con la misma velocidad, hice aproximaciones de altura. Pronto tuve la seguridad de haber alcanzado los 30.000 metros, ¡el récord de los globos sonda no tripulados! Pero allí sentí la ilusión de estar inmóvil, porque el alejamiento continuo de la Tierra, demasiado lejana, ya no era sensible de una sola mirada. Al alzar los ojos, por ejemplo, vi que el cielo perdía su azul, que se oscurecía; y luego, de repente, por encima de mí, divisé a mi derecha —es decir, un poco al sur del punto hacia el que subía— una negrura que crecía a ojos vistas. Me pareció que caía, pero era yo quien subía hacia su fijeza.
+
+Iba a mirarla con mis gemelos; pero un malestar, de improviso, me lo impidió. Un zumbido de oídos batió un redoble de tambores incesantes. Me pareció que el «*clip clap*» acababa de detenerse bruscamente. Me invadió un gran frío; mis brazos y los músculos de mi cuello se anquilosaron (selectiva y progresivamente); sentí una dificultad increíble para respirar; mis ojos se velaron, y apenas pude comprobar que el termómetro había bajado, en una zambullida terrible, hacia los –22°, y que seguía bajando… Me fue imposible ir a buscar el barómetro en uno de mis bolsillos… No obstante, mis ojos desfallecientes creyeron discernir una forma que se afirmaba por todas partes, por todos los lados a la vez. Me pareció que el aire se oscurecía… Pero ¿no era una consecuencia de aquel comienzo de desvanecimiento?
+
+El instinto de conservación me hizo encontrar la boquilla de la vejiga llena de oxígeno; y entonces, inmediatamente, recobré el sentido. Toda debilidad se disipó.
+
+Estaba encerrado en un alto y vasto cilindro de hielo, una especie de torrecilla cerrada. Estaba en cuclillas en el fondo de un tarro de hielo cuyo espesor aumentaba continuamente y que atenuaba la luz cada vez más.
+
+Y nevaba dentro de aquel cilindro. Mi ropa estaba cubierta de escarcha; mi barba tenía estalactitas heladas; mi aliento se resolvía en granizo menudo. Parecía estar preso en una jarra de vidrio helado…
+
+De repente, el dulce «*clip clap*» se reanudó con un brío —¿diré despierto o incluso alegre?— como para recuperar el tiempo perdido. (Creo que era detrás de mi espalda). Aquel ruido encantado iba acompañado de una especie de corriente de calor y de sequedad. La temperatura volvió a subir; la luz volvió; el frasco refrigerante se fundía. Pronto no quedó de él más que una delgada lámina de hielo cilíndrica, y esa lámina —ese tubo— desapareció a su vez, como enjugada. Con ella se fue el último asomo de malestar, como enjugado también…
+
+Me encontré de nuevo solo en medio de la inmensidad, siempre subiendo. El espejismo había durado unos segundos. Sin embargo, el cielo era sensiblemente menos azul que antes, y el punto negro, muy agrandado, se había convertido en una mácula cuadrada.
+
+Fue entonces cuando quise coger de nuevo mis gemelos para observar aquella mácula. Pero recordé que, en los primeros instantes de mi desvanecimiento, se me habían escapado de las manos. Me sentía muy contrariado por ello cuando, para mi profundo estupor…
+
+Aquí el señor Le Tellier dejó de leer el cuaderno rojo. Un clamor incalculable había desviado su atención.
+
+El automóvil desembocaba en la plaza de la Ópera. El cañonazo acababa de anunciar la salida de la carrera y rodaba sobre París en ecos de entusiasmo y de gloria.
