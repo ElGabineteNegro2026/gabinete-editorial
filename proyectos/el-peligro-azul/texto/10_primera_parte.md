@@ -2831,3 +2831,263 @@ Haremos algo mejor que todo eso. Paciencia y buen ánimo.
 -->San Francisco, 6 de junio de 1912.
 
 Todo bien. Aún no alcanzado H[atkins]. Pero seguro M[arie] T[hérèse] con él. Pues sabido H. acompañado solo por hombres. Disfraz. Estratagema burda, prevista. Además, cálculos indiscutibles prueban M.-T. con H., así como los H[enri] M[onbardeau]. Hecho nuevo: evidentemente lo siguen por su voluntad. ¿Por qué? Misterio. Lo aclararé pronto. Partidos para Nagasaki. Embarco esta noche para Japón. Su precipitación sospechosa. Sus estúpidas historias sarvants llegadas hasta aquí. Hacen sonreír a San Francisco. Respetuosos saludos hermana. Tiburce.
+
+## XIX. LA GLORIETA TRÁGICA
+
+Se descubrió hacia las tres de la tarde, después del almuerzo.
+
+Era el 19 de junio. La señora Arquedouve y el señor Le Tellier habían ido en automóvil a casa del doctor Monbardeau; Robert Collin estaba en Lyon, haciendo unas compras que decía urgentes; y la señora Le Tellier guardaba Mirastel con su hijo.
+
+El estado nervioso de Maxime exigía todavía muchos cuidados; por lo demás, se negaba con una obstinación enfermiza a salir del recinto del parque. Al principio ni siquiera había querido salir del castillo, y ahora solo ante las instancias y las prescripciones de su tío consentía en tomar el aire y hacer ejercicio. Dos veces al día, a las diez y a las dos, caminaba del brazo de su madre y paseaba arriba y abajo bajo la glorieta de carpes. «Así —decía— se está al abrigo del sol». Pero la verdad es que se estaba al abrigo del sarvant, pues la bóveda de hojas ocultaba a los paseantes de toda mirada venida del cielo. Tantas precauciones podían parecer pueriles, puesto que ya no había nubes y puesto que, además, los paseos se hacían a plena claridad del mediodía y en un lugar superpoblado… Pero los que se burlaban de Maxime no habían visto la Asunción de la pequeña Jeantaz.
+
+Y he aquí, pues, que la señora Arquedouve y el señor Le Tellier volvían de Artemare, con la capota bajada por medida de prudencia, atravesando así el campo inanimado.
+
+Llegaban. El automóvil viró, franqueó el portal, se metió bajo la galería de verdor, umbrosa y moteada de sol, y se detuvo de repente, brutalmente, entre el chirrido de los frenos y el roce de las ruedas bloqueadas.
+
+—¡Eh! ¿Qué pasa? —dijo la señora Arquedouve, aferrada a la carrocería.
+
+Lanzado hacia delante por la brusquedad de la parada, el señor Le Tellier vio, en medio de la avenida, a dos metros del capó, desplomada en el suelo, a la señora Le Tellier, que clavaba en él unos ojos de demente… Parecía una pordiosera y una inocente. Despeinada, con el corpiño arrancado bajo los brazos, no se había movido ante el automóvil, y ante su marido tampoco se movía… Una vez levantada, sostenida por él y por el chófer, se quedó encorvada, tambaleante…
+
+El señor Le Tellier la llevó al coche.
+
+—Madre, es Luce —dijo—. Estaba ahí. No tiene nada, creo, pero está muy conmocionada…
+
+Por el sonido de su voz, que sin embargo procuraba dominar, la señora Arquedouve captó toda la gravedad del accidente. Por otra parte:
+
+—¿Quién es usted? —balbucía la señora Le Tellier—. ¿Sabe usted? Maxime… Ya no está. Ya no tengo hijos, ya no, ya no, ya no…
+
+Hasta la escalinata de Mirastel no tuvieron fuerzas para hablar. Estaban trastornados por aquel nuevo desastre y por su repercusión en el espíritu de la desdichada madre.
+
+El astrónomo mandó llamar al doctor y a la señora Monbardeau, y luego acostaron a la enferma.
+
+Pronto, de postrada que estaba, la señora Le Tellier pasó a una penosa sobreexcitación. Pronunció palabras sin ilación, hizo gestos incomprensibles y habló todo el rato de su hijo y de un *ternero* inexplicable. A cada instante se llevaba las manos a los costados del pecho o las lanzaba hacia delante, como para apartar un abrazo o protegerse de un ataque.
+
+—¡El ternero! El ternero que se desliza… —murmuraba—. ¡Ah! ¡No me apriete! ¡No me apriete! ¿Quién me aprieta? Pero ¿quién me aprieta? ¡Suélteme!… ¡Maxime, vete!… ¡Ah! ¡Aaaaah! ¡Hacia atrás! ¡Se va hacia atrás! ¡Y deprisa!… Aquí estamos a cubierto, sí, pequeño, bien a cubierto bajo la glorieta…… ¡Como Marie-Thérèse!… Está con ella, en el cielo. Es un ternero el que se lo ha llevado. No es un ángel, es un ternero.
+
+El señor Le Tellier, aturdido por semejante divagación y temiendo la turbación que debía de fomentar en el mismo cerebro que la engendraba, intentó darle al menos una apariencia de ilación racional. Hizo preguntas. Pero se habría dicho que la señora Le Tellier no las oía.
+
+¡Y bien sabe Dios, sin embargo, que el astrónomo habría querido saber algo! Pues aquel rapto bajo una glorieta, a plena luz del día, con un cielo sin nubes, en un parque de lo más concurrido, y además la salvación de la señora Le Tellier —aquella gracia concedida o aquel golpe fallido, tan contrarios a las costumbres de los sarvants— eran verdaderos fenómenos.
+
+—Veamos, Luce mía, ¿de qué ternero hablas?
+
+—Se ha ido… Se ha ido… —gemía la trastornada.
+
+—Dices que se deslizaba, ese ternero… ¿cómo?
+
+—¡Suélteme!
+
+—Sí: te agarraron con brutalidad… Tu blusa está desgarrada como por unos colmillos, a derecha e izquierda… Pero ya no hay nadie. Cálmate… No hagas siempre ese gesto, mi pequeña Luce; ya no hay sarvants.
+
+—¡Maxime! ¡Maxime!
+
+—Pues bien: ¿cómo se fue Maxime?… A través de las hojas de la bóveda, ¿verdad?, ¿como atraído hacia el cielo?… ¿El follaje impedía ver el globo dirigible?… ¿Cómo se fue Maxime?
+
+—¡Es un ternero!
+
+El señor Le Tellier retrocedió, asustado por el problema de la locura, alzado contra él por primera vez. ¡Ay! En el lecho de su mujer no había más que un pobre cuerpo sin alma, una mísera mitad de ser humano… Y el sabio contemplaba aquello desde el fondo de su pensamiento. Y se decía:
+
+«La ciencia no sabe adónde va el espíritu de los locos, como no sabe adónde van los prisioneros del sarvant. Son desapariciones atroces. Y, sin embargo, desde que los hombres tienen alma, aceptan, sin espanto ni blasfemia, que de vez en cuando alguna de esas almas sea robada por un ladrón inmaterial, como parece serlo el de mis hijos. Del mismo modo que cada día trae al Bugey nuevos raptos, cada día trae por el mundo el rapto de nuevas Psiques. ¿Dónde están todas?… Hay algunas que vuelven… ¿Dónde está la de Lucie?… ¿Dónde están Marie-Thérèse, Maxime, todos los demás?… ¿Y volverán?…».
+
+El doctor, que llegó entonces, calmó a su cuñada con alguna droga, y la señora Monbardeau se instaló junto a ella.
+
+Antes de sustituirla por la noche a la cabecera de la demente, el señor Le Tellier pudo conferenciar sobre el suceso con Robert Collin, que acababa de regresar trayendo de Lyon varios paquetes bien atados, sobre los que nadie pensó en sondearle.
+
+Completamente deshecho por aquella doble abominación, el secretario opinó:
+
+—Sería precioso sacarle a la señora Le Tellier algunas palabras significativas. A riesgo de cansarla un poco…, en interés de todos… habría que hacerlo. La suposición de una especie de imán, que usted emitía el otro día, no era mala; pero el lugar que ocupaban el señor Maxime y su madre, bajo la glorieta, vendría a revocarla. Eran invisibles para unas gentes situadas por encima…, unas gentes de cualquier naturaleza, me parece…, a menos que…
+
+—Seamos claros, Robert. Su proceder en todo esto sigue siendo reservado… No dudo ni un instante de la excelencia, de la pureza de sus especulaciones… Pero, en fin, ¿no *sabe* usted algo? ¿No ha *adivinado* algo?… Entonces, por piedad, dígamelo: ¿confirma o no el espantoso episodio de hoy sus hipótesis?…
+
+—No puedo declarar que las invalide. No toca en nada a la esencia de la cuestión, es decir, a la identificación de los sarvants, ¡que entreveo muy vagamente, créame! Pero, dado que mis conocimientos son todavía más vagos en lo que respecta al *procedimiento* del rapto, no me disgustaría adquirir indicaciones complementarias sobre ello…
+
+»En cuanto al conjunto de mis conjeturas… es tan nebuloso que me faltan términos lo bastante flotantes para exponerlo. Es tan temible, además, que no diré nada sino con certeza… Y, para estar seguro, habría que ir a ver. Y aun así estoy convencido de que semejante experiencia reservaría muchas sorpresas al más listo.
+
+»En todo caso, maestro, aunque sea en detrimento de su salud, procure obtener de la señora Le Tellier alguna frase precisa.
+
+—Tanto empeño pone usted… Preguntaré a Monbardeau si no es una crueldad superflua. Ahora descansa.
+
+—Sea mañana —concedió Robert.
+
+Pero antes de la aurora ya sabía a qué atenerse.
+
+El señor Le Tellier vela a su mujer.
+
+A los resplandores atenuados de una mariposa de aceite, el astrónomo observa el mal sueño que sacude a la enferma con descargas nerviosas.
+
+Dan las dos.
+
+Se da la vuelta, gime, emite sonidos inarticulados, balbucea esas larvas de palabras tan lúgubres que son los soliloquios de la pesadilla… Sus párpados acaban de abrirse sobre unas pupilas dormidas… Quiere levantarse, y hela aquí, despavorida y temblorosa, que se incorpora, y que, sin embargo, duerme.
+
+El señor Le Tellier se apresura. Quiere acostarla de nuevo, hacerle beber una cucharada de poción. Ella lo mira y lo interpela:
+
+—¡Maxime!
+
+—Amiga mía, vamos… ¡Soy yo, Jean!
+
+—Maxime, ¿vienes a pasear bajo la glorieta?
+
+—Acuéstate, duerme, Lucette querida. Es la hora; es de noche…
+
+—Es la hora de tu paseo, sí, Maxime: acaban de dar las dos. Estaremos bien a la sombra. Dame el brazo y juguemos en el bosque mientras el lobo no está… ¡Ah, ah, el lobo no! Mientras tu abuela y tu padre están en Artemare.
+
+Ha cogido el brazo de su marido. Sigue queriendo levantarse…
+
+Pese al sufrimiento absoluto que siente, el señor Le Tellier aprovechará la odiosa ocasión que se le ofrece para saber. Pero no está dispuesto a que la sonámbula sufra lo más mínimo.
+
+Ella sigue queriendo levantarse…
+
+Entonces una inspiración hace decir al desdichado, cuya voz se ahoga:
+
+—… Mamá… Soy yo: Maxime. Y estamos bajo la glorieta…
+
+Ahora no queda más que escuchar bien.
+
+—Qué agradable es caminar —dice la durmiente moviendo las piernas bajo las sábanas—. Ya estamos al final de la alameda, cerca de la verja. Volvamos atrás. Media vuelta… Mira, Maxime, qué bonita es esta nave toda verde, tan fresca y tan amplia, con, al fondo, ese claro deslumbrante, ese pórtico «loco de claridad»… Sí, es verdad, tienes razón, «túnel» es más exacto que «nave». La glorieta tiene las dimensiones y la sombra de un túnel… ¡Ah! ¿Qué es eso que viene, en el extremo, en el sol, hacia nosotros?… ¿Un ternero? ¿Dices que es un ternero? ¡Ay, qué deprisa va! Pero, Maxime, sus patas no se mueven… En efecto: no se apoya en la tierra… Se desliza en el aire… ¡Oh! ¡Pero se nos viene encima a toda carrera, ese ternero!… ¿Que no hay que tener miedo? Dices eso y estás blanco como el papel… ¡Ya está aquí! ¡Nos embiste! ¡Sin moverse! ¡Es espantoso! ¡Aaaaaaaaah! ¡Suélteme! ¡Maxime! Me sujetan… por detrás…, me aprietan… ¡Ah! Me han soltado… ¿Qué te pasa? ¿Qué tienes?… ¡Es ese ternero, ese ternero inmóvil!… ¡Ooooh! ¡No grites! ¿Por qué esos movimientos desordenados? No, no, no grites, pequeño mío, pequeño mío… Por fin ya no gritas. Por fin. Gracias… ¿Por qué te agarras a ese animal?… ¡Aaaaah! ¡Se lo lleva!… El ternero… huye… hacia atrás… bajo la glorieta… ¡Paren!… ¡Párenlo!… ¡Maxime, pero grita! ¡Grita! ¡Llama!… Nada… ¡Ah! En el sol, allá, se da la vuelta… ¡Llama! ¡Llama!… Desaparecido… Como Marie-Thérèse……
+
+»…… ¿Quién es usted? ¿Sabe usted? Maxime… Ya no está. Ya no tengo hijos, ya no, ya no, ya no…… ¡El ternero! El ternero que se desliza…
+
+La señora Le Tellier se agita desesperadamente. Al ruido que hace, su hermana y el médico, a quienes se ha retenido en Mirastel, acuden a toda prisa. El señor Le Tellier les deja la guardia de aquella lamentable criatura delirante que ya no sabe más que rechazar fantasmas, que ahora revive a retazos deshilvanados la escena espantosa, y, sin perder un segundo, va a ver a Robert.
+
+Para no sorprenderse de encontrarlo levantado todavía a semejante hora, mientras el alba se filtraba por las aberturas, era preciso, en verdad, que el señor Le Tellier estuviera sumido en las últimas profundidades de su genio. En el momento apenas notó que su secretario cerraba precipitadamente el armario de luna, que aquel armario estaba lleno de objetos que le daban aspecto de escaparate de óptico y que la alfombra de la habitación desaparecía bajo una profusión de papeles recién desatados.
+
+Robert se volvió hacia él con aire apurado. Por disimular, acariciaba un grueso cuaderno rojo con cierres de cobre, completamente nuevo.
+
+Pero ya el señor Le Tellier contaba cómo su mujer acababa de representar el rapto.
+
+El hombrecillo enclenque le escuchó hasta el final sin decir palabra, y luego se recogió durante unos minutos.
+
+—¡Cuántas cosas incomprensibles! —dijo por fin—. ¡Lo cierto es que los sarvants ya no se cortan! ¡A las dos de la tarde! ¡Qué descaro!… Los criados debieron de oír…
+
+—Dicen que no. Pero yo tengo la convicción de que mienten. El miedo los habrá petrificado cuando su deber era ir en auxilio de mi mujer, que gritaba. Eso es lo que se niegan a confesar, y por eso niegan haber oído nada en absoluto. Nunca sabremos nada por ese lado.
+
+Robert Collin reflexionó de nuevo y preguntó:
+
+—¿No había nadie en los campos que pudiera documentarnos sobre el estado del cielo en aquel preciso momento?
+
+—Nadie. Al volver de Artemare me llamó la atención el espectáculo extraordinario de la carretera desierta y de los cultivos vacíos. Estábamos solos fuera. Pero la señora Arquedouve ya no tiene ojos, y la capota, tendida como un dosel, tapaba por completo la vista del cielo, tanto al chófer como a mí.
+
+—Bien; es una lástima. ¡Ah! ¿Qué vestido llevaba la señora Le Tellier?
+
+—Un vestido negro, muy sencillo, liso —respondió el astrónomo, algo desconcertado.
+
+—¿Sin sombrero?
+
+—No.
+
+El secretario sacó su libreta, la consultó y dijo:
+
+—Maestro, todo se aclara en lo que concierne a la anormal liberación de la señora Le Tellier. Tiene el pelo teñido con alheña, iba vestida de luto; sus señas son, pues, las mismas que las de la señorita Charras, raptada el 11 de junio en Champagne, la cual es de un rubio rojizo y acababa de perder a su madre.
+
+—¿Qué quiere decir con sus señas?… ¡Por el amor de Dios, cuénteme lo que sabe! ¡Todos estos embrollos!… ¡Ese ternero que se lleva a mi hijo!… ¡Yo también voy a perder el juicio!
+
+—Pues bien —empezó Robert, compasivo—, supongo que… ¡Y no, mire; de verdad, no puedo! Póngase en mi lugar: no hago más que suponer, y suponer vaguedades… Ya se lo he dicho, maestro: no hablaré hasta el momento en que tenga todas las certezas… Pero entonces —es más que probable— otras consideraciones sobrevenidas me impedirán hablar…, aunque solo sea el miedo a sembrar el miedo…
+
+«¿El miedo a sembrar el miedo?… —se decía el señor Le Tellier—. ¿Las señas de Lucie conformes con las de la señorita… Fulana?… ¡Caramba, demonios, qué discurso tan superlativamente incoherente!… ¿Será por ventura…? ¡Vaya, vaya, vaya!… ¿Y todo ese arsenal que he visto en el armario?… ¿Y esos arreglos a las tres de la mañana?… ¡Diablos, diablos! ¿Es que él también está perdiendo la chaveta?…».
+
+Abandonó el lugar con esta reflexión desagradable. Y debemos reconocer que los actos de Robert habían de afianzarle cada día un poco más, con toda razón, en la idea de que estaba perdiendo el juicio.
+
+## XX. DEMENCIAS
+
+Dos días después, el doctor Monbardeau —cuya valía médica goza de justa fama— certificó que la curación de su cuñada era cuestión de tiempo y de paciencia. La señora Monbardeau vino una vez más a vivir en Mirastel en calidad de enfermera; y aunque la señora Le Tellier se mostraba sensible en exceso; aunque la menor sorpresa la electrizaba; aunque no podían transcurrir cinco minutos sin que hiciera el gesto maniático de rechazar a alguien o sin que hablase del ternero inexplicable, una mejoría débil pero evidente justificó el pronóstico del médico.
+
+Era una suerte inaudita; la conmoción cerebral había sido de la última violencia. Se tuvo una prueba más cuando, al crecerle un poco el pelo a la enferma, se advirtió que le crecía blanco. Toda la cabellera debía de haber encanecido, pero hasta entonces el tinte había impedido notarlo.
+
+Para acelerar la convalecencia de la afligida habría sido necesario también que tomara el aire. Pero, aun admitiendo que se hubiera prestado a ello, nadie lo habría permitido durante aquellos días detestables. Pues desde el rapto de Maxime, perpetrado con una audacia, un cinismo y una presteza nunca vistos hasta entonces, las gentes del Bugey ya no se aventuraban a cielo abierto sino con infinitas precauciones. El propio señor Le Tellier se oponía a que los suyos salieran. Sufría entonces una segunda depresión moral y se abandonaba a interminables cavilaciones, menos ocupado en penetrar el misterio que en contemplar su aflicción. Una vez que la señora Arquedouve le preguntó si había encontrado algo, respondió:
+
+—He encontrado que siempre deberíamos amar a nuestros allegados como si estuvieran destinados a morir dentro de un rato.
+
+Las extravagancias de Robert iban a acabar de abrumarle.
+
+Este daba muestras indiscutibles de enajenación mental. Por entonces el miedo había trastornado ya muchos cerebros. ¿Habría echado a perder aquella espléndida inteligencia un terror contenido y disimulado?… Se habría dicho que sí.
+
+Su demencia había empezado con una explosión de alegría, un aire de jovialidad constante y singularmente fuera de lugar. Después se le vio sepultarse en sombríos recogimientos. Bajo la acción de una idea fija, hizo otra escapada, no ya a Lyon sino a Ginebra, y volvió de Suiza, en uno de los días más ardientes de 1912, llevando al brazo una pesada pelliza de pieles.
+
+A partir de entonces, nada pudo impedirle escaparse todas las mañanas para dar largos paseos alarmantes que lo exponían fuera hasta la noche. Volvía a las siete en punto; pero, nada más cenar, el monomaníaco desaparecía de nuevo; luego, al día siguiente, volvía a irse…
+
+¡Y con qué atuendo! ¡Tan burlesco como el mismísimo Tiburce! Vestido con un traje de excursionista de cheviot, extremadamente caluroso, con polainas de cuero grueso hasta las rodillas, servía de soporte a toda clase de artículos de viaje (sección de exploradores). Un cuchillo de caza le golpeaba el costado. Una funda de revólver le imponía un cinturón y un tahalí de vaqueta charolada. Sobre su pecho, las correas de una cantimplora y de una bolsa cruzaban en bandolera las de una Kodak y unos imponentes prismáticos. A la espalda llevaba una mochila de caminante, de lona verde, abultada de objetos misteriosos, y, colgada de esa mochila, una pequeña almohada de caucho de lo más intrigante. Un gorro de nutria le cubría con su estufa peluda; y la pelliza de pieles solo abandonaba su brazo derecho para ir a calentarle el izquierdo.
+
+Así pertrechado, el lastimoso alfeñique salía de Mirastel y, vestido como para una expedición polar, recorría a grandes zancadas los caminos polvorientos bajo un sol capaz de secar el océano.
+
+Aquellas carreteras ya no tenían peones camineros. Robert pisaba sin tregua su firme abollado, sin encontrar en él más que raros coches cuidadosamente cerrados y algunos automóviles con prisa por estar en otra parte. A veces tenía que saltar por encima de arroyos de hormigas que atravesaban el macadán de la República; y a veces tenía que rodear piedras desprendidas, caídas de la montaña, que se dejaban en medio del camino.
+
+Le ocurría también, y muy a menudo, subir al Colombier y vagar por él como alma en pena, como un poeta paseante, amante de los bosques y las cumbres. Parecía preocupado únicamente por admirar los paisajes; su mirada iba de uno a otro con una celeridad notable; ninguna de las bellezas de la hora y del lugar se le escapaba. El Colombier había sido el monte de la nieve y luego de los narcisos; pronto sería el monte de las frambuesas; era por entonces el de los saltamontes, y los pasos de Robert desencadenaban sus saltos estridentes, como otros tantos arcos fugitivos, aquí y allá, rojo este, malva aquel. Pero el singular paseante no amaba aquella estridulación zumbadora que cubre los prados con una alfombra de música; y a cada instante profería:
+
+—¡Eh, Dios mío! ¡No son más que los saltamontes! ¡Mala peste a los saltamontes! ¡Malditos saltamontes!
+
+O algún otro monólogo de ese estilo.
+
+Impenetrable y sereno, puntual y sonriente, entraba al segundo toque de campana en el comedor del castillo. En la mesa no respondía nada a las reconvenciones y parecía muy contento de sus calaveradas y sus caprichos. Ya no se le veía más que en la cena.
+
+El señor Le Tellier advirtió que también se escapaba durante la noche. Entonces quiso encerrarlo. Pero el otro le advirtió respetuosamente que, a la primera reincidencia, se escaparía para no volver. El señor Le Tellier cedió. El pobre hombre llegaba a dudar de su propio juicio; ya no sabía, de él y de Robert, cuál era el razonable, ni si el deber no ordenaba patrullar sin cesar en busca del sarvant, aunque fuera al azar y locamente, con mil excentricidades ridículas, lamentables y teatrales; en una palabra: tiburcianas.
+
+El astrónomo tuvo que limitarse a estremecerse durante las ausencias de su secretario. ¡Y cuánto más se habría estremecido de haber sabido que Robert poseía el medio de engañar a los sarvants mediante cierta semejanza de atuendo, y que, sin embargo, su traje de ópera cómica no presentaba analogía alguna con ninguno de los que habría sido astuto imitar!
+
+Cada vez que Robert se alejaba, el señor Le Tellier se preguntaba si sería aquella noche cuando no volvería…
+
+Y las noches tardaban en volver. Pero volvían de todos modos… y volvía también Robert.
+
+Sin embargo, el miércoles 3 de julio, a las siete, empezaron la sopa sin él.
+
+Su sitio hacía un vacío dramático entre la ciega y la loca.
+
+El señor Le Tellier, el doctor y su mujer se miraban, taciturnos, cuando el mayordomo entregó al astrónomo una carta que no llevaba sello.
+
+El señor Le Tellier frunció el ceño y se puso muy pálido.
+
+—¡La letra de Robert! ¡Vaya!… —dijo con voz estrangulada—. Veamos:
+
+»“Mi querido maestro: no me espere para cenar. He ido a casa de los sarvants. Cueste lo que cueste, le daré noticias de su hija. Cuente conmigo. Robert Collin”.
+
+»¡El desdichado! ¡Se ha dejado raptar!
+
+Y, dirigiéndose al mayordomo:
+
+—¿Quién le ha dado esta carta?
+
+—El señor Collin, señor; hace ocho días. Me dijo así que la primera vez que se retrasara para cenar, aunque solo fuera un segundo, había que entregar esto al señor.
+
+La carta palpitaba entre los dedos del señor Le Tellier:
+
+—¡Se ha dejado raptar!… ¡Voluntariamente!
+
+Con una seña, la señora Monbardeau le recomendó silencio: la señora Le Tellier empezaba a exaltarse.
+
+—¡No estaba loco! —prosiguió él sin prestar atención.
+
+—Entonces —se informó el señor Monbardeau—, ¿esa pelliza? ¿Esas pieles?
+
+—Quizá crea que los sarvants tienen su refugio en los glaciares… —aventuró la señora Arquedouve.
+
+—Sin duda —dijo el señor Le Tellier, pensativo—. Los sarvants…
+
+La visionaria se había levantado de un salto.
+
+—¡Los sarvants! —exclamó—. ¡Oooooh! ¿Quién me aprieta?… ¡Maxime!…
+
+Apartaba con horror el recuerdo de las manos que la habían agarrado bajo la glorieta. Crispaba las suyas en los lugares que el abrazo había magullado a través de la tela desgarrada…
+
+—¡Ahí está! ¿Qué le decía yo? —reprochó la señora Monbardeau—. ¡Cállese de una vez, Jean!
+
+Pero el señor Le Tellier, al ver a su mujer reproducir infatigablemente la refriega del 19 de junio, se repetía estremecido que Robert había corrido, por sí mismo, al peligro sin igual… ¡Ah, el valiente! ¡El héroe! Se había arrojado, con el corazón alegre, al encuentro del formidable misterio ganchudo; ¡y durante días y noches había tenido el valor sobrehumano de persistir en su heroísmo y esperar *pacientemente* el ataque infernal!
+
+—No tiene familia, ¿verdad? —se informó el doctor.
+
+—No —dijo el señor Le Tellier con lágrimas en los ojos—, no tenía más que la nuestra. O, mejor dicho, no tenía más que un sueño… ¡Ay! ¡Ya hablo de él en pasado!…
+
+***
+
+Dos días después —pues los carteros del Bugey estaban en huelga desde el advenimiento de los Ogros—, los dos cuñados habían ido en automóvil a recoger el correo a la oficina de Artemare.
+
+El señor Le Tellier desplegó *Le Nouvelliste de Lyon*, dirigido a la señora Arquedouve, y leyó lo que sigue:
+
+->*(Pieza 417)*<-
+
+«… Unos miembros del Club Alpino que ayer realizaban la ascensión del Mont Blanc han observado, en el flanco de una pared de nieve, un largo surco que parece debido al roce de un cuerpo cilíndrico enorme y resistente. Se diría, afirman, que un aeróstato automóvil de armazón metálico, del tipo *Zeppelin*, pasó por aquel lugar rozando la pared en cuestión.
+
+»¿Será el rastro de los famosos sarvants?… ¿Será la huella del dirigible misterioso dos veces observado por el infortunado Maxime Le Tellier?… Está permitido suponerlo».
+
+—Ya está: viven por allí, Jean —dijo el doctor.
+
+—Pero, Calixte, ¿cómo diablos lo adivinó Robert?
+
+—¡Espero que movilicen las tropas alpinas y registren las grietas!… ¡No se hace nada por nosotros!… ¡Qué asqueroso ministerio!
