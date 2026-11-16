@@ -2493,3 +2493,341 @@ Maxime, llevando aparte a su padre y a Robert Collin, les refirió la visión qu
 Aquella noche, los dos guardianes del faro de la torre, entristecidos por no saber nada, meditaron largamente sobre la ciencia y sobre la ignorancia…
 
 Y la luna llena, en lo más alto de su arco, les pareció el orificio soleado de un pozo de Babel, en cuyo fondo los hombres se agitan confusamente.
+
+## XVI. OTRA VEZ EL DIRIGIBLE
+
+—¡Adelante!… ¡Ah, es usted, Robert! ¡Hola!
+
+—Buenos días, señor Maxime.
+
+—¡Su señoría en mi laboratorio! ¡Es todo un acontecimiento!… ¿Qué le trae por aquí esta mañana?
+
+Robert, visiblemente distraído, protestó sin vigor:
+
+—¡Oh, un acontecimiento!… —Y exclamó—: ¡Qué temperatura!, ¿eh?… Qué calor para la estación…
+
+—Va a haber tormenta.
+
+Y Maxime, sentado ante un croquis de mecánica, se puso de nuevo a garabatearlo, preguntándose a qué debía la visita del secretario.
+
+Las tres ventanas de la rotonda estaban abiertas de par en par, pero hacía tanto calor que no conseguían crear la menor corriente de aire. Un caos de nubes plomizas atestaba el cielo, tumultuoso como un cielo de batalla, inmóvil como un cielo de cuadro. Bajo él, las cosas de la tierra tomaban reflejos de ceniza. La llanura, toda erizada de álamos, parecía esperar, en posición de firmes, algo memorable o a alguien supremo. Era un hermoso decorado para una tragedia.
+
+Dentro del laboratorio, un sol enfermo empalidecía el lustre de los acuarios y las vitrinas. Los peces —muy iluminados, para que el pintor Maxime pudiera captar a gusto sus mil matices— guardaban la pose y dormitaban en el sueño del agua.
+
+Robert se acercó a las cajas acristaladas donde el mimetismo desplegaba sus rarezas. De lejos, algunas de aquellas cajas parecían llenas de ramas, de hierbas y de ramitas; y de cerca se advertía que tal brizna era una oruga maliciosa, tal mancha de corteza una falena retorcida y tal hoja exótica un mosquito ingenioso. Pero no solo había bichos disfrazados de vegetales; también había bichos disfrazados de bichos. Otras vitrinas, en efecto, alojaban mariposas clavadas de dos en dos; en cada pareja ambas se parecían hasta confundirse, y, sin embargo, una constituía un alimento envenenado para los pajarillos, y la otra, inofensiva, solo debía su existencia en nuestros días a su parecido con su doble venenosa. Por desgracia, hay que decirlo, desde que el niño Maxime, ocupado en otros juegos, se había desinteresado de este, el tiempo había alterado muchas de sus preparaciones, marchitado todos los verdes, enmohecido muchos coseletes. Y ahora no pocas semejanzas empezaban a diferir.
+
+Robert se lo hizo notar al joven, y prosiguió:
+
+—Son curiosas, de todos modos, estas identidades: ¡esta especie de mascarada zoológica!… ¡El camaleón, que a voluntad, para pasar inadvertido, se vuelve rojo o verde según esté sobre un fondo rojo o sobre un fondo verde!…
+
+—Pues sí. Es la historia del león, leonado sobre la arena leonada del desierto; es la historia del oso, blanco sobre la nieve blanca de los polos. Todo eso: mimetismos… Pero ¡cómo! ¡A usted, el espectador de las constelaciones, le interesan estos chismes!…
+
+—¿Por qué no?… Sin duda hay también peces que practican el mimetismo, ¿no?
+
+—La naturaleza está llena de ellos. El hombre mismo… Las capas color de muralla… ¡Vaya! Pero, diga, Robert —Maxime se reía—, le veo tan atento… ¿Acusaría usted por casualidad al sarvant de ponerse una malla azul noche para…?
+
+—¡Qué tontería! —le interrumpió el secretario.
+
+—… Este pequeño museo me divirtió mucho en otro tiempo… Decidió mi vocación de biólogo… Hoy tengo otras cosas que hacer…
+
+—¿Qué tal van sus láminas a la acuarela?
+
+—No van mal —dijo Maxime, sacando de una carpeta varias de sus obras—. ¡Oh, no es un Van Ostade ni un Jan Steen!… Basta con eso, y ya está. Pero, por el momento, he dejado de retratar peces.
+
+—¡Ah, ah! ¡La disección!
+
+—La disección, un poco, sí, pero accesoriamente y a propósito de otro estudio muy cautivador… Pero ¿le aburro, Robert?
+
+—¡En absoluto!
+
+—Ahora lo comprenderá. Es para el Museo Oceanográfico de Mónaco. Querría idear un acuario donde los peces de las grandes profundidades vivieran *normalmente*. Nuestras redes de arrastre los atrapan, sí, a más de nueve mil metros de profundidad; pero la descompresión y, sobre todo, el brusco cambio de temperatura los deterioran y los hacen reventar. Intento construir un vivero cerrado donde se mantengan la presión y la temperatura. Ya ve: estoy garabateando un dispositivo de bombas… Pero no es fácil… El invento tendría grandes consecuencias. ¡Imagínese! ¡Reconstituir el medio vital de esos seres tan lejanos! ¡Poder observar sus costumbres *verdaderas*! ¡En la sombra en que permanecería sumida la cuba, verlos iluminarse con fosforescencias multicolores, como en la noche eterna de las regiones submarinas!
+
+—¡Ah! ¡Eso es lo que busca usted! —dijo Robert.
+
+Pero Maxime se equivocó sobre el tono vivo de aquella interjección. Se figuró que Robert le reprochaba no dedicarse a otras tareas más urgentes…
+
+—Sí, eso es —respondió sonrojándose. Y se disculpó—: … También he intentado penetrar el misterio de las desapariciones… Solo que, ¿sabe?, sobre eso tengo mi idea. Pronto nos sacarán de dudas los propios raptores: la gente del auto-globo.
+
+—¿De verdad? ¿De verdad? —decía Robert, completamente absorto en un ensueño.
+
+—¡Vamos, Robert, sea franco! Está usted ahí andándose por las ramas, hablando de todo y de nada… ¿Qué tiene que decirme?
+
+—Perdón… ¡Ah, sí!… ¿Decía usted?… Perfectamente, perfectamente… Yo… yo estoy encargado de una misión, figúrese. —Y sonrió—. Una misión de su señora madre. Le asusta su temeridad. Desde hace algún tiempo se aventura usted todas las tardes por la montaña con sus pertrechos de artista pintor… Y, como no puede hacer nada, me ha delegado ante usted…
+
+Maxime puso las manos sobre los hombros de Robert.
+
+—Es usted muy amable, viejo amigo —le dijo—. Pero ahora estoy *seguro* de que se trata de un dirigible; y estimo que, a plena luz del día, un hombre *advertido* sería tan pazguato si se dejara atrapar como pusilánime, miedica y despreciable si se quedara en casa como una liebre en su cama.
+
+Siguió un silencio, que Robert interrumpió:
+
+—Entonces, al menos… siga mi consejo: vístase de modo que reproduzca el aspecto de uno de los desaparecidos…
+
+Maxime soltó una carcajada.
+
+—¡Pero eso también es mimetismo! Decididamente, Robert…
+
+—Le aseguro que hay que tener cuidado.
+
+—¡Ya! Pierde usted el tiempo, amigo mío. El pintamonas que soy necesita demasiado hacer estudio tras estudio, ¡y la montaña es demasiado hermosa! Fastuosa y cambiante, a cada hora del día, a cada día del mes se la creería el lienzo de un maestro distinto… Tengo allá arriba una pequeña modelo exquisita, una pastora de doce años que me posa una escena estupenda en un lugar portentoso. ¡Ah, esa no es nada miedosa! ¡Los sarvants, lo que le importan a ella!… Además, su hermano César, un pastorcillo más bien desenvuelto, vigila durante la sesión…
+
+»¡Mire usted esto, mi viejo Robert! Le presento a la señorita Césarine Jeantaz. No le falta jugo, ¿eh?
+
+Blandía en la luz pálida una acuarela a medio hacer y verdaderamente «pintada a brochazos», como solía decir. En medio de un rebaño de vacas y cabras dispersas, una chiquilla sentada en una roca tocaba el acordeón. Su linda boquita, muy abierta, indicaba una canción lanzada a pleno pulmón.
+
+—Es muy bonita —apreció Robert—. Pero su señora madre se inquieta muchísimo…
+
+—Dígale… ¡Ay, ay, ay, qué maldición, todas estas gallinas mojadas! Pues bien, dígale que mañana habré terminado esta pastoral y que pasado mañana seré juicioso.
+
+—¿Por qué no hoy? Yo, sin embargo, no soy ninguna gallina mojada y estoy lejos de bromear. Bien sabe usted que tengo mi idea…
+
+—¡Desembúchela, su idea, querido, desembúchela!
+
+—¡Ay! ¡Todavía creería usted en ella menos que en los hombres volátiles, que en el pez revoloteador y que en el águila que vuela sin alas!
+
+—Entonces, ¿no tiene usted pruebas?
+
+—No tengo más que buenas razones. Eso no le bastaría.
+
+—¡Pero bueno, Robert! Si usted supiera dónde está mi hermana… y los demás… sería criminal guardar silencio… Habría que ir allí… ¿Dónde pueden estar? Evidentemente, por mi parte, no tengo la menor idea… ¿Dónde está la guarida de los bandidos?… ¡Si al menos se los pudiera ver huir en tal o cual dirección! Pero se esconden en medio de las noches, de las nieblas, de las nubes… Considere esa bóveda impenetrable de nubarrones; por encima de ella, los sarvants son libres de evolucionar sin que lo sepamos…
+
+»*¡Mil demonios! ¡Robert, qué le decía yo!*
+
+Erguido, con el ojo brillante, el brazo tendido hacia el cielo, Maxime señalaba un punto de las nubes.
+
+Robert miró vivamente.
+
+En las volutas de un gran cúmulo gris pizarra, entumecido de sopor, se perfilaba una sombra oblonga, diáfana y fantasmal.
+
+—¡El dirigible! —murmuraba Maxime muy bajo, como si temiera espantar la visión.
+
+Robert se protegió los ojos de la luz lívida:
+
+—¿Es el mismo que usted encontró?
+
+—Es el mismo: no se ve la barquilla. Y si no fuera él, ¿qué haría ahí, sin moverse, al acecho detrás de su nube?…
+
+—¡Ejem! —dijo Robert, poderosamente interesado.
+
+—… Porque está *detrás* de la nube —continuó Maxime—. Lo que vemos es su sombra proyectada. No es más que su sombra sobre una voluta. *Ellos* se creen invisibles. *Ellos* no sospechan que su sombra los delata… ¡Vamos! ¡Reconozca que yo tenía razón!
+
+—Sí, sí… en efecto —dijo Robert con más cortesía que sinceridad.
+
+—¡Ah, la sombra palidece porque se levanta el viento y la voluta se deshace!… Ya no es nada.
+
+Una ráfaga tempestuosa se precipitó en la rotonda. Los papeles, arremolinándose, se dispersaron. El susurro de los bosques fue semejante al rumor de un mar inesperado. Los árboles, blanqueados por las hojas vueltas del revés, se doblaban al soplo del Este. Unos postigos golpearon con estrépito. Trombas de polvo corrían a lo largo de las carreteras. Un relámpago directo agrietó el cielo espeso, y las nubes se pusieron en marcha.
+
+Maxime, con el pelo al viento, espiaba por si la huida del cúmulo dejaba al descubierto la aeronave, o si los corsarios arrojaban lastre para subir por encima de la tormenta… Pero el dirigible se había ido sin emplear ese medio.
+
+Y he aquí que el decorado se volvía él mismo tragedia.
+
+La magnificencia de los elementos desencadenados se magnificaba aún más con todos los misterios que se presentían en ella.
+
+El trueno hizo rodar sus gruñidos, que parecieron el estruendo de las nubes rodando en desorden hacia una meta desconocida.
+
+Y, terminado el cuadro, un segundo relámpago trazó en zigzag la rúbrica del huracán.
+
+## XVII. ASUNCIÓN
+
+Aunque el cielo seguía amenazador y parecía reservar para la tarde alguna nueva tormenta, Maxime —tanto por bravuconería como por gusto— cogió sus bártulos de paisajista y, pese a la reprobación unánime, se dirigió hacia la subida.
+
+Una hora después, cansado del calor y de la prisa, divisó de lejos el rebaño de rumiantes y a sus pequeños guardianes.
+
+El paraje del pasto era a la vez grandioso y risueño. La pradera, ondulada, formaba una hondonada y se ahuecaba graciosamente según la curva de las hamacas y las guirnaldas. Uno de sus bordes se alzaba en muralla rocosa, se lanzaba hacia arriba para continuar la montaña, y unas almenas ciclópeas, mezcladas con matorrales, recortaban su coronamiento. El otro borde, mucho menos levantado, terminaba en la linde de un bosque que enseguida se inclinaba en sentido contrario y descolgaba hasta Mirastel su plano de rocas, encinas y bojes gigantes. Innumerables narcisos perfumaban el prado lujuriante. Aquí y allá lo salpicaban bloques grisáceos; y en uno de ellos, donde su hermano César acababa de encaramarla, Césarine Jeantaz había adoptado ya la pose, manejaba su acordeón y salmodiaba un vals; pues todo lo que cantan los campesinos se convierte en salmodia o sigue siéndolo, ya sea *Viens poupoule*, *La Marsellesa* o el *Dies irae*.
+
+Intercaló su «¡buenos días, señor!» entre dos notas, y César saludó al *Moncheu*.
+
+Pronto Maxime estuvo instalado ante su caballete, bajo los primeros árboles del bosque, con el chiquillo a su lado.
+
+—¡Vigila bien! —dijo por descargo de conciencia.
+
+—*N'a pas paou* —respondió César, aleccionado—. *On lo vara beîng veni!*
+
+La chiquilla, encantadora, dejaba colgar los piececitos en sus gruesos borceguíes de suela de tilo. Un viejo sombrero de paja daba sombra a la maraña rubia de sus cabellos. Entre sus manitas rojas, el acordeón se alargaba y luego se recogía, y marcaba con el mismo ritmo saltarín la retahíla incansable de las canciones monótonas. A su alrededor, las vacas y las cabras dispersas hacían sonar sus cencerros. Y las campanillas de los narcisos repicaban sus perfumes.
+
+—¡Vigila bien! —repitió Maxime, extrañado él mismo de su desconfianza.
+
+César no apartaba los ojos del cielo cargado, que parecía deslizarse de una sola pieza bajo el empuje de un viento de horno. A veces, las almenas de la muralla desenredaban una nube más baja que las otras.
+
+Al son de una esquila violentamente sacudida, Maxime apartó la mirada de la cantante.
+
+—*Hé!* —dijo el pastor—, *vica la Rodzetta qué s'éfra!*
+
+La *Rodzetta* era una cabra rojiza que, habiéndose apartado, volvía al galope, a saltos y balando. ¿Es que…?
+
+¿Es que no parecía huir?… ¿Que la perseguían?…
+
+Maxime alzó los ojos y se tranquilizó. El cielo estaba desierto; seguía fluyendo uniformemente, como un río invertido de plomo fundido, bajo y caliente, pero desierto.
+
+Césarine cantaba a porfía… Pero de pronto su melopea se agudizó en un grito penetrante. El acordeón calló y cayó…
+
+De pie sobre la roca y trastornada por gestos locos, convulsa en un ataque de epilepsia o bailando una siniestra danza de San Vito, la pequeña golpeaba el aire en todas direcciones y lanzaba alaridos espantosos.
+
+Sus gritos y el pánico tintineante del ganado impidieron a Maxime oír zumbar a los sarvants, pero sentía su proximidad por la sacudida vibratoria de su tórax…
+
+¡Y el cielo, y la hondonada, y la muralla estaban desiertos!
+
+Iba a lanzarse en auxilio de la niña, al asalto de la roca, cuando un espectáculo inopinado lo dejó petrificado, boquiabierto de terror y de sorpresa.
+
+Un delirio sibilino seguía poseyendo a la chiquilla. Horriblemente pálida, frágil pitonisa zarandeada por arrebatos, debatiéndose contra el mal repentino que la maltrataba, *estaba ahora levantada unos centímetros por encima del monolito, sin que existiera nada que pudiera sostenerla*…
+
+Luego, de repente, dejó de gritar, sin duda por efecto del cansancio; su voz ya no tenía timbre; intentaba aún hacerse oír, parecía aullar, ¡pero nada salía de su boca! Y como el rebaño había huido, el zumbido misterioso, suave y sombrío —el zumbido de terciopelo y de noche— ronroneaba a sus anchas.
+
+Maxime hizo un esfuerzo con todos sus músculos y toda su energía para dominar el pavor que lo paralizaba… ¡Ay! ¡Ay! Maravilla lamentable: antes de que se hubiera movido, Césarine Jeantaz, proyectada con una fuerza inaudita, subió al cielo como una bala… y desapareció.
+
+La opaca nube que fluía indefinidamente se conmovió a su paso. Se produjo en ella un tumulto que se apaciguó; y eso fue todo. La desgracia se había desarrollado con tal prontitud que el acordeón, soltado por Césarine, terminaba apenas de desplomarse entre los narcisos.
+
+Entonces Maxime salió de su estupor. Pero el espanto le tenía cogidas las entrañas. Y ante aquel prodigioso atentado, él, el oficial de marina, él, el héroe de más de una escaramuza con los tuaregs, él, que había luchado con la sonrisa en los labios contra el agua homicida y el fuego asesino, huyó con las manos delante de los ojos, abandonando allí su caballete, su lienzo, su paleta y al pequeño César desmayado en la hierba.
+
+Huyó a través del bosque en pendiente, en línea recta; pues el mejor sendero daba, a su juicio, demasiados rodeos. El desdichado bajaba rodando la ladera escarpada —volteando, rebotando, agarrándose a los árboles, resbalando sobre las rocas planas y provocando caídas de piedras que lo precedían, lo acompañaban y lo seguían—, de modo que su derrota fue un desprendimiento.
+
+Entretanto, bajo él, los tejados de Mirastel crecían a ojos vistas.
+
+Llegó empapado de sudor, lívido y temblando, con rasguños que sangraban, con la cabeza descubierta y vestido de andrajos. Entró en un saloncito donde los suyos y Robert estaban reunidos en torno a un samovar; y, mientras todos se precipitaban a su encuentro, Maxime se desplomó y se puso a sollozar, triste hasta la muerte por haber sido tan fatuo y haberse vuelto tan cobarde.
+
+Le hicieron sentarse en un sillón. La señora Le Tellier lo rodeaba con sus brazos maternos. Pero él no distinguía a nadie, hacía gestos de impotencia y de lástima y repetía, entre sus lágrimas, palabras imprevistas:
+
+—¡Marie-Thérèse!… ¡Oh, Dios mío!… ¿Qué le han hecho?… ¿Dónde está?… ¿Dónde está?… ¡Oh, es espantoso!…
+
+Su padre le hizo beber una taza de té generosamente cortado con ron.
+
+—Vamos, pequeño, ¿qué ha pasado? Cuéntanoslo.
+
+Maxime lo contó. Terminó con la confesión de su cobardía; y entonces la desesperación volvió a apoderarse de él como antes. Se golpeaba la frente con un puño febril, diciendo que quería volver, correr en auxilio del pequeño Jeantaz…
+
+El señor Le Tellier se lo prohibió y requisó a cinco campesinos y cuatro criados para cumplir ese deber.
+
+—Estábamos escondidos… escondidos por las hojas —hipaba el lastimoso Maxime—. ¡Por eso no nos atacaron! —Luego, bajo la influencia combinada del ron y de la tristeza, lloriqueaba—: ¡Se fue, Dios mío, como un tapón que salta!… ¡Un pobre taponcito, Dios mío!… Y su pobre vocecita que se ahogaba… ¡y luego, de repente, que se quebró, tan bruscamente!… ¡Y yo, que no hice nada! ¡Oh, nada!…
+
+Sus padres intercambiaban, por encima de su cabeza, miradas de inquietud. Por fin el señor Le Tellier tomó una resolución.
+
+—No se trata de llorar —dijo con severidad—. Se trata de comprender y de hablar. Esta desaparición es idéntica a la de tu hermana y tus primos; trabajemos sobre ella. Primero: ¿pareces seguro de que es un rapto?
+
+—¡Oh, sí! Se debatía. Se resistía. Y si hubiera sido una fuerza ciega, yo también, César también, la habríamos sentido…
+
+—Bien. Pero hace un momento hablabas de un tapón… ¿Fue lanzada entonces esa niña por un impulso venido de la tierra?
+
+—No, no, no lo parecía.
+
+—En efecto: en el Colombier, la nieve no revelaba nada parecido…
+
+—Se elevó —dijo el joven, enternecido por el alcohol y la compasión—, se elevó como una pobre virgencita enloquecida…, como un pobre muñequito al que sacan del guiñol con un cordel…
+
+—Sí, pero ¿no viste ningún cordel…, ningún cable?…
+
+—No había nada. No había ni un hilo.
+
+—Pues bien… ¡ejem!, en rigor, todo puede explicarse… El globo de los sarvants debía de estar disimulado en las nubes, donde sabemos que le gusta vagar sin ser visto. No es difícil imaginar que poseen algún medio de ver a través de ellas, aunque solo sea con ayuda de un tubo, un simple tubo que perforase el colchón de nubes por debajo de ellos y que fuera de un diámetro demasiado pequeño para ser visto desde abajo.
+
+»En cuanto al rapto *a distancia*…
+
+—Diga, papá: ¿y si *aspiraran* a sus víctimas?… Noté en la nube un gran tumulto que bien podría haber sido causado por un soplo vehemente… una corriente de aire de abajo arriba…
+
+—¿La sentiste?
+
+—No; tiene usted razón. Esta vez ni siquiera sentí la brisa… Ya no entiendo nada… ¡Ah, cuando se ha visto eso!…
+
+Volvía el enternecimiento. El señor Le Tellier se apresuró a ocupar a su hijo con otras consideraciones, más o menos fantasiosas:
+
+—La llegada de un proyectil tan grande como un cuerpo humano basta para motivar el tumulto al que aludes. No es eso. Más vale suponer, no que los sarvants *bombean* a sus víctimas, sino que las *atraen* por medio de una especie de imán particular, a la manera en que el imán verdadero atrae el hierro. ¡El magnetismo animal es algo que tiene sentido!… Por lo demás, hay en la virtud de atracción de los imanes un no sé qué de oculto y de voluntario, de tiránico y de vivo, que siempre turba el pensamiento.
+
+»¿Lo ves? Emplearían ese procedimiento para atraer hasta ellos a las personas, a los animales y todo lo que no está sujeto al suelo. Para lo demás, se sirven de la cizalla, y efectúan su descenso de noche.
+
+La señora Arquedouve recordó:
+
+—¿No hay un guarda que sostiene haber oído la cizalla en pleno mediodía?
+
+—Sí, madre, pero era en un lugar solitario y al otro lado de una cortina de abetos.
+
+Y la señora Le Tellier:
+
+—En todo caso, he aquí muchos misterios disipados, o al menos reducidos a uno solo: todos los raptos. ¡Incluido el de los hombres voladores, que eran atormentados, los desdichados, y no atormentadores!… ¡Incluidos el águila y el pez!
+
+—Exactamente —prosiguió el señor Le Tellier—. Géruzon y Philibert debieron de observar mal, el uno a sus piamonteses y el otro a su lucio. De lo contrario, los habrían visto subir más empinados hacia el cielo nublado… Nuestros adversarios poseen un electroimán especial y lo manejan por encima de las nubes; ahí está el asunto. Pero, ¡diablos!, no son imbéciles… ¡Haber encontrado el imán animal!…
+
+—¡Malditas nubes! —exclamó la señora Le Tellier—. Sin ellas…
+
+—Sin ellas —replicó el astrónomo—, se verían todavía menos cosas de las que se ven, puesto que los sarvants solo actuarían de noche.
+
+Robert se paseaba de un lado a otro y guardaba un silencio feroz. En vano buscaba el señor Le Tellier una aprobación en la fisonomía de su secretario: no encontraba en ella más que preocupación.
+
+—Pero *¿por qué?, ¿por qué* esos raptos? —decía la señora Le Tellier, llevándose las manos a la cabeza.
+
+—¿Y cuál es la suerte de los prisioneros? —Era Maxime, hoy, quien gemía aquello.
+
+—¿Y dónde están? —añadió la señora Arquedouve.
+
+Su yerno aventuró, sin perder de vista las facciones de Robert:
+
+—¡Oh, no deben de estar muy lejos: sin duda en algún refugio de los Alpes o del Jura! La relativa exigüidad de la zona embrujada parece demostrar que los sarvants no se alejan del Bugey.
+
+—¡Habría que ir allí! —dijo la ciega.
+
+—Pero ¿cómo seguirles la pista? Son inaprensibles, fugaces; apenas se les oye…
+
+—*¡Escuchen! ¡Escuchen!* —exclamó Maxime, despavorido—. *¡El zumbido!*
+
+Un mismo escalofrío recorrió todas las espaldas.
+
+—¡Pobre hijo mío! —dijo la abuela—. Es un abejorro lo que oyes por la ventana abierta.
+
+La señora Le Tellier enjugaba con su pañuelo la frente de Maxime.
+
+—Se lo ruego —imploró este—, hablemos un poco de otra cosa. Es imposible seguir con los nervios en tensión…
+
+—¡Habría que ir allí! —repetía el secretario como en sueños, caminando con furia.
+
+La señora Le Tellier lo despertó y lo detuvo en seco declarando:
+
+—¡No cabe duda de que, con sus aeroplanos, el señor de Agnès podrá sorprender y perseguir a esos bandidos hasta la entrada de su caverna o de su fortaleza! Acabamos de recibir una carta suya, y…
+
+—¡Es verdad! —dijo el astrónomo con fingida jovialidad—. Hasta viene en su carta un telegrama indescriptible de ese señor Tiburce…
+
+»Toma, lee esto, muchacho. Te cambiará las ideas. ¡Palabra de honor! ¡Ese señor Tiburce es el tontaina más tontaina de toda la tontería!
+
+Maxime leyó:
+
+## XVIII. UNA CARTA. UN CABLEGRAMA
+
+*Carta del duque de Agnès al señor Le Tellier.*
+
+->*(Pieza 397)*<-
+
+-->9 de junio de 1912.
+
+-->Avenue Montaigne, 40.
+
+Querido señor:
+
+Hoy hace un mes, día por día, que dejé Mirastel, dejándolos a todos ustedes tan desconsolados. He trabajado mucho desde entonces; pero solo desde ayer siento la esperanza suficiente para tener por fin el valor de confiárselo.
+
+Desde luego, no estoy libre de inquietud a propósito de ese dirigible legendario que Maxime vio en la niebla, según me dice, y que parece prescindir de aeronautas. Su descripción me ha hecho pensar enseguida en los torpedos telemecánicos, esos pequeños vehículos de catástrofes que se ha llegado a dirigir de lejos, sin hilos. ¿Por qué, en efecto, no habría globos análogos, cuyos diversos mecanismos estuvieran gobernados a distancia por un capitán insospechable?… ¡Eso complicaría nuestra tarea! Porque, admitiendo que pudiéramos apoderarnos de ese globo desierto, ¿qué indicaciones obtendríamos de semejante presa en cuanto al domicilio y la personalidad de los sarvants?
+
+Por fortuna, nada es seguro. Y, por otra parte, el artefacto que vamos a fabricar —nuestro aeroplano de caza— será, *espero*, de lo más notable.
+
+¡Ay, todavía no es más que una esperanza! Sin embargo, he aquí lo que hay:
+
+Ayer, mi jefe de construcción, el piloto Bachmès, se entrevistó con un ingeniero que pretende haber descubierto un motor que funciona con la electricidad atmosférica… Captar el potencial de la naturaleza, sacar la omnipotencia de los *voltios* directamente de su gran fuente, es la quimera perseguida desde hace mucho tiempo, ya lo sabe usted; es el gasto reducido casi a cero; es la maquinaria reducida a un peso desdeñable; es, sobre todo, *la velocidad milagrosa*.
+
+Si el invento no es una estafa, si de verdad basta, para hacer girar una hélice, con calzar en su eje un transformador de corriente, compramos la patente. Y construimos en el acto.
+
+Será cosa rápida, creo… ¡Pero «rápida»! ¿Qué es rápido cuando se está ansioso?… ¿Qué es de los desaparecidos?… *¡Treinta y cuatro días!*… ¿Dónde está la señorita Marie-Thérèse?… ¡Ah, querido señor, cuánto querría estar en mi puesto de vigía aérea y saber *dónde*, *cómo*, *quién* y *por qué*!
+
+La espera: ¡qué cosa terrible! Paso los días en los talleres de Bois-Colombes… ¡Cuántos experimentos inútiles he hecho!… ¡Y quedarse allí! ¡Marcar el paso, con la conciencia del tiempo perdido!… ¿Lo creerá usted? ¡A veces envidio la suerte de Tiburce! Él, al menos, tiene un objetivo preciso, por vano que sea, y se afana sin cesar en alcanzarlo. Tiene el alivio de la acción… ¡Pero qué cruel desengaño se está preparando, el muy terco! Le envío adjunto un cablegrama suyo que acabo de recibir. No son las primeras noticias que me manda. Ya me había enviado un marconigrama, en pleno océano, al día siguiente de su partida y simplemente para anunciármela. Desde entonces no había recibido nada. Tantas simplezas en tan pocas palabras quizá le sumerjan en un asombro que le haga olvidar, por un segundo, la precariedad de nuestra situación. Es, por desgracia, la única ventaja que podemos sacar del despacho adjunto.
+
+Le ruego, querido señor, que tenga la bondad de transmitir a la señora Le Tellier y a… *Etc.*
+
+-->François d'Agnès.
+
+*P. D.*: Reina una efervescencia considerable en todos los talleres de construcciones aéreas. En los del Estado especialmente. Se busca en ellos el aparato adecuado a este nuevo destino: la persecución de aviadores inalcanzables por su rapidez. No obstante, se atribuye a algunos el proyecto insensato de partir en reconocimiento sobre el Bugey con los aparatos actuales, del todo insuficientes. Se cita a Santos-Dumont en dirigible, a De la Vaulx en globo esférico, a Farman en su biplano, a Latham en el *Antoinette* y a Beaumont en el *Blériot*. Se cita a muchos otros más…
+
+Haremos algo mejor que todo eso. Paciencia y buen ánimo.
+
+-->F. A.
+
+*Cablegrama de Tiburce al duque de Agnès.*
+
+->*(Pieza 398)*<-
+
+-->San Francisco, 6 de junio de 1912.
+
+Todo bien. Aún no alcanzado H[atkins]. Pero seguro M[arie] T[hérèse] con él. Pues sabido H. acompañado solo por hombres. Disfraz. Estratagema burda, prevista. Además, cálculos indiscutibles prueban M.-T. con H., así como los H[enri] M[onbardeau]. Hecho nuevo: evidentemente lo siguen por su voluntad. ¿Por qué? Misterio. Lo aclararé pronto. Partidos para Nagasaki. Embarco esta noche para Japón. Su precipitación sospechosa. Sus estúpidas historias sarvants llegadas hasta aquí. Hacen sonreír a San Francisco. Respetuosos saludos hermana. Tiburce.
