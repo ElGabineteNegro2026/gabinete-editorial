@@ -39,6 +39,10 @@
 - 16-11-2026 (noche): el responsable descarta la cubierta C por parecerse demasiado al Dossier I y aporta otra ilustración.
   Cubierta D (`cubierta/chatgpt_etretat_noche.png`) compuesta y activa; la C queda en `propuestas/`.
 
+- 16-11-2026: el responsable pide prólogo y apéndice más extensos, con el volumen III como referencia (`demo.odt`).
+  Reescritos: prólogo ≈ 1.000 palabras y apéndice ≈ 1.250, con apartados en versales y cierre «El expediente continúa abierto».
+  Interior: 446 páginas. Cubierta regenerada: lomo de 28,32 mm.
+
 ## Pendiente
 - CONSULTA: aprobar el prólogo firmado por «El Editor» (el responsable aún no lo ha leído).
 - Resolución de la ilustración D: el responsable envía una versión mayor, que llega a esta sesión con 1333 × 2000 px (unos 216 ppp a sangre; KDP recomienda 300 = 1838 × 2775 px). Si el original es mayor, sustituir `cubierta/chatgpt_etretat_noche.png` y volver a ejecutar `scripts/cubierta.py`.
