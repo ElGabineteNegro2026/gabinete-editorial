@@ -1,5 +1,3 @@
-# BORRADOR PENDIENTE DE APROBACIÓN DEL RESPONSABLE (16-11-2026). Las líneas que empiezan por # no se imprimen.
-
 Hay terrores que vienen de abajo: de la cripta, del pozo, de la fosa marina donde algo se mueve sin luz.
 
 Otros vienen de lejos: de otro planeta, de otra época, del frío entre las estrellas.

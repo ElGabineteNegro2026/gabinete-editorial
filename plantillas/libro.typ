@@ -70,6 +70,12 @@
   else if "cita" in b { pad(left: 1cm, right: 1cm, par(runs(b.cita))) }
   else if "centrado" in b { align(center, par(justify: false, runs(b.centrado))) }
   else if "derecha" in b { align(right, par(justify: false, runs(b.derecha))) }
+  else if "imagen" in b {
+    block(above: 1.2em, below: 1.2em, breakable: false, width: 100%, align(center, {
+      image("/" + b.imagen, width: 100%)
+      if b.pie.len() > 0 { v(0.4em); text(size: 9pt, par(justify: false, runs(b.pie))) }
+    }))
+  }
   else { par(runs(b.p)) }
 }
 
@@ -177,7 +183,7 @@
   text(weight: "bold", style: "italic", size: 10pt)[El Gabinete Negro]
   v(0.5cm)
   pad(left: 1cm, right: 1cm, par(justify: false, C.apendice.join(linebreak())))
-  if C.proximo_titulo {
+  if C.proximo_titulo and L.proximo_titulo not in (none, "") {
     v(0.8cm)
     align(center, par(justify: false)[Próximo título: #if L.proximo_titulo != none { emph(L.proximo_titulo) }])
   }

@@ -1,11 +1,15 @@
 # El peligro azul — Maurice Renard · Límite Abisal, vol. XX
 
-**Fase:** texto → **maquetado** (traducción completa; prólogo en borrador pendiente de aprobación)
+**Fase:** maquetado → **cubierta** (traducción completa, prólogo aprobado, interior de 378 páginas)
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba *El peligro azul* para Límite Abisal (ficha `candidatos/2026-11-16_el-peligro-azul.md`); se inicia la traducción.
 
 - 16-11-2026: el responsable confirma el vol. XX.
+- 16-11-2026: **prólogo aprobado** tal como está en `texto/00_prologo.md`.
+- 16-11-2026: incluir el croquis de las huellas en la nieve (1.ª parte, cap. IX), con los rótulos traducidos.
+- 16-11-2026: **precio**: 14,49 € tapa blanda y 2,99 € ebook, IVA incluido. ISBN por determinar.
+  - Comprobado con la calculadora de SelfPub Go (Amazon.es): tapa blanda 13,93 € sin IVA (4 %), coste de impresión 5,29 €, regalías ≈ 3,07 € (60 %). Ebook 2,99 € dentro de la banda del 70 % (2,69-12,99 €), regalías ≈ 1,93 € (coste de entrega estimado 0,12 €).
 
 ## Hecho (16-11-2026)
 - Texto fuente francés descargado de Wikisource (edición Louis-Michaud, 1911) (no se había subido; se volvió a descargar por la API en `fuente/`, un JSON por capítulo).
@@ -17,7 +21,7 @@
 - `texto/30_epilogo.md`: epílogo (≈ 2.000 palabras).
 - Total del texto de Renard: ≈ 107.000 palabras.
 - Fuente: `fuente/*.json` (respuesta de la API de Wikisource, un fichero por capítulo; no se suben al repositorio, ver `fuente/.gitignore`).
-- `texto/00_prologo.md`: **BORRADOR** de prólogo firmado por «El Editor» (≈ 1.100 palabras, tono y extensión como el de *813*, sin desvelar el secreto). **CONSULTA: necesita la aprobación del responsable.** La primera línea (comentario con `#`) no se imprime.
+- `texto/00_prologo.md`: prólogo firmado por «El Editor» (≈ 1.100 palabras, sin desvelar el secreto). Aprobado el 16-11-2026.
 - `texto/99_apendice.md`: apéndice explicativo (≈ 1.350 palabras, apartados en versales como el de *813*).
 
 ## Maquetación (16-11-2026)
@@ -31,7 +35,7 @@
 - Cap. XIII: el laboratorio de Maxime está en la torre «sud-ouest» (en el cap. V era «sud-est»); incoherencia del original, se respeta.
 - Cap. XV: el pueblo «Coniux» del original es Conjux (Saboya), a orillas del lago del Bourget; corregido.
 - Subtítulos de las partes según la tabla de la edición de 1911: «¿Dónde?… ¿Cómo?… ¿Quién?… ¿Por qué?…» (primera) y «Dónde. Cómo. Quién. Por qué.» (segunda).
-- Cap. IX: el original reproduce el croquis de las huellas en la nieve (Commons: `Renard - Le Péril Bleu, 1911 (page 84 crop).jpg`, dominio público). **Pendiente decidir** si se incluye en la maqueta (habría que rotular en español).
+- Cap. IX: croquis de las huellas en la nieve incluido tras «el esbozo que reproducimos» (p. 93 del PDF), rotulado en español («Esquema de las huellas», «Línea de cumbre», «Cruz»); ver `imagenes/CREDITOS.md`. `scripts/maquetar.py` admite ahora imágenes con `![pie opcional](ruta)` en línea propia.
 - Diálogo «a la francesa» del capítulo X (acta de la deliberación): se mantiene el formato teatral («Garan. —…»), con acotaciones en cursiva.
 - Términos: *sarvants* en cursiva solo la primera vez, luego en redonda y minúscula (el original alterna «Sarvants» con mayúscula); «Peligro Azul» con mayúsculas como en el preliminar. Se conservan sin traducir *mollards*, el patois del boyero (cap. XII) y los títulos de periódicos.
 - Groserías del original suavizadas solo lo justo («s'en foutait pas mal» → «le importaba un bledo»).
@@ -42,9 +46,8 @@
 - Cap. IX (2.ª parte): el barómetro marca «160 millimètres» en el original; es errata por 760 (la frase dice «la misma presión que en la superficie»). Corregido.
 
 ## Pendiente
-- **CONSULTA**: aprobar (o corregir) el prólogo de «El Editor».
-- Decidir si se incluye el croquis de las huellas en la nieve (cap. IX de la 1.ª parte; imagen de 1911 en Commons, con rótulos a traducir).
-- «Próximo título» en `libro.toml` sigue como «Por anunciar».
+- «Próximo título»: el responsable valora suprimirlo de los libros; propuesta del Editor Jefe pendiente de confirmación (el script ya omite la línea si `proximo_titulo` está vacío).
 - Una lectura de corrección completa en papel (o PDF) antes de KDP: erratas, coherencia de términos (aeróscafo, subaéreo, aerario, *air-ballasts*), cursivas.
 - Cubierta Límite Abisal: buscar grabados de dominio público de cielo, abismo o seres aéreos (p. ej. Grandville, Doré, láminas de *La Nature*); 2-3 propuestas.
-- Precio, ISBN, fecha de lanzamiento (CONSULTA).
+- ISBN y fecha de lanzamiento (CONSULTA).
+- Cubierta: el responsable propone generar la ilustración central con Higgsfield (0,25 créditos por imagen; 10 créditos en la cuenta gratuita). Pendiente de su visto bueno a los prompts.

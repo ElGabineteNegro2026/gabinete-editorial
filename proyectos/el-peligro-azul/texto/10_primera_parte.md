@@ -1358,6 +1358,8 @@ Garan sonrió y, atusándose hacia arriba bigotes y cejas, decidió:
 
 Fue entonces cuando dibujó el esbozo que reproducimos para mayor claridad.
 
+![](imagenes/croquis_huellas_es.png)
+
 Al verlo, Tiburce anunció que haría algo todavía mejor y que iba a fotografiar la nieve desde lo alto de la cruz.
 
 Pero el intrépido sherlockista había confiado demasiado en su agilidad. No logró subir más que hasta la mitad de la distancia que le separaba de los travesaños; y fue Maxime quien, acordándose de los mástiles y las vergas del *Borda*, consiguió la empresa.

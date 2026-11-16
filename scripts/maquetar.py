@@ -36,8 +36,12 @@ def runs(texto):
             out.append([trozo, ""])
     return out
 
-def bloques_de(lineas):
-    """Convierte líneas Markdown (sin títulos) en bloques."""
+IMAGEN = re.compile(r"^!\[(.*)\]\((.+)\)$")
+
+def bloques_de(lineas, base=RAIZ):
+    """Convierte líneas Markdown (sin títulos) en bloques.
+
+    `![pie opcional](ruta)` en una línea propia inserta una imagen (ruta relativa al proyecto)."""
     bloques, buf, tipo = [], [], "p"
     def cierra():
         nonlocal buf, tipo
@@ -57,6 +61,12 @@ def bloques_de(lineas):
             cierra(); bloques.append({"centrado": runs(s[2:-2].strip())}); continue
         if s.startswith("-->"):
             cierra(); bloques.append({"derecha": runs(s[3:].strip())}); continue
+        m = IMAGEN.match(s)
+        if m:
+            ruta = (base / m.group(2)).resolve()
+            if not ruta.exists():
+                sys.exit(f"Falta la imagen {ruta}")
+            cierra(); bloques.append({"imagen": str(ruta.relative_to(RAIZ)), "pie": runs(m.group(1).strip())}); continue
         buf.append(s)
     cierra()
     return bloques
@@ -71,13 +81,13 @@ def lee_proyecto(dir_proy: Path):
         lineas = f.read_text(encoding="utf-8").splitlines()
         nombre = f.stem.lower()
         if "prologo" in nombre:
-            prologo += bloques_de([l for l in lineas if not l.startswith("#")]); continue
+            prologo += bloques_de([l for l in lineas if not l.startswith("#")], dir_proy); continue
         if "apendice" in nombre:
-            apendice += bloques_de([l for l in lineas if not l.startswith("#")]); continue
+            apendice += bloques_de([l for l in lineas if not l.startswith("#")], dir_proy); continue
         actual, buf = None, []
         def vuelca():
             if actual is not None and actual["tipo"] == "capitulo":
-                actual["bloques"] = bloques_de(buf)
+                actual["bloques"] = bloques_de(buf, dir_proy)
         for l in lineas:
             if l.startswith("% "):
                 vuelca(); buf = []
@@ -163,6 +173,10 @@ def hace_docx(dir_proy, slug, meta, col, datos):
                 p = p_runs(b["cita"]); p.paragraph_format.left_indent = Cm(1); p.paragraph_format.right_indent = Cm(1)
             elif "centrado" in b: p_runs(b["centrado"], WD_ALIGN_PARAGRAPH.CENTER)
             elif "derecha" in b: p_runs(b["derecha"], WD_ALIGN_PARAGRAPH.RIGHT)
+            elif "imagen" in b:
+                p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                p.add_run().add_picture(str(RAIZ / b["imagen"]), width=Cm(11))
+                if b["pie"]: p_runs(b["pie"], WD_ALIGN_PARAGRAPH.CENTER)
             else: p_runs(b["p"])
     def salto():
         d.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
@@ -221,7 +235,7 @@ def hace_docx(dir_proy, slug, meta, col, datos):
     salto()
     r = d.add_paragraph().add_run("El Gabinete Negro"); r.bold = True; r.italic = True
     d.add_paragraph("\n".join(col["apendice"]))
-    if col.get("proximo_titulo"):
+    if col.get("proximo_titulo") and datos["proximo_titulo"]:
         centrado("Próximo título: " + (datos["proximo_titulo"] or ""))
     # Sin índice: Kindle Create genera la tabla de contenidos a partir de los títulos.
     out = dir_proy / "ebook" / f"{slug}_kindle_create.docx"
