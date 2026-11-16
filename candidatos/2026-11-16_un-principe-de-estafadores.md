@@ -1,5 +1,7 @@
 # Un príncipe de estafadores — Guy Boothby
 
+> **Descartado** por el responsable el 16-11-2026.
+
 - **Autor**: Guy Newell Boothby (Adelaida, 13-10-1867 – Bournemouth, 26-2-1905).
 - **Título original y año**: *A Prince of Swindlers*, Ward, Lock & Co., Londres, 1900 (relatos publicados en
   *Pearson's Magazine*, 1897).

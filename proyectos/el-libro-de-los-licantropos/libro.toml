@@ -1,0 +1,7 @@
+coleccion = "archivo-arcano"
+titulo = "El libro de los licántropos"
+autor = "VV. AA."
+volumen = "V"
+isbn = "En trámite"
+creditos_obra = []             # se completa relato a relato al cerrar la selección
+traduccion = "Traducción: El Gabinete Negro"

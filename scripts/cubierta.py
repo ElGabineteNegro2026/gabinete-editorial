@@ -66,20 +66,27 @@ def parrafo(d, caja, txt, f, color, interlineado=1.35, centrado=False):
         y += f.size * interlineado
     return y
 
-def preparar_grabado(im, C, recorte=0.035):
+def preparar_grabado(im, C, recorte=0.035, invertir=False):
     """Grabado de dominio público (papel blanco, tinta negra) → paleta de la colección:
-    recorta el margen del papel, oscurece y tiñe de fondo (sombras) a acento/texto (luces)."""
+    recorta el margen del papel, oscurece y tiñe de fondo (sombras) a acento/texto (luces).
+    recorte: fracción por lado o lista [izq, arriba, der, abajo] (para quitar sellos, firmas…).
+    invertir: negativo (papel oscuro, trazo claro), útil con xilografías de mucho blanco."""
     est = C["cubierta"]
     im = ImageOps.grayscale(im)
     w, h = im.size
-    im = im.crop((int(w*recorte), int(h*recorte), int(w*(1-recorte)), int(h*(1-recorte))))
+    l, t, r, b = recorte if isinstance(recorte, (list, tuple)) else (recorte,) * 4
+    im = im.crop((int(w*l), int(h*t), int(w*(1-r)), int(h*(1-b))))
     im = ImageOps.autocontrast(im, cutoff=1)
+    if invertir:
+        im = ImageOps.invert(im)
     im = im.point(lambda v: int(255 * (v / 255) ** 1.6))          # más nocturno
     luz = est.get("luz_grabado", est["texto"])
     return ImageOps.colorize(im, black=est["fondo"], mid=est.get("medio_grabado", est["acento"]), white=luz)
 
+ENCUADRE = (0.5, 0.5)   # centro del recorte (x, y); se fija con `encuadre = [x, y]` en [cubierta]
+
 def encaja(img, w, h):
-    return ImageOps.fit(img.convert("RGB"), (int(w), int(h)), Image.LANCZOS)
+    return ImageOps.fit(img.convert("RGB"), (int(w), int(h)), Image.LANCZOS, centering=ENCUADRE)
 
 # ------------------------------------------------------------------ portadas por colección
 # Cada función dibuja la portada en un lienzo de w x h (sirve para KDP y para ebook).
@@ -245,8 +252,14 @@ def lomo_vertical(C, L, coleccion, alto, ancho):
     if True:
         f_tit = fuente("BodoniModa.ttf", t, "Black") if coleccion == "archivo-lupin" else fuente("Cinzel.ttf", t, "SemiBold")
         tit = "EL ARCHIVO LUPIN" if coleccion == "archivo-lupin" else L["titulo"].upper()
+        while dt.textlength(tit, font=f_tit) > alto * 0.46 and f_tit.size > 10:   # hueco 0,17–0,63
+            f_tit = fuente("BodoniModa.ttf", int(f_tit.size * 0.95), "Black") if coleccion == "archivo-lupin" \
+                else fuente("Cinzel.ttf", int(f_tit.size * 0.95), "SemiBold")
         dt.text((alto * 0.40, ancho / 2), tit, font=f_tit, fill=crema, anchor="mm")
-        dt.text((alto * 0.76, ancho / 2), L["autor"].upper(), font=fuente("Cinzel.ttf", int(t * 0.7), "Medium"), fill=oro, anchor="mm")
+        fa = fuente("Cinzel.ttf", int(t * 0.7), "Medium")
+        while dt.textlength(L["autor"].upper(), font=fa) > alto * 0.24 and fa.size > 8:      # hueco 0,66–0,90
+            fa = fuente("Cinzel.ttf", int(fa.size * 0.95), "Medium")
+        dt.text((alto * 0.78, ancho / 2), L["autor"].upper(), font=fa, fill=oro, anchor="mm")
         dt.text((alto * 0.07, ancho / 2), str(L.get("dossier", L["volumen"])), font=fuente("Cinzel.ttf", int(t * 0.8), "Medium"), fill=oro, anchor="mm")
     return tira.rotate(-90, expand=True)
 
@@ -257,9 +270,11 @@ def main():
     C = json.loads((RAIZ / "colecciones" / f"{col}.json").read_text(encoding="utf-8"))
     cub = meta.get("cubierta", {})
     L = {**meta, **cub}
+    global ENCUADRE
+    ENCUADRE = tuple(cub.get("encuadre", ENCUADRE))
     ilu = Image.open(dir_proy / cub["ilustracion"]) if cub.get("ilustracion") else None
     if ilu is not None and cub.get("grabado"):   # grabado de dominio público: teñir a la paleta de la colección
-        ilu = preparar_grabado(ilu, C)
+        ilu = preparar_grabado(ilu, C, cub.get("recorte_grabado", 0.035), cub.get("invertir_grabado", False))
     paginas = cub.get("paginas", 0)
     if not paginas:
         pdf = dir_proy / "interior" / f"{slug}_interior_6x9.pdf"

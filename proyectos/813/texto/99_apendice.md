@@ -1,0 +1,9 @@
+**La obra.** *813* se publicó por entregas en el diario parisino *Le Journal* entre marzo y mayo de 1910, y ese mismo año apareció en libro en la editorial de Pierre Lafitte. En 1917, Leblanc revisó el texto y lo dividió en dos volúmenes, *La Double Vie d'Arsène Lupin* y *Les Trois Crimes d'Arsène Lupin*, que son las dos partes de esta edición. Es la cuarta entrega de la serie, tras *Arsène Lupin, caballero ladrón* (1907), *Arsène Lupin contra Herlock Sholmès* (1908) y *La Aguja Hueca* (1909).
+
+**El autor.** Maurice Leblanc (Ruan, 1864 – Perpiñán, 1941) quiso ser un novelista a la manera de Flaubert y Maupassant, y la posteridad le recuerda por un ladrón. Arsène Lupin nació en 1905 por encargo de Pierre Lafitte para la revista *Je sais tout*. Leblanc escribió sus aventuras durante más de treinta años y llegó a sentirse prisionero de su criatura. La obra de Leblanc está en dominio público en España desde el 1 de enero de 2022.
+
+**El contexto.** La novela transcurre en la Europa anterior a la Primera Guerra Mundial: la del Káiser, los pequeños principados alemanes y la diplomacia secreta. Los lectores de 1910 reconocían en el «secreto de Estado» que persigue Lupin los temores de una época que se sabía al borde del abismo. Leblanc mezcla con libertad personajes reales y ficticios; el gran ducado de Deux-Ponts-Veldenz y su dinastía son invención del autor.
+
+**Los nombres.** Esta edición mantiene la forma francesa de los nombres de Arsène Lupin y Herlock Sholmès, como en los volúmenes anteriores del Archivo Lupin, y respeta la hispanización del resto de los personajes, como era habitual en las traducciones españolas de la época.
+
+**El final.** El epílogo, «El suicidio», enlaza con las aventuras posteriores del personaje: el nombre de don Luis Perenna, con el que Lupin se alista en la Legión Extranjera, reaparecerá en *Los dientes del tigre* (1914).

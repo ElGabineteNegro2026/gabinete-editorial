@@ -1,5 +1,7 @@
 # El libro de los licántropos — antología
 
+> **Aprobado** por el responsable el 16-11-2026. Proyecto en `proyectos/`.
+
 - **Autores**: varios (todos fallecidos antes de 1946; ver tabla).
 - **Colección propuesta**: **Archivo Arcano** (tapa dura), como quinto volumen de la serie «El libro de…»
   (casas encantadas, cultos prohibidos, objetos malditos).

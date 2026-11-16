@@ -29,7 +29,8 @@
   footer: context {
     // Sin folio en las blancas que deja a-impar(): fin de sección en p-1 e inicio en p+1
     let p = here().page()
-    let blanca = query(<fs>).any(m => m.location().page() == p - 1) and query(<ini>).any(m => m.location().page() == p + 1)
+    // (o la marca de fin está en lo alto de esta misma página: la sección anterior era una página aislada, p. ej. el manifiesto)
+    let blanca = query(<ini>).any(m => m.location().page() == p + 1) and query(<fs>).any(m => m.location().page() == p - 1 or (m.location().page() == p and m.location().position().y < 2cm + 1pt))
     if not blanca { align(center, text(size: 9pt, str(p))) }
   },
 )

@@ -1,0 +1,20 @@
+coleccion = "archivo-lupin"
+titulo = "813"
+autor = "Maurice Leblanc"
+volumen = "IV"
+isbn = "En trámite"
+creditos_obra = ["Título original: 813", "Maurice Leblanc, 1910 (folletín en Le Journal; libro, Pierre Lafitte, 1910)"]
+proximo_titulo = "El tapón de cristal"
+capitulos_en_impar = false
+
+[cubierta]
+ilustracion = "cubierta/chatgpt_etretat_noche.png"   # ilustración del responsable (ChatGPT), 16-11-2026 (sustituye a la caja fuerte)
+grabado = false
+dossier = "IV"
+papel = "crema"
+sinopsis = "París, Palace Hotel. El magnate Rodolfo Kesselbach aparece asesinado en su suite. Junto al cadáver, una cigarrera con dos iniciales, «L. M.», y en su agenda una cifra que nadie sabe descifrar: 813.\n\nArsène Lupin solo había ido a robarle. Ahora es el principal sospechoso de un crimen que no ha cometido, y el asesino, un hombre vestido de negro al que nadie ha visto el rostro, va siempre un paso por delante.\n\nPara alcanzarlo, Lupin tendrá que desdoblarse en el príncipe Sernine y en el jefe de la Sûreté, el señor Lenormand, y asomarse a un secreto que afecta a los tronos de Europa. Es la aventura más sombría del caballero ladrón: la primera en que Lupin pierde."
+cita = "Cuando Lupin dice una cosa, ésta se cumple."
+cita_autor = "Arsène Lupin"
+# Propuesta A (Vallotton), conservada en cubierta/propuestas/:
+# ilustracion = "cubierta/vallotton_assassinat_1893_limpio.jpg"; grabado = true; invertir_grabado = true
+# recorte_grabado = [0.06, 0.06, 0.08, 0.10]; encuadre = [0.62, 0.5]

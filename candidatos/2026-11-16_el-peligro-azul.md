@@ -1,5 +1,7 @@
 # El peligro azul — Maurice Renard
 
+> **Aprobado** por el responsable el 16-11-2026. Proyecto en `proyectos/`.
+
 - **Autor**: Maurice Renard (Châlons-sur-Marne, 28-2-1875 – París, 18-11-1939).
 - **Título original y año**: *Le Péril bleu*, 1911 (fechado 1910; Louis-Michaud, París). Dedicado a H. G. Wells.
 - **Colección propuesta**: **Límite Abisal**.

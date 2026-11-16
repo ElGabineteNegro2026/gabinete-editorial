@@ -52,3 +52,9 @@ Sin altas ni bajas de libros respecto al 14-11-2026.
 ## Otros productos (no editoriales)
 - Objetos del Gabinete: 3 cuadernos, 1 incienso, 5 velas (2 sin existencias)
 - Cursos: «Cómo escribir relatos de horror cósmico»
+
+## Anunciados (aún no en la tienda)
+- *Makt myrkranna. Los poderes de la oscuridad* (la versión islandesa de Drácula). Límite Abisal, Vol. XIX. En Amazon la semana del 16-11-2026, según el responsable.
+
+## Derechos
+- 16-11-2026: el responsable confirma que tiene las licencias de Machen, Blackwood, Clark Ashton Smith y F. B. Long (aviso del informe del 16-11).
