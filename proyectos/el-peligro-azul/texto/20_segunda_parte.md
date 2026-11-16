@@ -1737,3 +1737,163 @@ El día declinaba.
 —Venga —dijo el astrónomo al duque de Agnès—. Ahora vamos a disecar a los sarvants… ¡Cuando pienso en mi hija, me parece que de buena gana los habría despedazado vivos!… Venga usted, caballero. Nos llevamos a aquel ciego que ve allí; se llama Louis Courtois y sabe anatomía. El director de la institución me lo ha recomendado calurosamente. Vaya a buscarlo, se lo ruego.
 
 Cuando el trío, del brazo, salió del Grand Palais, la hélice de yeso salía de su molde, heteróclita, inverosímil, toda blanca: reproducción fiel de una hélice maravillosa que no habían concebido los únicos que, hasta entonces, se habían llamado *los hombres*.
+
+## XV. LA VERDAD SOBRE LOS SARVANTS
+
+El doctor Monbardeau los esperaba sin calma en el laboratorio del bulevar Saint-Germain, hermoso estudio de pintor que el señor Le Tellier había acondicionado para toda clase de manipulaciones científicas en el sexto piso de su casa. El doctor se paseaba a grandes zancadas bajo la luz cruda de los arcos eléctricos. Había dispuesto sobre una mesa aceros relucientes y líquidos de matices químicos, prestados para la ocasión por colegas parisienses.
+
+Los cinco féretros de cinc se alineaban uno junto a otro. Y se alineaban también las cajas frigoríficas de los sapos motores.
+
+El duque de Agnès y el astrónomo se pusieron a abrir uno de los ataúdes. Entretanto, el doctor, sin dejar sus idas y venidas, interpelaba al ciego y lo tomaba por testigo del rigor de los acontecimientos:
+
+—¡Hombres, caballero! ¡Qué vergüenza! ¡Hombres! ¡Bímanos bípedos macrocéfalos, como usted y como yo! ¡Seres que tienen el honor de parecerse a Claude Bernard, a Pasteur, a… Tolstói! ¡Y que pescan a sus semejantes como si fueran gobios!… ¡Y que los coleccionan! ¡Oooh!… ¡Aah! ¡Pobre humanidad, caballero!
+
+—¡Bah! —respondió el señor Courtois—, si pudiéramos, haríamos lo mismo. Con el pretexto de la etnografía, en el Jardín de Aclimatación se organizan exhibiciones de salvajes que recuerdan bastante el aerario de los sarvants. Y mire, doctor, ese goce perverso que, según parece, se siente al ver vivir a una persona sin que lo sepa, por el ojo de la cerradura, ¡no es sino la voluptuosidad del coleccionista!
+
+—¡Pobre humanidad, le digo!
+
+—Ven a ayudarnos, Calixte —dijo el señor Le Tellier.
+
+La tapa del féretro saltó.
+
+En medio de las cadenas y del hielo medio fundido, un vacío adoptaba confusamente la «silueta en volumen» (perdónesenos la expresión) de un ser humano, ni gordo ni delgado, ni alto ni bajo.
+
+Aquella visibilidad temporal e imperfecta sugirió al director del Observatorio la idea de hacer vaciar los cadáveres al día siguiente, como la hélice, y permitió coger al sarvant por los pies y por debajo de los brazos, sin tantear. Su ligereza ascensional neutralizaba el peso de las cadenas; el conjunto equivalía a 0 gramos, 0 centigramos, 0 miligramos.
+
+Lo extendieron sobre un cañizo, y los cuatro operadores empezaron a palparlo, no sin aversión.
+
+Impulsivamente, miraban el lugar donde se posaban sus manos, como si las miradas tuvieran el poder de volver visibles las cosas y el aspecto de las cosas o su no aspecto fuera una simple consecuencia de la atención visual.
+
+Los tres videntes se dieron cuenta muy pronto de que, al contrario, con los ojos cerrados *tocaban* con más comodidad. En cuanto al ciego de manos sagaces, mantenía la cabeza erguida y sus dedos se agitaban en el aire con una agilidad de prestidigitador. Había allí cuatro ciegos, tres de ellos voluntarios; ¡y eso con un fin de claridad!
+
+El señor Le Tellier, tras un silencio, abrió los párpados. Le turbó el pasmo que se pintaba en el rostro de Louis Courtois, tan impenetrable de ordinario.
+
+—Endiabladamente deformado, ¿verdad? —le dijo—. No noto ni los ojos ni la boca…
+
+—No: no hay ojos —confirmó el otro, conmovido—. Y no hay boca… Pero hay algo peor. La cara… los rasgos… son de un modelado tan tosco… grumoso… Y además, díganme, señores, este hombre está vestido, ¿no?…
+
+—¡Pardiez!
+
+—¡Sin duda!
+
+—Pues sí…
+
+—Pues bien, toquen: no hay diferencia entre la piel de la cara y la tela del traje…, ni la piel de las manos tampoco…
+
+—¡Manos, eso! —protestó el doctor—. ¿Esos especie de muñones granulosos que repugnan al tacto?…
+
+El señor de Agnès repetía con aire asqueado:
+
+—¡Qué contacto tan sucio! Mamelonado, viscoso…
+
+—Pero bueno… —dijo el ciego—, ¡esto no es ropa! Forma cuerpo con el individuo… ¡Es la misma consistencia, la misma sustancia! Se diría una especie de efigie blanda hecha de pelotas toscamente aglomeradas… Esas pelotas… esas pelotas… ¡Ah! —exclamó—, ¡tengo una! —Y se vio a sus dedos hurgadores engancharse en el vacío, sobre el pecho invisible—. ¡La tengo!… La despego… con trabajo… Viene. ¡Aquí está! ¡Vaya! ¡La he soltado!
+
+Un ruido seco chasqueó en el techo.
+
+—Se ha ido a pegar allá arriba, como el sarvant del Grand Palais, que atravesó la cristalera —continuó Louis Courtois—. Ahora hay una cavidad en el pecho, en el lugar de esa bola.
+
+—Hay que recuperarla —decidió el astrónomo—. Con un taburete…
+
+Pero el ciego decía, crispando por segunda vez sus manos blancas:
+
+—Inútil: tengo otra… que no podrá escapárseme… ¡Ya está!… ¡Dios del cielo!
+
+—¿Qué ocurre?
+
+Los otros tres miraban las manos y luego la fisonomía del inválido. Sus dedos se movían febrilmente y el horror le ponía verde la cara. Un gesto estremecido le hizo retroceder en la actitud de la repulsión más invencible; sus manos se abrieron. Un segundo ruido seco chasqueó en el techo.
+
+—¡Puaj! —Temblaba como si tuviera frío—. *¡Es una araña!*… Una araña inmunda de patas cortas, del tamaño de un huevo de gallina… Una araña muerta…
+
+Todos se apartaron del cadáver invisible.
+
+El señor Le Tellier apeló a toda su energía y se acercó bruscamente al cañizo donde las cadenas esbozaban la configuración del espantoso sarvant.
+
+—¡Vamos! ¡Un poco de valor!… Hay que saber. Todo esto…
+
+Y, solo, reanudó la horrible tarea manual. Luego, formulando sus hallazgos a medida que los hacía, he aquí que tuvo que pronunciar unas palabras que quedarán como enormes por los siglos de los siglos:
+
+—No, no… Usted lo ha dicho, caballero: no es un hombre lo que estoy tocando… *Es una aglomeración de bichos agregados en forma de hombre, y esos bichos son, en efecto, arañas*… sí…, piojos gordos, si lo prefieren…
+
+—Prefiero las arañas —susurró el duque de Agnès.
+
+El astrónomo prosiguió:
+
+—Se mantienen estrechamente apretadas, en un aglomerado compacto, en la posición en que las sorprendió el ahogamiento aéreo. Están enmarañadas a la manera de las arañitas campestres, cuya reunión sobre el lomo de su madre forma en él un vellón horrible y hormigueante. Pero aquí es una criatura entera constituida únicamente por animales… ¡Animales agrupados en forma de hombre! ¡Y de hombre vestido! ¡Esto sí que es…!
+
+—Así pues —recalcó el doctor en el colmo de la exaltación—, ¡los verdugos de nuestros hijos son arañas!
+
+El señor Le Tellier rompió el silencio desesperado que siguió y observó:
+
+—Robert lo había presentido muy bien cuando decía: *los seres del vacío deben de ser más diferentes de los hombres que los habitantes de un planeta inmensamente lejano, pero provisto de atmósfera*.
+
+Hacía un rato, el señor Monbardeau se indignaba de que los sarvants fueran hombres; ahora lo habría deseado de buena gana. ¡Arañas! Inteligentes, civilizadas, ¡sea! Pero, ¡de todos modos!, ¡arañas! ¿Se podía imaginar algo más sórdido?
+
+Su repugnancia aumentó cuando el duque, tras ponerse los guantes, arrancó del cuerpo otro arácnido invisible que tuvo la inspiración de untar con cola fuerte mezclada con tinta roja. Todo embadurnado de pegamento púrpura, el pequeño monstruo surgió, sangriento y gelatinoso… Era de una fealdad tan insoportable para quien conocía las abominaciones del aerario que lo arrojaron por la ventana. Lastrado por su carga pegajosa, subió lentamente hacia las estrellas —hacia el mundo superaéreo— y se perdió pronto en la noche falaz, traicioneramente florida de luces exquisitas.
+
+El ciego, valeroso, palpaba de nuevo los despojos del sarvant, y sus manos ágiles parecían entonces dos arañas de cinco patas, dotadas de vida propia, que se afanaban en su tarea de misterio.
+
+—¡Esta forma humana! —chocheaba el doctor—. Pero ¿por qué? ¿Por qué, pues?
+
+—¡Ya lo tengo! —anunció de pronto el señor Le Tellier—. ¡Estamos ante un *fenómeno de mimetismo*! ¡Es un medio de defensa! ¡Una astucia de guerra! Cuando se vieron en nuestro poder, esas arañas pensaron que respetaríamos a seres semejantes a nosotros, ¡y por eso se aglutinaron de modo que figurasen hombres! Mimetismo puramente instintivo o mimetismo razonado, en todo caso: ¡mimetismo!
+
+Tres exclamaciones no hicieron más que una.
+
+—¡Así es, hijos míos! Y por eso los camarotes del aeróscafo son tan pequeños. Comparados con el tamaño de los marineros que los habitaban, son grandes salas. El aeróscafo, para los sarvants, es un amplio paquebote, proporcionado no a la tripulación, sino a la presa que estaba encargado de perseguir y llevarse.
+
+—Ya no somos gobios, doctor —dijo el duque de Agnès—; somos cachalotes.
+
+—Pobre consuelo, caballero. Sin embargo, confieso que… unos míseros enanos… por muy arañas que sean…
+
+—¡Uuuuh! ¡Unos enanos condenadamente hábiles! ¡Unas arañas endiabladamente cultas! El aerario, doctor, en estas condiciones, ¡qué monumento! ¡Un acuario para ballenas!
+
+—Páseme el escalpelo —dijo Courtois—. Esta cohesión me parece extraña…
+
+—¿Tiene algo nuevo? —le preguntó el señor Le Tellier.
+
+El señor Courtois. —Espere, déjeme hacer… ¡Es eso! Me lo esperaba. ¡Oh!… Estas arañas… no solo están unidas por el entrelazamiento de sus patas. Se sujetan también *por los nervios*. Cada una presenta dos papilas nerviosas exteriores, en relación con los centros (cerebro, médula o ganglios), que cumplen la función de bornes eléctricos o de tomas de corriente, como quieran. *¡Las arañas se conectan unas con otras por medio de esos contactos nerviosos!*
+
+El señor Le Tellier. —¡Cielos y tierra! Pero entonces, si pueden soldarse así, la especie arácnida entera puede, a su antojo, formar una cantidad variable de seres colectivos, o convertirse en un solo animal inmenso, dotado de un solo espíritu, de una sola voluntad, de una sola sensibilidad: una bola gigantesca, o bien un cordón interminable, un rosario…
+
+El señor Monbardeau. —¡Como la tenia!, que también está compuesta de organismos unidos uno tras otro…
+
+El señor de Agnès. —Los sarvants se parecen al agua, que se dispersa en gotitas sin número y podría no formar más que un solo océano. Doctor, ya no somos cachalotes; esas gentes son titanes cuando quieren.
+
+El señor Courtois. —Sí: ¡titanes!, ¡proteos multiformes! A estos les ha placido tomar prestada nuestra estatura para intentar engañarnos; podían elegir entre todas las conformaciones posibles, podían amalgamarse en todas las combinaciones plásticas y convertirse así en varias grandes criaturas-colonias, en muchos pequeños seres-sociedades, o bien seguir siendo una multitud de individuos separados.
+
+El señor Le Tellier. —Estas arañas no son, en suma, más que unidades de construcción, como las células de nuestro cuerpo, puesto que, después de todo, el hombre tampoco es más que una colección de elementos. La diferencia es que en nosotros la célula no tiene personalidad ni independencia, mientras que en los sarvants cada elemento, libre, es un individuo. Este tipo biológico realiza una quimera social: el Estado cooperativo. El pueblo superaéreo goza de la república ideal: uno en todos, todos en uno. Es admirable.
+
+El señor de Agnès. —¡Es asqueroso!
+
+El señor Courtois. —Todos los modos de vida son admisibles, y no carece de grandeza este, que subordina la preponderancia de una raza a la práctica de la solidaridad.
+
+El señor de Agnès. —¡Bah! ¡Preponderancia sobre unos sapos!
+
+El señor Monbardeau. —¡Es verdad, los sapos! ¡Nos olvidábamos de ellos! ¿Y si ahora los estudiáramos un poco? Tengo curiosidad… Cada uno de ellos, recuérdenlo, producía el trabajo de un buey, y es un misterio accesorio en el que sospecho, a pesar de todo, la intervención de una ciencia…
+
+Corrió entonces a los animales motores y tuvo el pesar de comprobar que su descomposición se producía con una rapidez desafortunada. Un olor a ácido fórmico que se desprendía de las neveras picaba en la nariz y hacía llorar. Burbujas de gases mefíticos cantaban glu-glu en el agua del hielo fundido. La tapa de una caja salió despedida lejos, con hedor y detonación.
+
+—Los sarvants tienen que ser unos brutos —declaró el duque de Agnès— para haber tratado así a unas pobres criaturas de Dios.
+
+—Para empezar —le contradijo el señor Le Tellier—, ignora usted si esos sapos no estaban encantados de encontrar protección, abrigo y sustento a cambio de un trabajo sin duda proporcionado a su fuerza. Yo pienso que los sarvants *no son malos*, puesto que creyeron que no haríamos daño a unos huéspedes que se nos parecieran…
+
+—¡Ya, ya! —se burló el doctor—. ¡El animal más obtuso sabe muy bien que los lobos no se comen entre sí!
+
+—Los lobos, es verdad. Los hombres, no.
+
+—En todo caso, los sarvants no se privan de martirizar a los que no se les parecen —murmuró el duque de Agnès.
+
+El astrónomo replicó:
+
+—¿Y si no supieran lo que es el sufrimiento?… ¿Han pensado en eso?… Nosotros, que sufrimos, pretendemos que ciertos animales ignoran el dolor. En el fondo, ¿qué sabemos nosotros?
+
+—Quizá —insinuó el ciego—, quizá adoptaron nuestro aspecto sabiendo, por el contrario, que es al hombre a quien el hombre más teme… Pero démonos prisa: la podredumbre invade estos restos…
+
+—Es una lástima —suspiró el señor Le Tellier—. Habría querido someterlos a experimentos de radiografía y hacerlos vaciar.
+
+—No tendrá tiempo.
+
+—Intentemos al menos comprender cómo suplen la falta de circulación sanguínea y de función respiratoria, y desagreguemos este simulacro de humanidad.
+
+El sol naciente los encontró inclinados sobre los pequeños muertos invisibles, repugnantes y ligeros, difíciles de retener y que, al menor movimiento en falso, iban a pegarse al techo. Pero el resultado de su vigilia es demasiado técnico para ser referido en el curso de esta historia popular, cuya claridad, por lo demás, no ganaría con ello ni una cienmilésima de carcel.
+
+Así terminó la memorable noche del 6 al 7 de septiembre de 1912, digna sucesora de un viernes célebre para siempre en los anales del Conocimiento.
