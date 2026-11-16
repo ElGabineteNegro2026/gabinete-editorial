@@ -11,8 +11,20 @@
 - Texto fuente francés descargado de Wikisource (edición Louis-Michaud, 1911) en `fuente/`, un HTML por capítulo, incluida la página «Texte entier».
 - Traducido el «Préliminaire» → `texto/05_preliminar.md` (≈ 1.800 palabras).
 
+## Traducción (en curso desde el 16-11-2026)
+- `texto/10_primera_parte.md`: capítulos I-XII traducidos (≈ 33.000 palabras).
+- Fuente: `fuente/*.json` (respuesta de la API de Wikisource, un fichero por capítulo; no se suben al repositorio, ver `fuente/.gitignore`).
+
+### Dudas y decisiones de traducción
+- Pieza 9 (cap. II): Le Tellier anuncia la llegada «le 16» en una carta fechada el 18 de abril; es errata del original (todo el texto dice el 26). Corregido a 26.
+- Cap. XII: «dans la nuit du 19 au 30» es errata; traducido «del 19 al 20».
+- Cap. IX: el original reproduce el croquis de las huellas en la nieve (Commons: `Renard - Le Péril Bleu, 1911 (page 84 crop).jpg`, dominio público). **Pendiente decidir** si se incluye en la maqueta (habría que rotular en español).
+- Diálogo «a la francesa» del capítulo X (acta de la deliberación): se mantiene el formato teatral («Garan. —…»), con acotaciones en cursiva.
+- Términos: *sarvants* en cursiva solo la primera vez, luego en redonda y minúscula (el original alterna «Sarvants» con mayúscula); «Peligro Azul» con mayúsculas como en el preliminar. Se conservan sin traducir *mollards*, el patois del boyero (cap. XII) y los títulos de periódicos.
+- Groserías del original suavizadas solo lo justo («s'en foutait pas mal» → «le importaba un bledo»).
+
 ## Pendiente
-- Traducir la primera parte (21 capítulos), la segunda parte (≈ 21 capítulos) y el epílogo. Son unas 110.000 palabras en total (recuento de los HTML), ≈ 340 páginas.
+- Traducir el resto de la primera parte (XIII-XXI), la segunda parte (≈ 21 capítulos) y el epílogo. Son unas 110.000 palabras en total (recuento de los HTML), ≈ 340 páginas.
 - Prólogo (CONSULTA) y apéndice. Para el apéndice: el preliminar cita otros relatos de Renard (*El doctor Lerne*, *Le Voyage immobile*, *L'Homme truqué*…), que merece la pena comentar.
 - Cubierta Límite Abisal: buscar grabados de dominio público de cielo, abismo o seres aéreos (p. ej. Grandville, Doré, láminas de *La Nature*).
 
