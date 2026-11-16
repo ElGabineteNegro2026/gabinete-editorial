@@ -2311,3 +2311,185 @@ Se pasó la mano por la frente, como ante apariciones espantosas. Y su mano temb
 —… Y entonces, querido, usted no ha cenado —terminó Maxime—. Tiene hambre. Estómago vacío, cerebro hueco. La inanición le hace desvariar.
 
 —Señor Maxime —dijo Robert—, daría mi vida por equivocarme.
+
+## XV. OTROS HECHOS CONTRADICTORIOS
+
+El periodo que siguió fue verdaderamente terrible, por la sola razón de que aún había incrédulos. Las poblaciones vecinas conservaban una sospecha de engaño y, entre sus habitantes, quienes admitían la epidemia de desapariciones no creían que hubiera de extenderse. Según ellos, era una calamidad local. Pase, pues, por esos santos Tomases que no habían visto nada. Pero en el corazón del Bugey, en la tierra de Belley, en pleno desastre, más de un zopenco y más de un ingenioso se obstinaban en tomárselo a chacota. Se burlaban del *S. P. L. D. D. T. C. L. S.* (el Sindicato para la Defensa del Territorio contra los Sarvants), que acababa de fundarse. ¡Fingían contravenir sus prescripciones!… ¡Y eso es lo increíble! ¡Y eso es lo que provocó tantas y tantas desgracias!
+
+La audacia del enemigo crecía con el número de sus éxitos. Su terreno de operaciones había acabado por convertirse en un círculo inmenso que englobaba Saint-Rambert, Aix-les-Bains y Nantua. En aquella provincia, que se extendía cada vez más, el sarvant cobraba su diezmo incomprensible. Y quienes no creían en él se convertían en sus tristes víctimas.
+
+¡Pero qué decir de quienes creían en el sarvant! Los desdichados vivían en el terror. ¿Querían salir? Se imponía una escolta; se daban cortejo unos a otros; y se veían avanzar cohortes de aldeanos que miraban el cielo, vuelto equívoco. ¡Ah, el cielo! Un enigma se añadía a sus numerosos misterios, y su profundidad retrocedía aún más a los ojos del hombre. Se cerraban las casas mucho antes del crepúsculo; y cuando la noche hostil había descendido, se ponían a la escucha; pues se había convenido que tocaría a rebato el pueblo donde se avistase a los sarvants. Pero nunca se oyó sino en el fondo de los oídos febriles, donde la sangre tañía su campana enfermiza. Mucho después del alba se abría un ventanillo, un respiradero, luego las ventanas y por último la puerta.
+
+Algunos permanecían encerrados. Otros, menos timoratos, se obligaban a salir. Pero bastaba un estremecimiento para que se estremecieran; una puerta empujada por una corriente de aire los hacía palidecer; sobre todo, el viento sabía asustarlos. Se había hablado de la brisa que agitó los castaños de Mirastel y precedió al «clac» espantoso; de modo que un céfiro que pasara sobre los follajes les parecía alguien malvado que llegaba. Su caricia los envolvía de escalofríos. Habrían querido conocer el origen del viento y qué es exactamente, cuestión que nunca se habían planteado.
+
+Lo que temían, a decir verdad, era ser atrapados por la espalda, en aquellas manos fulminantes que siempre se veían demasiado tarde. Por eso se volvían constantemente. Dar una palmada en el hombro a un camarada abordándolo por sorpresa era un juego mortal. En Belley, en el paseo, durante una partida de bolos, un ciudadano cardíaco cayó fulminado porque su compañero lo había tocado de ese modo. Un miércoles, cerca de Talissieu, se descubrió el cadáver del guarda rural en un seto de zarzas. Durante una ronda entre dos luces, su blusa se había enganchado en las espinas; seguro de verse arponeado por los sarvants, el pobre diablo había forcejeado; pero las zarzas lo habían atado con todas sus garras, y el espanto lo había matado. Su cara mostraba bien que había muerto de miedo.
+
+Aunque todas las viviendas estaban llenas de habitantes, la mayoría de los pueblos parecían evacuados. Las calles, aquí y allá, resonaban al paso de un grupo. A veces, en su silencio y su vacío opresivos, un temerario, un valiente, se deslizaba a lo largo de las paredes con cara de hombre perdido. Y, como todos, alzaba los ojos al cielo; no para suplicarle, sino para espiarlo. Pues del cielo se esperaba menos la salvación que el peligro.
+
+El campo estaba desierto. Algunos rebaños, guardados por un rebaño de niños, pacían aún en los prados; de trecho en trecho, falanges de labradores atendían los campos. Un recogimiento lúgubre planeaba sobre las canciones apagadas y las risas vencidas. Para colmo de tristeza, un mes de junio sombrío, interceptando el sol, hizo rodar nubarrones interminables.
+
+Cada día, sin embargo, una procesión salía de las iglesias; la componía una multitud de luto; y se rezaban oraciones para pedir a Dios el fin de un azote que ni siquiera se le podía designar con claridad. Como de costumbre, el terror suscitó conversiones. Una alfombra de fanáticos, boca abajo, se extendía al pie de los altares. Cierto sacerdote, tras rebuscar las viejas fórmulas medievales, practicó exorcismos.
+
+A medida que uno se alejaba del Bugey, sin embargo, la emoción iba atenuándose, como se ha dicho a propósito de las regiones limítrofes. La comarca era un foco de miedo que irradiaba sobre la tierra y cuya intensidad se debilitaba con la distancia. El extranjero, que aún no temblaba por su propia cuenta, estaba por lo demás muy tranquilo, y muchos Estados lejanos seguían teniendo a los sarvants por bulos.
+
+Una cosa inimaginable es que Maxime figurase entre los escépticos y los impasibles tanto como si hubiera vivido en las antípodas, él, el huésped de Mirastel, él, tan probado en sus afectos por la desgracia pública. Su firme sentido común de marino y de soldado se rebelaba ante lo sobrenatural. Se negaba a admitirlo. Y como lo sobrenatural parecía ser la única clave de los hechos, Maxime no estaba lejos de negar los hechos mismos, si no en su realidad, al menos en la apariencia que se les prestaba. Seguía persuadido de que todo se explicaría *naturalmente* cuando los bandidos reclamasen dinero a cambio de los cautivos devueltos sanos y salvos. Según él, los únicos mártires del sarvant serían los neuróticos a los que un susto bastaba para matar. Por más que se esforzaba en considerar seriamente la historia de los hombres voladores y de las águilas que no volaban —de aquel mundo al revés, de aquella saturnal de la creación—, no lo conseguía, y la tachaba para sus adentros de tramoya teatral y de truco de ilusionista, o de bola.
+
+Pese a las reconvenciones de todos, pese a la ansiedad de su madre, se iba a menudo a la montaña, solo, y pintaba acuarelas del natural. Decía que necesitaba hacerse la mano para ejecutar las láminas en color de un tratado de ictiología. Hacía gala de una confianza, de una despreocupación extraordinarias, y no desaprovechaba ninguna ocasión de escaparse, por pequeña que fuera. Cuando había recados que hacer, se encargaba de ellos, y en el gran automóvil blanco, que se divertía conduciendo, eran él y el mecánico quienes iban a por las provisiones.
+
+Así equipado, el segundo jueves de junio, Maxime se dirigió a Belley, pues la reserva de carburo de calcio necesitaba renovarse. (Se había decidido, en efecto, volver a montar los dos proyectores; y cada noche, ahora, su doble rayo giraba en lo alto de la torre, que se parecía así a algún molino fantasmagórico, con aspas de capricho y de fuego).
+
+Así pues, Maxime Le Tellier volvía hacia Mirastel con las primeras sombras de la tarde.
+
+A la salida de Ceyzérieu —construido en la altura, frente al castillo y al otro lado de la llanura pantanosa—, la belleza de la vista repentina lo arrebató.
+
+Un mar de niebla sumergía los fondos. Pueblos y hasta campanarios habían desaparecido. Los vapores alzaban su fieltro imponderable hasta la línea de las mansiones. El poniente, rey de los oros y las sombras, recortaba soberbiamente el Colombier, hacía resaltar sus aristas y ahondaba la entalladura de sus surcos. La noche ascendente había conquistado ya la parte baja de la grupa, pero las altas rocas llameaban todavía. Una pesada nube empenachaba la cima, parecida entonces al cráter de un volcán. Había en aquel paisaje algo antediluviano. Maxime creía vivir cien mil años antes, cuando las aguas cubrían toda la llanura y los montes arrojaban llamas… La luna, a su derecha, salió por lo alto de la Chautagne, enorme y de un rojo oscuro, como un tibio sol prehistórico. Y Maxime pensaba en los hombres primitivos, expuestos a la múltiple angustia de un mundo que ignoraban, pobres juguetes de elementos inexplicados cuyas manifestaciones debían de parecerles todas sobrenaturales, y que debían de morir persuadidos de haber vivido entre prodigios.
+
+La luna esparcía pinceladas carmesíes sobre la superficie de la niebla.
+
+El automóvil bajó la cuesta y se hundió en la nube estancada.
+
+La bruma era bastante densa: Maxime veía la carretera perderse a diez metros del capó. Metió la segunda velocidad, cruzó un puentecillo, tomó una curva a la izquierda y bordeó la pradera de Ceyzérieu, invisible. Pasado el puente de la Tuilière, no tuvo más remedio que aminorar aún más: el camino, sinuoso, se llenaba de trampas.
+
+En la penumbra blanquecina, los bosquecillos alzaban una sucesión de masas inciertas que la lejanía iba difuminando. Los pequeños claros palúdicos humeaban suavemente.
+
+De pronto, Maxime frenó en seco y aferró con mano crispada la muñeca del mecánico.
+
+—¡Mire! ¿Qué pasa por allí?…
+
+Delante de ellos, en el fondo de la niebla, muy cerca del suelo, una forma alargada, monumental —una especie de gran huso, una silueta de globo dirigible, en fin—, se colaba, viva y rápida, entre los grupos de árboles… Se hundió en la bruma, que su paso había atropellado y que se agitó tras ella en remolinos indolentes. No fue más que una aparición.
+
+—¿Lo ha visto usted? —preguntó Maxime, en el colmo de la sorpresa.
+
+—Sí, señor Maxime. ¡Vaya globo! ¡Cómo corre! ¡A noventa, por lo menos!
+
+—Seguro… ¡Ah, ya tenemos la verdad! —exclamó el joven, arrancando de nuevo—. ¡Bien lo sabía yo!
+
+—¡Ay, señor Maxime, a lo mejor no son esos los que se llevaron a la señorita…!
+
+—¡Cómo! ¿Es que no lo ha visto?… ¿No ha notado nada especial?
+
+—No, señor Maxime.
+
+—La barquilla, hombre… ¿la barquilla?… ¡Pues bien, *no tiene barquilla*!
+
+—¿Lo cree el señor Maxime?…
+
+—¡Que si lo creo!
+
+—No lo he visto. Iba demasiado deprisa…
+
+—No ha oído usted nada… Yo tampoco. ¡Además, el motor del coche armaba un estrépito y trepidaba!
+
+—¡Claro! El señor Maxime lo dejó embalarse cuando desembragó tan *rapido*… En fin, ya salimos del algodón; ya era hora…
+
+En efecto, el automóvil subía la rampa de Mirastel; y pronto, de nuevo en la luz de la tarde, Maxime pudo observar las cosas a sus anchas.
+
+El mar de niebla permanecía perfectamente inmóvil. Ninguna estela lo atormentaba. La luna, alta, reducida y pálida, lo tocaba ahora con laminillas nacaradas. El aire inmenso no estaba poblado más que de murciélagos. Hasta donde alcanzaba la mirada, ningún globo huía. La aeronave furtiva, que parecía gobernarse sin tripulación, como un dirigible fantasma, seguía sin duda deslizándose bajo la capa vaporosa; y esta se prolongaba hasta perderse de vista.
+
+Maxime llegó a Mirastel y se detuvo en el patio de las dependencias.
+
+Le extrañó bastante ver allí a sus padres y a todos los criados reunidos alrededor de un cabriolé de cuatro ruedas, provisto de una caja voluminosa, cuyo propietario peroraba con animación. Maxime reconoció a Philibert, el concesionario de la pesca en el lago del Bourget. (Todos los jueves aquel hombre iba de castillo en castillo llevando el pescado del viernes, y era él quien proporcionaba al oceanógrafo-ictiólogo los sujetos de sus experimentos y los modelos de sus láminas).
+
+Philibert peroraba, pues. Y Maxime advirtió el aire serio y atento de Robert Collin y del señor Le Tellier, que le escuchaban. Por lo demás, nadie se interesaba por el regreso del automóvil.
+
+Tras aconsejar al mecánico que guardara silencio sobre el dirigible, el hijo de la casa se acercó al pescador y le hizo repetir su historia.
+
+No era ordinaria, y databa de aquel mismo día.
+
+La casa de Philibert está situada cerca de Conjux, a orillas del lago. Había salido de ella por la mañana, hacia las cinco, para ir a «aparejar» a su yegua; y el lago, un instante, lo había hecho detenerse. Pues le gustaba contemplar su pesquería.
+
+El agua, centelleante de aurora, estaba lisa y transparente. Los peces nadaban a flor de agua… Pero de pronto la planicie espejeante se rompió. A cierta distancia de la orilla, Philibert vio formarse en el agua algo como un hueco instantáneo, fugitivo…, y del fondo de aquel agujero salió disparado el lucio más magnífico que pudiera imaginarse. El pez brotó, de un salto formidable, fuera de su elemento, *y no volvió a caer en él*; pero, mientras el ombligo del lago se cerraba sobre una ola, empezó a hacer sorprendentes contorsiones. Durante tres o cuatro segundos azotó el aire con la cola y las aletas, y luego se fue *revoloteando por encima del Bourget*, como hacen los martines pescadores. Dobló el promontorio donde se alza el castillo de Châtillon y desapareció tras él.
+
+Tal es la historia que Philibert contó con mucha menos claridad. Los criados la oían por segunda vez y, sin embargo, volvieron a exclamar.
+
+—Ya pueden figurarse —prosiguió el pescador— cómo me frotaba los ojos… ¡Y parecía de lo más juguetón, el condenado pez!
+
+—Sin embargo —dijo el señor Le Tellier—, hacía contorsiones muy violentas, ¿no es cierto?
+
+—¡Ah, sí, ya lo creo! ¡Parecía que le costaba Dios y ayuda! ¡Pues claro!
+
+El señor Le Tellier hizo una seña a Robert: aquello se parecía curiosamente a los hombres de Châtel y al águila del Colombier…
+
+Intervino Maxime:
+
+—¡Vamos, Philibert! Usted ve visiones… ¿Usted ha visto eso?… ¿Con la mano en el corazón?…
+
+—¡Lo juro!
+
+Pero el oceanógrafo pensaba:
+
+«Habrá visto un mújol volador, un exoceto o algún dactilóptero, algún rubio; en fin, debe de ser un pez de mar que algún bromista ha echado al lago para asombrar a las bellas damas de Aix-les-Bains».
+
+Se lo dijo a Philibert, le recordó que él conocía mejor que nadie las especies ícticas y le aseguró que ningún pez de agua dulce era capaz de volar.
+
+—Bueno, señor Maxime, ¿hay alguno de esos peces de mar voladores que esté hecho igual que un lucio?
+
+—Eso no. Y su longitud no pasa nunca de treinta o cuarenta centímetros.
+
+—¡Pues entonces, si le digo que es un lucio! ¡Y algo entiendo yo también, me parece! ¡Un lucio de primera, vaya! ¡Un viejo lucio, verde y bien hermoso, de cuarenta libras de peso por lo menos!
+
+—¡Señor Jesús! —exclamó la cocinera.
+
+—En fin —replicó Maxime—, ¿de qué manera pretende usted que volaba? Los peces voladores no se mantienen en el aire más que una treintena de metros; vuelven al agua y luego empiezan otra vez.
+
+—No, no: el mío *revoloteaba*. Daba saltitos alejándose; trazaba zigzags muy cortos, a derecha e izquierda, y se meneaba también en altura… Si volvió a zambullirse, fue detrás de Châtillon; porque certifico que estuvo todo el tiempo a cuatro o cinco metros del agua.
+
+Maxime soltó una risa sarcástica.
+
+—Y después de eso, ¿se quedó usted mucho rato en la orilla?
+
+—A fe mía que no. Fui enseguida a enganchar y a levantar las nasas en el vivero… Solo que, señoras y señores —anunció Philibert en otro tono—, he obsequiado a todo el mundo con mi aventura durante todo el camino… Eso me ha retrasado; se ha hecho de noche; y, si fuera un efecto de su bondad, me quedaría a dormir aquí, porque… No es que tenga miedo, pero…
+
+—Entendido —dijo la señora Arquedouve.
+
+—Señor Maxime, le he traído unos lavaretos.
+
+—Gracias. Póngalos en la cuba de la izquierda, por favor.
+
+Maxime, llevando aparte a su padre y a Robert Collin, les refirió la visión que había tenido en la niebla. Sostuvo que el dirigible era el de los forajidos, a causa de la disposición original que no permitía ver la barquilla, y a causa de la habilidad necesaria para conducir tan deprisa a través de la bruma y de los obstáculos.
+
+—¿Tan deprisa? —dijo el señor Le Tellier.
+
+—Tan deprisa —le respondió su hijo—, tan deprisa que el globo no tuvo tiempo, por así decirlo, de tapar los árboles por delante de los cuales se deslizaba. Fue como un tren lanzado, ya sabe, los expresos: se ven las cosas detrás de ellos, no se deja de verlas, a pesar de toda la opacidad que se interpone entre ellas y uno, el tiempo de un abrir y cerrar de ojos… Pues bien, así era.
+
+—En efecto, ¡qué rapidez!… Pero entonces no distinguiste ningún detalle, sobre todo en la niebla…
+
+—Si me hubiera envuelto un velo de muselina espesa, habría sido lo mismo. No se veían más que siluetas, a la distancia a la que pasó el auto-globo. Noté… Creí notar la ausencia de barquilla… Era un cigarro colosal que removía bruma a su alrededor.
+
+—¿Más grande que un dirigible ordinario?
+
+—Oh… no, no lo creo. En suma, es sencillamente una aeronave perfeccionada que huye a toda hélice una vez cometido el rapto o el robo… Confiaba en la niebla para pasar inadvertida… Se servía de ella como se sirve de la noche. El hecho de haberlo visto ahí me garantiza con seguridad que es él el corsario. ¡Ya están ustedes al tanto, me imagino!
+
+—¿Y el pez? —dijo el señor Le Tellier.
+
+—¿Y los hombres voladores? —remachó el secretario con una sonrisa cáustica.
+
+—¿El pez y los hombres voladores? ¡Lucubraciones de campesinos ingenuos! El cabo Géruzon y el pescador Philibert son supersticiosos, visionarios. Fíjense, además, en que Philibert creyó ver a su lucio coleteando como se retorcían, según dicen, los hombres de Châtel… ¡Sugestión! ¡Pura sugestión!
+
+—¿Y el águila? —objetó Robert—. ¡Yo la vi, lo que se dice verla!…
+
+—De acuerdo. La vio usted, incluso a través de unos quevedos, y además quevedos de oro… ¡Tiene usted la imaginación y la vista demasiado ricas!
+
+—No bromees, Maxime —prosiguió su padre—. Desde luego, nada es seguro. Lo que voy a decir no es sin duda más que una manera de traducir mi pensamiento, y nada más… Por otra parte, probando formas diversas para una misma idea es como mejor se llega a precisarla y, por tanto, a juzgarla… Pero, en fin: *todo ocurre como si* seres de toda clase se encontraran dotados, de buenas a primeras, de la virtud de echar a volar, bajo la influencia de una fuerza cualquiera, pero probablemente natural.
+
+»Digo *natural* porque esa fuerza, al haber actuado sobre un ave (que no la necesitaba en absoluto, puesto que ya volaba antes), no puede ser sino una fuerza ciega de la naturaleza.
+
+»Siendo así, ¿qué tiene de extraño que unos hombres, animados de malos instintos y persiguiendo no sé qué fin, hayan aprovechado esa facultad adquirida de repente? ¿Qué tiene de extraño que haya hecho germinar los peores designios en el alma de gentes honradas convertidas de pronto en señores de la atmósfera?…
+
+—Con su teoría —replicó Maxime con sorna—, explicaría usted la triple desaparición del Colombier por el vuelo de Marie-Thérèse y de nuestros primos, sin recurrir a la hipótesis de raptores…
+
+—¡Que no! —respondió pacientemente el señor Le Tellier—. En ese caso habrían vuelto. Además, los pasos en la nieve revelaban un drama, un rapto. No, sería absurdo; pero te respondo de todos modos, porque es científico examinar todos los argumentos que se presentan.
+
+—Entonces, ¿qué hace usted con mi dirigible?
+
+—Es un globo como los demás. Tú no conoces todos los modelos… Y además no podías verlo lo suficiente, a causa de la niebla y de la velocidad. A mi juicio, lo pilotaba uno de esos temerarios, de esos chóferes locos que creen que el camino del aire les pertenece. Y ya está. ¿Qué dice usted, Robert? Tiene usted cara de perplejidad…
+
+—Maestro… ¿Ahora cree usted, entonces, que mi águila era un águila de verdad?
+
+—… Sí; porque el lucio de Philibert es un lucio de verdad. De lejos, en el cielo, un águila gigante o alguien disfrazado de águila puede sostenerse, en rigor. Pero ¡alguien dentro de un lucio!… Miren, acabaríamos soltando enormidades…
+
+»Pero ya es de noche. ¿Vienes, Maxime? Somos nosotros los que estamos de guardia en los proyectores. ¿Tienes el carburo?
+
+Aquella noche, los dos guardianes del faro de la torre, entristecidos por no saber nada, meditaron largamente sobre la ciencia y sobre la ignorancia…
+
+Y la luna llena, en lo más alto de su arco, les pareció el orificio soleado de un pozo de Babel, en cuyo fondo los hombres se agitan confusamente.
