@@ -1897,3 +1897,139 @@ El astrónomo replicó:
 El sol naciente los encontró inclinados sobre los pequeños muertos invisibles, repugnantes y ligeros, difíciles de retener y que, al menor movimiento en falso, iban a pegarse al techo. Pero el resultado de su vigilia es demasiado técnico para ser referido en el curso de esta historia popular, cuya claridad, por lo demás, no ganaría con ello ni una cienmilésima de carcel.
 
 Así terminó la memorable noche del 6 al 7 de septiembre de 1912, digna sucesora de un viernes célebre para siempre en los anales del Conocimiento.
+
+## XVI. DE PROFUNDIS CLAMAVI
+
+En cuanto aparecieron, los periódicos de la mañana se agotaron. Se esperaba leer abundantes explicaciones sobre el fenómeno de los grandes bulevares, que las hojas de la tarde habían relatado la víspera en términos confusos y disparatados. Hubo la decepción inquietante de no comprar con las mejores gacetas más que un exceso de incoherencias y de contradicciones. Daban una reseña pasable de lo que había ocurrido en el Grand Palais, pero hacían seguir esa información —ya de por sí enloquecedora— de comentarios ineptos y de aclaraciones de alta fantasía. En el espíritu exaltado del público, todo lo concerniente al aeróscafo llegó a ser más o menos exacto, pero la noción del mundo superaéreo siguió siendo tenebrosa y larvaria.
+
+El instinto del pueblo le advirtió que ocurrían cosas graves. París fermentó. Las tiendas quedaron desiertas.
+
+Multitudes asediaban los ministerios uno tras otro, sin saber a cuál había que recurrir en aquel caso. Se imaginaban por parte del gobierno tapujos, fingimientos, un propósito deliberado de silencio. Se quería la verdad; al ritmo de los *lampions*, delante de la Cámara de Diputados, cien mil personas la reclamaban.
+
+Un cuestor, en calidad de delegado, vino a rogar al señor Le Tellier que tuviera a bien instruir a la Nación.
+
+Hacia las cuatro se hizo la distribución gratuita de un *Journal officiel* impreso a toda prisa que contenía los comunicados del astrónomo (*pieza 821*).
+
+No disfrazaban nada, sino que procuraban solamente ser estoicos.
+
+Fue entonces cuando el Peligro Azul apareció en todo su horror y en toda su formidable grandeza, cuando se supo sin rodeos que por encima de los hombres, sobre un globo invisible más inmenso que la Tierra y que la envolvía por todas partes, vivía otra raza de seres inteligentes que, al parecer, nos habían atacado: raza temible por su posición, su fuerza, su modo vital, su genio y su invisibilidad, que hacían de nosotros algo así como una banda de ciegos cercada.
+
+La humanidad se estremeció de un mismo espanto, y su emoción se agravaba extrañamente porque las dos formas conocidas de las criaturas del vacío eran precisamente las de los animales terrestres más repulsivos, a los que siglos de trato cotidiano no habían podido volverla insensible.
+
+La suerte de los prisioneros dejó de interesar a la opinión; la gente temía demasiadas calamidades para sí misma. La repugnante intromisión de sapos y arañas en nuestros asuntos ocupaba todas las ensoñaciones (pues importa señalar que, al principio, el vulgo no hacía diferencia entre los sarvants y su ganado dinámico). Pese a las enseñanzas del señor Le Tellier, la seguridad de una invasión inminente persistió mucho tiempo; el ejército esperaba ser movilizado de un momento a otro.
+
+En veinticuatro horas, el espanto se volvió mundial. Una sed de ciencia devoró hasta a las tribus atrasadas. Los ignorantes se hacían iniciar en los rudimentos de la óptica y la meteorología; los doctos llevaban su saber hasta los últimos arcanos. En los escaparates de los libreros, el folleto de Jean Saryer, *Ensayo sobre lo invisible*, se agotaba en ediciones políglotas. A cambio de la autorización para publicar el cuaderno rojo, *Le Journal*, el *Daily Mail*, el *New York Herald*, el *Novoie Vremia* y la *Gaceta de Colonia* ofrecieron fortunas al señor Le Tellier, que se negó.
+
+Aquel fin del mundo, temido desde hacía unos meses, parecía, a pesar de todo, haber llegado. Las iglesias y los templos, las sinagogas, las pagodas y las mezquitas rebosaron de multitudes horrorizadas, en un fervor maquinal, y las tabernas fabricaron borrachos por docenas. Los bancos, silenciosos y abandonados, no encontraron ni un ladrón.
+
+Hubo postraciones unánimes, seguidas de sobreexcitaciones universales. Se habría dicho que los nervios de todos los humanos se comunicaban entre sí, a semejanza de los Invisibles.
+
+El abatimiento se extendía sobre la familia de Eva, presa de aquel miedo injustificado al exterminio. Admitía que los tiempos habían llegado. Cada cual se decía que aquel era el triste desenlace de tantos esfuerzos y victorias. Y se conoció de nuevo la incesante angustia que atenazaba el corazón de nuestros antepasados, cuando el hombre no era más que un mamífero débil, expuesto siempre a las agresiones monumentales de los mastodontes, a los que temía sin tregua y cuya obsesión no lo abandonaba nunca. Ahora bien, aquel terror, despertado de pronto de un sueño veinte veces milenario, debió de ser en las horas prehistóricas supremo como el amor; pues sentirlo era reconocerlo.
+
+Más numerosas que en tiempos de eclipse o de cometa, las miradas se clavaban en el vacío aparente donde la caída del hombre se inscribía en caracteres invisibles. Pero el hombre, arrendatario de la Tierra, ni siquiera era destronado: ¡nunca había reinado! Se había creído el amo, mientras otro, industrioso, genial y estrafalario, seguía siéndole superior hasta el punto de pescarlo.
+
+¡Humillación de humillaciones!
+
+El hombre, que ya no era el Hombre, se inclinó, presa del estupor. Aceptaba. Sentía por sí mismo una gran compasión ante la iniquidad de la que se pretendía víctima. Y los sacerdotes, desde el púlpito, lanzaban jaculatorias de este modo:
+
+«Desde el fondo del abismo hemos clamado a Ti, Señor, nuestros deseos, nuestros sufrimientos, nuestro amor. Y éramos como bestias subterráneas. Y el abismo se ahondaba más que nuestra estima. Sí, más hondo, por estar bajo un mundo insospechado. ¿No eran, pues, aquellos a quienes diste el reino de la Tierra los hijos de la arcilla transfigurada por el soplo de Elohim? Nuestras oraciones, al subir hacia Tu gloria, a lo más alto de los Cielos, atravesaban el universo que Te plugo interponer entre Ella y nosotros. Pero más que nunca, ¡oh, Señor!, he aquí que clamamos a Ti, desde el fondo remoto del abismo, nuestros deseos más agudos, nuestros sufrimientos avivados y nuestro amor acrecido».
+
+La araña de la tarde significaba pena, como la de la mañana. Se aplastaba a una y otra en cuanto se las veía. Algunos exaltados les daban caza y las pisoteaban estúpidamente. El miedo las hacía surgir donde no existían. Se veían por todas partes *segadores*, *frinos*; México, alucinado, soñaba con *atocalts*; los negros de África se imaginaban que las estrellas eran *galeodes* luminosas; y el poema de Victor Hugo se realizaba al revés, pues el sol radiante evocaba la sombra paradójicamente deslumbrante de algún titánico *sísifo*,
+
+->*y el hombre, del sol, hacía una araña.*<-
+
+En todos los campos de las cinco partes del mundo se mató a sapos y ranas, desde las lindas ranitas verdes de nuestros prados hasta los innobles *pipas* del Brasil, que son abscesos saltarines.
+
+Y luego, de repente: viraje. La humanidad se rehízo en un brusco sobresalto de energía. Predicadores laicos y religiosos clamaron que, después de todo, nada certificaba la superioridad de los sarvants; que su mecánica, en definitiva, no valía lo que la nuestra en ciertos aspectos, con sus esferas risibles y sus motores de sapo; ¡que había que defender el suelo contra sus incursiones y poner en batería todos los artefactos que nuestra ciencia había construido y construiría!
+
+Se sabe que el hombre en rebaño es un extraño animal, lunático, borreguil y panurgiano. La reacción se produjo con alegría. Una confianza exagerada suplantó a la desmoralización excesiva. Las basílicas se vaciaron en provecho de los teatros; los almacenes de novedades conocieron la afluencia de compradoras, y las agujas, enhebradas de nuevo, corrieron a cual más por los *pongés*, los *shantungs* y las *peau-de-soie*. Todo volvió a ponerse en marcha. A ejemplo del primer sindicato para la defensa del territorio, se constituyeron otros. Se fijaba cartel tras cartel. Las reuniones públicas se sumaban a las conferencias. Y las capitales estuvieron a punto de iluminarse cuando se supo que en Francia el Consejo de Ministros iba a reunirse para deliberar con la Academia de Ciencias, medida eminentemente saludable que todos los Estados del globo se proponían imitar.
+
+Recordaremos en pocas palabras la sesión francesa mixta, aquella asamblea histórica, modelo de los parlamentos futuros, en espera de que los personajes científicos hayan sustituido por completo a los políticos.
+
+Se abrió en el Elíseo el miércoles 11 de septiembre y empezó con una disputa. (Acta oficial, *pieza 843*).
+
+Reflejando la convicción nacional, que compartía, el ministro de la Guerra propuso examinar sin rodeos los medios más seguros, expeditivos y radicales de destruir los continentes superaéreos. Añadió que importaba hacerlo cuanto antes, antes de que los sarvants hubieran construido nuevos aeróscafos. Habló de morteros colosales y de proyectiles explosivos… y se vio cortado.
+
+El ministro de Colonias le interrumpía y le preguntaba con qué derecho bombardear aquel país que se podría sin duda, con el tiempo, conquistar, anexionar quizá y, cuando menos, someter a protectorado. Lo peor que se permitía prever era la matanza de los indígenas, aunque habría sido preferible, a su juicio, someterlos. Pero ¿devastar de arriba abajo la tierra invisible? ¡Jamás! Allá arriba debía de haber riquezas no reveladas muy apreciables. Por su parte, acariciaba la esperanza de que Francia se viera un día acrecentada con aquella hermosa posesión, más extensa que toda la superficie que se ve en los mapamundis.
+
+El físico Salomon Kahn quiso entonces intervenir. Pero el ministro de Trabajo entró en la discusión.
+
+Tras un cumplido irónico dirigido a sus dos colegas —habiéndolos admirado por haber mostrado, por una vez, cada uno el espíritu de su departamento, y habiéndose felicitado de que el ministro de la Guerra hubiera sido belicoso y el ministro de Colonias colonizador—, anunció que iba, él, ministro de Trabajo, a hacer oír las frases que deberían haber salido de la boca del guardasellos, ministro de Justicia. Y demostró que la idea de colonización no era admisible desde el triple punto de vista del código, de la jurisprudencia y de la justicia. Porque las llanuras del vacío pertenecían ya a los hombres. (*Sensación prolongada*).
+
+—Saben ustedes, ¿verdad?, que todo propietario de tierras es propietario no solo del suelo, sino también del subsuelo de su propiedad. Desde la extensión de la navegación aérea, como recordarán, se ha reconocido simétricamente la propiedad de *lo de arriba*, la propiedad de la porción de aire que se encuentra por encima del suelo. Todo el espacio que hay sobre mi campo me pertenece: luego soy propietario de una parcela de territorio superaéreo. Si mi campo es redondo, tengo allá arriba un redondel del continente invisible; pero ese redondel es un poco más grande que el de mi campo, porque, señores, lo que poseemos cuando poseemos un terreno no es una superficie, es un volumen; ya lo he dicho; comprar un campo redondo no es comprar un círculo de campiña, es comprar un cono ilimitado de fuego, de roca, de gleba, de atmósfera y de vacío, cuya punta se encuentra en el centro de la Tierra (donde todas las propiedades, al juntarse, se reducen a nada) y cuya base está en el infinito. Los astros, señores, no pueden gravitar sino pasando de una a otra de esas divisiones de éter troncocónicas de las que somos poseedores.
+
+»Del mismo modo, señores, vender un campo cuadrado no es vender un cuadrado de cultivo, es vender una pirámide regular de cuatro caras…
+
+—¡Se ve que ha sido usted pasante de geometría! —soltó alguien.
+
+—¡Quiere deslumbrar a la Academia! —se guaseó el subsecretario de Estado de Bellas Artes.
+
+El presidente de la República no decía nada.
+
+—En cuanto a la propiedad —prosiguió el interrumpido—, la Tierra puede compararse a la piña, cuya estructura…
+
+—¡Basta! ¡Basta! —gritaban por todas partes—. ¡Al grano! —¡A la cuestión! —¡Háblenos de los sarvants! —¡Proponga algo o cállese!
+
+—Pido la palabra —dijo el señor Le Tellier.
+
+Se la dieron. Se hizo el silencio.
+
+—Señores —empezó—, antes de aniquilar o colonizar el mundo invisible, la Francia científica tiene que trabajar todavía lustros y lustros.
+
+»A la altura de cincuenta kilómetros no podría llegar ninguna bomba, al menos de forma útil. Pues, si llegara hasta allí, su explosión en el vacío no produciría más que daños insignificantes. En cambio, al volver a caer sobre la tierra con una fuerza de bólidos, las granadas no estalladas provocarían en ella desgracias irreparables. Eso en cuanto al aniquilamiento.
+
+»Veamos la colonización. Los aparatos de que disponemos no pueden transportarnos allá arriba. En un espesor de unos veinticinco mil metros a partir del nivel atmosférico, el aire está demasiado enrarecido para sostener nuestros globos, nuestros aeroplanos y nuestros helicópteros. Querer volar en él equivale a querer nadar en la niebla. Locura.
+
+»Aunque supiéramos construir un navío tan ligero, preciso y resistente como el aeróscafo —aunque el aeróscafo, reparado, volviera al servicio—, no podría llevar más que a seis hombres a la vez. ¡Y habría que conocer la maniobra! Por lo demás, el aeróscafo no tiene arreglo; somos impotentes para reproducirlo; y sería demasiado pesado el motor que pusiéramos en lugar de las dinamos-sapo, perdonen este neologismo bárbaro.
+
+»Y además, allá arriba, señores, ¿cómo vivir? Entiendo que existen respiradores contra la asfixia; pero ¿qué escafandra inventar contra la depresión?, ¿qué coraza hermética y, sin embargo, articulada?…
+
+»No, no, no hay que pensar en demoler el continente superaéreo, que por otra parte desempeña quizá una función fundamental en la economía del planeta, que es quizá un precioso condensador del calor solar y cuya desaparición acarrearía quizá la de la fauna terrestre, incluido cierto orangután degenerado, tiránico y vicioso que nos es querido con todo nuestro egoísmo.
+
+»Y no piensen tampoco en colonizar ese mundo, puesto que nos está vedado, puesto que, ¡ay!, no poseemos más que en utopía la *columbiad* de Julio Verne y la *cavorita* de Wells.
+
+—Pero entonces, ¿qué hacer? —¡Sí!, ¿qué hacer? —¿Es que vamos a dejarnos pescar hasta el último? —¡Vienen a nuestra casa si no vamos nosotros a la suya! —¡Nos colonizarán si no los colonizamos nosotros!
+
+El presidente de la República no decía nada.
+
+—¡Un momento!… ¡Dos palabras, se lo ruego! —cortó el señor Le Tellier en lo más fuerte de las exclamaciones—. Todo esto es irracional. ¿Quién de ustedes tuvo nunca el propósito de ir a hacer penetración pacífica entre los peces?, ¿de colonizar las estepas submarinas y las pampas líquidas?… Bien saben ustedes que los sarvants no sienten por nosotros *más que una simple curiosidad científica*.
+
+—¡Lo demás vendrá!
+
+—No es seguro. O bien dentro de muchísimo tiempo, cuando nosotros mismos tengamos veleidades de conquista respecto del fondo del mar. Y entonces estaremos preparados para recibir a los Invisibles. Por ahora, se trata sin más de defendernos, en caso de que nuevas exploraciones nos amenazaran, de que amenazaran a ese desdichado Bugey que, con toda evidencia, resulta ser el fondo del mar de los sarvants. Esa es la cuestión.
+
+»Ahora bien, sostengo que, por poco que se reflexione, ¡esa cuestión ni siquiera se plantea!
+
+*(Movimiento).*
+
+»Convencido por la razón de que las arañas invisibles no tienen en este momento —y no tendrán sin duda nunca— *más que intenciones oceanográficas* respecto de un mundo donde no podrían vivir sino penosamente embutidas en armaduras aislantes o enclaustradas en campanas subaéreas, como nosotros en el agua profunda, digo que pasarán muchos años antes de que reanuden su tentativa de museo. Y lo pruebo.
+
+»Veamos, señores, ¿creen ustedes que concede gran importancia a la pesca humana ese pueblo invisible *inmenso* que no ha fletado con ese fin *más que una sola* embarcación?… ¡Pues sí, una sola! No lo ignoran ustedes, en efecto: desde el naufragio del aeróscafo *no se ha producido ningún rapto*. Tenemos que vérnoslas, pues, con la empresa bastante modesta de un grupo de sarvants sabios, de aquellos que, supongo, desempeñan el papel de cerebro en sus singulares conjuntos. Pues bien, díganme, ¿es alentador para ellos el resultado de esta campaña? Ni mucho menos. Por una parte, el subaéreo se ha perdido con todo lo que llevaba; y por otra (aquí la voz del orador se embarazó de sollozos contenidos), y por otra, señores, sus cautivos… —discúlpenme—, sus cautivos sucumben… con una espan… espantosa rapidez. Los señores miembros del gobierno están mejor situados que nadie para decirles con qué horrible frecuencia caen ahora los cadáveres del cielo sobre el triste Bugey…
+
+»Por un instante, cegado por mis lágrimas, engañado por mis propias penas, pude creer en la enormidad del Peligro Azul; pude creer que amenazaba a todos los hombres desde ahora. Estoy edificado. Los sarvants no están en vísperas de repetir un ensayo de aerario *que fracasó en una catástrofe naval y en un fiasco de cría*.
+
+»¿Qué hacer? Preparemos el porvenir, por lejano que parezca. ¡Y que aquellos cuyos parientes están en las garras de las arañas esperen con valor la caída de sus cuerpos!
+
+El señor Le Tellier se sentó pesadamente, como un viajero al término de su carrera. Sus colegas lo rodeaban y le estrechaban las manos. En el ruido de sus cumplidos, se oyó al ministro de la Guerra obstinarse:
+
+—¡Hay que destruir a los sarvants!
+
+El presidente de la República, saliendo de un sueño, dijo entonces, con su lindo acento gascón:
+
+—¡Eh, diga usted, señor Le Tellier! Usted, que ha sido el Cristóbal Colón, el Vespucio de esta América, o mejor aún, el Le Verrier de este Neptuno… ¡Diga usted! Esos territorios superpuestos a los nuestros, esas gentes bajo las cuales vivimos desde siempre… ¡Eh, pues! ¿No es absurda esta frase?…
+
+—Toda cosa parece absurda, señor presidente, cuando es muy nueva, muy extraña, y la vemos de repente, de improviso, sin que una cadena de episodios o de razonamientos nos haya llevado progresivamente hasta ella, mediante pequeñas sorpresas sucesivas o pequeñas enseñanzas graduales cuya suma, sin embargo, constituye o bien una extrema estupefacción, o bien una ciencia profunda.
+
+»Es también cuestión de vocabulario.
+
+»Mire usted: si hubiera dicho a algún romano de antaño, al más inteligente, al más poeta de los romanos, a Horacio, por ejemplo, o bien a algún griego, al más sabio de los griegos, a Aristóteles, si usted quiere, si les hubiera dicho esta frase a la vez lírica y científica: «*Un día, oh maestros, se empleará el rayo para impulsar galeras*»…
+
+»Ante estas palabras, veo desde aquí, señor presidente, sonreír a Aristóteles y encogerse de hombros a Horacio…
+
+»Sin embargo, la frase que usted pretendía absurda hace un momento será dentro de unos años tan verdaderamente sencilla y natural como es sencillo y natural decir hoy, dos mil años después de Horacio y Aristóteles: «*Hay barcos eléctricos*».
+
+El presidente de la República volvió a su sueño elíseo.
+
+—¡Hay que destruir a los sarvants! —tronó el ministro que ya se sabe.
+
+La sesión continuó y se levantó con un orden del día «que invitaba a las Cámaras a votar créditos para el estudio de proyectos destinados a combatir una nueva expedición arácnida, por lo demás improbable».
