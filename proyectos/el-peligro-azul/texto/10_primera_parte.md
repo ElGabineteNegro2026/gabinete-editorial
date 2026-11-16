@@ -1683,3 +1683,255 @@ Yo. —No se le guarda rencor. Ha expresado usted su opinión con franqueza y, e
 El señor Le Tellier termina así:
 
 *Al acabar aquella reunión, vi al señor de Agnès acercarse a Robert. Los dos jóvenes conversaron unos instantes y se separaron con un leal apretón de manos. Los que estaban al corriente de la situación comprendieron que el duque acababa de asegurar a su humilde rival el desprecio en que tenía las alegaciones del inspector. Luego debieron de convenir en hacer todo lo posible por encontrar a Marie-Thérèse, el uno con su ciencia, el otro con su riqueza, ambos sin preocuparse del porvenir.*
+
+## XI. UNA LECCIÓN DE SHERLOCKISMO
+
+El señor Garan, cuya habitación era contigua a la de Tiburce, se despertó temprano por unos ruidos sordos y rítmicos, unas exclamaciones acompasadas, que venían de allí. Entró sin cumplidos, en camisa, y encontró al sherlockista entregado a una pantomima gimnástica y sueca destinada a mantener la flexibilidad del cuerpo y el vigor de los músculos. Al verlo, Tiburce, que estaba desnudo, le volvió la espalda y continuó sus gestos escandinavos.
+
+Se habían despedido de todos la víspera por la noche, pues su tren salía muy temprano y el automóvil del señor Le Tellier debía estar listo hacia las cinco para llevarlos a Culoz.
+
+—¿Y bien, colega? —dijo Garan—. ¿Sigue usted partiendo en persecución del señor Hatkins?
+
+Tiburce terminó escrupulosamente su rotación del torso alrededor de las caderas.
+
+—¡Más que nunca!
+
+—¡Sabe usted que es una insensatez!
+
+Tiburce vertió agua en un barreño y se puso a chapotear según la regla.
+
+—Admita que es inspiración —dijo al cabo de un instante.
+
+El inspector examinaba la habitación. Un desorden deliberado (a lo Sherlock) la convertía en una leonera. Olía muy fuerte a tabaco inglés *navy cut*. A la sombra de sus bigotes y sus cejas, retorcidos hacia arriba como tejados de pagoda, la boca y los ojos de Garan volvieron a sonreír.
+
+—Le aseguro que su método es defectuoso —declaró—. Le falta experiencia.
+
+—Entonces será un aprendizaje —respondió fríamente Tiburce—. Lo he pensado bien.
+
+El otro replicó:
+
+—No solo el carácter del señor Hatkins desmiente sus acusaciones, sino que además su partida, anterior al rapto, le prueba que, aunque él fuera el autor o el instigador, al menos los tres desaparecidos no están con él… ¿Los habría hecho poner aparte para ocuparse de ellos a su regreso?… ¡Vamos!…
+
+Pero ahora Tiburce, con guantes de crin, se friccionaba la piel y silbaba a compás, como los mozos de cuadra de Inglaterra al almohazar a sus *cracks*.
+
+Observado lo cual, el señor Garan giró sobre sus piernas velludas y fue a lavarse la cara.
+
+Estuvieron listos en el mismo minuto; y Tiburce, al ver que iban adelantados, dijo al mecánico:
+
+—Nos vamos a pie. Ya nos alcanzará usted en la carretera.
+
+Bajaron por el pequeño sendero empinado, entre los dos caminos.
+
+—En serio —prosiguió el inspector—, ¿quiere usted creerme?
+
+—No.
+
+—Escuche, ¡es una necedad! Y todo el mundo se lo ha dicho… Bien es verdad que entre «todo el mundo» hay dos pájaros que saben la última palabra…
+
+—Robert y Maxime, ¿verdad?
+
+—Algo hay de eso, querido señor.
+
+—Ahora me toca a mí decirle: es una necedad.
+
+—¡Ya! Las huellas sobrenaturales: ¡puro teatro! Puro teatro precisamente por sobrenaturales, como los tejemanejes de Seyssel, urdidos para despistar. En la Prefectura ya sospechábamos que era el preámbulo de algo… Aunque, eso sí, quizá haya otra relación entre esas trampas para bobos y el rapto…
+
+—Desde luego, en eso soy de su opinión: los dos sucesos están relacionados. Pero en lo que respecta a Maxime y Robert, se equivoca usted. De Agnès los conoce muy bien y garantiza su buena fe. En cuanto a las pistas en la nieve, se comprende que no pueden ser sobrenaturales… Sin embargo, bien pensado, no sostengo que el rapto tuviera lugar en la cumbre del Colombier. Las huellas quizá no sean más que una estratagema de doble fin, combinada 1.º para asustar y 2.º para engañar a los espíritus sobre el lugar verdadero del rapto. Se habría traído el bastón después de romperlo; se habrían impreso las huellas con botines en la punta de largas pértigas, desde lo alto de un globo dirigible amarrado a la cruz… Hablo de amarre a causa del viento perpetuo, que allá arriba debe de impedir que un aparato suelto se mantenga quieto…
+
+—¡Pero —exclamó Garan— si es justamente lo que yo pensaba! Por eso le pregunté al señor Maxime si no veía arañazos, marcas de cuerdas…
+
+—Lo cierto es —concluyó Tiburce— que
+
+->*Sobrenatural = Inexistente*.<-
+
+—¡*Amén*! Es una lástima que no razone usted siempre así.
+
+—¿Tan defectuoso es mi sistema?
+
+—*Yes, sir*. Para empezar, usted ergotiza. Además, la mayor parte del tiempo raciocina sobre indicios que admiten varias explicaciones posibles. Ejemplo: sus meteduras de pata a propósito del calientapiés, del monóculo y de todo lo que le soltó al bueno de Le Tellier.
+
+»Cuando se presenta una multitud de explicaciones posibles, hay que considerarla entera; pues, si una de ellas se le escapa a uno, es siempre la mejor. Y a veces, ante esa infinidad de soluciones, no se sabe cuál adoptar. Más vale atenerse (cuando se puede elegir, como usted podía) al testimonio de un solo acto, al efecto que una sola causa ha podido producir.
+
+»Mire: a propósito de ese pantalón que le llevó a uno de sus desaciertos, podría usted haber observado que la raya de la plancha estaba más borrada a la derecha que a la izquierda, y deducir con razón que el señor Le Tellier cruza habitualmente la pierna izquierda sobre la derecha. Habría sido de un interés relativo, se lo concedo; pero al menos no habría dicho tonterías. Del mismo modo, podía usted afirmar sin temor al señor Le Tellier que *desde por la mañana había paseado, pensativo y largo rato, por su gabinete*.
+
+—¿Por qué?
+
+—Por los vahos delatores. Hay tres ventanas en ese gabinete: dos al sur y la otra al oeste. Ahora bien, a la altura de la frente del señor Le Tellier, cada ventana estaba ligeramente empañada por múltiples vahos, como los que dejan las frentes que se pegan a los cristales, vahos en los que se reconocía la arruga frontal, tan pronunciada, del señor Le Tellier. Eso implicaba, por su parte, idas y venidas, agitación, preocupación.
+
+—Estaba acechando nuestra llegada, sencillamente.
+
+—No. En la ventana del oeste, la vista está tapada por los árboles. Por ella no se puede mirar sino maquinalmente.
+
+—¿Y si los vahos procedían de la víspera o de la antevíspera?
+
+—Imposible. Los cristales se habían lavado aquella misma mañana.
+
+—¿Cómo habría podido saberlo antes de interrogar al ayuda de cámara?
+
+—¿Cómo? Pues porque el aguacero de la noche, que venía del sudoeste, había dejado por fuerza señales en los cristales a través de las celosías. Ahora bien, esas señales exteriores habían sido quitadas; y en una casa llevada como se lleva Mirastel, los criados no limpian los cristales de un solo lado cuando las dos caras lo necesitan.
+
+Tiburce admiró la sagacidad del inspector. Este prosiguió:
+
+—Aseveraciones de ese tipo pueden arriesgarse sin miedo. Las prueba esto: que ninguna otra interpretación se ajusta a los hechos. Mientras que usted, con sus procedimientos, vería en todas partes testimonios de lo que ha preconcebido. Pero, mire, mire, ¡yo me comprometo a descubrir en cualquier sitio la prueba de cualquier cosa! ¿Qué desea usted? ¿Riña? ¿Violación? ¿Asesinato? ¡Apostemos a que aquí, en este arranque del sendero con la carretera, le demuestro a voluntad un crimen, un delito o una falta!… He aquí un arbusto todo estrujado; he aquí, en el suelo blando, unas pisadas profundas. ¿Qué es, exactamente? ¡Sin duda algún altercado de un patán con su vaca, o mil cosas más! Mire ahora la carretera: esta doble excavación nos enseña que un pesado automóvil arrancó bruscamente hacia Artemare. Son los hoyos de las dos ruedas traseras, que patinaban bajo un esfuerzo súbito. ¿Qué demuestra eso? Que un mecánico rabioso tuvo que reparar un neumático y volvió a arrancar con brutalidad; que un aprendiz de chófer hizo sus primeras armas y se ejercitó tanto en las paradas como en los arranques; que una viajera sentimental quiso coger de ese espino… ¿Qué sé yo? ¡Todo, en fin! ¡Todo!
+
+Tiburce bajaba la cabeza.
+
+—Tiene usted razón —dijo—. Pero ¿qué quiere que le haga? ¡Es mi vida, esto, señor Garan!… No se lo diga a nadie: ¡si encuentro a la señorita Le Tellier, me caso con la señorita de Agnès!
+
+—¡Ah, bien, bien!… Entonces no vaya tras los pasos de Hatkins. Porque sospechar de un hombre así es negar una perogrullada. Procure más bien sacarles la verdad al señor Maxime y al señor Robert, sobre todo a este último, que quizá ha engañado a su camarada, puesto que estuvo antes que él en el Colombier.
+
+—¡Ah, vaya! Señor Garan, ahora caigo: ¿sospecharía usted por casualidad alguna complicidad entre Robert y uno de los tres desaparecidos?
+
+—¡Pues sí, mire! Es el fondo de mi pensamiento. Creo firmemente que, de connivencia o no con los Henri Monbardeau, el señor Robert Collin y la señorita Le Tellier, que se aman…
+
+—¡Cree usted que se aman! ¿Y en eso basa usted sus cargos? —exclamó Tiburce con una especie de alborozo.
+
+—¡Desde luego!
+
+—En ese caso, señor inspector, ¡qué olfato tiene usted! Tómese la molestia de desengañarse. Hace dos años que la señorita Le Tellier se prendó del duque de Agnès, mi amigo íntimo.
+
+—¿Seguro?
+
+—¡Ni la menor duda!
+
+—¡Rediez!… Entonces… Pero… Entonces no me queda más que presentar mis excusas… Voy a volver…
+
+—Me parece inútil. Está usted más bien desacreditado en la familia…
+
+El señor Garan frunció sus cuernos superciliares. Y era una cosa tan graciosa de ver que Tiburce soltó una gran carcajada:
+
+—¡Pobre querido inspector! ¡Si no tenía más que eso en el saco, a partir de ahora tendrá que creer en los hombres voladores!
+
+—¡Y un cuerno! ¡Muñecos de tripa de buey! —gruñó el policía, desconcertado—. ¡Globitos con forma de maniquí, inflados con hidrógeno! Es la tesis de la Prefectura.
+
+—¡No es tan tonta! —aprobó Tiburce—. Eso explicaría por qué seguían juntos la misma dirección: ¡la del viento! Habría habido que registrar el bosquecillo de Châtel; estoy seguro de que los verdaderos italianos se quedaron escondidos allí mientras se batía el campo buscándolos. Eso, al menos, es *natural*.
+
+En ese momento, el automóvil, cargado con el equipaje de Tiburce, les dio alcance.
+
+—¡Vamos! ¡En marcha! —dijo Garan.
+
+—¡En marcha! ¡En persecución de Hatkins!
+
+Despechado, furioso por su torpeza, el inspector replicó groseramente que Tiburce era libre de perseguir a quien le diera la gana, y que a él, a Garan, le importaba un bledo. (*Histórico*).
+
+Cuando llegaban a la estación, salía de ella gran cantidad de viajeros. Los había traído un tren nocturno. Venían de París. La mayoría iba provista de aparatos fotográficos. Garan reconoció a unos periodistas. Uno de ellos se le acercó:
+
+—¡Ah, el señor Garan!, ¿verdad? ¡Qué suerte! Permítame un segundo…
+
+Y quiso hacerle una entrevista. Pero el policía se defendió y se puso desabrido.
+
+—En fin, señor inspector —insistía el pobre hombre—, ¿se trata realmente de un *rapto*?… ¿Sí?… ¿No?… ¡Dígamelo, se lo ruego! ¿Quién se ha llevado a esas personas?
+
+Entonces el interrogado se puso a vociferar:
+
+—Son diablos, caballero. Los he visto. Tienen alas de murciélago, orejas de macho cabrío y una cola en forma de hierro de lanza. Completamente velludos, echan fuego por la boca; ¡y tienen, en lugar del trasero, la cabeza de un periodista que se le parece a usted como un hermano! ¡Ea! ¿Está usted satisfecho?
+
+Dicho esto, se precipitó en la sala de espera retorciendo contra el cielo la cuádruple amenaza de sus cejas y su bigote coaligados.
+
+## XII. SINIESTROS
+
+El duque de Agnès tenía prisa por ponerse manos a la obra con su ingeniero. Dejó Mirastel el mismo día que Tiburce. Y al día siguiente, 9 de mayo, el señor y la señora Monbardeau volvieron a Artemare.
+
+Entonces, en el viejo castillo, la vida empezó a ser una labor dolorosa y fúnebre. La idea de Marie-Thérèse obsesionaba los espíritus. Por momentos, se habría preferido la seguridad de su muerte a la *incertidumbre*, que es una tortura innumerable. (Cuando se teme por una muchacha, se tienen tantas cosas que temer, ¿no es cierto?).
+
+La señora Le Tellier pasaba horas y horas encerrada en la habitación de su hija. Luego, de repente, la necesidad de acción que los atormentaba a todos domaba su languidez natural, la empujaba fuera y la hacía caminar al azar, muy deprisa, con paso tumultuoso.
+
+Cada cual tenía en su mesa o en su chimenea algún retrato de la desaparecida, y cada cual lo contemplaba muchas veces, religiosamente, con recuerdos y pensamientos, como un icono en un altar. La señora Arquedouve estaba privada de este humilde consuelo; sus ojos ya muertos se lo negaban. Pero había en el salón un busto irreprochable de Marie-Thérèse, un busto tan ingenioso que evocaba a la muchacha entera. Y se veía a la viejecita palpar el mármol largamente con sus manos blancas y sutiles, y contemplar de ese modo el único parecido que podía distinguir. Era una ocupación que le causaba a la vez placer y pena. Sonreía, luego sollozaba. Así, sus ojos, que se le habían adelantado en la nada, dejaban por desgracia de ser inútiles, y lloraban tanto más cuanto que no podían ver nada. Cuando oía venir a la señora Le Tellier, interrumpía con un esfuerzo el curso de sus lágrimas, y las dos mujeres se complacían en hablar de un infortunio que todo les recordaba.
+
+Todo. Incluso el perro Floflo, que se mantenía silencioso. Incluso la casa, que parecía desolada. De ordinario estaba florida gracias a los cuidados de Marie-Thérèse. Sabía agrupar flores en un jarrón con esa gracia japonesa que hace creer que no están cortadas y moribundas… Pero los jarrones, como cuerpos sin alma, seguían vacíos; y los lirios, junto a la alberca, inútilmente malvas, se pudrían lejos de los hombres.
+
+Parece que el más abatido de todos fue el señor Le Tellier. El astrónomo ya no salía de su gabinete de trabajo. Extenuado de tensión moral, cansado de reflexionar sobre aquella catástrofe incomprensible, ya no tenía fuerzas para razonar; soñaba, frente al paisaje magnífico. El paraje primaveral, lleno de vida y de sol, le parecía mustio y desierto. La alegría de la estación agravaba su tristeza. Miraba los árboles de los huertos en flor y pensaba en esqueletos macabramente emperifollados. Ante aquel decorado de espacio y de montañas había pasado su hija tantas veces —¡tantas veces, Dios mío!— que ya no veía en él más que el fondo de un retrato que ella hubiera abandonado, el espectáculo mismo de su ausencia.
+
+En cuanto a Maxime y a Robert, trabajaban: el primero en su laboratorio, para luchar contra la inquietud, y el segundo en su cuartito, en obras clandestinas cuyo fin se adivina fácilmente.
+
+Hasta el 13, nada turbó aquella calma cruel, salvo, no obstante, algunas excursiones de exploración que hizo Robert por el lado de Seyssel y de los municipios molestados, y salvo un viaje del señor Le Tellier a Lyon.
+
+Un viaje atroz. Partió como un loco tras leer que se había sacado del Ródano el cadáver de una mujer desconocida cuya muerte podía remontarse a la fecha nefasta del 4 de mayo. Se ausentó con un pretexto, sin que nadie lo supiera, y volvió aquella misma tarde, aliviado de un pesado fardo. La mujer del depósito resultó ser morena, de edad madura y de tipo oriental. Una draga la había extraído del fango, cosida dentro de un saco y desnuda. Todo aquello estaba tan lejos de Marie-Thérèse, era tan ajeno a las preocupaciones del señor Le Tellier, que este advirtió por fin el exceso al que lo había llevado su abatimiento. Desde aquel día se fue reponiendo poco a poco.
+
+Hubo también reporteros que vinieron a campanillear a la puerta de Mirastel y que, una vez despedidos, se limitaban a tomar vistas del castillo y sus alrededores. Hubo además las llegadas del cartero, siempre esperadas, siempre decepcionantes…
+
+Y eso fue todo lo que hubo. Y también en el campo se había restablecido la tranquilidad, cuando de pronto sucedió esto:
+
+En la noche del 13 al 14, el pueblo de Béon —situado entre Culoz y Talissieu, al pie del Colombier, a tres kilómetros de Mirastel— fue asolado. Unas manos sacrílegas podaron la floración de los frutales. Diversos animalillos que dormían al raso desaparecieron sin dejar rastro. Por último, y sobre todo, *una mujer, atraída a su huerto por un ruido insólito, no volvió a entrar y sufrió la misma suerte que las ramas y los animales*. Fue imposible encontrarla.
+
+Desde Béon, una ola circular de espanto se propagó por la comarca. Los periodistas acudieron en tropel. Pero, a partir de aquel instante, los motivos de terror ya no habían de dejar de multiplicarse; pues cada noche un pueblo nuevo recibió la visita del sarvant.
+
+Pronto incluso hubo gentes confiscadas en pleno día, en los lugares apartados. Entre ellas estaban los pastores y las vaqueras que se iban, solos con sus bestias, por los prados de la montaña. La mayoría de las veces desaparecía una sola persona; a veces dos; y tres de vez en cuando. Se observó que los raptos diurnos se ejecutaban preferentemente en las alturas, y que los filibusteros, por miedo a ser delatados, tenían buen cuidado de capturar a los testigos de sus actos.
+
+En la noche del 14 al 15 le tocó a Artemare. (Los sarvants, no se sabe por qué, se saltaron una aldea, dos pueblos y tres castillos, entre ellos Mirastel). Y se registró la pérdida de Raflin, el antiguo enamorado de Fabienne d'Arvière. El pobre hombre, todavía enfermo, cruzaba su patio renqueando cuando fue aprehendido. Su anciana madre estaba loca de miedo y temía que cogiera frío, porque no llevaba encima más que una bata.
+
+En la noche del 15 al 16, dejando la carretera y avanzando hacia el sur, el sarvant saqueó Ceyzérieu, en la ladera, frente a Mirastel, más allá de la marisma. Luego volvió a la carretera, maltrató Talissieu, donde se apoderó de un potro recién nacido, acortó en su punta ornamental una torrecilla de Châteaufroid y birló algunos conejos de una tina de alquería.
+
+El 17, el doctor Monbardeau recibió la carta siguiente, que lo sumió en la desesperación y probaba, por otra parte, que el azote se extendía más lejos de lo que parecía, es decir, hasta Belley. Aquella carta era de Front, el amante de Suzanne Monbardeau.
+
+->*(Pieza 239)*<-
+
+Señor Monbardeau:
+
+Aunque nuestras relaciones siempre han sido más que tirantes, me veo en la triste obligación de hacerle saber lo que me pasa.
+
+Al volver ayer de un viaje de quince días, ya no he encontrado a su hija en mi casa. Se ha largado a la francesa con algún guaperas (puesto que sé que no se ha presentado en la suya), aprovechando esas pretendidas desapariciones con que los secuaces del papa llenan el departamento. Porque no querrá usted que me lo crea, ¿verdad? Su hija es una pícara. No he podido obtener informes sobre su fuga, ya que la casa donde le hice el honor de recogerla está apartada del pueblo. Eso es lo que pasa por tener un temperamento de…, pero he creído un deber avisarle, para que sepa que a partir de ahora no hay, todavía menos que antes, nada en común entre nosotros.
+
+Le saluda,
+
+-->Onésime Front.
+
+El horror del hecho se reforzaba con la vulgaridad del patán que lo anunciaba. Suzanne, desde luego, no había faltado por segunda vez; todos lo afirmaban. ¡Era, pues, también presa del sarvant!… (Y lo que vino a corroborarlo fue, en la noche del 17 al 18, la devastación de Saint-Champ, *no lejos de Belley*).
+
+¡Suzanne raptada! Este último golpe llevaba al colmo la aflicción de los Monbardeau. La señora desvarió durante una semana y luego clamó sin descanso contra el rigor paterno que había desterrado a la pecadora arrepentida. A lo cual el señor no sabía qué responder, y bajaba la cabeza llorando.
+
+La mañana del 19, la gente de Artemare se enteró de que la noche había sido funesta para el pueblo de Ruffieux, situado a quince kilómetros al otro lado del Ródano, en la carretera de Seyssel a Aix-les-Bains. La noticia carecía de precisión. Se hablaba vagamente de varias personas raptadas, cosa que había que confirmar.
+
+Pero, antes de saberlo con certeza, los de Artemare conocieron un suceso más sensacional todavía.
+
+Un reportero fotógrafo de Turín había salido mucho antes del alba hacia la cumbre del Colombier, para fotografiar el escenario del rapto en el esplendor de un sol naciente. (Ese refinamiento se explica por el número incalculable de placas que sus colegas habían tomado ya del mismo lugar, en condiciones diferentes de hora y de temperatura).
+
+Ahora bien, del mismo modo que Marie-Thérèse y sus primos no habían bajado, el reportero fotógrafo no bajó.
+
+Gran conmoción en Artemare. Parlamentos y conciliábulos, al término de los cuales una tropa de hombres valerosos (aún los había en aquel momento) se puso a buscar al enviado perdido.
+
+Subieron hasta la cruz. Y allí descubrieron el aparato fotográfico plantado sobre sus tres patas *en compañía de una especie de enano repugnante, con bocio, harapiento, revolcado en la hierba, al que nadie reconocía*. Ni el menor asomo de periodista, a menos que se hubiera convertido, por sortilegio, en aquel enano repelente, de cabeza demasiado grande y brazos demasiado cortos, que, con ojo animal, miraba venir a los socorristas.
+
+Estos se detuvieron, buscando por todas partes el antiguo aspecto del periodista… ¡Pero nada! Entonces se acercaron a su nuevo aspecto —quiero decir a la fea criatura impasible— y pronto se dieron cuenta de que tenían que vérselas con uno de esos desdichados cretinos, sordos y mudos, de los que la región posee varios ejemplares.
+
+Y en ese momento les vino la audacia de tocarlo. Porque hasta entonces el miedo a quemarse las manos los había apartado de ello. Quisieron hacerle levantarse, y supieron —¡desgracia suprema!— que era paralítico.
+
+Lo tomaron, pues, consigo, junto con el aparato de trípode, y empezaron a bajar de la montaña.
+
+Pero cuando llegaban a Virieu-le-Petit, con unas caras en las que persistía el pasmo, he aquí que se cruzaron con un boyero que se disponía a llevar troncos de abeto al aserradero de Artemare.
+
+Y aquel hombre, al ver al enano, exclamó:
+
+—*Ho! le Gaspard! Quéto coufa iqueu?*
+
+Lo que significa:
+
+—¡Toma! ¡El Gaspard! ¿Qué hace este aquí?
+
+Y les enseñó la verdad, a saber: que el idiota era un vecino de Ruffieux; que pasaba noches y días acurrucado en el umbral de la casa de su padre, la cual da a la carretera; y que todos los boyeros, carreteros y recaderos lo conocían de sobra, de tanto verlo al borde del camino, inmóvil y «en cuclillas».
+
+La historia hizo ruido. ¡Era una sustitución infernal la de un periodista de Turín por un inocente de Ruffieux en lo más alto del Colombier!… Se intentó interrogar al Gaspard, obtener al menos un gesto expresivo… ¡Ay, tentativa insensata! Nunca estuvo más sordo, ni más mudo, ni más imbécil, ni más anquilosado.
+
+Su padre, cuando volvió a verlo, lamentó volver a verlo. Y así, el único que se salvó fue el único que nada podía contar acerca de los sarvants, y el único de quien se habría deseado que se quedara allí. No obstante, los demás reporteros fotógrafos dieron dinero al padre del Gaspard con el propósito de que les permitiera fotografiar a aquel héroe; y él bendijo el regreso de su hijo.
+
+Contrariamente a lo que se decía, el Gaspard había sido el único objeto humano del que el sarvant había desamueblado Ruffieux.
+
+En la noche del 19 al 20 le tocó a Ameyzieu, casi bajo los muros de Mirastel. Pero las abundantes precauciones de que se rodeaban ya los campesinos limitaron el daño a pérdidas materiales.
+
+Los moradores de Mirastel se dijeron que había llegado para ellos la hora de ser atormentados; la zona peligrosa se había estrechado en torno al castillo a medida que se ensanchaba a lo lejos; solo el azar podía ahorrarles el ataque del sarvant.
+
+El señor Le Tellier se alegró mucho. Desde el comienzo de las depredaciones, persuadido como todo el mundo de que su secreto era uno con el del rapto del 4 de mayo, se había desvivido en múltiples actividades. Al principio, incluso, había sonreído de buena gana ante la idea de todas las hipótesis que la reanudación de las hostilidades reducía a la nada. Con ello, el campo de las conjeturas quedaba singularmente restringido, y las circunstancias parecían dar la razón al duque de Agnès, que había predicho otros raptos antes de la tasación de los rescates. El número actual de rehenes retenidos por el sarvant demostraba que este no la había tomado especialmente con Marie-Thérèse y sus primos. Comprendiéndolo así, el señor Le Tellier telegrafió enseguida al duque de Agnès para que detuviera al amigo Tiburce, lanzado por su pista falsa. «Pero —respondió el duque—, Tiburce corre tras Hatkins. Se embarcó el 8 con destino a Nueva York, persiguiendo al multimillonario en viaje».
+
+El señor Le Tellier deploró aquella enorme necedad y volvió a sus preocupaciones personales.
+
+Con su hijo, su cuñado y su secretario, recorrió los lugares saqueados. Observaban. Preguntaban. Sentían una especie de alivio perverso al comprobar que otras familias sufrían el azote que los había golpeado a ellos. Pero no obtenían indicación alguna, y volvían a empezar en otra parte con más ahínco, estimulados por las tres mujeres, que añadían a sus ánimos recomendaciones de prudencia. No les dejaban salir después de la puesta del sol y les prohibían separarse cuando iban a parajes solitarios.
+
+Un día, sin embargo, la señora Arquedouve —que era la primera en predicar la confianza y el celo, y a quien se sabía de una valentía poco común— cambió de pronto de modales y se mostró pusilánime en extremo. Instada a confesar la causa de su miedo, acabó por resolverse a ello al día siguiente del saqueo de Ameyzieu. «Aquella noche, *como la noche del saqueo de Talissieu*, había percibido extrañas vibraciones. Quizá no exactamente ruidos, sino algo del mismo género. Algo vibrante, que sus sentidos de ciega le habían permitido apreciar. Eran percepciones análogas a las que le producía el paso de un aeroplano, o de un dirigible, o también de una mosca grande, demasiado alejados para ser *oídos* en el sentido propio de la palabra; pero no era ni lo uno ni lo otro. Era un zumbido *sombrío* a fuerza de ser sordo y grave, y que impresionaba todos sus nervios, todo su cuerpo, más que su oído. Aquella anomalía la había despertado en mitad de esas dos noches, nada tranquila. La primera vez habría podido creer que era juguete de uno de esos fantasmas a que están expuestos los inválidos; pero hoy ya no dudaba de la autenticidad de sus sensaciones. Por eso se decidía a hablar».
+
+Tras semejante revelación, no hubo nadie en Mirastel que no meditara profundamente.
+
+Pero ya no eran los únicos en meditar aquel 20 de mayo de 1912. Por entonces, toda Francia y toda Europa se interesaban por el problema del Bugey. Los periódicos del viejo mundo daban cuenta del «advenimiento de un terror nuevo». La mayoría estimaba «que era, sin duda alguna, por el camino del aire por donde venían los sarvants», y más de uno, «que pertenecían forzosamente a esa especie voladora de la que el cabo Géruzon había sorprendido a dos representantes». La Edad Media revivía. Las leyendas se deslizaban de hogar en hogar. Algunas, olvidadas desde hacía siglos, resucitaban no se sabe cómo. Se habían infiltrado hasta Mirastel y mezclaban sus quimeras con las lógicas de los razonadores.
+
+Sin embargo, ya no era tiempo de reflexiones, y, sin dejar de rumiar la historia de su suegra, el señor Le Tellier se preparaba para la vigilancia, como se va a ver. Pero los sarvants parecían tener ahora por táctica saltar de un punto a otro, sin orden, a la buena de Dios, y se había deducido de aquella incoherencia (regular, en cierto modo) que no se abatirían sobre Mirastel veinticuatro horas después de haber registrado Ameyzieu.
+
+De todas las faltas que podían cometerse, esta fue declarada después la más grave.
