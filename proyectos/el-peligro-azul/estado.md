@@ -1,6 +1,6 @@
 # El peligro azul — Maurice Renard · Límite Abisal, vol. XX
 
-**Fase:** aprobado → texto (traducción en curso)
+**Fase:** texto → **maquetado** (traducción completa; prólogo en borrador pendiente de aprobación)
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba *El peligro azul* para Límite Abisal (ficha `candidatos/2026-11-16_el-peligro-azul.md`); se inicia la traducción.
@@ -8,13 +8,22 @@
 - 16-11-2026: el responsable confirma el vol. XX.
 
 ## Hecho (16-11-2026)
-- Texto fuente francés descargado de Wikisource (edición Louis-Michaud, 1911) en `fuente/`, un HTML por capítulo, incluida la página «Texte entier».
+- Texto fuente francés descargado de Wikisource (edición Louis-Michaud, 1911) (no se había subido; se volvió a descargar por la API en `fuente/`, un JSON por capítulo).
 - Traducido el «Préliminaire» → `texto/05_preliminar.md` (≈ 1.800 palabras).
 
-## Traducción (en curso desde el 16-11-2026)
+## Traducción (completada el 16-11-2026)
 - `texto/10_primera_parte.md`: **primera parte completa**, capítulos I-XXI (≈ 50.400 palabras). Cotejada párrafo a párrafo con el original (mismo número de párrafos por capítulo).
-- `texto/20_segunda_parte.md`: segunda parte en curso, capítulos I-XI.
+- `texto/20_segunda_parte.md`: **segunda parte completa**, capítulos I-XXI (≈ 52.900 palabras). Cotejada párrafo a párrafo (las únicas diferencias son artefactos del HTML de Wikisource: párrafos partidos o un punto suelto).
+- `texto/30_epilogo.md`: epílogo (≈ 2.000 palabras).
+- Total del texto de Renard: ≈ 107.000 palabras.
 - Fuente: `fuente/*.json` (respuesta de la API de Wikisource, un fichero por capítulo; no se suben al repositorio, ver `fuente/.gitignore`).
+- `texto/00_prologo.md`: **BORRADOR** de prólogo firmado por «El Editor» (≈ 1.100 palabras, tono y extensión como el de *813*, sin desvelar el secreto). **CONSULTA: necesita la aprobación del responsable.** La primera línea (comentario con `#`) no se imprime.
+- `texto/99_apendice.md`: apéndice explicativo (≈ 1.350 palabras, apartados en versales como el de *813*).
+
+## Maquetación (16-11-2026)
+- `interior/el-peligro-azul_interior_6x9.pdf`: 378 páginas, todas las fuentes incrustadas (Caladea, Carlito), sin avisos de compilación. Revisadas portadilla, créditos, prólogo, preliminar, aperturas de parte, cap. X (formato teatral), diario de Robert, epílogo, apéndice e índice.
+- `ebook/el-peligro-azul_kindle_create.docx` y `ebook/el-peligro-azul.epub` (sin portada todavía).
+- Lomo para tapa blanda con 378 páginas: 378 × 0,002252 = 0,851 in (papel blanco).
 
 ### Dudas y decisiones de traducción
 - Pieza 9 (cap. II): Le Tellier anuncia la llegada «le 16» en una carta fechada el 18 de abril; es errata del original (todo el texto dice el 26). Corregido a 26.
@@ -28,10 +37,14 @@
 - Groserías del original suavizadas solo lo justo («s'en foutait pas mal» → «le importaba un bledo»).
 
 - Diario de Robert Collin (2.ª parte, caps. IX y XI-XIII): en el original va todo en cursiva, con las palabras enfáticas en redonda. Para no componer en cursiva capítulos enteros se invierte: diario en redonda y énfasis en cursiva.
+- Cap. XIII (2.ª parte): la última entrada del diario está fechada «8 septembre» en Wikisource, pero Robert muere antes del 4 (el cuerpo cae la noche del 4 al 5); es errata por «3». Corregido a 3 de septiembre.
+- Juegos de palabras del epílogo (*Béryl Bleu*, *Père! il bleut, Bergère!*, *p'tit bout d'Ain*) se dejan en francés con una breve glosa en el propio texto; «avoir des araignées au plafond» → «andar mal de la azotea, y con arañas en ella».
 - Cap. IX (2.ª parte): el barómetro marca «160 millimètres» en el original; es errata por 760 (la frase dice «la misma presión que en la superficie»). Corregido.
 
 ## Pendiente
-- Traducir la segunda parte (21 capítulos) y el epílogo. Son unas 110.000 palabras en total (recuento de los HTML), ≈ 340 páginas.
-- Prólogo (CONSULTA) y apéndice. Para el apéndice: el preliminar cita otros relatos de Renard (*El doctor Lerne*, *Le Voyage immobile*, *L'Homme truqué*…), que merece la pena comentar.
-- Cubierta Límite Abisal: buscar grabados de dominio público de cielo, abismo o seres aéreos (p. ej. Grandville, Doré, láminas de *La Nature*).
-
+- **CONSULTA**: aprobar (o corregir) el prólogo de «El Editor».
+- Decidir si se incluye el croquis de las huellas en la nieve (cap. IX de la 1.ª parte; imagen de 1911 en Commons, con rótulos a traducir).
+- «Próximo título» en `libro.toml` sigue como «Por anunciar».
+- Una lectura de corrección completa en papel (o PDF) antes de KDP: erratas, coherencia de términos (aeróscafo, subaéreo, aerario, *air-ballasts*), cursivas.
+- Cubierta Límite Abisal: buscar grabados de dominio público de cielo, abismo o seres aéreos (p. ej. Grandville, Doré, láminas de *La Nature*); 2-3 propuestas.
+- Precio, ISBN, fecha de lanzamiento (CONSULTA).
