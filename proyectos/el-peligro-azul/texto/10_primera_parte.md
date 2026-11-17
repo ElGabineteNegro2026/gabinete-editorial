@@ -40,7 +40,7 @@ El destructor *Swift*, de la flota británica, entró ayer por la tarde en dique
 
 ¿De modo, señores Lacayos galoneados, que creen ustedes al comandante del destructor inglés cuando sostiene que, en el momento del abordaje, «se encontraba a 35 millas al norte del *Bretagne*»?… ¿Y le siguen creyendo cuando confiesa que «el accidente del destructor se produjo, no obstante, *unos segundos* después que el del paquebote»?… Cuando declara que, «como participaba en una maniobra nocturna, debía navegar con todas las luces apagadas», eso no les dice nada, ¿verdad?… Cuando exclama (¡como el comandante del *Bretagne*, pardiez!): «¡No he visto nada!», ¿eso lo admiten ustedes?… Entonces, si me hacen el favor, ¿habrá resucitado el buque fantasma, presente en todas partes a la vez? ¿O bien las dos embarcaciones han chocado a través de una distancia de *setenta kilómetros*?… ¡Vamos, vamos! Prefiero creer en la culpabilidad del capitán inglés y en la ceguera —muy perdonable— del capitán francés. Es más sencillo. ¡Pero la Diplomacia ha hablado! ¡Saludemos!
 
-La pérfida Albión chilla: «¡El accidente del destructor *Swift* es inexplicable!». Y el Almirantazgo pretende haber guardado silencio sobre él «*solamente* para evitar que se relacionaran las *dos* colisiones»!!! «Solamente» ya tiene gracia; pero «dos» es sublime.
+La pérfida Albión chilla: «¡El accidente del destructor *Swift* es inexplicable!». ¡¡¡Y el Almirantazgo pretende haber guardado silencio sobre él «*solamente* para evitar que se relacionaran las *dos* colisiones»!!! «Solamente» ya tiene gracia; pero «dos» es sublime.
 
 ¡Nada de hipocresía, voto a tal, embajadores que son ustedes! Y como decía el viejo Hugo:
 
@@ -134,7 +134,7 @@ Ahora bien, ¿dónde se esconden los bribones durante el día? ¿Adónde van a d
 
 Un enigma más engorroso de descifrar, por ejemplo, es la ausencia de rastro de llegada y de partida. ¡Ah, son listos! Y han jurado enloquecer a esta comarca.
 
-Reanudo mi carta, interrumpida un instante. Parece que esta noche han saqueado Anglefort. No se lo esperaban. Los vecinos se hacían los valientes cuando estuve allí. Llamaban a sus vecinos bobos o embusteros, e incluso los acusaban de fingimiento… ¡Pues bien, ya está! Les han quitado una carretilla, un arado, más ramas (muchas menos), un espantapájaros de un campo de trigo candeal (unos viejos andrajos en una pértiga) y una estatua del jardín de mi clienta. Ha sido el criado de esa señora quien acaba de anunciármelo. No sé por qué, pero estos dos últimos robos parecen haberle impresionado más (a él y a todo el mundo allí). No veo qué tiene de tan inquietante el rapto de un pelele de harapos y de un muñeco de yeso…
+Reanudo mi carta, interrumpida un instante. Parece que esta noche han saqueado Anglefort. No se lo esperaban. Los vecinos se hacían los valientes cuando estuve allí. Llamaban a sus vecinos bobos o embusteros, e incluso los acusaban de fingimiento… ¡Pues bien, ya está! Les han quitado una carretilla, un arado, más ramas (aunque muchas menos que otras veces), un espantapájaros de un campo de trigo candeal (unos viejos andrajos en una pértiga) y una estatua del jardín de mi clienta. Ha sido el criado de esa señora quien acaba de anunciármelo. No sé por qué, pero estos dos últimos robos parecen haberle impresionado más (a él y a todo el mundo allí). No veo qué tiene de tan inquietante el rapto de un pelele de harapos y de un muñeco de yeso…
 
 También se han llevado aves de corral y… Pero quiero contarte la historia; es divertida.
 
@@ -188,7 +188,7 @@ La astucia más elemental aconsejaba dar trabajo a los dos mozos y seguir alojá
 
 Se encomendó su vigilancia a una pareja de gendarmes, la cual, escondida según las reglas del arte, se durmió como un solo hombre.
 
-Entretanto, Champrion fue hostigado por segunda vez. Los sarvants se adjudicaron una oca y unos patos que sus propietarios habían descuidado recoger, seguros de no sufrir daño dos noches seguidas. Y hubo que deplorar además la pérdida de la urna de imitación de bronce, adornada con un geranio de hiedra, que coronaba uno de los pilares de una verja de entrada. El otro jarrón, sobre el otro pilar, con otro geranio de hiedra, fue respetado. (Siempre ese espíritu de desparejar y de chinchar propio de los duendes, gnomos, trasgos, *kobolds*, divas, *goblins*, *korrigans*, genios, trolls… y sarvants).
+Entretanto, Champrion fue hostigado por segunda vez. Los sarvants se adjudicaron una oca y unos patos que sus propietarios habían descuidado recoger, seguros de no sufrir daño dos noches seguidas. Y hubo que deplorar además la pérdida de la urna de imitación de bronce, adornada con un geranio de hiedra, que coronaba uno de los pilares de una verja de entrada. El otro jarrón, sobre el otro pilar, con otro geranio de hiedra, fue respetado. (Siempre ese espíritu de desparejar y de chinchar propio de los duendes, gnomos, trasgos, *kobolds*, *dives*, *goblins*, *korrigans*, genios, trolls… y sarvants).
 
 Al despertar, los dos gendarmes que se habían dormido con tan enojosa armonía no encontraron ya a los italianos. Pero sostuvieron *mordicus* que estos se escondían bajo el ramaje de tal modo que podían, sin ser vistos, deslizarse a través del bosque, ejecutar sus feas hazañas y volver a su escondrijo.
 
@@ -408,7 +408,7 @@ Los municipios están construidos al borde de la carretera y se llaman Culoz, B�
 
 De todos estos castillos, solo Mirastel nos interesa.
 
-Es fácil de reconocer. Desde el ferrocarril, que bordea la carretera a cierta distancia, se le ve destacarse sobre el fondo verde oscuro de la montaña, entre Machuraz, que tiene muros blancos bajo tejas rojas, y Châteaufroid, cuyas dos torrecillas lucen góticamente unos conos de pizarra azul. Es de ladrillo —ladrillos que se han vuelto rosados y cuya cálida claridad lo baña siempre de sol— y está flanqueado por cuatro torres en las esquinas. Tres de ellas conservan todavía sus viejos tejados de pizarra gris, en forma de globos puntiagudos como cascos sarracenos; pero la cuarta sostiene una cúpula de observatorio. El jardín de Mirastel, inclinado sobre la ladera como sobre un pupitre, lo rodea de un ondular de frondas. Su terraza, plantada de árboles, le sirve con su muralla de zócalo rocoso. Domina a sus dos vecinos, y él mismo está dominado por las aldeas montañesas de Ouche y Chavornay, que, hacia la izquierda, se escalonan detrás de él jalonando el camino pedregoso de las cumbres.
+Es fácil de reconocer. Desde el ferrocarril, que bordea la carretera a cierta distancia, se le ve destacarse sobre el fondo verde oscuro de la montaña, entre Machuraz, que tiene muros blancos bajo tejas rojas, y Châteaufroid, cuyas dos torrecillas lucen góticamente unos conos de pizarra azul. Es de ladrillo —ladrillos que se han vuelto rosados y cuya cálida claridad lo baña siempre de sol— y está flanqueado por cuatro torres en las esquinas. Tres de ellas conservan todavía sus viejos tejados de pizarra gris, en forma de globos puntiagudos como cascos sarracenos; pero la cuarta sostiene una cúpula de observatorio. El jardín de Mirastel, inclinado sobre la ladera como sobre un pupitre, lo rodea de un ondular de frondas. Su terraza, plantada de árboles, le hace de su muralla un zócalo rocoso. Domina a sus dos vecinos, y él mismo está dominado por las aldeas montañesas de Ouche y Chavornay, que, hacia la izquierda, se escalonan detrás de él jalonando el camino pedregoso de las cumbres.
 
 Dos calzadas carreteras suben en lazadas hasta el portal de Mirastel. Una viene de Talissieu, la otra de Ameyzieu. Ambas parten, pues, de la carretera. Pero en medio del vago triángulo que dibuja su horquilla, un sendero de cabras escala la empinada cuesta y le lleva a uno directamente de la carretera al umbral del recinto.
 
@@ -420,7 +420,7 @@ A decir verdad, cuando el difunto señor Arquedouve compró esta residencia, la 
 
 El señor Arquedouve, rico industrial lionés, adquirió la finca en 1874, once años después de su boda y a instancias de su esposa, que estaba loca por el paisaje y no soñaba más que con la astronomía. Aquella mujer superior, émula de las Hipatias, de las señoras Lepaute y de las señoras du Châtelet, quiso instalar un observatorio en la azotea de la torre; y las obras estaban acabadas cuando una doble desgracia vino a herir a la señora Arquedouve.
 
-Una amaurosis bastante inexplicable la privó para siempre de la vista, y su marido falleció, dejando a la pobre ciega con dos hijas, Augustine y Lucie, de diez y ocho años.
+Una amaurosis bastante inexplicable la privó para siempre de la vista, y su marido falleció, dejando a la pobre ciega con dos hijas, Augustine y Lucie, de diez y de ocho años.
 
 Desde aquel día, la señora Arquedouve no volvió a salir de Mirastel. A pesar de su enfermedad, la energía y la costumbre hicieron de ella una educadora notable y un ama de casa consumada. Atendía en su casa las tareas más diversas con una destreza increíble. Pero, fuera de su parque, volvía a las tinieblas; y daba mucha lástima, en las hermosas noches centelleantes, verla alzar sus ojos muertos hacia el esplendor de un cielo que no podían sondear, *pero cuya silenciosa armonía escuchaba*.
 
@@ -642,7 +642,7 @@ El otro continúa. Recita un trozo preparado, salta a la vista.
 
 —Démela.
 
-En efecto, la carta está firmada «François d’Agnès» y empieza así:
+En efecto, la carta está firmada «François de Agnès» y empieza así:
 
 ->*(Pieza 104)*<-
 
@@ -710,7 +710,7 @@ Sin embargo, delante de la oficina de correos de Artemare, el señor Le Tellier 
 
 —¡Adelante!
 
-La administradora de correos admira desde su ventana el cómodo doble faetón que huye veloz y furtivo, a toda rueda, y transmite el despacho que acaban de entregarle:
+La administradora de correos admira desde su ventana el cómodo doble faetón que huye veloz y furtivo, a toda máquina, y transmite el despacho que acaban de entregarle:
 
 ->*(Pieza 105)*<-
 
@@ -840,7 +840,7 @@ Toda la familia rodeaba a la posadera. Se lanzaron exclamaciones de victoria.
 
 Entonces el sentimiento de la situación volvió a los espíritus.
 
-Era domingo; la posada estaba abarrotada. Se encontraron sin trabajo mozos de buena voluntad para registrar la montaña. Bornud, un guarda particular, viejecillo socarrón, nervioso y amarillo, que guiñaba un ojo negro y malicioso, se sumó a la partida con su perro Finaud.
+Era domingo; la posada estaba abarrotada. Se encontraron sin esfuerzo mozos de buena voluntad para registrar la montaña. Bornud, un guarda particular, viejecillo socarrón, nervioso y amarillo, que guiñaba un ojo negro y malicioso, se sumó a la partida con su perro Finaud.
 
 La señora Arquedouve, exigiendo que nadie se ocupase de ella, se acomodó en una habitación rústica mientras la tropa de salvadores atacaba la pendiente del Colombier.
 
@@ -848,7 +848,7 @@ En cuanto aquel batallón hubo ganado el bosque, numerosas bifurcaciones lo obli
 
 Aquel hallazgo heló los ánimos.
 
-Una a una, las patrullas se iban separando en las bifurcaciones. El aire vivo se aligeraba y se enfriaba con la subida. Bornud aseguró que la nieve cubría aún la cumbre del Grand-Colombier, allá arriba, a 1.500 metros sobre el nivel del mar; pero el hecho no podía comprobarse más que al pie mismo de la cima o muy lejos de la montaña, a causa de las masas circundantes que hacían de pantalla.
+Una a una, las patrullas se iban separando en las bifurcaciones. El aire vivo se aligeraba y se enfriaba con la subida. Bornud aseguró que la nieve cubría aún la cumbre del Grand-Colombier, allá arriba, a 1500 metros sobre el nivel del mar; pero el hecho no podía comprobarse más que al pie mismo de la cima o muy lejos de la montaña, a causa de las masas circundantes que hacían de pantalla.
 
 La ascensión fatigaba a las mujeres, mal equipadas. La señora Le Tellier, hasta entonces tan perezosa, trepaba con encarnizamiento por los senderos difíciles. El invierno los había convertido en lechos de torrentes sembrados de piedras cortantes donde se herían los pies y se torcían los tobillos…
 
@@ -970,7 +970,7 @@ Robert y Maxime se miraron.
 
 —Es en la cumbre del Colombier —dijo Robert—. Iremos con los policías mañana mismo. Creía encontrarlos aquí.
 
-—¿François d’Agnès no ha llegado todavía? —se extrañó Maxime—. Es sorprendente.
+—¿François de Agnès no ha llegado todavía? —se extrañó Maxime—. Es sorprendente.
 
 Al señor Le Tellier lo sacó de la meditación en que lo había sumido aquella conversación el ronquido de un automóvil lejano.
 
@@ -1158,7 +1158,7 @@ En los momentos críticos, cada recién llegado parece un salvador. Las mujeres 
 
 Por consejo del señor Garan, aquella noche se abstuvieron de toda conjetura sobre las desapariciones y se limitaron a preparar la expedición del día siguiente hacia el secreto del Colombier.
 
-Cuando cada cual se fue a acostar, la gran esperanza suscitada por el refuerzo de investigadores profesionales había caído ya. Tiburce se había revelado el más pazguato de los maniáticos, y Garan, bajo su apariencia de capitán de paisano, acababa de demostrar una mentalidad de guardia municipal. No obstante, varias personas auguraban algo bueno de una ausencia bastante larga, que había quedado en el misterio, que había hecho antes de la cena, y sobre la cual, por discreción, nadie quiso interrogarle.
+Cuando cada cual se fue a acostar, la gran esperanza suscitada por el refuerzo de investigadores profesionales había caído ya. Tiburce se había revelado el más pazguato de los maniáticos, y Garan, bajo su apariencia de capitán de paisano, acababa de demostrar una mentalidad de guardia municipal. No obstante, varias personas auguraban algo bueno de una ausencia bastante larga que el inspector había hecho antes de la cena, que había quedado en el misterio y sobre la cual, por discreción, nadie quiso interrogarle.
 
 Debían partir al salir el sol.
 
@@ -1362,7 +1362,7 @@ Fue entonces cuando dibujó el esbozo que reproducimos para mayor claridad.
 
 Al verlo, Tiburce anunció que haría algo todavía mejor y que iba a fotografiar la nieve desde lo alto de la cruz.
 
-Pero el intrépido sherlockista había confiado demasiado en su agilidad. No logró subir más que hasta la mitad de la distancia que le separaba de los travesaños; y fue Maxime quien, acordándose de los mástiles y las vergas del *Borda*, consiguió la empresa.
+Pero el intrépido sherlockista había confiado demasiado en su agilidad. No logró subir más que hasta la mitad de la distancia que le separaba de los travesaños; y fue Maxime quien, acordándose de los mástiles y las vergas del *Borda*, culminó la empresa.
 
 Mientras estaba a horcajadas sobre los brazos del inmenso patíbulo —destinado, al parecer, a crucificar a algún titán—, el inspector le pidió que comprobara si el cinc no tenía ninguna marca ni la pintura ningún arañazo que pudieran atribuirse al roce de cuerdas.
 
@@ -1380,7 +1380,7 @@ Este capítulo X no es otro que la pieza 197 del expediente. Se presenta en form
 
 *Fue en la noche del 7 al 8 de mayo de 1912 cuando tracé las líneas siguientes. Fuertemente conmovido por el extraño espectáculo de los pasos en la nieve, rendido de cansancio y de pena, no podía gozar del descanso que tanto necesitaba. El insomnio, sin misericordia, me hacía dar vueltas en el lecho, y las tinieblas aumentaban mi exaltación.*
 
-*Para engañar aquella fiebre, decidí encender una lámpara y trabajar. Pero la única ocupación que no me importunaba era reflexionar sobre la suerte misteriosa de mi hija; y no pude hallar algún sosiego a mis inquietudes más que redactando de memoria un acta de la sesión que acabábamos de celebrar en el salón de Mirastel, al bajar del Colombier. Veía en esa tarea una distracción de mis sufrimientos y esperaba, además, que me proporcionaría un texto sobre el que se podría meditar con más comodidad que sobre un conjunto de pensamientos huidizos.*
+*Para engañar aquella fiebre, decidí encender una lámpara y trabajar. Pero la única ocupación que no me importunaba era reflexionar sobre la suerte misteriosa de mi hija; y no pude hallar ningún sosiego a mis inquietudes más que redactando de memoria un acta de la sesión que acabábamos de celebrar en el salón de Mirastel, al bajar del Colombier. Veía en esa tarea una distracción de mis sufrimientos y esperaba, además, que me proporcionaría un texto sobre el que se podría meditar con más comodidad que sobre un conjunto de pensamientos huidizos.*
 
 *Mis recuerdos siempre han sido fieles; esta acta refleja, pues, con mucha exactitud nuestro consejo de familia, apenas reducido y simplificado en la medida conveniente.*
 
@@ -2294,7 +2294,7 @@ Maxime se burló:
 
 El señor Le Tellier, sintiendo a Maxime en la pendiente de la cólera, le dio las buenas noches.
 
-Cuando hubo llegado al vestíbulo, Robert dijo a Maxime:
+Cuando el astrónomo hubo llegado al vestíbulo, Robert dijo a Maxime:
 
 —Escuche. Está usted en vías de cometer temeridades. Pues bien, créame: *si sale solo, vístase como una de las personas desaparecidas. Hágase copia de una de ellas*. Si hace falta, tíñase el pelo y la barba; aféitese, si es preciso. No olvide ni el bastón ni los guantes. Llegue incluso a reproducir la manera de andar.
 
@@ -2332,7 +2332,7 @@ Aunque todas las viviendas estaban llenas de habitantes, la mayoría de los pueb
 
 El campo estaba desierto. Algunos rebaños, guardados por un rebaño de niños, pacían aún en los prados; de trecho en trecho, falanges de labradores atendían los campos. Un recogimiento lúgubre planeaba sobre las canciones apagadas y las risas vencidas. Para colmo de tristeza, un mes de junio sombrío, interceptando el sol, hizo rodar nubarrones interminables.
 
-Cada día, sin embargo, una procesión salía de las iglesias; la componía una multitud de luto; y se rezaban oraciones para pedir a Dios el fin de un azote que ni siquiera se le podía designar con claridad. Como de costumbre, el terror suscitó conversiones. Una alfombra de fanáticos, boca abajo, se extendía al pie de los altares. Cierto sacerdote, tras rebuscar las viejas fórmulas medievales, practicó exorcismos.
+Cada día, sin embargo, una procesión salía de las iglesias; la componía una multitud de luto; y se rezaban oraciones para pedir a Dios el fin de un azote al que ni siquiera se podía designar con claridad. Como de costumbre, el terror suscitó conversiones. Una alfombra de fanáticos, boca abajo, se extendía al pie de los altares. Cierto sacerdote, tras rebuscar las viejas fórmulas medievales, practicó exorcismos.
 
 A medida que uno se alejaba del Bugey, sin embargo, la emoción iba atenuándose, como se ha dicho a propósito de las regiones limítrofes. La comarca era un foco de miedo que irradiaba sobre la tierra y cuya intensidad se debilitaba con la distancia. El extranjero, que aún no temblaba por su propia cuenta, estaba por lo demás muy tranquilo, y muchos Estados lejanos seguían teniendo a los sarvants por bulos.
 
@@ -2384,7 +2384,7 @@ Delante de ellos, en el fondo de la niebla, muy cerca del suelo, una forma alarg
 
 —No ha oído usted nada… Yo tampoco. ¡Además, el motor del coche armaba un estrépito y trepidaba!
 
-—¡Claro! El señor Maxime lo dejó embalarse cuando desembragó tan *rapido*… En fin, ya salimos del algodón; ya era hora…
+—¡Claro! El señor Maxime lo dejó embalarse cuando desembragó tan *requeterrápido*… En fin, ya salimos del algodón; ya era hora…
 
 En efecto, el automóvil subía la rampa de Mirastel; y pronto, de nuevo en la luz de la tarde, Maxime pudo observar las cosas a sus anchas.
 
@@ -2572,7 +2572,7 @@ Maxime soltó una carcajada.
 
 —Le aseguro que hay que tener cuidado.
 
-—¡Ya! Pierde usted el tiempo, amigo mío. El pintamonas que soy necesita demasiado hacer estudio tras estudio, ¡y la montaña es demasiado hermosa! Fastuosa y cambiante, a cada hora del día, a cada día del mes se la creería el lienzo de un maestro distinto… Tengo allá arriba una pequeña modelo exquisita, una pastora de doce años que me posa una escena estupenda en un lugar portentoso. ¡Ah, esa no es nada miedosa! ¡Los sarvants, lo que le importan a ella!… Además, su hermano César, un pastorcillo más bien desenvuelto, vigila durante la sesión…
+—¡Ya! Pierde usted el tiempo, amigo mío. El pintamonas que soy necesita demasiado hacer estudio tras estudio, ¡y la montaña es demasiado hermosa! Fastuosa y cambiante, a cada hora del día, a cada día del mes se la creería el lienzo de un maestro distinto… Tengo allá arriba una pequeña modelo exquisita, una pastora de doce años que me hace de modelo en una escena estupenda, en un lugar portentoso. ¡Ah, esa no es nada miedosa! ¡Los sarvants, lo que le importan a ella!… Además, su hermano César, un pastorcillo más bien desenvuelto, vigila durante la sesión…
 
 »¡Mire usted esto, mi viejo Robert! Le presento a la señorita Césarine Jeantaz. No le falta jugo, ¿eh?
 
@@ -2646,6 +2646,8 @@ Pronto Maxime estuvo instalado ante su caballete, bajo los primeros árboles del
 
 —*N’a pas paou* —respondió César, aleccionado—. *On lo vara beîng veni!*
 
+Que en el habla del país quiere decir: «No hay miedo. Ya lo veremos venir».
+
 La chiquilla, encantadora, dejaba colgar los piececitos en sus gruesos borceguíes de suela de tilo. Un viejo sombrero de paja daba sombra a la maraña rubia de sus cabellos. Entre sus manitas rojas, el acordeón se alargaba y luego se recogía, y marcaba con el mismo ritmo saltarín la retahíla incansable de las canciones monótonas. A su alrededor, las vacas y las cabras dispersas hacían sonar sus cencerros. Y las campanillas de los narcisos repicaban sus perfumes.
 
 —¡Vigila bien! —repitió Maxime, extrañado él mismo de su desconfianza.
@@ -2654,7 +2656,7 @@ César no apartaba los ojos del cielo cargado, que parecía deslizarse de una so
 
 Al son de una esquila violentamente sacudida, Maxime apartó la mirada de la cantante.
 
-—*Hé!* —dijo el pastor—, *vica la Rodzetta qué s’éfra!*
+—*Hé!* —dijo el pastor—, *vica la Rodzetta qué s’éfra!* (¡Eh, mire la Rodzetta, que se espanta!)
 
 La *Rodzetta* era una cabra rojiza que, habiéndose apartado, volvía al galope, a saltos y balando. ¿Es que…?
 
@@ -2820,7 +2822,7 @@ La espera: ¡qué cosa terrible! Paso los días en los talleres de Bois-Colombes
 
 Le ruego, querido señor, que tenga la bondad de transmitir a la señora Le Tellier y a… *Etc.*
 
--->François d’Agnès.
+-->François de Agnès.
 
 *P. D.*: Reina una efervescencia considerable en todos los talleres de construcciones aéreas. En los del Estado especialmente. Se busca en ellos el aparato adecuado a este nuevo destino: la persecución de aviadores inalcanzables por su rapidez. No obstante, se atribuye a algunos el proyecto insensato de partir en reconocimiento sobre el Bugey con los aparatos actuales, del todo insuficientes. Se cita a Santos-Dumont en dirigible, a De la Vaulx en globo esférico, a Farman en su biplano, a Latham en el *Antoinette* y a Beaumont en el *Blériot*. Se cita a muchos otros más…
 
@@ -2866,7 +2868,7 @@ El astrónomo mandó llamar al doctor y a la señora Monbardeau, y luego acostar
 
 Pronto, de postrada que estaba, la señora Le Tellier pasó a una penosa sobreexcitación. Pronunció palabras sin ilación, hizo gestos incomprensibles y habló todo el rato de su hijo y de un *ternero* inexplicable. A cada instante se llevaba las manos a los costados del pecho o las lanzaba hacia delante, como para apartar un abrazo o protegerse de un ataque.
 
-—¡El ternero! El ternero que se desliza… —murmuraba—. ¡Ah! ¡No me apriete! ¡No me apriete! ¿Quién me aprieta? Pero ¿quién me aprieta? ¡Suélteme!… ¡Maxime, vete!… ¡Ah! ¡Aaaaah! ¡Hacia atrás! ¡Se va hacia atrás! ¡Y deprisa!… Aquí estamos a cubierto, sí, pequeño, bien a cubierto bajo la glorieta…… ¡Como Marie-Thérèse!… Está con ella, en el cielo. Es un ternero el que se lo ha llevado. No es un ángel, es un ternero.
+—¡El ternero! El ternero que se desliza… —murmuraba—. ¡Ah! ¡No me apriete! ¡No me apriete! ¿Quién me aprieta? Pero ¿quién me aprieta? ¡Suélteme!… ¡Maxime, vete!… ¡Ah! ¡Aaaaah! ¡Hacia atrás! ¡Se va hacia atrás! ¡Y deprisa!… Aquí estamos a cubierto, sí, pequeño, bien a cubierto bajo la glorieta… ¡Como Marie-Thérèse!… Está con ella, en el cielo. Es un ternero el que se lo ha llevado. No es un ángel, es un ternero.
 
 El señor Le Tellier, aturdido por semejante divagación y temiendo la turbación que debía de fomentar en el mismo cerebro que la engendraba, intentó darle al menos una apariencia de ilación racional. Hizo preguntas. Pero se habría dicho que la señora Le Tellier no las oía.
 
@@ -2906,7 +2908,7 @@ Completamente deshecho por aquella doble abominación, el secretario opinó:
 
 »En cuanto al conjunto de mis conjeturas… es tan nebuloso que me faltan términos lo bastante flotantes para exponerlo. Es tan temible, además, que no diré nada sino con certeza… Y, para estar seguro, habría que ir a ver. Y aun así estoy convencido de que semejante experiencia reservaría muchas sorpresas al más listo.
 
-»En todo caso, maestro, aunque sea en detrimento de su salud, procure obtener de la señora Le Tellier alguna frase precisa.
+»En todo caso, maestro, aunque sea en detrimento de la salud de la enferma, procure obtener de la señora Le Tellier alguna frase precisa.
 
 —Tanto empeño pone usted… Preguntaré a Monbardeau si no es una crueldad superflua. Ahora descansa.
 
@@ -2946,9 +2948,9 @@ Entonces una inspiración hace decir al desdichado, cuya voz se ahoga:
 
 Ahora no queda más que escuchar bien.
 
-—Qué agradable es caminar —dice la durmiente moviendo las piernas bajo las sábanas—. Ya estamos al final de la alameda, cerca de la verja. Volvamos atrás. Media vuelta… Mira, Maxime, qué bonita es esta nave toda verde, tan fresca y tan amplia, con, al fondo, ese claro deslumbrante, ese pórtico «loco de claridad»… Sí, es verdad, tienes razón, «túnel» es más exacto que «nave». La glorieta tiene las dimensiones y la sombra de un túnel… ¡Ah! ¿Qué es eso que viene, en el extremo, en el sol, hacia nosotros?… ¿Un ternero? ¿Dices que es un ternero? ¡Ay, qué deprisa va! Pero, Maxime, sus patas no se mueven… En efecto: no se apoya en la tierra… Se desliza en el aire… ¡Oh! ¡Pero se nos viene encima a toda carrera, ese ternero!… ¿Que no hay que tener miedo? Dices eso y estás blanco como el papel… ¡Ya está aquí! ¡Nos embiste! ¡Sin moverse! ¡Es espantoso! ¡Aaaaaaaaah! ¡Suélteme! ¡Maxime! Me sujetan… por detrás…, me aprietan… ¡Ah! Me han soltado… ¿Qué te pasa? ¿Qué tienes?… ¡Es ese ternero, ese ternero inmóvil!… ¡Ooooh! ¡No grites! ¿Por qué esos movimientos desordenados? No, no, no grites, pequeño mío, pequeño mío… Por fin ya no gritas. Por fin. Gracias… ¿Por qué te agarras a ese animal?… ¡Aaaaah! ¡Se lo lleva!… El ternero… huye… hacia atrás… bajo la glorieta… ¡Paren!… ¡Párenlo!… ¡Maxime, pero grita! ¡Grita! ¡Llama!… Nada… ¡Ah! En el sol, allá, se da la vuelta… ¡Llama! ¡Llama!… Desaparecido… Como Marie-Thérèse……
+—Qué agradable es caminar —dice la durmiente moviendo las piernas bajo las sábanas—. Ya estamos al final de la alameda, cerca de la verja. Volvamos atrás. Media vuelta… Mira, Maxime, qué bonita es esta nave toda verde, tan fresca y tan amplia, con, al fondo, ese claro deslumbrante, ese pórtico «loco de claridad»… Sí, es verdad, tienes razón, «túnel» es más exacto que «nave». La glorieta tiene las dimensiones y la sombra de un túnel… ¡Ah! ¿Qué es eso que viene, en el extremo, en el sol, hacia nosotros?… ¿Un ternero? ¿Dices que es un ternero? ¡Ay, qué deprisa va! Pero, Maxime, sus patas no se mueven… En efecto: no se apoya en la tierra… Se desliza en el aire… ¡Oh! ¡Pero se nos viene encima a toda carrera, ese ternero!… ¿Que no hay que tener miedo? Dices eso y estás blanco como el papel… ¡Ya está aquí! ¡Nos embiste! ¡Sin moverse! ¡Es espantoso! ¡Aaaaaaaaah! ¡Suélteme! ¡Maxime! Me sujetan… por detrás…, me aprietan… ¡Ah! Me han soltado… ¿Qué te pasa? ¿Qué tienes?… ¡Es ese ternero, ese ternero inmóvil!… ¡Ooooh! ¡No grites! ¿Por qué esos movimientos desordenados? No, no, no grites, pequeño mío, pequeño mío… Por fin ya no gritas. Por fin. Gracias… ¿Por qué te agarras a ese animal?… ¡Aaaaah! ¡Se lo lleva!… El ternero… huye… hacia atrás… bajo la glorieta… ¡Paren!… ¡Párenlo!… ¡Maxime, pero grita! ¡Grita! ¡Llama!… Nada… ¡Ah! En el sol, allá, se da la vuelta… ¡Llama! ¡Llama!… Desaparecido… Como Marie-Thérèse…
 
-»…… ¿Quién es usted? ¿Sabe usted? Maxime… Ya no está. Ya no tengo hijos, ya no, ya no, ya no…… ¡El ternero! El ternero que se desliza…
+»… ¿Quién es usted? ¿Sabe usted? Maxime… Ya no está. Ya no tengo hijos, ya no, ya no, ya no… ¡El ternero! El ternero que se desliza…
 
 La señora Le Tellier se agita desesperadamente. Al ruido que hace, su hermana y el médico, a quienes se ha retenido en Mirastel, acuden a toda prisa. El señor Le Tellier les deja la guardia de aquella lamentable criatura delirante que ya no sabe más que rechazar fantasmas, que ahora revive a retazos deshilvanados la escena espantosa, y, sin perder un segundo, va a ver a Robert.
 
@@ -3008,7 +3010,7 @@ Su demencia había empezado con una explosión de alegría, un aire de jovialida
 
 A partir de entonces, nada pudo impedirle escaparse todas las mañanas para dar largos paseos alarmantes que lo exponían fuera hasta la noche. Volvía a las siete en punto; pero, nada más cenar, el monomaníaco desaparecía de nuevo; luego, al día siguiente, volvía a irse…
 
-¡Y con qué atuendo! ¡Tan burlesco como el mismísimo Tiburce! Vestido con un traje de excursionista de cheviot, extremadamente caluroso, con polainas de cuero grueso hasta las rodillas, servía de soporte a toda clase de artículos de viaje (sección de exploradores). Un cuchillo de caza le golpeaba el costado. Una funda de revólver le imponía un cinturón y un tahalí de vaqueta charolada. Sobre su pecho, las correas de una cantimplora y de una bolsa cruzaban en bandolera las de una Kodak y unos imponentes prismáticos. A la espalda llevaba una mochila de caminante, de lona verde, abultada de objetos misteriosos, y, colgada de esa mochila, una pequeña almohada de caucho de lo más intrigante. Un gorro de nutria le cubría con su estufa peluda; y la pelliza de pieles solo abandonaba su brazo derecho para ir a calentarle el izquierdo.
+¡Y con qué atuendo! ¡Tan burlesco como el mismísimo Tiburce! Vestido con un traje de excursionista de cheviot, extremadamente caluroso, con polainas de cuero grueso hasta las rodillas, servía de soporte a toda clase de artículos de viaje (sección de exploradores). Un cuchillo de caza le golpeaba el costado. Una funda de revólver le imponía un cinturón y un tahalí de vaqueta charolada. Sobre su pecho, las correas de una cantimplora y de una bolsa cruzaban en bandolera las de una Kodak y unos imponentes prismáticos. A la espalda llevaba una mochila de caminante, de lona verde, abultada de objetos misteriosos, y, colgada de esa mochila, una pequeña almohada de caucho de lo más intrigante. Un gorro de nutria le cubría la cabeza como una estufa peluda; y la pelliza de pieles solo abandonaba su brazo derecho para ir a calentarle el izquierdo.
 
 Así pertrechado, el lastimoso alfeñique salía de Mirastel y, vestido como para una expedición polar, recorría a grandes zancadas los caminos polvorientos bajo un sol capaz de secar el océano.
 
@@ -3128,7 +3130,7 @@ Desde aquel día, los únicos seres humanos que se vieron errar por los campos y
 
 No era raro, en efecto, que de los árboles, de los postes de los caminos, de las cruces de las encrucijadas, se balancearan ahorcados que habían huido del miedo en la muerte. A través del valle, una sucesión de pilones sostenía los cables eléctricos de Bellegarde a Lyon; casi todos habían servido de escalera a extraños desesperados que tocaban los cables y se electrocutaban. Momias carbonizadas retorcían sus posturas simiescas en lo alto de aquellos miradores y parecían hacerse bufonadas entre ellas. Los ríos arrastraban cadáveres, mensajeros del espanto que reinaba. La vía del ferrocarril era una cita de atropellados. Reinaron grandes hedores. Pero gracias a las nubes de cuervos que se abatieron sobre la comarca, el pudridero que era pronto fue un osario.
 
-La posteridad se asombrará de semejante desbandada. Es que olvidará cómo comprendían la calamidad las gentes del Bugey. Ya no era una novatada, ya no era una estratagema de forajidos. Era el fin del mundo. Y creían que Jehová empezaba por el Bugey a despoblar la tierra. Para ellos, el sarvant se convertía en el ángel exterminador. Acurrucados en la sombra de las chozas, sin atreverse a abrir las ventanas, aguzaban el oído. El rodar de los trenes, retumbando en la calma, les parecía el trueno de Dios. Evocaban con angustia las bestias del Apocalipsis que se habían visto en el cielo: un ternero, un águila, un lucio. Los más místicos pensaban en el buey alado de san Lucas, en el águila de san Juan Evangelista, en el *ichthys*, pez símbolo de los primeros cristianos. Por eso, si algún automóvil que atravesaba la región se le ocurría tocar la bocina, oían la trompeta del Juicio y, tras santiguarse, se prosternaban con la cara contra la tierra.
+La posteridad se asombrará de semejante desbandada. Es que olvidará cómo comprendían la calamidad las gentes del Bugey. Ya no era una novatada, ya no era una estratagema de forajidos. Era el fin del mundo. Y creían que Jehová empezaba por el Bugey a despoblar la tierra. Para ellos, el sarvant se convertía en el ángel exterminador. Acurrucados en la sombra de las chozas, sin atreverse a abrir las ventanas, aguzaban el oído. El rodar de los trenes, retumbando en la calma, les parecía el trueno de Dios. Evocaban con angustia las bestias del Apocalipsis que se habían visto en el cielo: un ternero, un águila, un lucio. Los más místicos pensaban en el buey alado de san Lucas, en el águila de san Juan Evangelista, en el *ichthys*, pez símbolo de los primeros cristianos. Por eso, si a algún automóvil que atravesaba la región se le ocurría tocar la bocina, oían la trompeta del Juicio y, tras santiguarse, se prosternaban con la cara contra la tierra.
 
 Diez siglos antes se habían extendido las mismas alarmas. Los terrores del año mil novecientos doce igualaban a los del año mil. Y si habían de generalizarse menos, es porque tenían una razón de ser, mientras que los otros eran hijos de la inagotable fantasía.
 

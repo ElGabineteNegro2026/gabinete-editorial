@@ -64,7 +64,7 @@ Todo lo demás, el método de la novela lo hace parecer inevitable.
 
 **EL EXPEDIENTE**
 
-La novela se presenta como el relato construido a partir de un expediente de 1.046 piezas, numeradas por el propio señor Le Tellier.
+La novela se presenta como el relato construido a partir de un expediente de 1046 piezas, numeradas por el propio señor Le Tellier.
 
 El recurso no es nuevo. Bram Stoker lo había empleado en *Drácula* (1897), compuesta de cartas, diarios y recortes de prensa. Pero Renard lo utiliza con una intención distinta: el documento, citado por su número de pieza, da al prodigio la frialdad de un archivo.
 
