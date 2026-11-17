@@ -2,6 +2,7 @@
 """Cubiertas de El Gabinete Negro (KDP tapa blanda 6x9 y ebook).
 
 Uso:  python3 scripts/cubierta.py proyectos/<slug> [--variante N]
+      (--variante N usa [cubierta.variantes.N] de libro.toml y guarda los ficheros con el sufijo _pN)
 
 Lee la sección [cubierta] de proyectos/<slug>/libro.toml:
     ilustracion = "cubierta/ilustracion.jpg"   # arte de portada (dominio público o propio)
@@ -294,6 +295,11 @@ def main():
     col = meta["coleccion"]
     C = json.loads((RAIZ / "colecciones" / f"{col}.json").read_text(encoding="utf-8"))
     cub = meta.get("cubierta", {})
+    # --variante N: aplica [cubierta.variantes.N] (otra ilustración, encuadre…) y añade _pN a los ficheros
+    variante = sys.argv[sys.argv.index("--variante") + 1] if "--variante" in sys.argv else None
+    if variante:
+        cub = {**cub, **cub.get("variantes", {})[variante]}
+    sufv = f"_p{variante}" if variante else ""
     L = {**meta, **cub}
     global ENCUADRE
     ENCUADRE = tuple(cub.get("encuadre", ENCUADRE))
@@ -368,13 +374,13 @@ def main():
     d.rectangle((bxr - 2 * PPP, byb - 1.2 * PPP, bxr, byb), fill="#ffffff")
     out = dir_proy / "cubierta"; out.mkdir(exist_ok=True)
     sufijo = "tapa_dura" if tapa_dura else "kdp"
-    lienzo.save(out / f"{slug}_cubierta_{sufijo}.pdf", resolution=PPP)
+    lienzo.save(out / f"{slug}_cubierta_{sufijo}{sufv}.pdf", resolution=PPP)
     guia = lienzo.copy(); dg = ImageDraw.Draw(guia)
     xs = (x_contra, x_contra + ANCHO, x_lomo, x_lomo + lomo, x_portada, x_portada + ANCHO)
     for x in xs: dg.line((x, 0, x, H), fill="#ff00ff", width=3)
     for yy in (y0, y0 + ALTO): dg.line((0, yy, W, yy), fill="#ff00ff", width=3)
-    guia.thumbnail((2400, 2400)); guia.save(out / f"{slug}_cubierta_{sufijo}.jpg", quality=88)
-    componer(col, L, C, ilu, 1600, 2560).save(out / f"{slug}_portada_ebook.jpg", quality=92)
+    guia.thumbnail((2400, 2400)); guia.save(out / f"{slug}_cubierta_{sufijo}{sufv}.jpg", quality=88)
+    componer(col, L, C, ilu, 1600, 2560).save(out / f"{slug}_portada_ebook{sufv}.jpg", quality=92)
     aviso = "  ¡LOMO PROVISIONAL! Copia ancho_total_in, alto_total_in y lomo_in de la calculadora de KDP." if provisional else ""
     print(f"Cubierta {'tapa dura' if tapa_dura else 'tapa blanda'}: {paginas} págs, papel {papel}, "
           f"lomo {lomo / MM:.2f} mm, total {W / PPP:.3f} x {H / PPP:.3f} in ({W / MM:.1f} x {H / MM:.1f} mm){aviso}")
