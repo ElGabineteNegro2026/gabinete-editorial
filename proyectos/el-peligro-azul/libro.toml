@@ -9,7 +9,7 @@ proximo_titulo = ""
 capitulos_en_impar = false
 
 [cubierta]
-ilustracion = "cubierta/ilustracion_chatgpt_vapor.png"
+ilustracion = "cubierta/ilustracion_manus_colombier.png"   # definitiva (17-11-2026)
 titulo_portada = "EL PELIGRO|AZUL"
 papel = "blanco"
 paginas = 0
@@ -17,5 +17,5 @@ sinopsis = "Primavera de 1912. En el Bugey, al pie del Jura, empiezan a desapare
 cita = "«Mirad. Luego reflexionad. Luego soñad. Esto no es imposible»."
 cita_autor = "Maurice Renard"
 
-[cubierta.variantes.2]
-ilustracion = "cubierta/ilustracion_manus_colombier.png"
+[cubierta.variantes.1]   # propuesta 1, descartada
+ilustracion = "cubierta/ilustracion_chatgpt_vapor.png"

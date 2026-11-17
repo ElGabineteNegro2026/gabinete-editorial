@@ -1,6 +1,6 @@
 # El peligro azul — Maurice Renard · Límite Abisal, vol. XX
 
-**Fase:** maquetado → **cubierta** (traducción completa, prólogo aprobado, interior de 378 páginas)
+**Fase:** cubierta → **revisión** (cubierta definitiva elegida; interior de 378 páginas)
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba *El peligro azul* para Límite Abisal (ficha `candidatos/2026-11-16_el-peligro-azul.md`); se inicia la traducción.
@@ -12,6 +12,7 @@
 - 17-11-2026: ilustración de cubierta con Higgsfield, 2 propuestas.
 - 17-11-2026: el responsable entrega una ilustración hecha con ChatGPT (vapor en el mar y tentáculos bajo el agua) → propuesta 1 de cubierta.
 - 17-11-2026: el responsable entrega una segunda ilustración hecha con Manus a partir de la propuesta A → propuesta 2.
+- 17-11-2026: **cubierta definitiva: propuesta 2** (cumbre del Colombier).
 - 16-11-2026: **precio**: 14,49 € tapa blanda y 2,99 € ebook, IVA incluido. ISBN por determinar.
   - Comprobado con la calculadora de SelfPub Go (Amazon.es): tapa blanda 13,93 € sin IVA (4 %), coste de impresión 5,29 €, regalías ≈ 3,07 € (60 %). Ebook 2,99 € dentro de la banda del 70 % (2,69-12,99 €), regalías ≈ 1,93 € (coste de entrega estimado 0,12 €).
 
@@ -50,14 +51,14 @@
 - Cap. IX (2.ª parte): el barómetro marca «160 millimètres» en el original; es errata por 760 (la frase dice «la misma presión que en la superficie»). Corregido.
 
 ## Cubierta (17-11-2026)
-- Propuesta 1 compuesta con la ilustración del responsable: `cubierta/el-peligro-azul_cubierta_kdp.pdf` (13,100 × 9,250 in, lomo 21,62 mm con 378 págs. en papel blanco, calculado a partir de las páginas: no es provisional) y `cubierta/el-peligro-azul_portada_ebook.jpg` (1600 × 2560). El EPUB ya lleva portada.
+- Propuesta 1 compuesta con la ilustración del responsable (ahora `_p1`): `cubierta/el-peligro-azul_cubierta_kdp_p1.pdf` (13,100 × 9,250 in, lomo 21,62 mm con 378 págs. en papel blanco, calculado a partir de las páginas: no es provisional) y `cubierta/el-peligro-azul_portada_ebook_p1.jpg` (1600 × 2560).
 - Contracubierta: sinopsis sin desvelar el secreto y cita del epílogo («Mirad. Luego reflexionad…»).
 - `scripts/cubierta.py` compone ahora las *cursivas* de sinopsis y citas (antes se quitaban los asteriscos y salía en redonda).
-- Propuesta 2 con la ilustración del responsable hecha en Manus a partir de la propuesta A (cumbre del Colombier, cruz, huellas, bastón roto y la mole del aeróscafo en un cielo de agua): `cubierta/el-peligro-azul_cubierta_kdp_p2.pdf` y `cubierta/el-peligro-azul_portada_ebook_p2.jpg` (≈ 355 ppp en el recuadro). `scripts/cubierta.py` admite ahora `--variante N` ([cubierta.variantes.N] en `libro.toml`).
-- **CONSULTA**: elegir la cubierta definitiva (recomendación del Editor Jefe: propuesta 2).
+- Propuesta 2 con la ilustración del responsable hecha en Manus a partir de la propuesta A (cumbre del Colombier, cruz, huellas, bastón roto y la mole del aeróscafo en un cielo de agua): ≈ 355 ppp en el recuadro. `scripts/cubierta.py` admite ahora `--variante N` ([cubierta.variantes.N] en `libro.toml`).
+- **Definitiva: propuesta 2** (17-11-2026). Es la `ilustracion` principal de `libro.toml`: `cubierta/el-peligro-azul_cubierta_kdp.pdf` y `cubierta/el-peligro-azul_portada_ebook.jpg`; el EPUB lleva ya esta portada. La propuesta 1 se conserva con sufijo `_p1`.
 
 ## Pendiente
 - Una lectura de corrección completa en papel (o PDF) antes de KDP: erratas, coherencia de términos (aeróscafo, subaéreo, aerario, *air-ballasts*), cursivas.
-- Cubierta Límite Abisal: buscar grabados de dominio público de cielo, abismo o seres aéreos (p. ej. Grandville, Doré, láminas de *La Nature*); 2-3 propuestas.
-- ISBN y fecha de lanzamiento (CONSULTA).
-- Cubierta: **bloqueada en Higgsfield** (17-11-2026). La cuenta es del plan gratuito (10 créditos) y todos los modelos de imagen probados (GPT Image 2.6 en 1k y 2k, Recraft V4.1, Soul Location) responden «Requires basic plan or higher». No se ha gastado ningún crédito. Prompts de las 2 propuestas en `cubierta/PROMPTS.md`. Opciones: que el responsable pase al plan Basic (compra: decisión suya) o genere las imágenes en ChatGPT con esos prompts.
+- ISBN y fecha de lanzamiento (CONSULTA). Con el ISBN: actualizar `libro.toml` y volver a maquetar (créditos) y a componer la cubierta.
+- Cuando haya fecha: traspaso a `novedades/para-redes.md` para el Responsable Social Media.
+- Nota: Higgsfield no generó nada (plan gratuito: «Requires basic plan or higher»; 0 créditos gastados). Las ilustraciones las aportó el responsable (ChatGPT y Manus).
