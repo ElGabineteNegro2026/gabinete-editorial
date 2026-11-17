@@ -50,19 +50,44 @@ def texto_espaciado(d, xy_centro, txt, f, color, espaciado=0.0, ancla_y="m"):
         x += w + sp
     return total
 
+def cursiva_de(f):
+    """Fuente cursiva equivalente (para *cursiva* en sinopsis y citas)."""
+    ruta = Path(f.path)
+    alt = {"CormorantGaramond.ttf": "CormorantGaramond-Italic.ttf", "Caladea-Regular.ttf": "Caladea-Italic.ttf",
+           "Carlito-Regular.ttf": "Carlito-Italic.ttf"}.get(ruta.name)
+    if not alt: return f
+    fi = ImageFont.truetype(str(ruta.with_name(alt)), f.size)
+    try:
+        nombre = f.get_variation_name().decode() if isinstance(f.get_variation_name(), bytes) else f.get_variation_name()
+        fi.set_variation_by_name(nombre + " Italic" if "Italic" not in nombre else nombre)
+    except Exception: pass
+    return fi
+
 def parrafo(d, caja, txt, f, color, interlineado=1.35, centrado=False):
+    """Párrafo ajustado a la caja; *texto* se compone en cursiva."""
     x0, y0, x1, _ = caja
-    palabras, lineas, actual = txt.split(), [], ""
-    for p in palabras:
-        prueba = (actual + " " + p).strip()
-        if d.textlength(prueba.replace("*", ""), font=f) <= x1 - x0: actual = prueba
-        else: lineas.append(actual); actual = p
+    fi = cursiva_de(f)
+    # palabras con su estilo
+    palabras, ital = [], False
+    for w in txt.split():
+        empieza = w.startswith("*") or (w[:1] in "«(“" and w[1:2] == "*")
+        if empieza: ital = True
+        limpio = w.replace("*", "")
+        palabras.append((limpio, ital))
+        if w.rstrip(".,;:!?»)”…").endswith("*"): ital = False
+    esp = d.textlength(" ", font=f)
+    ancho = lambda linea: sum(d.textlength(t, font=fi if i else f) for t, i in linea) + esp * (len(linea) - 1)
+    lineas, actual = [], []
+    for w in palabras:
+        if actual and ancho(actual + [w]) > x1 - x0: lineas.append(actual); actual = [w]
+        else: actual.append(w)
     if actual: lineas.append(actual)
     y = y0
     for l in lineas:
-        limpio = l.replace("*", "")
-        x = x0 + ((x1 - x0) - d.textlength(limpio, font=f)) / 2 if centrado else x0
-        d.text((x, y), limpio, font=f, fill=color)
+        x = x0 + ((x1 - x0) - ancho(l)) / 2 if centrado else x0
+        for t, i in l:
+            fu = fi if i else f
+            d.text((x, y), t, font=fu, fill=color); x += d.textlength(t, font=fu) + esp
         y += f.size * interlineado
     return y
 
