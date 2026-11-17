@@ -146,3 +146,14 @@ matiz: «primera traducción al español, hasta donde sabemos».
 
 Deja nota en este fichero (o en tu repositorio) con el id de producto de cada libro, si está en borrador o
 publicado y lo que falta (ASIN). El Editor Jefe no toca la web.
+
+## Estado (17-11-2026, según el Responsable Social Media)
+
+| Producto | Id | Estado | Falta |
+|---|---|---|---|
+| Makt myrkranna: Los poderes de la oscuridad | 1300 | borrador | ASIN tapa blanda y ebook |
+| 813 (El Archivo Lupin nº 4) | 1303 | borrador | ASIN tapa blanda y ebook |
+| El peligro azul | 1307 | borrador | ASIN tapa blanda y ebook |
+
+Registro del Responsable Social Media: `gabinete-imagenes`, `web/novedades-woocommerce.md`. Las correcciones de
+las fichas ya publicadas (Aguja Hueca, Drácula) esperan la aprobación del responsable.
