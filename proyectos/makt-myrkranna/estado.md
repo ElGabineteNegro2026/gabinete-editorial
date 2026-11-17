@@ -33,6 +33,10 @@ Texto pasado a `texto/*.md` (fuente original guardada fuera del repositorio). Co
 - `cubierta/componer_portada.py`: amplía la portada del responsable a 2775 px de alto (9,25 in a 300 ppp) y sustituye el recuadro por la ilustración original (`cubierta/ilustracion_responsable.webp`), con el mismo encuadre (ajuste automático) y el mismo tono verde azulado (transferencia de color por canal). Ilustración a ≈ 271 ppp efectivos (antes 216); los textos de la portada proceden de la imagen de 1253 px, ampliados con enfoque suave.
 - Resultado: `cubierta/portada_300ppp.png` → cubierta KDP y portada ebook regeneradas; EPUB con la portada nueva.
 
+## Validación de KDP (18-11-2026)
+- «Tamaño previsto 12,715 × 9,250; enviado 12,667 × 9,250»: el título está configurado en KDP con **papel crema** (lomo 186 × 0,0025 = 0,465 in) y la cubierta se había calculado para blanco (0,419 in). `papel = "crema"` → lomo 11,81 mm. Además `cubierta.py` truncaba el ancho a píxeles enteros (salía 12,713): ahora el PDF se guarda con el tamaño exacto en pulgadas → **12,715 × 9,250 in**.
+- «Marcas no imprimibles en la p. 185»: eran los 23 enlaces internos del índice. Se quitan de `plantillas/libro.typ` (el PDF de imprenta queda sin anotaciones). El contenido de la página no cambia.
+
 ## Pendiente
 - *Fjallkonan*: la tercera marca de la primera parte dice «n.º 7, 21 de febrero de 1900» entre la n.º 2 y la n.º 4 (y la n.º 7 vuelve a aparecer después): probable errata por n.º 3. Sin respuesta todavía; se mantiene como en el manuscrito.
 - Si se quiere el máximo de nitidez en los textos de portada (título, autor, colección): exportar la portada desde el diseño original a ≥ 1840 × 2780 px y volver a ejecutar `componer_portada.py` (o usarla directamente).

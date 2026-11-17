@@ -206,10 +206,11 @@
       let sangria = if t.level == 2 { 0.5cm } else { 0cm }
       let cuerpo-h = if t.level == 1 { strong(t.body) } else { t.body }
       block(above: if t.level == 1 { 1em } else { 0.5em }, below: 0pt,
-        pad(left: sangria, link(t.location(), grid(columns: (auto, 1fr, auto), column-gutter: 3pt,
+        // Sin link(): en el PDF de imprenta KDP elimina los enlaces como «marcas no imprimibles»
+        pad(left: sangria, grid(columns: (auto, 1fr, auto), column-gutter: 3pt,
           text(size: 10pt, cuerpo-h),
           box(width: 100%, repeat(text(size: 10pt)[.#h(2pt)])),
-          text(size: 10pt, str(p))))))
+          text(size: 10pt, str(p)))))
     }
   }
 }

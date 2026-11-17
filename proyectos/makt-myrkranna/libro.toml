@@ -15,7 +15,7 @@ capitulos_en_impar = false
 
 [cubierta]
 portada = "cubierta/portada_300ppp.png"   # portada del responsable a 300 ppp con su ilustración original (cubierta/componer_portada.py)
-papel = "blanco"
+papel = "crema"   # 18-11-2026: KDP espera 12,715 in de ancho = lomo de 186 págs. en crema
 paginas = 0
 sinopsis = "Thomas Harker, joven pasante de un bufete londinense, viaja a los Cárpatos para cerrar la venta de una vieja mansión inglesa. Su cliente, el conde Drácula, lo recibe con una cortesía exquisita en un castillo sin criados, sin espejos y sin salida.\n\nEl lector cree conocer esta historia. Se equivoca.\n\nEn 1900, el periódico islandés *Fjallkonan* publicó por entregas una versión de *Drácula* con un prólogo firmado por el propio Stoker. Durante más de un siglo se la tuvo por una traducción abreviada, hasta que alguien la leyó con atención: personajes nuevos, una mujer que ronda al prisionero, una conspiración que alcanza a la aristocracia europea y un final distinto. *Makt myrkranna* es la misma sombra con otro rostro."
 cita = "«Estoy totalmente convencido de que los acontecimientos aquí descritos tuvieron realmente lugar, por muy increíbles e incomprensibles que puedan parecer»."

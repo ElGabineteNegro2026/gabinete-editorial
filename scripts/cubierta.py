@@ -21,7 +21,7 @@ Genera en proyectos/<slug>/cubierta/:
 La estética de cada colección está descrita en colecciones/<coleccion>.json ("cubierta") y en CLAUDE.md.
 Es una base reutilizable: el agente la adapta por libro (composición, tamaños) y revisa visualmente cada resultado.
 """
-import re, subprocess, sys, tomllib, json
+import math, re, subprocess, sys, tomllib, json
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 
@@ -346,9 +346,13 @@ def main():
         papel = cub.get("papel", "crema")
         EXT, BIS = SANGRADO, 0
         lomo = paginas * GROSOR[papel] * PPP
-    W = int(2 * EXT + 2 * ANCHO + 2 * BIS + lomo); H = int(ALTO + 2 * EXT)
+    # Medidas exactas en pulgadas (KDP compara con 3 decimales); el lienzo se redondea hacia arriba a píxeles
+    # enteros y el PDF se guarda con la resolución que da justo esas pulgadas (antes se truncaba: 12,713 ≠ 12,715)
+    W_in = (2 * EXT + 2 * ANCHO + 2 * BIS + lomo) / PPP; H_in = (ALTO + 2 * EXT) / PPP
+    W = math.ceil(W_in * PPP - 1e-6); H = math.ceil(H_in * PPP - 1e-6)
     if tapa_dura and cub.get("ancho_total_in"):           # medidas exactas de la plantilla de KDP
-        W, H = int(cub["ancho_total_in"] * PPP), int(cub["alto_total_in"] * PPP)
+        W_in, H_in = cub["ancho_total_in"], cub["alto_total_in"]
+        W, H = math.ceil(W_in * PPP - 1e-6), math.ceil(H_in * PPP - 1e-6)
         lomo = W - 2 * EXT - 2 * ANCHO - 2 * BIS
     est = C["cubierta"]
     lienzo = Image.new("RGB", (W, H), hexa(est["fondo"])); d = ImageDraw.Draw(lienzo)
@@ -395,7 +399,7 @@ def main():
     d.rectangle((bxr - 2 * PPP, byb - 1.2 * PPP, bxr, byb), fill="#ffffff")
     out = dir_proy / "cubierta"; out.mkdir(exist_ok=True)
     sufijo = "tapa_dura" if tapa_dura else "kdp"
-    lienzo.save(out / f"{slug}_cubierta_{sufijo}{sufv}.pdf", resolution=PPP)
+    lienzo.save(out / f"{slug}_cubierta_{sufijo}{sufv}.pdf", dpi=(W / W_in, H / H_in))
     guia = lienzo.copy(); dg = ImageDraw.Draw(guia)
     xs = (x_contra, x_contra + ANCHO, x_lomo, x_lomo + lomo, x_portada, x_portada + ANCHO)
     for x in xs: dg.line((x, 0, x, H), fill="#ff00ff", width=3)
@@ -404,7 +408,7 @@ def main():
     (portada_dada(portada, 1600, 2560) if portada is not None else componer(col, L, C, ilu, 1600, 2560)).save(out / f"{slug}_portada_ebook{sufv}.jpg", quality=92)
     aviso = "  ¡LOMO PROVISIONAL! Copia ancho_total_in, alto_total_in y lomo_in de la calculadora de KDP." if provisional else ""
     print(f"Cubierta {'tapa dura' if tapa_dura else 'tapa blanda'}: {paginas} págs, papel {papel}, "
-          f"lomo {lomo / MM:.2f} mm, total {W / PPP:.3f} x {H / PPP:.3f} in ({W / MM:.1f} x {H / MM:.1f} mm){aviso}")
+          f"lomo {lomo / MM:.2f} mm, total {W_in:.3f} x {H_in:.3f} in ({W / MM:.1f} x {H / MM:.1f} mm){aviso}")
 
 if __name__ == "__main__":
     main()
