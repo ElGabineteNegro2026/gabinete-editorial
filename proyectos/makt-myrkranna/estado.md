@@ -1,9 +1,15 @@
 # Makt myrkranna — Bram Stoker / Valdimar Ásmundsson · Límite Abisal, vol. XIX
 
-**Fase:** cubierta → **revisión** (17-11-2026)
+**Fase:** **listo para KDP** (17-11-2026; lanzamiento esta semana)
 
 ## Decisiones del responsable
 - 17-11-2026: entrega el manuscrito maquetado en Word (`MAKTMYRKRANNA_El_Gabinete_Negro_6x9_editable_final.doc`), con prólogo de «El Editor», apéndice, vol. XIX e ISBN 9798143163683 (ISBN gratuito de KDP, tapa blanda), y la portada definitiva (`cubierta/portada_responsable.jpg`). Pide revisar la maquetación, generar Word y PDF para KDP y diseñar la cubierta completa a partir de la portada.
+- 17-11-2026: **la traducción es de la casa** → créditos «Traducción: El Gabinete Negro».
+- 17-11-2026: «El capítulo desaparecido» es parte del texto (se mantiene).
+- 17-11-2026: créditos como en su manuscrito («Primera publicación: 1901»).
+- 17-11-2026: **aprobados sinopsis y cita de contracubierta**.
+- 17-11-2026: **precio 14,49 € tapa blanda y 2,99 € ebook**. **Lanzamiento esta misma semana.**
+- 17-11-2026: entrega la ilustración central original (1024 × 1536) para mejorar la resolución de la cubierta.
 
 ## Revisión de la maquetación (17-11-2026)
 Texto pasado a `texto/*.md` (fuente original guardada fuera del repositorio). Correcciones:
@@ -23,10 +29,11 @@ Texto pasado a `texto/*.md` (fuente original guardada fuera del repositorio). Co
 - `cubierta/makt-myrkranna_cubierta_kdp.pdf`: 12,667 × 9,250 in, lomo 10,64 mm (186 págs., papel blanco; calculado, no provisional). Portada del responsable tal cual; lomo y contracubierta (sinopsis + cita del prólogo de Stoker) en el estilo de la colección. `cubierta/makt-myrkranna_portada_ebook.jpg` 1600 × 2560.
 - Scripts: `maquetar.py` admite `% TÍTULO|Subtítulo`, `isbn_ebook` y no confunde «## I. …» con subtítulo de parte; `cubierta.py` admite `portada = …` (portada ya diseñada).
 
-## Pendiente (CONSULTA)
-- **Resolución de la portada**: 1253 × 2000 px → 216 ppp en imprenta (KDP recomienda 300). Pedir exportación mayor (≥ 1840 × 2780 px) y regenerar.
-- **Derechos de la traducción**: los créditos no indican traductor. Stoker (†1912) y Ásmundsson (†1902) son dominio público, pero una traducción española ajena tendría derechos propios. Confirmar el origen y, si es de la casa, añadir `traduccion = "Traducción: El Gabinete Negro"`.
-- *Fjallkonan*: la tercera marca de la primera parte dice «n.º 7, 21 de febrero de 1900» entre la n.º 2 y la n.º 4 (y la n.º 7 vuelve a aparecer después): probable errata por n.º 3 (finales de enero). Confirmar.
-- «El capítulo desaparecido» (rótulo dentro del diario, antes de la entrada que empieza «Durante los últimos días»): se mantiene centrado en cursiva; confirmar si es del texto o una nota editorial que debe quitarse.
-- Créditos: «Primera publicación» decía 1901; el apéndice indica entregas desde enero de 1900. Puesto «por entregas en Fjallkonan (1900-1901); en libro, 1901».
-- Aprobar sinopsis y cita de contracubierta. Precio y fecha de lanzamiento.
+## Cubierta a 300 ppp (17-11-2026)
+- `cubierta/componer_portada.py`: amplía la portada del responsable a 2775 px de alto (9,25 in a 300 ppp) y sustituye el recuadro por la ilustración original (`cubierta/ilustracion_responsable.webp`), con el mismo encuadre (ajuste automático) y el mismo tono verde azulado (transferencia de color por canal). Ilustración a ≈ 271 ppp efectivos (antes 216); los textos de la portada proceden de la imagen de 1253 px, ampliados con enfoque suave.
+- Resultado: `cubierta/portada_300ppp.png` → cubierta KDP y portada ebook regeneradas; EPUB con la portada nueva.
+
+## Pendiente
+- *Fjallkonan*: la tercera marca de la primera parte dice «n.º 7, 21 de febrero de 1900» entre la n.º 2 y la n.º 4 (y la n.º 7 vuelve a aparecer después): probable errata por n.º 3. Sin respuesta todavía; se mantiene como en el manuscrito.
+- Si se quiere el máximo de nitidez en los textos de portada (título, autor, colección): exportar la portada desde el diseño original a ≥ 1840 × 2780 px y volver a ejecutar `componer_portada.py` (o usarla directamente).
+- Al publicar: subir a KDP `interior/…_interior_6x9.pdf` (tapa blanda, 6 × 9, papel blanco, sin sangrado) y `cubierta/…_cubierta_kdp.pdf`; el ebook desde el DOCX en Kindle Create (o el EPUB). Confirmar el día exacto para `novedades/para-redes.md`.

@@ -7,13 +7,14 @@ isbn = "9798143163683"        # tapa blanda (ISBN gratuito de KDP, del manuscrit
 isbn_ebook = ""               # el ISBN de KDP no vale para el ebook; sin ISBN en DOCX/EPUB
 creditos_obra = [
   "Título original: Makt myrkranna",
-  "Primera publicación: por entregas en Fjallkonan (Reikiavik, 1900-1901); en libro, Reikiavik, 1901",
-  "Autor: Bram Stoker (versión islandesa de Valdimar Ásmundsson)",
+  "Primera publicación: 1901",
+  "Autor: Bram Stoker (versión islandesa de Valdimar Ásmundsson).",
 ]
+traduccion = "Traducción: El Gabinete Negro"
 capitulos_en_impar = false
 
 [cubierta]
-portada = "cubierta/portada_responsable.jpg"   # portada entregada por el responsable (17-11-2026), se usa tal cual
+portada = "cubierta/portada_300ppp.png"   # portada del responsable a 300 ppp con su ilustración original (cubierta/componer_portada.py)
 papel = "blanco"
 paginas = 0
 sinopsis = "Thomas Harker, joven pasante de un bufete londinense, viaja a los Cárpatos para cerrar la venta de una vieja mansión inglesa. Su cliente, el conde Drácula, lo recibe con una cortesía exquisita en un castillo sin criados, sin espejos y sin salida.\n\nEl lector cree conocer esta historia. Se equivoca.\n\nEn 1900, el periódico islandés *Fjallkonan* publicó por entregas una versión de *Drácula* con un prólogo firmado por el propio Stoker. Durante más de un siglo se la tuvo por una traducción abreviada, hasta que alguien la leyó con atención: personajes nuevos, una mujer que ronda al prisionero, una conspiración que alcanza a la aristocracia europea y un final distinto. *Makt myrkranna* es la misma sombra con otro rostro."

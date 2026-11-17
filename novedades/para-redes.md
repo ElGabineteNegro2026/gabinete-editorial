@@ -7,8 +7,10 @@ ganchos para redes y rutas de portada). El Responsable Social Media lo lee en su
 
 - **Autor:** Bram Stoker (versión islandesa de Valdimar Ásmundsson, 1900-1901)
 - **Colección:** Límite Abisal · Vol. XIX
-- **Fecha prevista:** disponible en Amazon la semana del 16-11-2026 (decisión del responsable; fecha exacta por confirmar)
-- **Portada:** `novedades/portadas/makt-myrkranna_portada.jpg` (1253 × 2000 px)
+- **Fecha prevista:** esta misma semana, del 16 al 22 de noviembre de 2026 (decisión del responsable, 17-11-2026; día exacto por confirmar al publicar en KDP)
+- **Precio:** 14,49 € tapa blanda; 2,99 € ebook (IVA incluido)
+- **Portada:** `novedades/portadas/makt-myrkranna_portada.jpg` (1600 × 2560 px, versión definitiva a alta resolución). Cubierta completa en `proyectos/makt-myrkranna/cubierta/`.
+- **Traducción:** El Gabinete Negro (primera traducción de la casa del texto islandés).
 
 **Sinopsis breve.** En 1900, el periódico de Reikiavik *Fjallkonan* empezó a publicar por entregas *Drácula*,
 con un prólogo firmado por el propio Bram Stoker. Durante casi un siglo se tuvo por una simple traducción. No lo
