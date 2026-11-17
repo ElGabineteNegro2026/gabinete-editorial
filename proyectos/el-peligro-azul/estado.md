@@ -8,6 +8,8 @@
 - 16-11-2026: el responsable confirma el vol. XX.
 - 16-11-2026: **prólogo aprobado** tal como está en `texto/00_prologo.md`.
 - 16-11-2026: incluir el croquis de las huellas en la nieve (1.ª parte, cap. IX), con los rótulos traducidos.
+- 17-11-2026: se suprime «Próximo título» del libro (y de las normas de la casa, CLAUDE.md).
+- 17-11-2026: ilustración de cubierta con Higgsfield, 2 propuestas.
 - 16-11-2026: **precio**: 14,49 € tapa blanda y 2,99 € ebook, IVA incluido. ISBN por determinar.
   - Comprobado con la calculadora de SelfPub Go (Amazon.es): tapa blanda 13,93 € sin IVA (4 %), coste de impresión 5,29 €, regalías ≈ 3,07 € (60 %). Ebook 2,99 € dentro de la banda del 70 % (2,69-12,99 €), regalías ≈ 1,93 € (coste de entrega estimado 0,12 €).
 
@@ -46,8 +48,7 @@
 - Cap. IX (2.ª parte): el barómetro marca «160 millimètres» en el original; es errata por 760 (la frase dice «la misma presión que en la superficie»). Corregido.
 
 ## Pendiente
-- «Próximo título»: el responsable valora suprimirlo de los libros; propuesta del Editor Jefe pendiente de confirmación (el script ya omite la línea si `proximo_titulo` está vacío).
 - Una lectura de corrección completa en papel (o PDF) antes de KDP: erratas, coherencia de términos (aeróscafo, subaéreo, aerario, *air-ballasts*), cursivas.
 - Cubierta Límite Abisal: buscar grabados de dominio público de cielo, abismo o seres aéreos (p. ej. Grandville, Doré, láminas de *La Nature*); 2-3 propuestas.
 - ISBN y fecha de lanzamiento (CONSULTA).
-- Cubierta: el responsable propone generar la ilustración central con Higgsfield (0,25 créditos por imagen; 10 créditos en la cuenta gratuita). Pendiente de su visto bueno a los prompts.
+- Cubierta: **bloqueada en Higgsfield** (17-11-2026). La cuenta es del plan gratuito (10 créditos) y todos los modelos de imagen probados (GPT Image 2.6 en 1k y 2k, Recraft V4.1, Soul Location) responden «Requires basic plan or higher». No se ha gastado ningún crédito. Prompts de las 2 propuestas en `cubierta/PROMPTS.md`. Opciones: que el responsable pase al plan Basic (compra: decisión suya) o genere las imágenes en ChatGPT con esos prompts.
