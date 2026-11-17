@@ -86,6 +86,7 @@ Los textos de manifiesto y apéndice de cada colección están en `colecciones/<
   justificado con división silábica en español, 6 pt entre párrafos, sin sangría de primera línea.
 - Títulos: **Carlito** (= Calibri) negrita, centrados; capítulos 13 pt, partes 14 pt.
 - Folio centrado al pie, 9 pt; sin folio en preliminares ni en páginas en blanco. Sin titulillos.
+- Sin enlaces en el PDF de imprenta (KDP los elimina como «marcas no imprimibles»; el índice no los lleva).
 - Partes, prólogo y apéndice empiezan en impar; capítulos en página nueva (en impar tras una parte, o
   siempre si `capitulos_en_impar = true`). Número total de páginas par.
 - Ortotipografía: comillas latinas « » (y “ ” dentro), raya — en diálogos e incisos, puntos suspensivos …,
@@ -130,6 +131,8 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o d
 
 - **Tapa blanda** KDP 6 x 9 (Límite Abisal, Cámara Sellada, Archivo Lupin): ancho = 2 × 6 in + lomo +
   2 × 0,125 in de sangrado; alto = 9,25 in. Lomo = páginas × 0,002252 in (blanco) o × 0,0025 in (crema).
+  **Todos los libros de tapa blanda van en papel crema** (decisión del responsable, 18-11-2026): `papel = "crema"`
+  en `[cubierta]`. El ancho total debe coincidir al milésimo con el que indica KDP al subir la cubierta.
 - **Tapa dura** KDP 6 x 9 (Archivo Arcano): margen exterior de 0,709 in por los cuatro lados (vuelta de
   15 mm + 3 mm de sangrado), bisagras de 0,394 in a cada lado del lomo; el lomo de tapa dura **no** es el de
   tapa blanda. La referencia de Drácula mide 15,07 × 10,42 in. Para cada libro, copia de la calculadora de

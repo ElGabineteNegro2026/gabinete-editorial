@@ -77,3 +77,7 @@
 - Día exacto de publicación (semana del 23-11-2026). Ficha ya en `novedades/para-redes.md`.
 - Opcional: que el responsable hojee el PDF final en pantalla o pida una prueba impresa de KDP antes de aprobar la tapa blanda.
 - Nota: Higgsfield no generó nada (plan gratuito: «Requires basic plan or higher»; 0 créditos gastados). Las ilustraciones las aportó el responsable (ChatGPT y Manus).
+
+## Papel crema (18-11-2026)
+- Decisión del responsable: **todos los libros en papel crema**. La cubierta estaba calculada para blanco (13,100 in). Regenerada: `papel = "crema"`, lomo 378 × 0,0025 in = 24,00 mm, **13,195 × 9,250 in** exactos (también la variante _p1). Comprobar al subir que KDP espera ese ancho.
+- Interior rehecho sin enlaces en el índice (KDP los quita como «marcas no imprimibles»); sigue en 378 páginas, mismo contenido.
