@@ -56,10 +56,13 @@ Cambian el manifiesto, algunos elementos preliminares, la forma de titular capí
 
 | Colección | Línea | Preliminares propios | Capítulos | Prólogo | Próximo título |
 |---|---|---|---|---|---|
-| **Límite Abisal** | horror cósmico, metafísico, weird | — | «I», «II»… (novela) o título del relato | PRÓLOGO | sí |
-| **Cámara Sellada** | gótico y sobrenatural europeo, espacios cerrados, «el horror no grita: susurra» | — | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | sí |
+| **Límite Abisal** | horror cósmico, metafísico, weird | — | «I», «II»… (novela) o título del relato | PRÓLOGO | no |
+| **Cámara Sellada** | gótico y sobrenatural europeo, espacios cerrados, «el horror no grita: susurra» | — | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | no |
 | **Archivo Arcano** (**tapa dura**) | antologías y ediciones de lujo (casas encantadas, cultos, objetos malditos, Drácula…) | página de **ex libris** tras créditos | título de cada relato | Prólogo | no |
-| **Archivo Lupin** | Arsène Lupin y novela de ladrones y detectives Belle Époque; numeración «Dossier» | **emblema** (silueta) en la primera página | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | sí |
+| **Archivo Lupin** | Arsène Lupin y novela de ladrones y detectives Belle Époque; numeración «Dossier» | **emblema** (silueta) en la primera página | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | no |
+
+No se anuncia el «Próximo título» en los libros (decisión del responsable, 17-11-2026: genera problemas de
+planificación); el anuncio se hace en la web y en redes.
 
 Los textos de manifiesto y apéndice de cada colección están en `colecciones/<slug>.json` y no se reescriben.
 
@@ -72,7 +75,7 @@ Los textos de manifiesto y apéndice de cada colección están en `colecciones/<
 5. Manifiesto editorial
 6. Prólogo (impar), firmado «— El Editor / El Gabinete Negro» alineado a la derecha
 7. Cuerpo: página de título interior opcional, partes (impar) y capítulos
-8. Apéndice explicativo (impar) + página «El Gabinete Negro» con el texto de cierre y «Próximo título:»
+8. Apéndice explicativo (impar) + página «El Gabinete Negro» con el texto de cierre (sin «Próximo título»)
 9. Índice
 
 ### Especificaciones del interior (imprenta)
@@ -158,7 +161,7 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o d
 
 ### Ilustraciones
 
-Claude no genera imágenes. Hay dos vías, por este orden:
+Claude no genera imágenes salvo con Higgsfield (vía 3, aprobada el 17-11-2026). Hay tres vías, por este orden:
 
 1. **Grabados de dominio público (por defecto, gratis)**: Gustave Doré, Harry Clarke, Aubrey Beardsley,
    Alfred Kubin, John Martin, Odilon Redon, Sidney Sime, grabados victorianos de prensa… Búscalos en
@@ -177,6 +180,12 @@ Claude no genera imágenes. Hay dos vías, por este orden:
    el informe la ilustración ideal (escena, encuadre vertical, paleta de la colección, «sin texto») como
    prompt listo para pegar en ChatGPT. El responsable la deja en `proyectos/<slug>/cubierta/` (o la
    adjunta) y entonces compones la cubierta con ella (sin `grabado = true`).
+3. **Ilustración generada con el conector Higgsfield AI** (aprobado por el responsable el 17-11-2026):
+   modelo `gpt_image_2_6`, encuadre vertical 2:3, paleta de la colección, «sin texto». Consulta antes el coste
+   (`get_cost`) y el saldo, genera solo el número de propuestas que pida el responsable y no gastes créditos
+   de pago sin su visto bueno. Guarda el resultado en `proyectos/<slug>/cubierta/` y anota modelo, prompt y
+   fecha en `cubierta/CREDITOS.md`. Si no llega a ~1650 px de alto (recuadro de Límite Abisal a 300 ppp),
+   amplíala (`upscale_image`) y dilo en el informe.
 
 - Sin texto dentro de la ilustración: título, autor y ornamentos los compone `scripts/cubierta.py`.
 - `scripts/ilustracion.py` (API de imágenes de OpenAI, `gpt-image-2`) queda disponible pero **es de pago y

@@ -37,7 +37,7 @@
  ],
  "prologo_titulo": "PRÓLOGO",
  "capitulos": "Números romanos solos («I», «II»…) en novelas; título del relato en antologías.",
- "proximo_titulo": true,
+ "proximo_titulo": false,
  "cubierta": {
   "fondo": "#1a1e1f",
   "texto": "#e8ecef",

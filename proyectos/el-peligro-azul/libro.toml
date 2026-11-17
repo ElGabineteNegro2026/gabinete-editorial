@@ -5,5 +5,5 @@ volumen = "XX"
 isbn = "En trámite"
 creditos_obra = ["Título original: Le Péril bleu", "Maurice Renard, 1911 (Louis-Michaud, París)"]
 traduccion = "Traducción: El Gabinete Negro"
-proximo_titulo = "Por anunciar"
+proximo_titulo = ""
 capitulos_en_impar = false

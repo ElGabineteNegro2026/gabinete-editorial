@@ -18,7 +18,7 @@
  ],
  "prologo_titulo": "PRÓLOGO",
  "capitulos": "«CAPÍTULO I» si no tiene título; «I. TÍTULO DEL CAPÍTULO» en mayúsculas si lo tiene. Partes: «PRIMERA PARTE» + subtítulo en página propia.",
- "proximo_titulo": true,
+ "proximo_titulo": false,
  "cubierta": {
   "fondo": "#1a1e1f",
   "texto": "#f2ece0",

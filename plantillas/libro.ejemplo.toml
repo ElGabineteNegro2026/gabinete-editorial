@@ -8,5 +8,5 @@ isbn = "En trámite"
 # Líneas de créditos propias de la obra (título original y año; en antologías, cada relato)
 creditos_obra = ["Título original: Belphégor ou Le fantôme du Louvre", "Arthur Bernède, 1927"]
 # traduccion = "Traducción: El Gabinete Negro"   # opcional
-proximo_titulo = "Título del siguiente volumen"  # se imprime tras el apéndice (no en Archivo Arcano)
+# proximo_titulo: ya no se imprime (decisión del 17-11-2026); no hace falta este campo
 capitulos_en_impar = false        # true: cada capítulo empieza en página impar
