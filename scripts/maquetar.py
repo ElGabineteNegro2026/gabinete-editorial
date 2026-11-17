@@ -91,12 +91,14 @@ def lee_proyecto(dir_proy: Path):
         for l in lineas:
             if l.startswith("% "):
                 vuelca(); buf = []
-                actual = {"tipo": "titulo-obra", "titulo": l[2:].strip()}; cuerpo.append(actual)
+                tit, _, sub = l[2:].partition("|")   # «% TÍTULO|Subtítulo»
+                actual = {"tipo": "titulo-obra", "titulo": tit.strip(), "subtitulo": sub.strip() or None}; cuerpo.append(actual)
             elif l.startswith("# "):
                 vuelca(); buf = []
                 actual = {"tipo": "parte", "titulo": l[2:].strip(), "subtitulo": None}; cuerpo.append(actual)
             elif l.startswith("## "):
-                if actual is not None and actual["tipo"] == "parte" and actual["subtitulo"] is None and not any(x.strip() for x in buf):
+                if actual is not None and actual["tipo"] == "parte" and actual["subtitulo"] is None and not any(x.strip() for x in buf) \
+                        and not re.match(r"[IVXLC]+\. ", l[3:].strip()):   # «## I. TÍTULO» es capítulo, no subtítulo
                     actual["subtitulo"] = l[3:].strip(); continue
                 vuelca(); buf = []
                 actual = {"tipo": "capitulo", "titulo": l[3:].strip(), "impar": capitulos_impar, "bloques": []}
@@ -107,6 +109,8 @@ def lee_proyecto(dir_proy: Path):
     datos = {
         "titulo": meta["titulo"], "subtitulo": meta.get("subtitulo"), "autor": meta["autor"],
         "volumen": meta.get("volumen", "x"), "isbn": meta.get("isbn", "En trámite"),
+        # ISBN del ebook: el de KDP para tapa blanda (979-8…) no vale para el ebook; "" = sin línea de ISBN
+        "isbn_ebook": meta.get("isbn_ebook", meta.get("isbn", "En trámite")),
         "creditos_obra": meta.get("creditos_obra"), "traduccion": meta.get("traduccion"),
         "proximo_titulo": meta.get("proximo_titulo"),
         "prologo": prologo, "apendice": apendice, "cuerpo": cuerpo, "coleccion": col,
@@ -200,7 +204,7 @@ def hace_docx(dir_proy, slug, meta, col, datos):
              + (datos["creditos_obra"] or []) \
              + ["Esta edición utiliza un texto en dominio público revisado y adaptado para esta colección."] \
              + ([datos["traduccion"]] if datos["traduccion"] else []) \
-             + [f"ISBN: {datos['isbn']}", "Edición publicada por El Gabinete Negro", "Reservados todos los derechos de esta edición."]:
+             + ([f"ISBN: {datos['isbn_ebook']}"] if datos["isbn_ebook"] else []) + ["Edición publicada por El Gabinete Negro", "Reservados todos los derechos de esta edición."]:
         p = d.add_paragraph(t); p.runs[0].font.size = Pt(9.5)
     salto()
     if col.get("ex_libris"):
@@ -223,6 +227,7 @@ def hace_docx(dir_proy, slug, meta, col, datos):
     for s in datos["cuerpo"]:
         if s["tipo"] == "titulo-obra":
             salto(); centrado(s["titulo"], 12, True, 70)
+            if s.get("subtitulo"): centrado(s["subtitulo"], 11)
         elif s["tipo"] == "parte":
             d.add_heading(s["titulo"], level=1)
             if s["subtitulo"]: centrado(s["subtitulo"], 14, True)

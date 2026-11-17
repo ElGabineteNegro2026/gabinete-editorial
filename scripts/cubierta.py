@@ -6,6 +6,8 @@ Uso:  python3 scripts/cubierta.py proyectos/<slug> [--variante N]
 
 Lee la sección [cubierta] de proyectos/<slug>/libro.toml:
     ilustracion = "cubierta/ilustracion.jpg"   # arte de portada (dominio público o propio)
+    portada     = "cubierta/portada.jpg"       # opcional: portada ya diseñada (p. ej. por el responsable); se usa
+                                               # tal cual, escalada al alto del panel y ampliada con el color de fondo
     sinopsis    = "Texto de contracubierta…"     # admite *cursiva*
     cita        = "«Frase destacada»"           # opcional
     cita_autor  = "Maurice Leblanc"             # opcional
@@ -113,6 +115,18 @@ ENCUADRE = (0.5, 0.5)   # centro del recorte (x, y); se fija con `encuadre = [x,
 
 def encaja(img, w, h):
     return ImageOps.fit(img.convert("RGB"), (int(w), int(h)), Image.LANCZOS, centering=ENCUADRE)
+
+def portada_dada(img, w, h, cx=None):
+    """Portada terminada → lienzo w x h: se escala al alto del lienzo y se centra en cx (centro del corte);
+    los laterales se rellenan con el color de las esquinas (las portadas de la casa tienen fondo liso)."""
+    img = img.convert("RGB")
+    fondo = img.getpixel((2, 2))
+    esc = h / img.height
+    im = img.resize((round(img.width * esc), h), Image.LANCZOS)
+    lienzo = Image.new("RGB", (w, h), fondo)
+    cx = w / 2 if cx is None else cx
+    lienzo.paste(im, (round(cx - im.width / 2), 0))
+    return lienzo
 
 # ------------------------------------------------------------------ portadas por colección
 # Cada función dibuja la portada en un lienzo de w x h (sirve para KDP y para ebook).
@@ -306,6 +320,11 @@ def main():
     ilu = Image.open(dir_proy / cub["ilustracion"]) if cub.get("ilustracion") else None
     if ilu is not None and cub.get("grabado"):   # grabado de dominio público: teñir a la paleta de la colección
         ilu = preparar_grabado(ilu, C, cub.get("recorte_grabado", 0.035), cub.get("invertir_grabado", False))
+    portada = Image.open(dir_proy / cub["portada"]) if cub.get("portada") else None
+    if portada is not None:
+        ppp_ef = PPP * portada.height / (ALTO + 2 * SANGRADO)
+        print(f"Portada dada: {portada.width} x {portada.height} px → {ppp_ef:.0f} ppp efectivos en imprenta"
+              + ("  (AVISO: < 300 ppp; pedir un original mayor)" if ppp_ef < 290 else ""))
     paginas = cub.get("paginas", 0)
     if not paginas:
         pdf = dir_proy / "interior" / f"{slug}_interior_6x9.pdf"
@@ -337,6 +356,8 @@ def main():
     # Portada
     if tapa_dura:   # se compone a tamaño de corte y la vuelta queda del color de fondo
         lienzo.paste(componer(col, L, C, ilu, ANCHO, ALTO), (int(x_portada), int(EXT)))
+    elif portada is not None:   # portada terminada: centrada en el corte (el sangrado exterior queda a la derecha)
+        lienzo.paste(portada_dada(portada, int(W - x_portada), H, ANCHO / 2), (int(x_portada), 0))
     else:
         lienzo.paste(componer(col, L, C, ilu, int(W - x_portada), H), (int(x_portada), 0))
     # Lomo (KDP: texto solo con más de 79 páginas)
@@ -380,7 +401,7 @@ def main():
     for x in xs: dg.line((x, 0, x, H), fill="#ff00ff", width=3)
     for yy in (y0, y0 + ALTO): dg.line((0, yy, W, yy), fill="#ff00ff", width=3)
     guia.thumbnail((2400, 2400)); guia.save(out / f"{slug}_cubierta_{sufijo}{sufv}.jpg", quality=88)
-    componer(col, L, C, ilu, 1600, 2560).save(out / f"{slug}_portada_ebook{sufv}.jpg", quality=92)
+    (portada_dada(portada, 1600, 2560) if portada is not None else componer(col, L, C, ilu, 1600, 2560)).save(out / f"{slug}_portada_ebook{sufv}.jpg", quality=92)
     aviso = "  ¡LOMO PROVISIONAL! Copia ancho_total_in, alto_total_in y lomo_in de la calculadora de KDP." if provisional else ""
     print(f"Cubierta {'tapa dura' if tapa_dura else 'tapa blanda'}: {paginas} págs, papel {papel}, "
           f"lomo {lomo / MM:.2f} mm, total {W / PPP:.3f} x {H / PPP:.3f} in ({W / MM:.1f} x {H / MM:.1f} mm){aviso}")

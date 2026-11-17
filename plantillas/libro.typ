@@ -164,6 +164,10 @@
     a-impar()
     v(2.5cm)
     align(center, text(font: sans, size: 12pt, weight: "bold", s.titulo))
+    if s.at("subtitulo", default: none) != none {
+      v(0.25cm)
+      align(center, text(font: sans, size: 11pt, s.subtitulo))
+    }
   } else {
     if s.at("impar", default: false) or previo == "parte" { a-impar() } else { pagebreak(weak: true) }
     v(1cm)
