@@ -1702,7 +1702,7 @@ Una serie de pequeños reductos muy bajos… El señor Le Tellier y el señor de
 
 —Es en el techo donde hay que buscar —le dijo el astrónomo—. ¡Mire! ¡Ah!
 
-Cinco cuerpos inertes, mantenidos contra el techo por su asombrosa ligereza, fueron palpados uno tras otro y reconocidos como *cinco cuerpos humanos*. Como se esperaba, la enorme presión anormal los había deformado cruelmente; presentaban hinchazones y rugosidades debidas a esa muerte espantosa que tumefacta tan horriblemente a los cadáveres ahogados en lo más hondo del mar. Pero lo que sorprendía más allá de toda expresión era que los sarvants fueran hombres, hombres especiales, se comprende, ¡pero hombres al fin! ¡Cómo! ¡¿Aquellos seres del vacío, aquellas criaturas invisibles, casi imponderables, privadas de sistema circulatorio, desprovistas de aparato respiratorio, aquellos coleccionistas y verdugos de hombres, eran también hombres?!
+Cinco cuerpos inertes, mantenidos contra el techo por su asombrosa ligereza, fueron palpados uno tras otro y reconocidos como *cinco cuerpos humanos*. Como se esperaba, la enorme presión anormal los había deformado cruelmente; presentaban hinchazones y rugosidades debidas a esa muerte espantosa que tan horriblemente hincha a los cadáveres ahogados en lo más hondo del mar. Pero lo que sorprendía más allá de toda expresión era que los sarvants fueran hombres, hombres especiales, se comprende, ¡pero hombres al fin! ¡Cómo! ¡¿Aquellos seres del vacío, aquellas criaturas invisibles, casi imponderables, privadas de sistema circulatorio, desprovistas de aparato respiratorio, aquellos coleccionistas y verdugos de hombres, eran también hombres?!
 
 Sin entretenerse en vanas reflexiones, el señor Le Tellier hizo que los cargaran de pesadas cadenas para que no pudieran echar a volar. Se trajeron ataúdes de cinc llenos de hielo, donde se acostó a los invisibles difuntos. Luego el señor Le Tellier se los entregó al doctor Monbardeau con orden de llevarlos al bulevar Saint-Germain, a su laboratorio, para la autopsia. Dentro de una hora se reuniría con él para empezar el trabajo.
 
@@ -1726,7 +1726,7 @@ Mientras tanto, los ingenieros que acariciaban, golpeaban, frotaban y auscultaba
 
 Reían, y también refunfuñaban. Porque la maldita invisibilidad les impedía captar muchos mecanismos. Varios jóvenes ciegos, escogidos por su inteligencia entre los internos de una institución, les prestaban, sin embargo, servicios valiosos con su tacto perfeccionado. Pero no era más que una medida a medias, y el señor Le Tellier se dio cuenta pronto de que era indispensable visibilizar el aeróscafo y sus detalles si se quería hacer de él un estudio eficaz.
 
-¡Ah, si hubiera podido embadurnarse! Pero el aeróscafo era refractario a toda pintarrajeada. Nada prendía en él, como no había prendido la tiza del compañero Virachol. Desde el temple hasta el esmalte, se probaron sucesivamente todos los colores del mundo. Era como querer pintar vidrio a la acuarela.
+¡Ah, si hubiera podido embadurnarse! Pero el aeróscafo era refractario a todo embadurnamiento. Nada prendía en él, como no había prendido la tiza del compañero Virachol. Desde el temple hasta el esmalte, se probaron sucesivamente todos los colores del mundo. Era como querer pintar vidrio a la acuarela.
 
 Semejante chasco incitó al astrónomo a hacer extraer trozos del subaéreo para el análisis químico, a fin de que ese análisis provocara la invención de una pintura capaz de adherirse a la materia invisible y, por tanto, de hacerla aparecer.
 
@@ -1734,7 +1734,7 @@ A la espera de esa feliz eventualidad, el señor Le Tellier se contentó con hac
 
 El día declinaba.
 
-—Venga —dijo el astrónomo al duque de Agnès—. Ahora vamos a disecar a los sarvants… ¡Cuando pienso en mi hija, me parece que de buena gana los habría despedazado vivos!… Venga usted, caballero. Nos llevamos a aquel ciego que ve allí; se llama Louis Courtois y sabe anatomía. El director de la institución me lo ha recomendado calurosamente. Vaya a buscarlo, se lo ruego.
+—Venga —dijo el astrónomo al duque de Agnès—. Ahora vamos a disecar a los sarvants… ¡Cuando pienso en mi hija, me parece que de buena gana los habría despedazado vivos!… Venga usted, caballero. Nos llevamos a aquel ciego que ve usted allí; se llama Louis Courtois y sabe anatomía. El director de la institución me lo ha recomendado calurosamente. Vaya a buscarlo, se lo ruego.
 
 Cuando el trío, del brazo, salió del Grand Palais, la hélice de yeso salía de su molde, heteróclita, inverosímil, toda blanca: reproducción fiel de una hélice maravillosa que no habían concebido los únicos que, hasta entonces, se habían llamado *los hombres*.
 
@@ -1780,7 +1780,7 @@ El señor Le Tellier, tras un silencio, abrió los párpados. Le turbó el pasmo
 
 —Pues bien, toquen: no hay diferencia entre la piel de la cara y la tela del traje…, ni la piel de las manos tampoco…
 
-—¡Manos, eso! —protestó el doctor—. ¿Esos especie de muñones granulosos que repugnan al tacto?…
+—¡Manos, eso! —protestó el doctor—. ¿Esas especies de muñones granulosos que repugnan al tacto?…
 
 El señor de Agnès repetía con aire asqueado:
 
@@ -1894,7 +1894,7 @@ El astrónomo replicó:
 
 —Intentemos al menos comprender cómo suplen la falta de circulación sanguínea y de función respiratoria, y desagreguemos este simulacro de humanidad.
 
-El sol naciente los encontró inclinados sobre los pequeños muertos invisibles, repugnantes y ligeros, difíciles de retener y que, al menor movimiento en falso, iban a pegarse al techo. Pero el resultado de su vigilia es demasiado técnico para ser referido en el curso de esta historia popular, cuya claridad, por lo demás, no ganaría con ello ni una cienmilésima de carcel.
+El sol naciente los encontró inclinados sobre los pequeños muertos invisibles, repugnantes y ligeros, difíciles de retener y que, al menor movimiento en falso, iban a pegarse al techo. Pero el resultado de su vigilia es demasiado técnico para ser referido en el curso de esta historia popular, cuya claridad, por lo demás, no ganaría con ello ni una cienmilésima de bujía.
 
 Así terminó la memorable noche del 6 al 7 de septiembre de 1912, digna sucesora de un viernes célebre para siempre en los anales del Conocimiento.
 
@@ -1934,7 +1934,7 @@ El hombre, que ya no era el Hombre, se inclinó, presa del estupor. Aceptaba. Se
 
 «Desde el fondo del abismo hemos clamado a Ti, Señor, nuestros deseos, nuestros sufrimientos, nuestro amor. Y éramos como bestias subterráneas. Y el abismo se ahondaba más que nuestra estima. Sí, más hondo, por estar bajo un mundo insospechado. ¿No eran, pues, aquellos a quienes diste el reino de la Tierra los hijos de la arcilla transfigurada por el soplo de Elohim? Nuestras oraciones, al subir hacia Tu gloria, a lo más alto de los Cielos, atravesaban el universo que Te plugo interponer entre Ella y nosotros. Pero más que nunca, ¡oh, Señor!, he aquí que clamamos a Ti, desde el fondo remoto del abismo, nuestros deseos más agudos, nuestros sufrimientos avivados y nuestro amor acrecido».
 
-La araña de la tarde significaba pena, como la de la mañana. Se aplastaba a una y otra en cuanto se las veía. Algunos exaltados les daban caza y las pisoteaban estúpidamente. El miedo las hacía surgir donde no existían. Se veían por todas partes *segadores*, *frinos*; México, alucinado, soñaba con *atocalts*; los negros de África se imaginaban que las estrellas eran *galeodes* luminosas; y el poema de Victor Hugo se realizaba al revés, pues el sol radiante evocaba la sombra paradójicamente deslumbrante de algún titánico *sísifo*,
+La araña de la tarde, contra lo que dice el refrán francés, significaba pena, como la de la mañana. Se aplastaba a una y otra en cuanto se las veía. Algunos exaltados les daban caza y las pisoteaban estúpidamente. El miedo las hacía surgir donde no existían. Se veían por todas partes *segadores*, *frinos*; México, alucinado, soñaba con *atocalts*; los negros de África se imaginaban que las estrellas eran *galeodes* luminosas; y el poema de Victor Hugo se realizaba al revés, pues el sol radiante evocaba la sombra paradójicamente deslumbrante de algún titánico *sísifo*,
 
 ->*y el hombre, del sol, hacía una araña.*<-
 
@@ -2102,7 +2102,7 @@ El señor de Agnès se sonrojó como si el senador Bérenger acabara de desperta
 
 —¡Ah, señor, qué me hace usted decir! ¡Tenga piedad de mí! ¡Todas mis angustias, todos mis celos, todo mi martirio eterno, antes que una lágrima en las pestañas de su hija!
 
-Y el duque prosiguió largo rato en ese tono, confesando su amor y su mal con una voz nerviosa, ronca y vacilante, con esa énfasis de melodrama que rebaja al tono de malas tiradas las exaltaciones de la vida más hermosa.
+Y el duque prosiguió largo rato en ese tono, confesando su amor y su mal con una voz nerviosa, ronca y vacilante, con ese énfasis de melodrama que rebaja al tono de malas tiradas las exaltaciones de la vida más hermosa.
 
 ## XVIII. APARICIÓN DE LO INVISIBLE
 
@@ -2148,7 +2148,7 @@ De ordinario, la pintura disimula las cosas. Hoy la pintura iba a mostrar las co
 
 Cuando todo estuvo preparado, Arnold convocó alrededor del navío un congreso de sabios para asistir a aquel barnizado de un nuevo género, como el Grand Palais nunca había contenido otro. Belloir levantó sus gradas y rodeó el aparato invisible con un circo de tablas…
 
-El día fijado, que cayó en 5 de octubre, ante una galería de celebridades cosmopolitas, el escandinavo se puso la blusa blanca y dio la primera pincelada.
+El día fijado, que fue el 5 de octubre, ante una galería de celebridades cosmopolitas, el escandinavo se puso la blusa blanca y dio la primera pincelada.
 
 Los cinematógrafos y las cámaras instantáneas dibujaban un gran círculo; los botes de arnoldina estaban repartidos por todas partes; una orquesta tocaba una marcha heroica.
 
@@ -2330,7 +2330,7 @@ La luna acababa de ponerse; en luminosidad difusa, su claridad se exhalaba todav
 
 Hacía un vientecillo fresco.
 
-El ruido volvió a empezar, mientras una especie de nube oscura, que silbaba como la metralla, iba a estrellarse en la marisma, hacia Ceyzérieu. Una segunda la siguió inmediatamente. Una tercera. Una cuarta. Una quinta… Caían pesadamente una sobre otra, en el mismo lugar, abofeteando la tierra húmeda. Se llegaron a contar treinta y dos. La trigésimo tercera caída produjo un sonido muy distinto, de tintineo, de hierros entrechocados, y no tenía aspecto de nube. Todo aquello venía manifiestamente del puerto invisible y solo caía hacia el sur gracias al vientecillo fresco.
+El ruido volvió a empezar, mientras una especie de nube oscura, que silbaba como la metralla, iba a estrellarse en la marisma, hacia Ceyzérieu. Una segunda la siguió inmediatamente. Una tercera. Una cuarta. Una quinta… Caían pesadamente una sobre otra, en el mismo lugar, abofeteando la tierra húmeda. Se llegaron a contar treinta y dos. La trigésima tercera caída produjo un sonido muy distinto, de tintineo, de hierros entrechocados, y no tenía aspecto de nube. Todo aquello venía manifiestamente del puerto invisible y solo caía hacia el sur gracias al vientecillo fresco.
 
 ¿Qué eran aquellos envíos del mundo superior? Ni hombres ni animales, desde luego; se conocía demasiado su manera de anunciarse. ¿Qué habían imaginado otra vez los sarvants?…
 
@@ -2586,7 +2586,7 @@ La señorita de Agnès y el señor duque, su hermano, estaban maravillados. El p
 
 »Abd-ul-Kaddur, gastado por el alcohol y las depravaciones, ya andaba de capa caída a su partida. El Mediterráneo lo dejó fuera de estado de hacer daño a nadie, en nada; y llegó a Constantinopla gravemente enfermo. Desde entonces fue empeorando cada día y no salió de su lecho de dolor, que anteayer fue un lecho de muerte. La señorita Le Tellier ni siquiera lo entrevió en todo su encierro.
 
-»Pues bien, Abd-ul-Kaddur estiró la pata —perdone la expresión— y he aquí que sus sobrinos y herederos entran en el viejo palacio de Estambul, se desparraman por el harén y encuentran, en medio de las Fatmas y los feredyés, a… ¿quién?, ya lo sabe usted: a la señorita Marie-Thérèse Le Tellier, un poco paliducha, mirando el cielo por los agujeros de una celosía morisca (¿se dice así?). Jóvenes Turcos educados a la europea, que hablan francés como es debido, la hacen salir con mil y un zalemas y mil y dos excusas… Y en el umbral del palacio, a ver si no, ¿con quién se encuentran?…
+»Pues bien, Abd-ul-Kaddur estiró la pata —perdone la expresión— y he aquí que sus sobrinos y herederos entran en el viejo palacio de Estambul, se desparraman por el harén y encuentran, en medio de las Fatmas y los feredyés, a… ¿quién?, ya lo sabe usted: a la señorita Marie-Thérèse Le Tellier, un poco paliducha, mirando el cielo por los agujeros de una celosía morisca (¿se dice así?). Jóvenes Turcos educados a la europea, que hablan francés como es debido, la hacen salir con mil y una zalemas y mil y dos excusas… Y en el umbral del palacio, a ver si no, ¿con quién se encuentran?…
 
 —¡Con Tiburce, hombre!
 

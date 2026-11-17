@@ -40,3 +40,31 @@ vestido de negro va siempre un paso por delante. Es la aventura más sombría de
 1. Campaña de intriga con la cifra: «813. ¿Sabes qué significa?» (cuenta atrás, pistas en historias).
 2. «Lupin, jefe de la policía de París»: durante media novela, el ladrón dirige la investigación de su propio caso.
 3. Para seguidores de la serie: «Dossier IV, la primera vez que Lupin pierde».
+
+
+## El peligro azul — Maurice Renard (Límite Abisal, Vol. XX)
+
+- **Autor:** Maurice Renard (1875-1939). Novela de 1911, primera traducción al español (hasta donde hemos podido averiguar).
+- **Colección:** Límite Abisal · Vol. XX
+- **Fecha prevista:** semana del 23 al 29 de noviembre de 2026 (decisión del responsable, 17-11-2026; día exacto por confirmar al publicar en KDP).
+- **Precio:** 14,49 € tapa blanda; 2,99 € ebook (IVA incluido)
+- **Portada:** `novedades/portadas/el-peligro-azul_portada.jpg` (1600 × 2560 px). Cubierta completa en `proyectos/el-peligro-azul/cubierta/`.
+- **Material extra:** `novedades/portadas/el-peligro-azul_croquis_1911.png`, el croquis de las huellas en la nieve de la edición de 1911, rotulado en español (está dentro del libro, cap. IX).
+
+**Sinopsis breve.** Primavera de 1912, en el Bugey, al pie del Jura. Empiezan a desaparecer cosas: las agujas de
+un reloj, una bandera, el gallo de hierro de un campanario, una estatua de jardín. Nadie ve a los ladrones y no dejan
+huellas; todo lo que se llevan estaba al aire libre y en alto. Los campesinos los llaman *sarvants*: duendes,
+aparecidos. Un día dejan de llevarse cosas y empiezan a llevarse personas. Tres excursionistas suben a la cumbre del
+Colombier y sus huellas en la nieve se interrumpen de golpe, en medio de la nada.
+
+**Ganchos para redes.**
+1. El enigma de las huellas: «Tres rastros suben por la nieve hasta la cruz. Ninguno baja. Arriba no hay nadie».
+   Ideal con el croquis de 1911 como imagen.
+2. «Miren al cielo esta noche»: el horror de la novela viene de arriba, no de abajo. Texto breve del prólogo:
+   «Hay terrores que vienen de abajo… Este viene de encima».
+3. Para lectores de ciencia ficción clásica: Renard, el inventor del «maravilloso científico», escribió en 1911 una
+   novela de invasión que se adelanta a Conan Doyle (*El horror de las alturas*, 1913) y al horror cósmico.
+
+**Cuidado al comunicar.** No revelar el secreto de la novela (qué son los *sarvants* y dónde se llevan a sus
+presas): la sinopsis y la contracubierta se detienen en el misterio a propósito. No decir «inédita» sin matiz:
+«primera traducción al español, hasta donde sabemos».

@@ -8,7 +8,7 @@ En el orden material, eso es todo lo que queda de la primera incursión de los s
 
 No se viene a verlos a menudo; y algunos persisten en no ver en ellos más que los vestigios de una superchería exorbitante. El terror fue tan grande que la gente se complace en olvidarlo, en creer que no tuvo razón de ser y que no ha de volver. El año 1912 después de Jesucristo parecía imperecedero mientras transcurría; pasado, ni siquiera se quiere recordar. La oración de los creyentes sube de nuevo al cielo, donde ya no existe nada puesto que no se ve nada. En Francia, sobre todo, se sostiene con gusto que nunca hubo más que un solo Peligro Azul: el Peligro *Azul de Prusia*. Al Bugey no le gusta pensar que su límite coincide con el litoral superaéreo; dentro de unos meses lo negará.
 
-Verdaderamente, si el antiguo ministro de la Guerra, vuelto simple diputado, no desafiara a la Cámara burlona y no terminara todos sus discursos con el apóstrofe renovado de Catón: «¡Hay que destruir a los sarvants!»; si los infortunados supervivientes no estuvieran ya ahí para contar su martirio; si la memoria del Peligro Azul no se encontrara en las coplas de las revistas, bajo los nombres de *Béryl Bleu*, de *Père! il bleut, Bergère!* y otras finuras; si el señor Fursy no hubiera compuesto una inmortal «canción mordaz» en la que el respetable Bugey no es más que un *p’tit bout d’Ain* (un pedacito de Ain, que suena a *petit boudin*, morcillita: ¡duro, de todos modos!), podría imaginarse que hemos soñado esta pesadilla o, al menos, que los hombres, durante un semestre, anduvieron mal de la azotea, y con arañas en ella.
+Verdaderamente, si el antiguo ministro de la Guerra, vuelto simple diputado, no desafiara a la Cámara burlona y no terminara todos sus discursos con el apóstrofe renovado de Catón: «¡Hay que destruir a los sarvants!»; si los infortunados supervivientes no estuvieran ya ahí para contar su martirio; si la memoria del Peligro Azul no se encontrara en las coplas de las revistas, bajo los nombres de *Béryl Bleu*, de *Père! il bleut, Bergère!* (juegos con el sonido de *Péril Bleu*) y otras finuras; si el señor Fursy no hubiera compuesto una inmortal «canción mordaz» en la que el respetable Bugey no es más que un *p’tit bout d’Ain* (un pedacito de Ain, que suena a *petit boudin*, morcillita: ¡duro, de todos modos!), podría imaginarse que hemos soñado esta pesadilla o, al menos, que los hombres, durante un semestre, anduvieron mal de la azotea, y con arañas en ella.
 
 Así les va a los atolondrados que somos. Nuestra ligereza no tiene excusa. No pensamos en la crecida de nuestros ríos más que en medio de la inundación.
 
@@ -52,7 +52,7 @@ Por eso es malo que se considere la historia del Peligro Azul como una leyenda m
 
 «Mirad. Luego reflexionad. Luego soñad. *Esto* no es imposible».
 
-Y, como todas las fábulas, grano de amarga filosofía envuelto en píldora de oro en todo el azúcar de un apólogo, la fábula de los sarvants habrá dado su fruto.
+Y, como todas las fábulas —amarga píldora de filosofía dorada con todo el azúcar de un apólogo—, la fábula de los sarvants habrá dado su fruto.
 
 El señor Le Tellier lo sabía; por eso deseaba un relato popular del *Peligro Azul*.
 

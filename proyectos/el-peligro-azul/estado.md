@@ -1,6 +1,6 @@
 # El peligro azul — Maurice Renard · Límite Abisal, vol. XX
 
-**Fase:** cubierta → **revisión** (cubierta definitiva elegida; interior de 378 páginas)
+**Fase:** revisión → **listo para KDP salvo ISBN** (lectura de corrección hecha el 17-11-2026; lanzamiento la semana del 23-11-2026)
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba *El peligro azul* para Límite Abisal (ficha `candidatos/2026-11-16_el-peligro-azul.md`); se inicia la traducción.
@@ -13,6 +13,7 @@
 - 17-11-2026: el responsable entrega una ilustración hecha con ChatGPT (vapor en el mar y tentáculos bajo el agua) → propuesta 1 de cubierta.
 - 17-11-2026: el responsable entrega una segunda ilustración hecha con Manus a partir de la propuesta A → propuesta 2.
 - 17-11-2026: **cubierta definitiva: propuesta 2** (cumbre del Colombier).
+- 17-11-2026: **lanzamiento previsto la semana próxima** (23-29 de noviembre de 2026); se pide la lectura de corrección completa.
 - 16-11-2026: **precio**: 14,49 € tapa blanda y 2,99 € ebook, IVA incluido. ISBN por determinar.
   - Comprobado con la calculadora de SelfPub Go (Amazon.es): tapa blanda 13,93 € sin IVA (4 %), coste de impresión 5,29 €, regalías ≈ 3,07 € (60 %). Ebook 2,99 € dentro de la banda del 70 % (2,69-12,99 €), regalías ≈ 1,93 € (coste de entrega estimado 0,12 €).
 
@@ -57,8 +58,22 @@
 - Propuesta 2 con la ilustración del responsable hecha en Manus a partir de la propuesta A (cumbre del Colombier, cruz, huellas, bastón roto y la mole del aeróscafo en un cielo de agua): ≈ 355 ppp en el recuadro. `scripts/cubierta.py` admite ahora `--variante N` ([cubierta.variantes.N] en `libro.toml`).
 - **Definitiva: propuesta 2** (17-11-2026). Es la `ilustracion` principal de `libro.toml`: `cubierta/el-peligro-azul_cubierta_kdp.pdf` y `cubierta/el-peligro-azul_portada_ebook.jpg`; el EPUB lleva ya esta portada. La propuesta 1 se conserva con sufijo `_p1`.
 
+## Lectura de corrección (17-11-2026)
+- Lectura completa de preliminar, primera y segunda parte y epílogo, además de revisión automática (ortografía con el diccionario Hunspell es_ES, comillas, signos de apertura, rayas, cursivas, números) y cotejo con el francés en los pasajes dudosos.
+- Unas 60 correcciones de texto y unos 35 ajustes tipográficos. Lo más relevante:
+  - Contrasentido corregido (2.ª parte, cap. XI): «donde el hombre no podría vivir más que en el vacío absoluto» → «no podría vivir, como tampoco en el vacío absoluto».
+  - Ambigüedad: «dos hijas … de diez y ocho años» (se leía «dieciocho») → «de diez y de ocho años».
+  - Erratas: *acoraze* → acorace; *repónte* → reponte; «trigésimo tercera» → trigésima; «esa énfasis» → ese énfasis; «mil y un zalemas» → una; «los monte bajos» → montes; «esos especie de» → esas especies.
+  - Galicismos y calcos: *dardeaba*, *tumefacta*, «cayó en 5 de octubre», «dite bien», «a toda rueda», «pintarrajeada», «picoletos» (por gendarmes), «divas» (*dives*), «ni una cienmilésima de carcel» (unidad francesa → bujía).
+  - Pronombre francés sin traducir: «¿quién es ese «*les*»?» → «¿quién es ese «se»?» (2.ª parte, cap. XIII).
+  - Patois del cap. XVII (1.ª parte): se añade una glosa breve en castellano, como en el cap. XII. Epílogo: glosa de los juegos de palabras con *Péril Bleu*.
+  - Ortotipografía: apóstrofos tipográficos (’), números de cuatro cifras sin punto (1046, 1500, 8500), «……» → «…», «etc…» → «etc.», signos de apertura que faltaban.
+  - Coherencia: «François de Agnès» en todo el libro (había tres «d’Agnès»).
+- Reglas de la casa, sin cambios: *sarvants* en cursiva solo la primera vez; aeróscafo, subaéreo, aerario; *air-ballasts* en cursiva.
+- Maqueta rehecha: sigue en 378 páginas (el lomo de la cubierta no cambia); fuentes incrustadas; croquis en la p. 93.
+
 ## Pendiente
-- Una lectura de corrección completa en papel (o PDF) antes de KDP: erratas, coherencia de términos (aeróscafo, subaéreo, aerario, *air-ballasts*), cursivas.
-- ISBN y fecha de lanzamiento (CONSULTA). Con el ISBN: actualizar `libro.toml` y volver a maquetar (créditos) y a componer la cubierta.
-- Cuando haya fecha: traspaso a `novedades/para-redes.md` para el Responsable Social Media.
+- **ISBN (CONSULTA, urgente para el lanzamiento)**: en los créditos figura «En trámite». Con el ISBN: actualizar `libro.toml`, volver a maquetar (créditos) y regenerar el DOCX/EPUB. Si se publica con el ISBN gratuito de KDP, decidir qué poner en los créditos.
+- Día exacto de publicación (semana del 23-11-2026). Ficha ya en `novedades/para-redes.md`.
+- Opcional: que el responsable hojee el PDF final en pantalla o pida una prueba impresa de KDP antes de aprobar la tapa blanda.
 - Nota: Higgsfield no generó nada (plan gratuito: «Requires basic plan or higher»; 0 créditos gastados). Las ilustraciones las aportó el responsable (ChatGPT y Manus).
