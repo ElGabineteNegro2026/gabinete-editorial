@@ -394,9 +394,11 @@ def main():
             texto_espaciado(d, ((x0 + x1) / 2, y + 0.12 * PPP), cub["cita_autor"].upper(), fuente("Cinzel.ttf", 0.07 * PPP), oro, 0.2)
     texto_espaciado(d, ((x0 + x1) / 2, y0 + ALTO - 1.75 * PPP), "EL GABINETE NEGRO", fuente("Cinzel.ttf", 0.1 * PPP, "Medium"), oro, 0.25)
     d.text((x0, y0 + ALTO - 0.6 * PPP), "ELGABINETENEGRO.COM", font=fuente("Cinzel.ttf", 0.075 * PPP), fill=oro, anchor="lm")
-    # Hueco para el código de barras de KDP (2 x 1,2 in, abajo a la derecha, a 0,25 in del corte)
+    # Espacio reservado para el código de barras de KDP (2 x 1,2 in, abajo a la derecha, a 0,25 in del corte):
+    # se deja libre, SIN recuadro blanco (KDP lo coloca por su cuenta y el recuadro quedaba desplazado; 18-11-2026).
+    # Solo se marca en la vista previa con guías.
     bxr = x_contra + ANCHO - 0.4 * PPP; byb = y0 + ALTO - 0.4 * PPP
-    d.rectangle((bxr - 2 * PPP, byb - 1.2 * PPP, bxr, byb), fill="#ffffff")
+    caja_barras = (bxr - 2 * PPP, byb - 1.2 * PPP, bxr, byb)
     out = dir_proy / "cubierta"; out.mkdir(exist_ok=True)
     sufijo = "tapa_dura" if tapa_dura else "kdp"
     lienzo.save(out / f"{slug}_cubierta_{sufijo}{sufv}.pdf", dpi=(W / W_in, H / H_in))
@@ -404,6 +406,7 @@ def main():
     xs = (x_contra, x_contra + ANCHO, x_lomo, x_lomo + lomo, x_portada, x_portada + ANCHO)
     for x in xs: dg.line((x, 0, x, H), fill="#ff00ff", width=3)
     for yy in (y0, y0 + ALTO): dg.line((0, yy, W, yy), fill="#ff00ff", width=3)
+    dg.rectangle(caja_barras, outline="#ff00ff", width=3)   # zona del código de barras (solo en la vista previa)
     guia.thumbnail((2400, 2400)); guia.save(out / f"{slug}_cubierta_{sufijo}{sufv}.jpg", quality=88)
     (portada_dada(portada, 1600, 2560) if portada is not None else componer(col, L, C, ilu, 1600, 2560)).save(out / f"{slug}_portada_ebook{sufv}.jpg", quality=92)
     aviso = "  ¡LOMO PROVISIONAL! Copia ancho_total_in, alto_total_in y lomo_in de la calculadora de KDP." if provisional else ""

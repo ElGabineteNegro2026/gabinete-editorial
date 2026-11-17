@@ -139,8 +139,8 @@ python3 scripts/cubierta.py proyectos/<slug>     # cubierta KDP (tapa blanda o d
   cubiertas de KDP (o de la plantilla que facilite el responsable) `ancho_total_in`, `alto_total_in` y
   `lomo_in` a la sección `[cubierta]` de `libro.toml`; sin esos datos el script hace una estimación y la
   marca como **provisional**, y así debe constar en el informe. Nada importante en la vuelta ni en las bisagras.
-- Texto en el lomo solo si > 79 páginas. Hueco blanco de 2 × 1,2 in abajo a la derecha de la contracubierta
-  para el código de barras de KDP. Texto importante a ≥ 0,25 in del corte. 300 ppp.
+- Texto en el lomo solo si > 79 páginas. Espacio libre de 2 × 1,2 in abajo a la derecha de la contracubierta
+  para el código de barras de KDP, **sin recuadro blanco** (KDP lo coloca por su cuenta; 18-11-2026). Texto importante a ≥ 0,25 in del corte. 300 ppp.
 - Portada ebook: 1600 × 2560 px (proporción 1,6, la de las portadas de referencia).
 - Campos de `[cubierta]` en `libro.toml`: `ilustracion`, `sinopsis` (párrafos separados por `\n\n`, admite
   *cursiva*), `cita` y `cita_autor` (opcionales), `gancho` (frase de cabecera de contracubierta, Archivo
