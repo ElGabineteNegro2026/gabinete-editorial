@@ -10,7 +10,7 @@ Hijo de una familia acomodada, estudió Derecho, se interesó por la pintura y l
 
 Él se lo dio.
 
-En 1909 publicó un ensayo titulado *Du roman merveilleux-scientifique et de son action sur l'intelligence du progrès*. En él defendía un tipo de novela que partiera de la ciencia de su tiempo para llevarla un paso más allá, hasta lo maravilloso, y que hiciera pensar al lector sobre los límites de lo que creía saber.
+En 1909 publicó un ensayo titulado *Du roman merveilleux-scientifique et de son action sur l’intelligence du progrès*. En él defendía un tipo de novela que partiera de la ciencia de su tiempo para llevarla un paso más allá, hasta lo maravilloso, y que hiciera pensar al lector sobre los límites de lo que creía saber.
 
 No era la novela de anticipación técnica de Julio Verne, con sus máquinas verosímiles y sus cálculos exactos.
 
@@ -30,7 +30,7 @@ El doctor Lerne es el protagonista de *Le Docteur Lerne, sous-dieu* (1908), su p
 
 Y hay un detalle delicioso. La biografía de Fléchambault que el cronista abandona en la primera página para ocuparse del Peligro Azul no era una broma: Renard la escribiría muchos años después, en *Un homme chez les microbes* (1928).
 
-Después de esta novela vendrían *L'Homme truqué* (1921), *Le Maître de la lumière* (1933) y, sobre todo, *Les Mains d'Orlac* (1920), la historia del pianista al que injertan las manos de un asesino, que el cine adaptaría varias veces y que es hoy su título más conocido.
+Después de esta novela vendrían *L’Homme truqué* (1921), *Le Maître de la lumière* (1933) y, sobre todo, *Les Mains d’Orlac* (1920), la historia del pianista al que injertan las manos de un asesino, que el cine adaptaría varias veces y que es hoy su título más conocido.
 
 **EL ABISMO INVERTIDO**
 

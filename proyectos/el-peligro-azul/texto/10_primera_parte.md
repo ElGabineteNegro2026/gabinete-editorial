@@ -38,7 +38,7 @@ El destructor *Swift*, de la flota británica, entró ayer por la tarde en dique
 
 … Una vez más los Diplomáticos se han conchabado y, como siempre, los nuestros han ejecutado al compás las reverencias más serviles ante las declaraciones del extranjero.
 
-¿De modo, señores Lacayos galoneados, que creen ustedes al comandante del destructor inglés cuando sostiene que, en el momento del abordaje, «se encontraba a 35 millas al norte del *Bretagne*»?… ¿Y le siguen creyendo cuando confiesa que «el accidente del destructor se produjo, no obstante, *unos* *segundos* después del del paquebote»?… Cuando declara que, «como participaba en una maniobra nocturna, debía navegar con todas las luces apagadas», eso no les dice nada, ¿verdad?… Cuando exclama (¡como el comandante del *Bretagne*, pardiez!): «¡No he visto nada!», ¿eso lo admiten ustedes?… Entonces, si me hacen el favor, ¿habrá resucitado el buque fantasma, presente en todas partes a la vez? ¿O bien las dos embarcaciones han chocado a través de una distancia de *setenta kilómetros*?… ¡Vamos, vamos! Prefiero creer en la culpabilidad del capitán inglés y en la ceguera —muy perdonable— del capitán francés. Es más sencillo. ¡Pero la Diplomacia ha hablado! ¡Saludemos!
+¿De modo, señores Lacayos galoneados, que creen ustedes al comandante del destructor inglés cuando sostiene que, en el momento del abordaje, «se encontraba a 35 millas al norte del *Bretagne*»?… ¿Y le siguen creyendo cuando confiesa que «el accidente del destructor se produjo, no obstante, *unos segundos* después que el del paquebote»?… Cuando declara que, «como participaba en una maniobra nocturna, debía navegar con todas las luces apagadas», eso no les dice nada, ¿verdad?… Cuando exclama (¡como el comandante del *Bretagne*, pardiez!): «¡No he visto nada!», ¿eso lo admiten ustedes?… Entonces, si me hacen el favor, ¿habrá resucitado el buque fantasma, presente en todas partes a la vez? ¿O bien las dos embarcaciones han chocado a través de una distancia de *setenta kilómetros*?… ¡Vamos, vamos! Prefiero creer en la culpabilidad del capitán inglés y en la ceguera —muy perdonable— del capitán francés. Es más sencillo. ¡Pero la Diplomacia ha hablado! ¡Saludemos!
 
 La pérfida Albión chilla: «¡El accidente del destructor *Swift* es inexplicable!». Y el Almirantazgo pretende haber guardado silencio sobre él «*solamente* para evitar que se relacionaran las *dos* colisiones»!!! «Solamente» ya tiene gracia; pero «dos» es sublime.
 
@@ -190,7 +190,7 @@ Se encomendó su vigilancia a una pareja de gendarmes, la cual, escondida según
 
 Entretanto, Champrion fue hostigado por segunda vez. Los sarvants se adjudicaron una oca y unos patos que sus propietarios habían descuidado recoger, seguros de no sufrir daño dos noches seguidas. Y hubo que deplorar además la pérdida de la urna de imitación de bronce, adornada con un geranio de hiedra, que coronaba uno de los pilares de una verja de entrada. El otro jarrón, sobre el otro pilar, con otro geranio de hiedra, fue respetado. (Siempre ese espíritu de desparejar y de chinchar propio de los duendes, gnomos, trasgos, *kobolds*, divas, *goblins*, *korrigans*, genios, trolls… y sarvants).
 
-Al despertar, los dos picoletos que se habían dormido con tan enojosa armonía no encontraron ya a los italianos. Pero sostuvieron *mordicus* que estos se escondían bajo el ramaje de tal modo que podían, sin ser vistos, deslizarse a través del bosque, ejecutar sus feas hazañas y volver a su escondrijo.
+Al despertar, los dos gendarmes que se habían dormido con tan enojosa armonía no encontraron ya a los italianos. Pero sostuvieron *mordicus* que estos se escondían bajo el ramaje de tal modo que podían, sin ser vistos, deslizarse a través del bosque, ejecutar sus feas hazañas y volver a su escondrijo.
 
 Por lo demás, está comprobado que los jornaleros partieron de madrugada en dirección a Châtel. Un muchacho logró alcanzarlos en bicicleta en esa aldea, situada, como las otras, en la carretera de Bellegarde a Culoz, entre río y monte. Allí, durante todo el día, se vio a los dos compañeros ir de puerta en puerta implorando un empleo que se les negaba inexorablemente. Los de Châtel calculaban que las rarezas continuarían y sabían que ahora les tocaba a ellos sufrirlas. Miraban a los dos parias como a los exploradores del Maligno.
 
@@ -432,13 +432,13 @@ Y ahora el señor Le Tellier era director del Observatorio de París. Y ahora la
 
 Suzanne Monbardeau, la mayor de sus nietos, se había dejado seducir por un tal Front, de Belley, un donjuán palurdo, desprovisto de todo sentimiento. Él la había raptado; y como el señor Monbardeau no quería volver a oír hablar de su hija, la triste Suzanne vivía con su amante en una modesta casita apartada de la pequeña ciudad y no trataba ya, de toda su familia, más que a su hermano Henri. Y aun este, para verla, tenía que esconderse a la vez de Front y de sus padres. Mucha miseria, como se ve.
 
-Suzanne, en abril de 1912, tenía treinta años, y su hermano veintinueve. Sujeto fuera de serie, doctor y biólogo, adscrito al Instituto Pasteur, hoy célebre por su admirable tratamiento de la arteriosclerosis, Henri Monbardeau acababa de casarse con una encantadora muchacha de la comarca, Fabienne d'Arvière; y la nueva pareja descansaba en Artemare de un viaje de novios algo fatigoso cuando los Le Tellier recibieron la hospitalidad de la señora Arquedouve.
+Suzanne, en abril de 1912, tenía treinta años, y su hermano veintinueve. Sujeto fuera de serie, doctor y biólogo, adscrito al Instituto Pasteur, hoy célebre por su admirable tratamiento de la arteriosclerosis, Henri Monbardeau acababa de casarse con una encantadora muchacha de la comarca, Fabienne d’Arvière; y la nueva pareja descansaba en Artemare de un viaje de novios algo fatigoso cuando los Le Tellier recibieron la hospitalidad de la señora Arquedouve.
 
 Su primo Maxime Le Tellier andaba por entonces en los veintiséis años. Admitido en el *Borda*, guardiamarina y luego alférez de navío, hacía poco que había dejado la marina de guerra para ocuparse de oceanografía con el príncipe de Mónaco. Advertido de que toda su familia iba a reunirse en el Bugey, había hecho coincidir con aquella reunión el mes de libertad al que tenía derecho.
 
 Y he aquí, en la seducción de sus dieciocho años y la gracia de su belleza rubia, a Marie-Thérèse Le Tellier, su hermana, de la que habría que describir en versos de gran poeta la cabellera de oro con reflejos de plata, la tez de corola fresca, la mirada húmeda, tal como la amaba Greuze, el talle redondo, fino, flexible… ¡Y amable! ¡Y buena! ¡Hay que saber cuánto!… En fin, a aquella niña no se la podía oír hablar sin adorar su pensamiento; y, sin embargo, el aspecto de su figura era tan turbador que los jóvenes no la escuchaban, y, al ver sus labios maravillosos, no pensaban más que en los besos de mañana y no en las palabras de hoy.
 
-Suzanne y Henri Monbardeau, Maxime y Marie-Thérèse Le Tellier habían vivido lo mejor de su infancia en Mirastel y en Artemare, en verano. Allí, Fabienne d'Arvière se había mezclado en sus juegos de adolescentes; allí también un pobre huerfanito, al que el señor Le Tellier costeaba los estudios, había pasado en su compañía muchas hermosas vacaciones antes de convertirse en el fiel secretario de su protector.
+Suzanne y Henri Monbardeau, Maxime y Marie-Thérèse Le Tellier habían vivido lo mejor de su infancia en Mirastel y en Artemare, en verano. Allí, Fabienne d’Arvière se había mezclado en sus juegos de adolescentes; allí también un pobre huerfanito, al que el señor Le Tellier costeaba los estudios, había pasado en su compañía muchas hermosas vacaciones antes de convertirse en el fiel secretario de su protector.
 
 ¡Artemare y Mirastel! ¡Cuántos recuerdos! Los jóvenes Monbardeau idolatraban a la tía Le Tellier; los pequeños Le Tellier no juraban más que por la tía Monbardeau; y era, durante la estación del sol, un perpetuo ir y venir entre el castillo de la señora Arquedouve y la quinta del doctor. Se vivía en ambas. Se almorzaba aquí o allá. A menudo, incluso, se dormía. Se tomaba pensión en ellas, a veces varios días seguidos.
 
@@ -642,7 +642,7 @@ El otro continúa. Recita un trozo preparado, salta a la vista.
 
 —Démela.
 
-En efecto, la carta está firmada «François d'Agnès» y empieza así:
+En efecto, la carta está firmada «François d’Agnès» y empieza así:
 
 ->*(Pieza 104)*<-
 
@@ -944,7 +944,7 @@ Había dejado de llover.
 
 En Mirastel esperaban; y el tiempo transcurría con una lentitud desesperante. El señor Le Tellier recorría a grandes zancadas los pasillos del castillo y las alamedas del jardín. El señor y la señora Monbardeau se esforzaban por leer los periódicos, que relataban el suceso de cualquier manera. En cuanto a la señora Le Tellier, había subido a la habitación de su hija con la señora Arquedouve, y la una se ingeniaba para volver a encontrar a Marie-Thérèse en la vista de su entorno íntimo, mientras la otra aspiraba con ternura el olor floral que de él se exhalaba.
 
-Algunos visitantes llamaron al portal. Dejaban tarjetas con la expresión de su simpatía. Solo se recibió a la señorita de Baradaine, la única pariente de Fabienne Monbardeau-d'Arvière. Desahogó lo que rebosaba su gran corazón en una tirada prodigiosa por su abundancia y su trivialidad. La consternación general se redobló.
+Algunos visitantes llamaron al portal. Dejaban tarjetas con la expresión de su simpatía. Solo se recibió a la señorita de Baradaine, la única pariente de Fabienne Monbardeau-d’Arvière. Desahogó lo que rebosaba su gran corazón en una tirada prodigiosa por su abundancia y su trivialidad. La consternación general se redobló.
 
 A las cuatro, el señor Le Tellier, de vigía en la terraza, desde donde acechaba la llegada del duque de Agnès por la vía del cielo o por la del suelo, oyó a Maxime, que le llamaba desde la ventana de su laboratorio. Robert estaba a su lado.
 
@@ -970,7 +970,7 @@ Robert y Maxime se miraron.
 
 —Es en la cumbre del Colombier —dijo Robert—. Iremos con los policías mañana mismo. Creía encontrarlos aquí.
 
-—¿François d'Agnès no ha llegado todavía? —se extrañó Maxime—. Es sorprendente.
+—¿François d’Agnès no ha llegado todavía? —se extrañó Maxime—. Es sorprendente.
 
 Al señor Le Tellier lo sacó de la meditación en que lo había sumido aquella conversación el ronquido de un automóvil lejano.
 
@@ -1060,7 +1060,7 @@ Como el señor Le Tellier parecía resignado, Tiburce prosiguió con aplomo, pes
 
 —De todas mis pequeñas proezas, le señalaré solamente las que mi amigo De Agnès, aquí presente, podrá certificar.
 
-»Este invierno, charlábamos él y yo en su cuarto cuando entró la señorita Jeanne de Agnès. Le dije a quemarropa: «Señorita, viene usted de la casa que lleva el número 13 de la calle de Prony. Acaba de tomar el té en el invernadero de la canonesa de Bouvillon». Y como se asombraba, le hice notar, en su vestido de terciopelo, la marca del asiento de rejilla en que se había sentado. Un entrelazado extraño había quedado impreso en el fino terciopelo, y se reconocían en él los arabescos de unos sillones muy curiosos, de labor exótica, con que la señora de Bouvillon ha amueblado el invernadero de su palacete. Ahora bien, en ese invernadero apenas se entra más que para el *five o'clock*…
+»Este invierno, charlábamos él y yo en su cuarto cuando entró la señorita Jeanne de Agnès. Le dije a quemarropa: «Señorita, viene usted de la casa que lleva el número 13 de la calle de Prony. Acaba de tomar el té en el invernadero de la canonesa de Bouvillon». Y como se asombraba, le hice notar, en su vestido de terciopelo, la marca del asiento de rejilla en que se había sentado. Un entrelazado extraño había quedado impreso en el fino terciopelo, y se reconocían en él los arabescos de unos sillones muy curiosos, de labor exótica, con que la señora de Bouvillon ha amueblado el invernadero de su palacete. Ahora bien, en ese invernadero apenas se entra más que para el *five o’clock*…
 
 —No era muy difícil —murmuró el señor Le Tellier.
 
@@ -1130,7 +1130,7 @@ Llamó. Apareció un criado. Pero el duque de Agnès dejó marchar a sus dos com
 
 —Y bien, ¿entonces? —dijo el señor Le Tellier.
 
-—Pues bien, señor, me acuerdo de mi difunto padre, el duque Olivier, de mi difunta madre, nacida d'Estragues de Saint-Averpont, y de todos mis antepasados. ¿Consentirían ellos, en los cielos, que una De Agnès llevase un nombre plebeyo?
+—Pues bien, señor, me acuerdo de mi difunto padre, el duque Olivier, de mi difunta madre, nacida d’Estragues de Saint-Averpont, y de todos mis antepasados. ¿Consentirían ellos, en los cielos, que una De Agnès llevase un nombre plebeyo?
 
 —¿Qué opina la señorita de Agnès?
 
@@ -1862,7 +1862,7 @@ Desde Béon, una ola circular de espanto se propagó por la comarca. Los periodi
 
 Pronto incluso hubo gentes confiscadas en pleno día, en los lugares apartados. Entre ellas estaban los pastores y las vaqueras que se iban, solos con sus bestias, por los prados de la montaña. La mayoría de las veces desaparecía una sola persona; a veces dos; y tres de vez en cuando. Se observó que los raptos diurnos se ejecutaban preferentemente en las alturas, y que los filibusteros, por miedo a ser delatados, tenían buen cuidado de capturar a los testigos de sus actos.
 
-En la noche del 14 al 15 le tocó a Artemare. (Los sarvants, no se sabe por qué, se saltaron una aldea, dos pueblos y tres castillos, entre ellos Mirastel). Y se registró la pérdida de Raflin, el antiguo enamorado de Fabienne d'Arvière. El pobre hombre, todavía enfermo, cruzaba su patio renqueando cuando fue aprehendido. Su anciana madre estaba loca de miedo y temía que cogiera frío, porque no llevaba encima más que una bata.
+En la noche del 14 al 15 le tocó a Artemare. (Los sarvants, no se sabe por qué, se saltaron una aldea, dos pueblos y tres castillos, entre ellos Mirastel). Y se registró la pérdida de Raflin, el antiguo enamorado de Fabienne d’Arvière. El pobre hombre, todavía enfermo, cruzaba su patio renqueando cuando fue aprehendido. Su anciana madre estaba loca de miedo y temía que cogiera frío, porque no llevaba encima más que una bata.
 
 En la noche del 15 al 16, dejando la carretera y avanzando hacia el sur, el sarvant saqueó Ceyzérieu, en la ladera, frente a Mirastel, más allá de la marisma. Luego volvió a la carretera, maltrató Talissieu, donde se apoderó de un potro recién nacido, acortó en su punta ornamental una torrecilla de Châteaufroid y birló algunos conejos de una tina de alquería.
 
@@ -2006,7 +2006,7 @@ Murmuran:
 
 La señora Le Tellier, con una mano sobre la garganta palpitante, pronuncia en un soplo:
 
-—Todavía está muy lejos, mamá, créa…
+—Todavía está muy lejos, mamá, créame…
 
 Pero no ha terminado cuando una brisa ligera, inexplicable, aviva las frondas; las hojas susurran; y de pronto resuena un «CLAC» ensordecedor.
 
@@ -2036,7 +2036,7 @@ No es nada. Es la señora Le Tellier, que se asusta al ver un gran chorro de luz
 
 Un minuto después se reunía con su secretario en el pequeño desván redondo.
 
-De pie en un taburete, Robert desaparecía de medio cuerpo a través de una de las claraboyas y hacía describir al haz resplandeciente —solar por su potencia, lunar por su blancura— vastas curvas, ora celestes, ora terrestres. Dardeaba su cohete de día sobre todo el país meridional, que podía abarcar desde allí. El faro iluminaba sucesivamente pueblos, montañas, bosques y castillos; parecía proyectar su imagen sobre una pantalla negra, a la manera de una linterna mágica. Pero por más que Robert se inclinaba y levantaba el proyector con su pesado soporte para ampliar así hacia el Colombier su campo de exploración, no descubría absolutamente nada que no fuera legítimo. Los sarvants estaban ya fuera de la vista.
+De pie en un taburete, Robert desaparecía de medio cuerpo a través de una de las claraboyas y hacía describir al haz resplandeciente —solar por su potencia, lunar por su blancura— vastas curvas, ora celestes, ora terrestres. Disparaba aquel chorro de luz diurna sobre todo el país meridional, que podía abarcar desde allí. El faro iluminaba sucesivamente pueblos, montañas, bosques y castillos; parecía proyectar su imagen sobre una pantalla negra, a la manera de una linterna mágica. Pero por más que Robert se inclinaba y levantaba el proyector con su pesado soporte para ampliar así hacia el Colombier su campo de exploración, no descubría absolutamente nada que no fuera legítimo. Los sarvants estaban ya fuera de la vista.
 
 —¿Los ve usted? —preguntó el señor Le Tellier.
 
@@ -2644,7 +2644,7 @@ Pronto Maxime estuvo instalado ante su caballete, bajo los primeros árboles del
 
 —¡Vigila bien! —dijo por descargo de conciencia.
 
-—*N'a pas paou* —respondió César, aleccionado—. *On lo vara beîng veni!*
+—*N’a pas paou* —respondió César, aleccionado—. *On lo vara beîng veni!*
 
 La chiquilla, encantadora, dejaba colgar los piececitos en sus gruesos borceguíes de suela de tilo. Un viejo sombrero de paja daba sombra a la maraña rubia de sus cabellos. Entre sus manitas rojas, el acordeón se alargaba y luego se recogía, y marcaba con el mismo ritmo saltarín la retahíla incansable de las canciones monótonas. A su alrededor, las vacas y las cabras dispersas hacían sonar sus cencerros. Y las campanillas de los narcisos repicaban sus perfumes.
 
@@ -2654,7 +2654,7 @@ César no apartaba los ojos del cielo cargado, que parecía deslizarse de una so
 
 Al son de una esquila violentamente sacudida, Maxime apartó la mirada de la cantante.
 
-—*Hé!* —dijo el pastor—, *vica la Rodzetta qué s'éfra!*
+—*Hé!* —dijo el pastor—, *vica la Rodzetta qué s’éfra!*
 
 La *Rodzetta* era una cabra rojiza que, habiéndose apartado, volvía al galope, a saltos y balando. ¿Es que…?
 
@@ -2820,7 +2820,7 @@ La espera: ¡qué cosa terrible! Paso los días en los talleres de Bois-Colombes
 
 Le ruego, querido señor, que tenga la bondad de transmitir a la señora Le Tellier y a… *Etc.*
 
--->François d'Agnès.
+-->François d’Agnès.
 
 *P. D.*: Reina una efervescencia considerable en todos los talleres de construcciones aéreas. En los del Estado especialmente. Se busca en ellos el aparato adecuado a este nuevo destino: la persecución de aviadores inalcanzables por su rapidez. No obstante, se atribuye a algunos el proyecto insensato de partir en reconocimiento sobre el Bugey con los aparatos actuales, del todo insuficientes. Se cita a Santos-Dumont en dirigible, a De la Vaulx en globo esférico, a Farman en su biplano, a Latham en el *Antoinette* y a Beaumont en el *Blériot*. Se cita a muchos otros más…
 

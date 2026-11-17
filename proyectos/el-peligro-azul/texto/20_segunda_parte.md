@@ -516,7 +516,7 @@ El joven hizo un gesto desesperado. Gruesas lágrimas corrían por sus mejillas 
 
 —¡Papá! ¡No puedo ir! No puedo…
 
-—Vamos, vamos, querido pequeño, repónte… ¿Has visto a tu hermana, allí… donde estabas?… ¿Y a Suzanne?… ¿Y a Henri?… ¿A Fabienne?… ¿Has visto a Robert?
+—Vamos, vamos, querido pequeño, reponte… ¿Has visto a tu hermana, allí… donde estabas?… ¿Y a Suzanne?… ¿Y a Henri?… ¿A Fabienne?… ¿Has visto a Robert?
 
 —No he visto más que a Robert. ¡Y aun así!
 
@@ -760,7 +760,7 @@ El automóvil desembocaba en la plaza de la Ópera. El cañonazo acababa de anun
 
 Por primera vez, el viejo cielo de Lutecia iba a servir de liza a unas regatas aéreas. Estaba de un azul de gala.
 
-Toda la ciudad hormigueaba. La mitad del pueblo invadía los tejados. Desde la mañana, los edificios se coronaban con el hervidero de los hombres. Se habían alquilado buhardillas como proscenios de estreno. Sobrecargados de espectadores, varios balcones se habían hundido ya. Algunas casas parecían animadas, tanto se embadurnaban sus fachadas y sus azoteas de humanidad bulliciosa. La onda espesa de la multitud movía sus lentos remolinos por los ríos de las calles, por los estanques de las plazas, y sobre todo en los barrios cortados por el itinerario de la competición. Aquella recta ideal, trazada desde los Inválidos hasta la catedral de Meaux, atravesaba el cruce de la rue Louis-le-Grand, la rue de la Chaussée-d'Antin, el bulevar de los Italianos y el bulevar de los Capuchinos; y allí, mejor que en ninguna otra parte, los inmuebles desaparecían a medias bajo un caparazón vivo. La ciudad prodigiosa hacía de tribuna para todo un mundo. La llenaba un rumor infinito de Coliseo titánico. Un olor a casa de fieras y a riego, que subía del suelo, hacía más pesado el calor del hermoso día estival.
+Toda la ciudad hormigueaba. La mitad del pueblo invadía los tejados. Desde la mañana, los edificios se coronaban con el hervidero de los hombres. Se habían alquilado buhardillas como proscenios de estreno. Sobrecargados de espectadores, varios balcones se habían hundido ya. Algunas casas parecían animadas, tanto se embadurnaban sus fachadas y sus azoteas de humanidad bulliciosa. La onda espesa de la multitud movía sus lentos remolinos por los ríos de las calles, por los estanques de las plazas, y sobre todo en los barrios cortados por el itinerario de la competición. Aquella recta ideal, trazada desde los Inválidos hasta la catedral de Meaux, atravesaba el cruce de la rue Louis-le-Grand, la rue de la Chaussée-d’Antin, el bulevar de los Italianos y el bulevar de los Capuchinos; y allí, mejor que en ninguna otra parte, los inmuebles desaparecían a medias bajo un caparazón vivo. La ciudad prodigiosa hacía de tribuna para todo un mundo. La llenaba un rumor infinito de Coliseo titánico. Un olor a casa de fieras y a riego, que subía del suelo, hacía más pesado el calor del hermoso día estival.
 
 No se hablaba del Peligro; no se hablaba más que de la carrera. Los dos aparatos competidores alimentaban intensas charlas. Nadie los había visto todavía y, sin embargo, cada cual tenía su favorito: unos preferían lo menos pesado que el aire a lo más pesado, otros apostaban contra el Estado o contra el Capital, y muchos otros basaban su opinión en la simpatía más o menos irresistible que sentían hacia los pilotos.
 
@@ -850,7 +850,7 @@ Se oyó de repente, *en pleno centro del cruce*, el terrible estrépito de dos t
 
 Vista desde los tejados, sin embargo, la refriega se ordenaba un poco.
 
-Desde la rue de la Chaussée-d'Antin hasta el Pavillon de Hanovre había como una alameda de cosas inmovilizadas, aplastadas, de donde venía un concierto de quejas singularmente lejanas y *extrañamente subterráneas*, y, a cada lado de aquella avenida de calamidad que cerraba todo el ancho del cruce, dos rodetes de vehículos destrozados, llenos de formas, de extravíos, de espasmos.
+Desde la rue de la Chaussée-d’Antin hasta el Pavillon de Hanovre había como una alameda de cosas inmovilizadas, aplastadas, de donde venía un concierto de quejas singularmente lejanas y *extrañamente subterráneas*, y, a cada lado de aquella avenida de calamidad que cerraba todo el ancho del cruce, dos rodetes de vehículos destrozados, llenos de formas, de extravíos, de espasmos.
 
 Escalonada en las gradas de los pisos, la multitud de alrededor se había sobresaltado de una pieza. Aquí y allá, unos energúmenos gesticulaban; pero los demás, jadeantes, se quedaban paralizados de miedo y de estupefacción. Nadie decía su angustia y, sin embargo, salía de la multitud un rugido de simún en un bosque de baobabs. De trecho en trecho se exhalaban pobres lamentaciones femeninas.
 
@@ -858,7 +858,7 @@ Escalonada en las gradas de los pisos, la multitud de alrededor se había sobres
 
 Se imaginara lo que se imaginase, lo cierto es que una compuerta diabólica represaba la calle.
 
-Pese a la desbandada de cataclismo que se produjo entonces en nombre del Peligro Azul, algunos socorristas se precipitaron… Pero el obstáculo hipócrita detuvo su impulso. Venían a chocar contra él con la última violencia. Chocaban en el vacío, contra nada en absoluto. Se encontraban con una *ausencia* infranqueable. El aire, ofensivo, les rompía el cráneo. La policía, a duras penas, retomó la dirección de la existencia. Un oficial de paz intervino, hizo despejar las dos filas de coches y dispuso el cordón de sus agentes alrededor de la región pérfida, cuyo aislamiento se imponía. Así quedó delimitado un espacio alargado que partía del Pavillon de Hanovre y se adentraba una decena de metros en la Chaussée-d'Antin. La vista de los uniformes engendró la confianza y desató las lenguas. Una asamblea revolucionaria habría sido más silenciosa. Ya no se hablaba de la carrera; no se hablaba más que del Peligro.
+Pese a la desbandada de cataclismo que se produjo entonces en nombre del Peligro Azul, algunos socorristas se precipitaron… Pero el obstáculo hipócrita detuvo su impulso. Venían a chocar contra él con la última violencia. Chocaban en el vacío, contra nada en absoluto. Se encontraban con una *ausencia* infranqueable. El aire, ofensivo, les rompía el cráneo. La policía, a duras penas, retomó la dirección de la existencia. Un oficial de paz intervino, hizo despejar las dos filas de coches y dispuso el cordón de sus agentes alrededor de la región pérfida, cuyo aislamiento se imponía. Así quedó delimitado un espacio alargado que partía del Pavillon de Hanovre y se adentraba una decena de metros en la Chaussée-d’Antin. La vista de los uniformes engendró la confianza y desató las lenguas. Una asamblea revolucionaria habría sido más silenciosa. Ya no se hablaba de la carrera; no se hablaba más que del Peligro.
 
 Durante aquellas charlas impetuosas, las ambulancias y las camillas hendían la nube de transeúntes que afluían de todas partes, y se intentaba sin resultado llegar hasta los desdichados a quienes la atmósfera inaccesible mantenía aplastados contra el suelo.
 
@@ -874,7 +874,7 @@ Un agente lo imitó; sus compañeros, tranquilizados, se pusieron también a abo
 
 El señor Le Tellier, prosiguiendo su ronda, seguía palpando; pero en los dos extremos de la cosa necesitó un taburete para alcanzarla: los extremos se levantaban; uno de ellos, por lo demás, correspondía al final del arañazo en la rotonda de Hanovre, y aquel arañazo terminaba a dos metros de la acera.
 
-El otro extremo, en la rue de la Chaussée-d'Antin, fue objeto de una atención sostenida por parte del astrónomo. Una escalera de mano más alta navegó por encima de las cabezas, de mano en mano, hasta él. El señor Le Tellier dio algunas instrucciones que fueron transmitidas al instante. Unos correos ciclistas se alejaron. Y el examen de la cosa prosiguió.
+El otro extremo, en la rue de la Chaussée-d’Antin, fue objeto de una atención sostenida por parte del astrónomo. Una escalera de mano más alta navegó por encima de las cabezas, de mano en mano, hasta él. El señor Le Tellier dio algunas instrucciones que fueron transmitidas al instante. Unos correos ciclistas se alejaron. Y el examen de la cosa prosiguió.
 
 Según los gestos y las maniobras del *palpador*, parecía que terminaba en dos puntas, a la manera de un torpedo… ¡Ya se adivina qué temores podía desencadenar semejante palabra! No faltaron. «Meteoro», «estrella fugaz», ya se había dicho; no era nada. ¡Pero «torpedo»! ¡Artefacto *fabricado*! ¡Máquina explosiva! ¡*Bomba*, en fin, y desmesurada!… ¿Es que los sarvants eran anarquistas?, ¿nihilistas que habían decidido la perdición de París?…
 
@@ -894,7 +894,7 @@ El señor Le Tellier les pidió que formaran círculo y pronunció esta breve ar
 
 »Es grande. Pero tengo todos los motivos para suponer que no es tan pesado como podría creerse. Está hecho como una lanzadera de tejedor que alcanzara el tamaño de un globo dirigible… sin barquilla. Es un huso cuyo centro solo es cuadrado y cuyos extremos son dos conos afilados, puntiagudos, exactamente como un habano de lujo…
 
-»Les recomiendo la parte que se encuentra en la Chaussée-d'Antin. Está… adornada con un… sistema… del que hay que cuidar.
+»Les recomiendo la parte que se encuentra en la Chaussée-d’Antin. Está… adornada con un… sistema… del que hay que cuidar.
 
 »Creo poder asegurarles que no hay ningún peligro. No obstante, aunque el objeto es de una sustancia muy firme al tacto, les ruego que actúen con mucha prudencia, como si su carga fuera tan frágil como una pieza de cristalería, y como si de la menor grieta hubiera de salir la muerte…
 
@@ -1110,7 +1110,7 @@ Pero entonces otro joven, muy flaco, que ocupaba la celda siguiente, atrajo mi a
 
 Un incidente perturbó aquella conversación. Hacia el norte, vi elevarse de la Tierra un punto negro. Con los gemelos, era un hombre. Parecía lanzado por una balista. Se detuvo a 3 kilómetros de nosotros (en horizontal), en el lugar adonde llegué yo ayer: el desembarcadero. Lo vimos levantado por la grúa y luego transportado por el flanco de nuestra colina, ¿quizá a través de calles y bulevares invisibles? Mis compañeros de cautiverio lo miraban con atención. Parecían felices de no reconocerlo… Lo izaron hasta mi nivel. Pero no lo convirtieron en mi vecino inmediato; dejaron entre él y yo, a lo largo de la fachada, el espacio de unas dos celdas. (Esa solución de continuidad se repite en todos los pisos y marca el centro del aerario, del lado de la fachada). Era un campesino amoratado, atónito, en camisa. Me di cuenta en aquel momento de que el número de pájaros había aumentado durante la noche: una lechuza, un cárabo, un búho real. La infernal trampa zumbadora ha trabajado bien desde ayer.
 
-§ He vuelto a sondear el espesor de la multitud. Esta vez he localizado a alguien: ¡Raflin!, el pretendiente rechazado de Fabienne d'Arvière; Raflin en bata, con un gorro de dormir de algodón.
+§ He vuelto a sondear el espesor de la multitud. Esta vez he localizado a alguien: ¡Raflin!, el pretendiente rechazado de Fabienne d’Arvière; Raflin en bata, con un gorro de dormir de algodón.
 
 Por encima de las cabezas, allá lejos, del lado de los primeros que llegaron, una cabeza más grande, una cabeza de estatua, de jardinero Watteau… y también un sombrero de copa que cubría la cabeza de un maniquí… ¡Ah, la estatua de Anglefort y el espantapájaros!… ¡Cómo! ¡Con los hombres!……
 
@@ -1180,7 +1180,7 @@ Aquella masa, silenciosa hasta entonces, acababa de producir un chirrido desagra
 
 Pero había que contar con otros retrasos.
 
-Durante la lectura del cuaderno rojo, la concurrencia había engrosado con bomberos, guardias municipales, sabios, autoridades y sobre todo, por desgracia, obreros metalúrgicos que trabajaban por entonces en la parte trasera del Grand Palais (avenue d'Antin). Estos habían venido como curiosos y no habían entendido nada del diario, cuya primera parte ignoraban. Los buenos herreros se imaginaron —no se sabe cómo ni por qué— que había en la masa invisible prisioneros de su especie; y cuando chirrió el chirrido, uno de ellos, el compañero Virachol, llamado *Gargantúa* por su gigantismo y su obesidad, proclamó que era «sanguinario» «dejar a unos hombres ahí dentro». Y empuñaba una enorme palanca con la que quería reventar lo invisible.
+Durante la lectura del cuaderno rojo, la concurrencia había engrosado con bomberos, guardias municipales, sabios, autoridades y sobre todo, por desgracia, obreros metalúrgicos que trabajaban por entonces en la parte trasera del Grand Palais (avenue d’Antin). Estos habían venido como curiosos y no habían entendido nada del diario, cuya primera parte ignoraban. Los buenos herreros se imaginaron —no se sabe cómo ni por qué— que había en la masa invisible prisioneros de su especie; y cuando chirrió el chirrido, uno de ellos, el compañero Virachol, llamado *Gargantúa* por su gigantismo y su obesidad, proclamó que era «sanguinario» «dejar a unos hombres ahí dentro». Y empuñaba una enorme palanca con la que quería reventar lo invisible.
 
 Sujetaron a Virachol. Pero cada vez que el chirrido volvía a empezar, Virachol volvía a empezar también. De tal modo que no podríamos reproducir todas las interrupciones que perturbaron el final de aquella lectura pública sin componer un galimatías indescifrable.
 
@@ -2072,7 +2072,7 @@ Por deducción, descubro el camino que tomaron. Desde su llegada solo zarparon d
 
 ¡Los tenía!
 
-Sin perder tiempo, salto al rápido de Bombay, donde cuento con pescar a la señorita Le Tellier vestida de muchacho… Pero allí, en el revoltijo de la ciudad, imposible encontrar el rastro de mis seudomoldavos. Esta mañana, sin embargo, tras un millar de gestiones y desaires (pues no tengo ese aspecto de Sherlock Holmes que impone la admiración y la deferencia), he sabido por la agencia Cook que una sociedad griega compuesta de cuatro personas (dos matrimonios jóvenes), los Yeniserlis y los Rotapoulo, acaban de embarcarse para Basora (en el fondo del golfo Pérsico). Desde Basora piensan remontar Mesopotamia y llegar a Constantinopla por tierra, para volver luego a Grecia. ¡Estoy seguro de que los Monbardeau-d'Arvière se han reunido con Hatkins y la señorita Le Tellier, y de que los cuatro griegos son ellos! Han dado a la agencia un lujo de detalles inaudito sobre todo lo que deben hacer o no hacer. Se han dicho: «Tiburce nunca creerá que somos nosotros, puesto que no disimulamos nada». ¡Y, en efecto, ni siquiera intentan ocultar que son dos hombres y dos mujeres!… Cualquier otro que yo habría abandonado esa pista *demasiado clara*. ¡A tal gato, tal ratón! Valgo tanto como ellos, y esta noche salgo para Basora.
+Sin perder tiempo, salto al rápido de Bombay, donde cuento con pescar a la señorita Le Tellier vestida de muchacho… Pero allí, en el revoltijo de la ciudad, imposible encontrar el rastro de mis seudomoldavos. Esta mañana, sin embargo, tras un millar de gestiones y desaires (pues no tengo ese aspecto de Sherlock Holmes que impone la admiración y la deferencia), he sabido por la agencia Cook que una sociedad griega compuesta de cuatro personas (dos matrimonios jóvenes), los Yeniserlis y los Rotapoulo, acaban de embarcarse para Basora (en el fondo del golfo Pérsico). Desde Basora piensan remontar Mesopotamia y llegar a Constantinopla por tierra, para volver luego a Grecia. ¡Estoy seguro de que los Monbardeau-d’Arvière se han reunido con Hatkins y la señorita Le Tellier, y de que los cuatro griegos son ellos! Han dado a la agencia un lujo de detalles inaudito sobre todo lo que deben hacer o no hacer. Se han dicho: «Tiburce nunca creerá que somos nosotros, puesto que no disimulamos nada». ¡Y, en efecto, ni siquiera intentan ocultar que son dos hombres y dos mujeres!… Cualquier otro que yo habría abandonado esa pista *demasiado clara*. ¡A tal gato, tal ratón! Valgo tanto como ellos, y esta noche salgo para Basora.
 
 ¡Qué soberbia correría! He dado, por América, Japón e Indochina, más de media vuelta al mundo. Antes de que hayan cerrado el círculo, los habré alcanzado. Tengo conciencia de haberlos acosado, acorralado tan implacablemente que no han podido detenerse como querían, ¡y de que los devuelvo a la querencia, en Europa, donde seremos sus amos!
 
@@ -2438,7 +2438,7 @@ El señor Le Tellier quiso desamarrar una barca; pero el guarda rural se opuso �
 
 En esto, el astrónomo se enfureció muy inútilmente. Lleno de cólera, miraba allá a los míseros supervivientes del aerario, tendidos en el suelo entre liebres, gallinas, jabalíes, zorros, ratoneros, pintadas y otras criaturas domésticas o salvajes que no parecían mucho más despabiladas que sus señores. El águila, de vez en cuando, se levantaba, corría con las alas desplegadas de un extremo a otro de la isla y luego volvía a caer sin fuerzas. Todos se morían de consunción: el hambre minaba a aquellos hombres y mujeres, ¡y una medida imbécil prohibía socorrerlos!
 
-A distancia, el señor Le Tellier no reconoció al principio más que a Fabienne Monbardeau-d'Arvière; luego le pareció que Suzanne…
+A distancia, el señor Le Tellier no reconoció al principio más que a Fabienne Monbardeau-d’Arvière; luego le pareció que Suzanne…
 
 Pero lo sacó de su examen un grito terrible a su espalda. Todo el mundo se volvió.
 
