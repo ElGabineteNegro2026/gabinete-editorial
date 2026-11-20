@@ -3,6 +3,20 @@
 El Editor Jefe añade aquí cada libro próximo a publicarse (título, colección, fecha prevista, sinopsis breve,
 ganchos para redes y rutas de portada). El Responsable Social Media lo lee en su revisión semanal.
 
+## ★ Encargo del responsable (20-11-2026) — reseñas y novedades con más valor
+
+Vigente hasta nuevo aviso. Inclúyelo en tu planificación semanal e informa de él en tu informe.
+
+1. **Reseñas**: una publicación al mes (como mínimo) que invite a quien haya leído un libro de la casa a dejar
+   una reseña honesta en Amazon, con el tono de la marca. **Nunca** ofrecer nada a cambio (sorteos, descuentos,
+   regalos): Amazon lo prohíbe y puede retirar reseñas o sancionar la cuenta. Clasifícala como HABITUAL.
+2. **Inéditos y traducciones propias**: da protagonismo a *Makt myrkranna* y *El peligro azul* (y a los que
+   vengan): son lo que nos diferencia de las ediciones baratas de clásicos. Usa ganchos del tipo «primera vez en
+   español» solo cuando el Editor Jefe lo indique como cierto.
+3. **Navidad**: a partir de la última semana de noviembre, al menos una publicación semanal de **regalo**
+   centrada en las tapas duras de Archivo Arcano y, cuando existan, en los omnibus/packs que anuncie el Editor Jefe aquí.
+4. **Ediciones en inglés**: si encaja con el canal, alguna mención a que la casa también publica en inglés.
+
 ## Makt myrkranna. Los poderes de la oscuridad — *la versión islandesa de Drácula*
 
 - **Autor:** Bram Stoker (versión islandesa de Valdimar Ásmundsson, 1900-1901)
