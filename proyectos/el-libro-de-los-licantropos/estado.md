@@ -21,9 +21,23 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
 | pg11417 | Marie de France, *Lais* (versión inglesa) | «Bisclavret» |
 | pg4366 | Bierce, *Can Such Things Be?* | No contiene «The Eyes of the Panther»: buscar en *In the Midst of Life* |
 
+## Avance (23-11-2026; el proyecto sigue en pausa)
+- **«Los ojos de la pantera» no está en *Los muertos y los invisibles*.** Según la ficha de la tienda, los doce
+  relatos de ese libro son: «Un habitante de Carcosa», «Una carretera iluminada por la luna», «La muerte de Halpin
+  Frayser», «La cosa maldita», «La ventana tapiada», «El dedo medio del pie derecho», «La alucinación de Staley
+  Fleming», «La casa espectral», «El amo de Moxon», «El hombre y la serpiente», «Una noche de verano» y «Una tumba
+  sin fondo». Puede ir en la antología.
+  - Fuente: *In the Midst of Life*, Internet Archive `midstoflife00bierrich` (1909).
+- Localizados en Internet Archive. La descarga desde los servidores de archivo.org está bloqueada en este
+  entorno (403 del proxy), así que queda para la sesión de traducción:
+  - Stenbock, «The Other Side»: `1893theothersidecountstenbockinthespiritlamp` (*The Spirit Lamp*, vol. IV, 1893).
+  - Crowe, «A Story of a Weir-Wolf»: *Light and Darkness; or, The Mysteries of Life* (1850, 3 vols.;
+    `lightanddarknes00crowgoog`, `…01…`, `…02…`); falta ver en qué volumen está.
+- Sin localizar: Menzies, «Hugues, the Wer-Wolf» (1838). Alternativa: Wikisource en inglés, o una antología moderna de licántropos victorianos
+  que reimprima el relato, solo para identificar la revista original (la traducción, siempre desde el texto de 1838).
+
 ## Pendiente
-- Localizar en Internet Archive: Stenbock, «The Other Side» (1893); Catherine Crowe, «A Story of a Weir-Wolf» (1846); Sutherland Menzies, «Hugues, the Wer-Wolf» (1838).
-- Comprobar que «Los ojos de la pantera» no figura ya en *Los muertos y los invisibles* (Bierce, Cámara Sellada).
+- Reanudar cuando lo decida el responsable (CONSULTA del 23-11-2026: el omnibus de Lovecraft tiene prioridad para Navidad).
 - Traducción de los 11-12 textos, gancho de contracubierta y grabados (Cranach, *Der Werwolf*, 1512; Doré).
 - Tapa dura: pedir al responsable las medidas de la calculadora de KDP cuando haya número de páginas.
 
