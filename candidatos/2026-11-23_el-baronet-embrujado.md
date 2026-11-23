@@ -1,6 +1,6 @@
 # El baronet embrujado. Crónicas de Golden Friars — J. Sheridan Le Fanu
 
-> **Propuesto** el 23-11-2026 (encargo del 20-11-2026: inéditos y traducción propia). Pendiente de decisión del responsable.
+> **Descartado** el 23-11-2026: al responsable solo le interesa *Los vampiros de Marte*. Antes: **Propuesto** el 23-11-2026 (encargo del 20-11-2026: inéditos y traducción propia). Pendiente de decisión del responsable.
 
 - **Autor**: Joseph Sheridan Le Fanu (Dublín, 28-8-1814 – Dublín, 7-2-1873).
 - **Título original y año**: *Chronicles of Golden Friars*, Richard Bentley & Son, Londres, 1871 (3 vols.). El

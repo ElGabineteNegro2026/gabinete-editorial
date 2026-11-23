@@ -91,3 +91,6 @@
   la maqueta del repositorio sigue con «En trámite». Si se quiere que el repositorio refleje lo publicado, hay que
   añadir el ISBN aquí y volver a maquetar.
 - Página de reseña: se queda sin ella (`pagina_resena = false`), como se ha subido.
+- 23-11-2026: el responsable aprueba la página de reseña para todos los libros. Este ya está subido sin ella:
+  se añadirá cuando el responsable decida resubirlo (`pagina_resena = false` → quitar la línea, maquetar y
+  regenerar la cubierta).

@@ -41,3 +41,7 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
 - Traducción de los 11-12 textos, gancho de contracubierta y grabados (Cranach, *Der Werwolf*, 1512; Doré).
 - Tapa dura: pedir al responsable las medidas de la calculadora de KDP cuando haya número de páginas.
 
+
+## Decisión del responsable (23-11-2026)
+- Se reanuda **después del omnibus de Lovecraft** (*Los Mitos de Cthulhu*). Previsto para septiembre de 2027
+  (Archivo Arcano V, tapa dura, Halloween).

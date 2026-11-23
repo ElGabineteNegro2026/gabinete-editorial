@@ -1,6 +1,6 @@
 # El libro de los vampiros. Los no muertos de Francia — antología
 
-> **Propuesto** el 23-11-2026 (encargo del 20-11-2026: inéditos, Archivo Arcano en tapa dura para Navidad/Halloween).
+> **Descartado** el 23-11-2026: al responsable solo le interesa *Los vampiros de Marte*. Antes: **Propuesto** el 23-11-2026 (encargo del 20-11-2026: inéditos, Archivo Arcano en tapa dura para Navidad/Halloween).
 > Pendiente de decisión del responsable.
 
 - **Autores**: varios, todos fallecidos en el siglo XIX o principios del XX (ver tabla).

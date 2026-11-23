@@ -76,3 +76,8 @@
 - Sigue abierta la CONSULTA 2 del informe del 23-11-2026: acreditar la traducción.
 - Sigue abierta la CONSULTA 3: página de reseña. Ahora está desactivada; si se activa antes de subir, el libro
   pasa a 446 páginas y hay que regenerar la cubierta.
+
+## Página de reseña (23-11-2026, aprobada por el responsable)
+- Activada. El interior pasa a **446 páginas**; fuentes incrustadas.
+- Cubierta regenerada: lomo de 28,32 mm, **13,365 × 9,250 in** en papel crema. Revisada.
+- DOCX y EPUB regenerados. **Listo para KDP** con estos archivos; el ancho que pida KDP debe ser 13,365 in.

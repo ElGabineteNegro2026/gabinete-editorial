@@ -1,6 +1,6 @@
 # Plan de la línea en inglés para 2027 (encargo 20-11-2026, punto 2)
 
-> **CONSULTA**: propuesta de 6 ediciones en inglés. Ninguna entra en el plan editorial sin la aprobación del
+> **Aprobadas el 23-11-2026 por el responsable: la n.º 1 (*Terror from the Deep*) y la n.º 2 (*Older Than the Church*)**; producción desde el 24-11-2026. Las demás quedan en reserva. Antes: **CONSULTA**: propuesta de 6 ediciones en inglés. Ninguna entra en el plan editorial sin la aprobación del
 > responsable. Fecha de la investigación: 23-11-2026.
 
 ## Resumen

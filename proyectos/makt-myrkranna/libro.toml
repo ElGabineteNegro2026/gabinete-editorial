@@ -3,7 +3,6 @@ titulo = "Makt myrkranna"
 subtitulo = "Los poderes de la oscuridad"
 autor = "Bram Stoker"
 volumen = "XIX"
-pagina_resena = false   # página de reseña pendiente de aprobación (CONSULTA del 23-11-2026); en libros ya publicados, solo al resubir
 isbn = "9798143163683"        # tapa blanda (ISBN gratuito de KDP, del manuscrito del responsable)
 isbn_ebook = ""               # el ISBN de KDP no vale para el ebook; sin ISBN en DOCX/EPUB
 creditos_obra = [

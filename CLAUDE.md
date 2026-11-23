@@ -65,7 +65,7 @@ Cambian el manifiesto, algunos elementos preliminares, la forma de titular capí
 | **Límite Abisal** | horror cósmico, metafísico, weird | — | «I», «II»… (novela) o título del relato | PRÓLOGO | no |
 | **Cámara Sellada** | gótico y sobrenatural europeo, espacios cerrados, «el horror no grita: susurra» | — | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | no |
 | **Archivo Arcano** (**tapa dura**) | antologías y ediciones de lujo (casas encantadas, cultos, objetos malditos, Drácula…) | página de **ex libris** tras créditos | título de cada relato | Prólogo | no |
-| **Archivo Lupin** | Arsène Lupin y novela de ladrones y detectives Belle Époque; numeración «Dossier» | **emblema** (silueta) en la primera página | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | no |
+| **Archivo Lupin** | **solo la obra de Maurice Leblanc sobre Arsène Lupin** (decisión del responsable, 23-11-2026); numeración «Dossier» | **emblema** (silueta) en la primera página | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | no |
 
 No se anuncia el «Próximo título» en los libros (decisión del responsable, 17-11-2026: genera problemas de
 planificación); el anuncio se hace en la web y en redes.

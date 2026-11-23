@@ -1,6 +1,6 @@
 # OMNIBUS 1 · H. P. Lovecraft — los Mitos de Cthulhu en un volumen (Límite Abisal)
 
-> **CONSULTA** (plan de crecimiento, punto 1). Propuesta del Editor Jefe, 23-11-2026. **Recomendado como primer omnibus**
+> **APROBADO por el responsable el 23-11-2026**; producción desde el 24-11-2026 (ver `informes/2026-11-24_orden-produccion.md`). Antes: **CONSULTA** (plan de crecimiento, punto 1). Propuesta del Editor Jefe, 23-11-2026. **Recomendado como primer omnibus**
 > (objetivo: listo para KDP antes de Navidad si se aprueba esta semana).
 
 - **Título propuesto**: *Los Mitos de Cthulhu*

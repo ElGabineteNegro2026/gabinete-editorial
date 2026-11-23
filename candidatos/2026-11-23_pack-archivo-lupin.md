@@ -1,6 +1,6 @@
 # PACK 3 · El Archivo Lupin, Dossiers I-IV (pack de ebooks)
 
-> **CONSULTA** (plan de crecimiento, punto 1). Propuesta del Editor Jefe, 23-11-2026. Puede salir en cuanto *813*
+> **DESCARTADO** el 23-11-2026: el pack ya existe como serie en Amazon (los cuatro Dossiers enlazados). Antes: **CONSULTA** (plan de crecimiento, punto 1). Propuesta del Editor Jefe, 23-11-2026. Puede salir en cuanto *813*
 > esté publicado: es solo maquetación, sin texto nuevo.
 
 - **Título propuesto**: *El Archivo Lupin. Dossiers I-IV*

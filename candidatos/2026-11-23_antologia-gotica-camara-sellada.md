@@ -1,6 +1,6 @@
 # OMNIBUS 2 · Antología del relato gótico y sobrenatural (Cámara Sellada)
 
-> **CONSULTA** (plan de crecimiento, punto 1). Propuesta del Editor Jefe, 23-11-2026. Para el primer trimestre
+> **APROBADO por el responsable el 23-11-2026**; producción desde el 24-11-2026 (ver `informes/2026-11-24_orden-produccion.md`). Antes: **CONSULTA** (plan de crecimiento, punto 1). Propuesta del Editor Jefe, 23-11-2026. Para el primer trimestre
 > de 2027, o para Halloween de 2027 si se prefiere reservarla.
 
 - **Título propuesto**: *La cámara sellada*

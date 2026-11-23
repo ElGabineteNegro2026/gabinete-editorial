@@ -1,6 +1,6 @@
 # Memorias de un ladrón retirado — Arnould Galopin
 
-> **Propuesto** el 23-11-2026 (encargo del 20-11-2026: inéditos y traducción propia). Pendiente de decisión del responsable.
+> **DESCARTADO** el 23-11-2026 por el responsable: Archivo Lupin es solo para la obra de Leblanc sobre Lupin. Antes: **Propuesto** el 23-11-2026 (encargo del 20-11-2026: inéditos y traducción propia). Pendiente de decisión del responsable.
 
 - **Autor**: Arnould Galopin (Marbeuf, Eure, 1865 – 1934; fechas de Wikipedia y del catálogo de autores de
   Gutenberg; confirmar día exacto en Wikidata/BnF). Novelista popular de enorme

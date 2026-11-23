@@ -45,3 +45,9 @@ Texto pasado a `texto/*.md` (fuente original guardada fuera del repositorio). Co
 ## 23-11-2026
 - Publicado en la tienda (id 1300).
 - `pagina_resena = false` mientras no se decida si se resube con la página de reseña.
+
+## Página de reseña (23-11-2026, aprobada por el responsable)
+- Activada para la resubida. El libro sigue en **186 páginas**: la página ocupa una blanca que ya existía.
+- Cubierta regenerada con las mismas medidas (12,715 × 9,250 in). DOCX y EPUB regenerados.
+- Para volver a subirlo a KDP basta con sustituir el interior (`interior/makt-myrkranna_interior_6x9.pdf`);
+  la cubierta no cambia de tamaño.
