@@ -62,3 +62,15 @@ Cada novela conserva su prólogo y su apéndice. Se añaden:
 - «Cuatro golpes maestros en un solo volumen». Encaja en la campaña de Navidad («regalo para el lector de misterio»).
 
 **Puntuación: 8/10** (por rapidez y por KU); queda condicionada a acreditar las traducciones.
+
+## Aviso de KDP sobre dominio público (23-11-2026)
+
+KDP trata como «contenido de dominio público» los libros formados sobre todo por textos libres de derechos, y
+para ellos limita las condiciones:
+- el ebook solo cobra el 35 % de regalías;
+- no puede entrar en KDP Select ni en Kindle Unlimited.
+
+Una **traducción propia** es obra nueva con derechos de la casa y no tiene esas limitaciones. Por eso los precios
+de ebook y la apuesta por Kindle Unlimited de esta ficha suponen traducciones de la casa (o con derechos
+acreditados). Es otro motivo para traducir de nuevo lo que no se pueda acreditar. Antes de subirlo, comprobarlo
+en la ayuda de KDP («Public domain content»).
