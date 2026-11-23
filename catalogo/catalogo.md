@@ -1,8 +1,8 @@
-# Catálogo publicado (tienda, 16-11-2026)
+# Catálogo publicado (tienda, 23-11-2026)
 
 Se actualiza en cada revisión semanal desde la API de la tienda.
-Fuente: `https://elgabinetenegro.com/wp-json/wc/store/v1/products?per_page=100` (47 productos, 37 libros).
-Sin altas ni bajas de libros respecto al 14-11-2026.
+Fuente: `https://elgabinetenegro.com/wp-json/wc/store/v1/products?per_page=100` (48 productos, 38 libros).
+Alta desde el 16-11-2026: *Makt myrkranna: Los poderes de la oscuridad* (Límite Abisal, vol. XIX). Sin bajas.
 
 ## Colección Archivo Arcano (4)
 - Drácula: Los manuscritos perdidos — 29,49 €
@@ -17,10 +17,10 @@ Sin altas ni bajas de libros respecto al 14-11-2026.
 
 ## Colección Cámara Sellada (14)
 - Carmilla — 8,99 €
-- EL EXTRAÑO CASO DEL DR, JEKYLL Y MR, HYDE — 7,99 €
-- El Horla Y otros cuentos de lo invisible — 8,49 €
+- EL EXTRAÑO CASO DEL DR. JEKYLL Y MR. HYDE — 7,99 €
 - El fantasma de Canterville — 7,99 €
-- El hombre de arena, Y otros relatos de lo siniestro — 14,89 €
+- El hombre de arena. Y otros relatos de lo siniestro — 14,89 €
+- El Horla Y otros cuentos de lo invisible — 8,49 €
 - El papel amarillo y otros relatos inquietantes — 8,49 €
 - La casa y el cerebro — 7,89 €
 - La cruz del diablo y otras leyendas sobrenaturales — 9,69 €
@@ -31,30 +31,32 @@ Sin altas ni bajas de libros respecto al 14-11-2026.
 - Otra vuelta de tuerca — 9,99 €
 - ¿Qué fue eso? y otros relatos sobrenaturales — 11,13 €
 
-## Colección Límite Abisal (16)
-- El Libro de Eibon, Fragmentos de un grimorio imposible — 17,95 €
-- El Rey de Amarillo: Relatos completos del mito prohibido del horror cósmico y la Carcosa — 14,49 €
+## Colección Límite Abisal (17)
 - El caso de Charles Dexter Ward — 13,69 €
 - El gran dios Pan — 7,99 €
 - El horror de Dunwich — 7,95 €
+- El Libro de Eibon. Fragmentos de un grimorio imposible — 17,95 €
 - El pueblo blanco y otros relatos de lo innombrable — 13,69 €
+- El Rey de Amarillo: Relatos completos del mito prohibido del horror cósmico y la Carcosa — 14,49 €
 - En las montañas de la locura — 13,49 €
-- La Marca de la Bestia: Los relatos malditos de Kipling — 8,49 €
 - La casa en el confín de la tierra — 13,49 €
+- La Marca de la Bestia: Los relatos malditos de Kipling — 8,49 €
 - La sombra sobre Innsmouth — 8,99 €
-- Los Sauces – El Wendigo — 10,50 €
 - Los perros de Tíndalos y otros relatos de horror cósmico — 13,99 €
+- Los Sauces – El Wendigo — 10,50 €
 - Los últimos días de la Tierra — 13,49 €
+- Makt myrkranna: Los poderes de la oscuridad — 14,49 €
 - Mareas Negras — 10,39 €
 - Narraciones del abismo: Relatos escogidos de horror, locura y muerte — 0,00 €
 - Zothique: El último continente de la Tierra — 16,95 €
-
 ## Otros productos (no editoriales)
-- Objetos del Gabinete: 3 cuadernos, 1 incienso, 5 velas (2 sin existencias)
+- Objetos del Gabinete: 3 cuadernos, 1 incienso, 5 velas
 - Cursos: «Cómo escribir relatos de horror cósmico»
 
 ## Anunciados (aún no en la tienda)
-- *Makt myrkranna. Los poderes de la oscuridad* (la versión islandesa de Drácula). Límite Abisal, Vol. XIX. En Amazon la semana del 16-11-2026, según el responsable.
+- *813* (Leblanc). Archivo Lupin, Dossier IV. Lanzamiento previsto la semana del 23-11-2026.
+- *El peligro azul* (Renard). Límite Abisal, vol. XX. Lanzamiento previsto la semana del 23-11-2026.
 
 ## Derechos
 - 16-11-2026: el responsable confirma que tiene las licencias de Machen, Blackwood, Clark Ashton Smith y F. B. Long (aviso del informe del 16-11).
+- 23-11-2026: el alcance de esas licencias (¿solo español?, ¿qué traducciones?) importa para los omnibus y la línea en inglés; ver informe del 23-11-2026.

@@ -2,6 +2,7 @@ coleccion = "archivo-lupin"
 titulo = "813"
 autor = "Maurice Leblanc"
 volumen = "IV"
+pagina_resena = false   # página de reseña pendiente de aprobación (CONSULTA del 23-11-2026); en libros ya publicados, solo al resubir
 isbn = "En trámite"
 creditos_obra = ["Título original: 813", "Maurice Leblanc, 1910 (folletín en Le Journal; libro, Pierre Lafitte, 1910)"]
 proximo_titulo = "El tapón de cristal"

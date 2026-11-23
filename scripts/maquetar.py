@@ -71,6 +71,18 @@ def bloques_de(lineas, base=RAIZ):
     cierra()
     return bloques
 
+# Página de petición de reseña (encargo del 20-11-2026): breve, sin promesas ni incentivos
+# (Amazon prohíbe ofrecer nada a cambio de una reseña). Se desactiva con `pagina_resena = false`
+# en libro.toml; el texto puede cambiarse con `texto_resena = ["párrafo", …]`.
+RESENA_TITULO = "Una petición del Gabinete"
+RESENA = [
+    "Si este libro le ha acompañado en alguna noche larga, le agradeceríamos que dejara una breve reseña "
+    "en la tienda donde lo adquirió.",
+    "Bastan unas líneas, favorables o no. Una opinión sincera ayuda a otros lectores a encontrar estas páginas "
+    "y permite a una editorial independiente seguir rescatando del olvido textos que merecen volver a leerse.",
+    "Gracias por su lectura.",
+]
+
 def lee_proyecto(dir_proy: Path):
     meta = tomllib.loads((dir_proy / "libro.toml").read_text(encoding="utf-8"))
     col = json.loads((RAIZ / "colecciones" / f"{meta['coleccion']}.json").read_text(encoding="utf-8"))
@@ -113,6 +125,8 @@ def lee_proyecto(dir_proy: Path):
         "isbn_ebook": meta.get("isbn_ebook", meta.get("isbn", "En trámite")),
         "creditos_obra": meta.get("creditos_obra"), "traduccion": meta.get("traduccion"),
         "proximo_titulo": meta.get("proximo_titulo"),
+        "resena": ({"titulo": RESENA_TITULO, "texto": meta.get("texto_resena", RESENA)}
+                   if meta.get("pagina_resena", True) else None),
         "prologo": prologo, "apendice": apendice, "cuerpo": cuerpo, "coleccion": col,
     }
     return meta, col, datos
@@ -242,6 +256,11 @@ def hace_docx(dir_proy, slug, meta, col, datos):
     d.add_paragraph("\n".join(col["apendice"]))
     if col.get("proximo_titulo") and datos["proximo_titulo"]:
         centrado("Próximo título: " + (datos["proximo_titulo"] or ""))
+    if datos.get("resena"):
+        salto(); centrado(datos["resena"]["titulo"], 12, True, 60)
+        for t in datos["resena"]["texto"]:
+            p = d.add_paragraph(t); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p_runs([["— El Gabinete Negro", ""]], WD_ALIGN_PARAGRAPH.RIGHT)
     # Sin índice: Kindle Create genera la tabla de contenidos a partir de los títulos.
     out = dir_proy / "ebook" / f"{slug}_kindle_create.docx"
     out.parent.mkdir(exist_ok=True)

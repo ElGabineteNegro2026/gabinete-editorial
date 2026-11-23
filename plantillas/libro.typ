@@ -193,6 +193,20 @@
   }
 }
 
+// ============ PETICIÓN DE RESEÑA (si no se desactiva en libro.toml) ============
+#if L.at("resena", default: none) != none {
+  pagebreak()
+  v(5cm)
+  align(center, text(font: sans, size: 13pt, weight: "bold", L.resena.titulo))
+  v(0.8cm)
+  pad(left: 1cm, right: 1cm, {
+    set par(justify: false)
+    for t in L.resena.texto { align(center, par(t)) }
+  })
+  v(0.4cm)
+  pad(right: 1cm, align(right, text(style: "italic")[— El Gabinete Negro]))
+}
+
 // ======================= ÍNDICE =======================
 #pagebreak(weak: true)
 #{

@@ -2,6 +2,7 @@ coleccion = "limite-abisal"
 titulo = "El peligro azul"
 autor = "Maurice Renard"
 volumen = "XX"
+pagina_resena = false   # página de reseña pendiente de aprobación (CONSULTA del 23-11-2026); en libros ya publicados, solo al resubir
 isbn = "En trámite"
 creditos_obra = ["Título original: Le Péril bleu", "Maurice Renard, 1911 (Louis-Michaud, París)"]
 traduccion = "Traducción: El Gabinete Negro"

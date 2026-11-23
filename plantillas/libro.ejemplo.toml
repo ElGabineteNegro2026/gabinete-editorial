@@ -10,3 +10,6 @@ creditos_obra = ["Título original: Belphégor ou Le fantôme du Louvre", "Arthu
 # traduccion = "Traducción: El Gabinete Negro"   # opcional
 # proximo_titulo: ya no se imprime (decisión del 17-11-2026); no hace falta este campo
 capitulos_en_impar = false        # true: cada capítulo empieza en página impar
+# pagina_resena: página «Una petición del Gabinete» antes del índice (por defecto, true; encargo del 20-11-2026).
+# pagina_resena = false
+# texto_resena = ["Párrafo 1", "Párrafo 2"]   # solo si se quiere cambiar el texto común

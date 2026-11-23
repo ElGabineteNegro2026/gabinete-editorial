@@ -82,6 +82,7 @@ Los textos de manifiesto y apéndice de cada colección están en `colecciones/<
 6. Prólogo (impar), firmado «— El Editor / El Gabinete Negro» alineado a la derecha
 7. Cuerpo: página de título interior opcional, partes (impar) y capítulos
 8. Apéndice explicativo (impar) + página «El Gabinete Negro» con el texto de cierre (sin «Próximo título»)
+   + página «Una petición del Gabinete» (reseña honesta, sin incentivos; `pagina_resena = false` en `libro.toml` la quita)
 9. Índice
 
 ### Especificaciones del interior (imprenta)
