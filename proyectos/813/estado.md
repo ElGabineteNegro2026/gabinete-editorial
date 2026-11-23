@@ -1,6 +1,6 @@
 # 813 — Maurice Leblanc · Archivo Lupin, Dossier IV
 
-**Fase:** revisión (falta el ISBN de KDP; prólogo y apéndice aprobados)
+**Fase:** **listo para KDP** (ISBN recibido el 23-11-2026)
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba *813* para Archivo Lupin (Dossier IV, según la ficha `candidatos/2026-11-16_813-arsene-lupin.md`).
@@ -63,3 +63,16 @@
 ## Revisión semanal (23-11-2026)
 - Sin cambios de contenido; fuentes incrustadas comprobadas.
 - Página de petición de reseña en la plantilla: aquí está desactivada (`pagina_resena = false`) hasta que el responsable la apruebe (CONSULTA 3 del informe del 23-11-2026). Si se activa, suma 2 páginas y hay que regenerar la cubierta.
+
+## ISBN (23-11-2026)
+- El responsable da el ISBN de la tapa blanda: **9798145222968**. Es el ISBN gratuito de KDP, así que solo vale
+  para la tapa blanda: `isbn_ebook = ""` y el DOCX y el EPUB salen sin ISBN, como en *Makt myrkranna*.
+- Interior regenerado: 444 páginas, igual que antes; fuentes incrustadas; créditos comprobados. DOCX y EPUB regenerados.
+- La cubierta no cambia: no lleva ISBN y el número de páginas es el mismo (13,360 × 9,250 in, crema).
+- Para subir a KDP:
+  - `interior/813_interior_6x9.pdf` (tapa blanda, 6 × 9, papel crema, sin sangrado);
+  - `cubierta/813_cubierta_kdp.pdf`;
+  - el ebook, desde `ebook/813_kindle_create.docx` (Kindle Create) o `ebook/813.epub`.
+- Sigue abierta la CONSULTA 2 del informe del 23-11-2026: acreditar la traducción.
+- Sigue abierta la CONSULTA 3: página de reseña. Ahora está desactivada; si se activa antes de subir, el libro
+  pasa a 446 páginas y hay que regenerar la cubierta.

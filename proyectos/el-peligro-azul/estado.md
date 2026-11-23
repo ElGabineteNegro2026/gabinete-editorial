@@ -1,6 +1,6 @@
 # El peligro azul — Maurice Renard · Límite Abisal, vol. XX
 
-**Fase:** revisión → **listo para KDP salvo ISBN** (lectura de corrección hecha el 17-11-2026; lanzamiento la semana del 23-11-2026)
+**Fase:** **subido a KDP por el responsable** (23-11-2026; antes, listo para KDP salvo ISBN) (lectura de corrección hecha el 17-11-2026; lanzamiento la semana del 23-11-2026)
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba *El peligro azul* para Límite Abisal (ficha `candidatos/2026-11-16_el-peligro-azul.md`); se inicia la traducción.
@@ -85,3 +85,9 @@
 ## Revisión semanal (23-11-2026)
 - Sin cambios de contenido; fuentes incrustadas comprobadas.
 - Página de petición de reseña en la plantilla: aquí está desactivada (`pagina_resena = false`) hasta que el responsable la apruebe (CONSULTA 3 del informe del 23-11-2026). Si se activa, suma 2 páginas y hay que regenerar la cubierta.
+
+## 23-11-2026
+- El responsable ha añadido él mismo el ISBN y ha subido los archivos a KDP. El ISBN no figura en `libro.toml`:
+  la maqueta del repositorio sigue con «En trámite». Si se quiere que el repositorio refleje lo publicado, hay que
+  añadir el ISBN aquí y volver a maquetar.
+- Página de reseña: se queda sin ella (`pagina_resena = false`), como se ha subido.
