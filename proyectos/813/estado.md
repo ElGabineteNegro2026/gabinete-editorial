@@ -59,3 +59,7 @@
 ## Pendiente
 - ISBN (al iniciar KDP): añadirlo a libro.toml y regenerar el interior, los ebooks y la cubierta.
 - Revisión de lectura completa (opcional): la búsqueda automática no detecta párrafos partidos que terminan con punto.
+
+## Revisión semanal (23-11-2026)
+- Sin cambios de contenido; fuentes incrustadas comprobadas.
+- Página de petición de reseña en la plantilla: aquí está desactivada (`pagina_resena = false`) hasta que el responsable la apruebe (CONSULTA 3 del informe del 23-11-2026). Si se activa, suma 2 páginas y hay que regenerar la cubierta.

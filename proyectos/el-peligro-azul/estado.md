@@ -81,3 +81,7 @@
 ## Papel crema (18-11-2026)
 - Decisión del responsable: **todos los libros en papel crema**. La cubierta estaba calculada para blanco (13,100 in). Regenerada: `papel = "crema"`, lomo 378 × 0,0025 in = 24,00 mm, **13,195 × 9,250 in** exactos (también la variante _p1). Comprobar al subir que KDP espera ese ancho.
 - Interior rehecho sin enlaces en el índice (KDP los quita como «marcas no imprimibles»); sigue en 378 páginas, mismo contenido.
+
+## Revisión semanal (23-11-2026)
+- Sin cambios de contenido; fuentes incrustadas comprobadas.
+- Página de petición de reseña en la plantilla: aquí está desactivada (`pagina_resena = false`) hasta que el responsable la apruebe (CONSULTA 3 del informe del 23-11-2026). Si se activa, suma 2 páginas y hay que regenerar la cubierta.

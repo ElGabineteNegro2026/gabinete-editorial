@@ -41,3 +41,7 @@ Texto pasado a `texto/*.md` (fuente original guardada fuera del repositorio). Co
 - *Fjallkonan*: la tercera marca de la primera parte dice «n.º 7, 21 de febrero de 1900» entre la n.º 2 y la n.º 4 (y la n.º 7 vuelve a aparecer después): probable errata por n.º 3. Sin respuesta todavía; se mantiene como en el manuscrito.
 - Si se quiere el máximo de nitidez en los textos de portada (título, autor, colección): exportar la portada desde el diseño original a ≥ 1840 × 2780 px y volver a ejecutar `componer_portada.py` (o usarla directamente).
 - Al publicar: subir a KDP `interior/…_interior_6x9.pdf` (tapa blanda, 6 × 9, papel blanco, sin sangrado) y `cubierta/…_cubierta_kdp.pdf`; el ebook desde el DOCX en Kindle Create (o el EPUB). Confirmar el día exacto para `novedades/para-redes.md`.
+
+## 23-11-2026
+- Publicado en la tienda (id 1300).
+- `pagina_resena = false` mientras no se decida si se resube con la página de reseña.
