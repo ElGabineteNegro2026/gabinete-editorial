@@ -116,6 +116,25 @@ Criterios:
 
 «Mitos de Cthulhu» se usa como descriptor de género. Conviene evitar «Call of Cthulhu», nombre de un juego de rol con marca registrada.
 
-## 5. Calendario de lanzamientos 2027 (propuesta)
+## 5. Calendario de lanzamientos 2027 (propuesta, CONSULTA)
 
-Ver el informe semanal, apartado «Plan de crecimiento», con los candidatos de esta semana ya colocados.
+Picos: Halloween (septiembre-octubre) y Navidad (noviembre, Archivo Arcano en tapa dura). Los omnibus se reparten
+a lo largo del año. «EN» = línea en inglés (`candidatos/2026-11-23_plan-linea-ingles.md`).
+
+| Mes | Español | Inglés | Notas |
+|---|---|---|---|
+| dic. 2026 | **Omnibus Lovecraft** (*Los Mitos de Cthulhu*) · pack *El Archivo Lupin I-IV* (ebook) | — | si se aprueban esta semana |
+| ene. | *Los vampiros de Marte* (Le Rouge), Límite Abisal XXI | — | inédito; primera traducción |
+| feb. | Omnibus *La cámara sellada* (antología gótica) | — | |
+| mar. | — | EN 1 *Terror from the Deep* | |
+| abr. | Archivo Lupin, Dossier V (*El tapón de cristal*, traducción propia) | — | |
+| may. | *El baronet embrujado* (Le Fanu), Cámara Sellada | — | inédito |
+| jun. | *Memorias de un ladrón retirado* (Galopin), Archivo Lupin | EN 4 *Pale Visitors* | |
+| jul. | Omnibus Lovecraft II (traducción nueva: *El color que cayó del cielo*, *La sombra fuera del tiempo*…) | — | |
+| **sep.** | ***El libro de los licántropos***, Archivo Arcano V (tapa dura) | EN 2 *Older Than the Church* | Halloween |
+| **oct.** | pack ebook de Halloween de Límite Abisal (3-4 títulos de traducción propia) | EN 5 *Gothic Tales from Spain and Latin America* | Halloween |
+| **nov.** | ***El libro de los vampiros***, Archivo Arcano VI (tapa dura) | — | Navidad: regalo |
+| dic. | — | EN 3 *The Ghost Pirates…* (o en reserva) | |
+
+El ritmo es de algo más de un libro al mes. La traducción de las dos tapas duras de Archivo Arcano (≈ 100.000
+palabras cada una) debe empezar en primavera.
