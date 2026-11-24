@@ -71,3 +71,13 @@
 6. Borrar del repositorio público el `.rar` (*La llamada de Cthulhu y otras historias*) y la copia de
    *Mareas negras* de la raíz del proyecto: el repositorio es público.
 7. ISBN, cuando se suba a KDP.
+
+## 24-11-2026 (tarde)
+- El responsable pide otro título, un prólogo y un apéndice más extensos y valorar su ilustración. Propone
+  21,95 € para la tapa blanda.
+- **Prólogo ampliado** a ≈ 2.000 palabras, en seis apartados. Sigue siendo **BORRADOR**.
+- **Apéndice ampliado** a ≈ 2.600 palabras, en nueve apartados: cronología, guía de los nueve textos, geografía,
+  biblioteca prohibida, Grandes Antiguos, narrador, maestros (con los autores del catálogo), círculo y herencia,
+  sobre esta edición.
+- Interior: **532 páginas**. Cubierta: lomo de 33,78 mm, **13,580 × 9,250 in**.
+- **Propuesta D** con la ilustración del responsable (`_p3`). Es la recomendada.

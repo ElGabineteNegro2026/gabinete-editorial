@@ -33,3 +33,8 @@ encuadre = [0.55, 0.45]
 ilustracion = "cubierta/dore_albatros_1876.jpg"
 grabado = true
 encuadre = [0.5, 0.5]
+
+[cubierta.variantes.3]   # propuesta D: ilustración del responsable (24-11-2026)
+ilustracion = "cubierta/responsable_cthulhu_ruinas.png"
+grabado = false
+encuadre = [0.55, 0.4]
