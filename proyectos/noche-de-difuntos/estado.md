@@ -1,6 +1,6 @@
 # La cámara sellada — antología gótica · Cámara Sellada (volumen especial)
 
-**Fase:** **listo para KDP salvo ISBN y fecha** (24-11-2026)
+**Fase:** **listo para KDP salvo ISBN**; se envía la semana del 29-11 (24-11-2026)
 
 ## Decisiones del responsable
 - 23-11-2026: aprueba la antología (ficha `candidatos/2026-11-23_antologia-gotica-camara-sellada.md`) y la pone en producción el 24-11-2026 a las 4:05.
@@ -87,4 +87,4 @@
 - Precio: 19,95 € / 5,99 €. Serie: Cámara Sellada, sin número.
 
 ## Cupo de KDP (24-11-2026)
-- **Envío: semana del 29-11 al 5-12**, junto con *813* (cupo de 2 títulos nuevos por formato y semana). Lanzamiento como regalo de Navidad, salvo que el responsable prefiera octubre de 2027.
+- **Envío: semana del 29-11 al 5-12**, junto con *813* (cupo de 2 títulos nuevos por formato y semana). Lanzamiento como regalo de Navidad: **confirmado por el responsable el 24-11-2026**.

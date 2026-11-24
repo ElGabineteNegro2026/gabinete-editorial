@@ -147,11 +147,13 @@ KDP limita los títulos **nuevos** a **2 por formato y semana**, con reinicio lo
 
 | Semana de KDP | Ebook y tapa blanda (2 + 2) | Notas |
 |---|---|---|
-| 22-28 nov. 2026 | *El peligro azul* (ya enviado) · *Lo que yace eternamente* | cupo completo |
-| 29 nov.-5 dic. | *813* · *Noche de difuntos* | enviar el domingo 29 o el lunes 30: con 3-5 días de revisión de KDP, estarán a la venta hacia el 4-5 de diciembre, a tiempo para Navidad |
+| 22-28 nov. 2026 | *El peligro azul* · *813* (los dos ya publicados) | cupo completo |
+| 29 nov.-5 dic. | *Lo que yace eternamente* · *Noche de difuntos* | enviar el domingo 29 o el lunes 30: con 3-5 días de revisión de KDP, estarán a la venta hacia el 4-5 de diciembre, a tiempo para Navidad |
 | 6-12 dic. | libre | resubidas con la página de reseña (*Makt myrkranna* y otros): no cuentan |
 | 2027 | 1-2 lanzamientos al mes según el calendario del § 5 | el cupo no limita el plan. Cuidado con los picos de Halloween y noviembre: la tapa dura de Archivo Arcano tiene cupo propio, pero su ebook comparte cupo con los demás ebooks. |
 
 Regla práctica:
 - No crear borradores en KDP antes de la semana en que se vayan a enviar: también consumen cupo de creación.
 - Las ediciones en inglés comparten cupo con las españolas.
+
+*Actualizado el 24-11-2026: el responsable ya ha publicado* 813*; pasa a la semana siguiente* Lo que yace eternamente.

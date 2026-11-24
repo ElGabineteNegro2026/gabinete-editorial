@@ -134,3 +134,6 @@
 
 ## Ficha KDP (24-11-2026)
 - `kdp.md`: todos los campos de KDP para tapa blanda y ebook, con descripción, categorías, palabras clave, declaración de IA, precios por mercado y tareas de posicionamiento.
+
+## Cupo de KDP (24-11-2026)
+- El cupo de esta semana se ha agotado con *El peligro azul* y *813*. **Envío: semana del 29-11 al 5-12**, junto con *Noche de difuntos*. No crear el borrador en KDP antes del domingo 29.

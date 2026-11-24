@@ -1,6 +1,6 @@
 # 813 — Maurice Leblanc · Archivo Lupin, Dossier IV
 
-**Fase:** **listo para KDP** (ISBN recibido el 23-11-2026)
+**Fase:** **publicado** en Amazon (24-11-2026)
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba *813* para Archivo Lupin (Dossier IV, según la ficha `candidatos/2026-11-16_813-arsene-lupin.md`).
@@ -84,3 +84,5 @@
 
 ## Cupo de KDP (24-11-2026)
 - El cupo de títulos nuevos de esta semana (22-28 nov.) lo ocupan *El peligro azul* y *Lo que yace eternamente*. **Envío de *813*: semana del 29-11 al 5-12** (domingo 29 o lunes 30).
+
+- 24-11-2026: el responsable lo ha subido a KDP y ya está **a la venta**. Pendiente: confirmar con qué interior se subió (446 páginas, con página de reseña) y el ASIN, para el alta en la tienda.
