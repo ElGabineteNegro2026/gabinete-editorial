@@ -64,8 +64,9 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
   3. Bierce, «Los ojos de la pantera» (1897).
   4. Beaugrand, «El hombre lobo» (1900).
   5. Saki, «Gabriel-Ernest» (1909; recogido en *Reginald in Russia*, 1910).
+  6. Eugene Field, «El hombre lobo» (1896).
+  - El relato de Beaugrand se titula «Correr el lobo», por la expresión quebequesa *courir le loup-garou* y para no repetir título con el de Field.
 - **Pendientes**:
-  - Field, «The Werewolf»;
   - Marryat, «La loba blanca del Harz»;
   - Baring-Gould: Garnier, los lobos de Poligny, Grenier, el sastre de Châlons y Romasanta (cap. XIV);
   - Erckmann-Chatrian, «Hugues-le-loup»: falta el original francés (Wikisource fr no respondió); alternativa,

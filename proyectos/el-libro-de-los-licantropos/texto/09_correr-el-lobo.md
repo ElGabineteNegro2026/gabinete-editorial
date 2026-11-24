@@ -1,4 +1,4 @@
-## EL HOMBRE LOBO
+## CORRER EL LOBO
 
 -->*Honoré Beaugrand, La chasse-galerie (1900)*
 
