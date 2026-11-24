@@ -80,3 +80,19 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
     dominios. Fallan tanto la descarga directa (403 del proxy) como la lectura web (el host no resuelve). Hace
     falta que el responsable suba los textos al repositorio, en `fuente/`, o que añada esos dominios a la
     política de red del entorno.
+- 24-11-2026: el responsable adjunta los textos de **Crowe** (ODT) y **Stenbock** (PDF de Blackmask Online).
+  Copia en `fuente/`. Los dos, **traducidos**:
+  - **Stenbock, «La otra orilla»** (*The Other Side: A Breton Legend*, 1893), ≈ 4.700 palabras
+    (`texto/075_la-otra-orilla.md`). Se conserva tal cual la canción en lengua inventada. En las citas
+    litúrgicas se corrigen dos erratas de la fuente: «Intriobo» → *Introibo* y «Libera mea porta inferi» →
+    *Libera me, Domine, de porta inferi*.
+  - **Crowe, «La mujer loba de Auvernia»** (*A Story of a Weir-Wolf*, 1846), ≈ 8.000 palabras
+    (`texto/055_la-mujer-loba-de-auvernia.md`). El original fecha la historia en 1596 y en un pasaje dice
+    «1588»: se unifica en 1596. La fuente da a Crowe las fechas 1803-1876; las correctas son 1790-1872
+    (ODNB y Wikipedia).
+- **Traducidos: 10 textos, ≈ 33.000 palabras.**
+- **Pendientes**:
+  - Baring-Gould: procesos de Poligny, Garnier, Châlons, Grenier y Romasanta;
+  - Marryat;
+  - Erckmann-Chatrian.
+  - Después: prólogo, apéndice, maqueta y cubierta de tapa dura.
