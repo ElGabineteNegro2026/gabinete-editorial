@@ -113,3 +113,14 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
   Cuenta el caso de Swiatek, un mendigo caníbal de la Galitzia austriaca (Polonia, 1849), sin transformación en
   lobo. La ficha del 16-11 lo identificó mal, y la aprobación del responsable («caso Romasanta») se basó en ese
   error. CONSULTA: qué hacer con Romasanta (ver el informe de esta sesión).
+
+## Decisión del responsable sobre Romasanta (24-11-2026)
+- «Dejamos fuera el capítulo de Romasanta, incluye el de Grenier». **Romasanta queda fuera**, y también el caso
+  Swiatek (cap. XIV).
+- **Traducido «Documentos del archivo (II)»** (Baring-Gould, cap. VII): el proceso de Jean Grenier (Burdeos, 1603).
+  Fichero `texto/04_documentos-del-archivo-ii.md`.
+- **Traducido «La loba blanca de las montañas del Harz»** (Marryat, *The Phantom Ship*, 1839, cap. XXXIX).
+  - Solo el relato de Krantz, ≈ 7.000 palabras (`texto/06_la-loba-blanca-del-harz.md`).
+  - El marco de la novela se resume en dos notas en cursiva, una al principio y otra al final (la muerte de Krantz).
+- **Selección cerrada: 13 textos, ≈ 80.000 palabras.** Siguen el prólogo, el apéndice, la maqueta y la cubierta.
+- Ficheros de texto renumerados del 01 al 13 para que el orden alfabético coincida con el cronológico.
