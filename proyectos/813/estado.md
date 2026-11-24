@@ -81,3 +81,6 @@
 - Activada. El interior pasa a **446 páginas**; fuentes incrustadas.
 - Cubierta regenerada: lomo de 28,32 mm, **13,365 × 9,250 in** en papel crema. Revisada.
 - DOCX y EPUB regenerados. **Listo para KDP** con estos archivos; el ancho que pida KDP debe ser 13,365 in.
+
+## Cupo de KDP (24-11-2026)
+- El cupo de títulos nuevos de esta semana (22-28 nov.) lo ocupan *El peligro azul* y *Lo que yace eternamente*. **Envío de *813*: semana del 29-11 al 5-12** (domingo 29 o lunes 30).

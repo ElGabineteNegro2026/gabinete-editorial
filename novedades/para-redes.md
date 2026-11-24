@@ -44,7 +44,7 @@ material nuevo, cuya autoría exacta (Ásmundsson, Stoker o ambos) sigue discuti
 ## 813 — Maurice Leblanc (El Archivo Lupin, Dossier IV)
 
 - **Colección:** Archivo Lupin · Dossier IV
-- **Fecha prevista:** semana del 23 al 29 de noviembre de 2026 (día exacto por confirmar al publicar en KDP). ISBN tapa blanda 9798145222968; archivos listos para KDP desde el 23-11-2026.
+- **Fecha prevista:** se envía a KDP la semana del 29-11 al 5-12-2026 (cupo semanal de KDP); a la venta hacia el 4-5 de diciembre. ISBN tapa blanda 9798145222968.
 - **Precio:** 13,95 € tapa blanda; 2,99 € ebook (IVA incluido)
 - **Portada:** `novedades/portadas/813_portada.jpg` (1600 × 2560 px). Cubierta completa en `proyectos/813/cubierta/`.
 
@@ -116,8 +116,7 @@ y unificadas. Tampoco son las «obras completas».
 
 - **Autores:** Hoffmann, Irving, O’Brien, Bulwer-Lytton, Bécquer, Le Fanu, Braddon, Maupassant, Bierce y Gilman.
 - **Colección:** Cámara Sellada, edición especial (antología).
-- **Fecha prevista:** por decidir. Puede salir ya (regalo de Navidad), pero su gran temporada es la de difuntos y
-  Halloween de 2027.
+- **Fecha prevista:** envío a KDP la semana del 29-11 al 5-12-2026 (pendiente de confirmar por el responsable); a la venta hacia el 4-5 de diciembre, como regalo de Navidad. Su gran temporada será la de difuntos y Halloween de 2027.
 - **Precio:** 19,95 € tapa blanda (404 páginas); 5,99 € ebook (IVA incluido).
 - **Portada:** `novedades/portadas/noche-de-difuntos_portada.jpg`.
 

@@ -85,3 +85,6 @@
   y cubierta `cubierta/noche-de-difuntos_cubierta_kdp.pdf`.
 - **Ebook**: `ebook/noche-de-difuntos_kindle_create.docx` o `ebook/noche-de-difuntos.epub`.
 - Precio: 19,95 € / 5,99 €. Serie: Cámara Sellada, sin número.
+
+## Cupo de KDP (24-11-2026)
+- **Envío: semana del 29-11 al 5-12**, junto con *813* (cupo de 2 títulos nuevos por formato y semana). Lanzamiento como regalo de Navidad, salvo que el responsable prefiera octubre de 2027.

@@ -234,3 +234,10 @@ Antes de dar un libro por «listo para KDP», prepara su **ficha KDP** en `proye
 - tareas de posicionamiento tras la publicación.
 
 Ejemplo: `proyectos/lo-que-yace-eternamente/kdp.md`.
+
+**Cupo semanal de KDP** (comunicado por el responsable, 24-11-2026):
+- Se pueden crear y enviar como máximo **2 títulos nuevos por formato y semana** (ebook, tapa blanda y tapa
+  dura por separado). El contador se reinicia los domingos a las 00:00 UTC.
+- Los borradores cuentan para el límite de creación.
+- Las actualizaciones de títulos ya enviados (resubidas, ISBN, página de reseña…) no cuentan.
+- Planifica los lanzamientos e indica en cada informe en qué semana debe enviarse cada libro.

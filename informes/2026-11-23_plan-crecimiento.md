@@ -138,3 +138,20 @@ a lo largo del año. «EN» = línea en inglés (`candidatos/2026-11-23_plan-lin
 
 El ritmo es de algo más de un libro al mes. La traducción de las dos tapas duras de Archivo Arcano (≈ 100.000
 palabras cada una) debe empezar en primavera.
+
+
+## 6. Cupo de KDP y calendario de envíos (24-11-2026)
+
+KDP limita los títulos **nuevos** a **2 por formato y semana**, con reinicio los domingos a las 00:00 UTC (las
+01:00 en la España peninsular). Las actualizaciones de libros ya enviados no cuentan.
+
+| Semana de KDP | Ebook y tapa blanda (2 + 2) | Notas |
+|---|---|---|
+| 22-28 nov. 2026 | *El peligro azul* (ya enviado) · *Lo que yace eternamente* | cupo completo |
+| 29 nov.-5 dic. | *813* · *Noche de difuntos* | enviar el domingo 29 o el lunes 30: con 3-5 días de revisión de KDP, estarán a la venta hacia el 4-5 de diciembre, a tiempo para Navidad |
+| 6-12 dic. | libre | resubidas con la página de reseña (*Makt myrkranna* y otros): no cuentan |
+| 2027 | 1-2 lanzamientos al mes según el calendario del § 5 | el cupo no limita el plan. Cuidado con los picos de Halloween y noviembre: la tapa dura de Archivo Arcano tiene cupo propio, pero su ebook comparte cupo con los demás ebooks. |
+
+Regla práctica:
+- No crear borradores en KDP antes de la semana en que se vayan a enviar: también consumen cupo de creación.
+- Las ediciones en inglés comparten cupo con las españolas.
