@@ -110,7 +110,7 @@ def lee_proyecto(dir_proy: Path):
                 actual = {"tipo": "parte", "titulo": l[2:].strip(), "subtitulo": None}; cuerpo.append(actual)
             elif l.startswith("## "):
                 if actual is not None and actual["tipo"] == "parte" and actual["subtitulo"] is None and not any(x.strip() for x in buf) \
-                        and not re.match(r"[IVXLC]+\. ", l[3:].strip()):   # «## I. TÍTULO» es capítulo, no subtítulo
+                        and not re.match(r"[IVXLC]+(\. |$)", l[3:].strip()):   # «## I» o «## I. TÍTULO» es capítulo, no subtítulo
                     actual["subtitulo"] = l[3:].strip(); continue
                 vuelca(); buf = []
                 actual = {"tipo": "capitulo", "titulo": l[3:].strip(), "impar": capitulos_impar, "bloques": []}
@@ -120,7 +120,11 @@ def lee_proyecto(dir_proy: Path):
         vuelca()
     datos = {
         "titulo": meta["titulo"], "subtitulo": meta.get("subtitulo"), "autor": meta["autor"],
-        "volumen": meta.get("volumen", "x"), "isbn": meta.get("isbn", "En trámite"),
+        "volumen": meta.get("volumen", "x"),
+        # «XX» → «Volumen XX»; un texto («Edición especial») se imprime tal cual
+        "volumen_txt": (f"Volumen {meta.get('volumen', 'x')}" if re.fullmatch(r"[IVXLC]+|x", str(meta.get("volumen", "x")))
+                        else str(meta.get("volumen"))),
+        "isbn": meta.get("isbn", "En trámite"),
         # ISBN del ebook: el de KDP para tapa blanda (979-8…) no vale para el ebook; "" = sin línea de ISBN
         "isbn_ebook": meta.get("isbn_ebook", meta.get("isbn", "En trámite")),
         "creditos_obra": meta.get("creditos_obra"), "traduccion": meta.get("traduccion"),
@@ -214,7 +218,7 @@ def hace_docx(dir_proy, slug, meta, col, datos):
     centrado(f"{col['linea_coleccion']} · {datos['volumen']}\nEl Gabinete Negro", 9, antes=60)
     salto()
     # Créditos
-    for t in ["© De la presente edición: El Gabinete Negro", f"Colección: {col['nombre']}\nVolumen {datos['volumen']}"] \
+    for t in ["© De la presente edición: El Gabinete Negro", f"Colección: {col['nombre']}\n{datos['volumen_txt']}"] \
              + (datos["creditos_obra"] or []) \
              + ["Esta edición utiliza un texto en dominio público revisado y adaptado para esta colección."] \
              + ([datos["traduccion"]] if datos["traduccion"] else []) \

@@ -1,0 +1,35 @@
+coleccion = "limite-abisal"
+titulo = "Lovecraft esencial"          # PROVISIONAL (CONSULTA del 24-11-2026; antes «Los Mitos de Cthulhu»)
+subtitulo = "Relatos y novelas de horror cósmico"
+autor = "H. P. Lovecraft"
+volumen = "Edición especial"           # CONSULTA: numeración dentro de la colección
+isbn = "En trámite"
+creditos_obra = [
+  "Contenido y títulos originales:",
+  "«Dagón» (Dagon, The Vagrant, 1919) · «El templo» (The Temple, Weird Tales, 1925) · «La ciudad sin nombre» (The Nameless City, The Wolverine, 1921) · «La casa maldita» (The Shunned House, 1937; escrito en 1924) · «La llamada de Cthulhu» (The Call of Cthulhu, Weird Tales, 1928) · El caso de Charles Dexter Ward (The Case of Charles Dexter Ward, Weird Tales, 1941; escrito en 1927) · El horror de Dunwich (The Dunwich Horror, Weird Tales, 1929) · En las montañas de la locura (At the Mountains of Madness, Astounding Stories, 1936) · La sombra sobre Innsmouth (The Shadow over Innsmouth, 1936)",
+]
+traduccion = "Traducción: El Gabinete Negro"
+capitulos_en_impar = false
+
+[cubierta]
+ilustracion = "cubierta/dore_destruccion_leviatan_1865.png"   # propuesta A
+grabado = true
+encuadre = [0.45, 0.75]
+titulo_portada = "LOVECRAFT|ESENCIAL"
+subtitulo_portada = "Relatos y novelas|de horror cósmico"
+papel = "crema"
+paginas = 0
+sinopsis = "Un marinero a la deriva sobre un fango que no debería existir. Un bajorrelieve de arcilla modelado en sueños. Un joven de Providence que busca a un antepasado y encuentra algo que no estaba muerto. Una aldea de las colinas donde nace lo que no tiene forma. Una expedición a la Antártida que descubre que no fuimos los primeros. Un pueblo costero que oculta su sangre.\n\nEste volumen reúne en un solo libro los nueve textos de H. P. Lovecraft publicados en la colección Límite Abisal, en traducción de El Gabinete Negro y ordenados según fueron escritos: el camino completo, de «Dagón» a *La sombra sobre Innsmouth*, por el que el horror sobrenatural se convirtió en horror cósmico."
+cita = "«No está muerto lo que yace eternamente, y con el paso de los evos, incluso la muerte puede morir»."
+cita_autor = "H. P. Lovecraft, «La ciudad sin nombre»"
+
+[cubierta.variantes.1]   # propuesta B
+ilustracion = "cubierta/martin_satan_despierta_1825.jpg"
+grabado = true
+recorte_grabado = 0.2
+encuadre = [0.55, 0.45]
+
+[cubierta.variantes.2]   # propuesta C
+ilustracion = "cubierta/dore_albatros_1876.jpg"
+grabado = true
+encuadre = [0.5, 0.5]

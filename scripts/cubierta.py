@@ -144,13 +144,18 @@ def portada_limite_abisal(L, C, ilu, w, h):
         im.paste((10, 12, 14), mask=sombra.filter(ImageFilter.GaussianBlur(4*u)))
         d.text((w/2, y), l.strip(), font=ft, fill=est["acento"], anchor="mm")
         y += 150*u
-    if L.get("subtitulo_portada"):
-        d.text((w/2, y + 10*u), L["subtitulo_portada"], font=fuente("CormorantGaramond.ttf", 52*u, "Medium"), fill="#c9d6e0", anchor="mm")
     bx, by, bw, bh = 235*u, 615*u, 783*u, 1130*u
+    if L.get("subtitulo_portada"):
+        fs = fuente("CormorantGaramond.ttf", 52*u, "Medium")
+        ys = y - 40*u
+        for l in L["subtitulo_portada"].split("|"):
+            d.text((w/2, ys), l.strip(), font=fs, fill="#c9d6e0", anchor="mm"); ys += 62*u
+        if ys + 10*u > by:   # el subtítulo baja la ilustración (y la acorta) para no quedar tapado
+            fondo = by + bh; by = ys + 10*u; bh = fondo - by; bw = bh * 783 / 1130; bx = (w - bw) / 2
     if ilu: im.paste(encaja(ilu, bw, bh), (int(bx), int(by)))
     texto_espaciado(d, (w/2, 1815*u), "EL GABINETE NEGRO", fuente("Carlito-Regular.ttf", 36*u), "#f0f0f0", 0.2)
     texto_espaciado(d, (w/2, 1870*u), "COLECCIÓN LÍMITE ABISAL", fuente("Carlito-Regular.ttf", 22*u), "#8fa3b4", 0.2)
-    d.text((w/2, 1905*u), f"Vol. {L['volumen']}", font=fuente("Carlito-Regular.ttf", 22*u), fill="#8fa3b4", anchor="mm")
+    d.text((w/2, 1905*u), (f"Vol. {L['volumen']}" if re.fullmatch(r"[IVXLC]+", str(L['volumen'])) else str(L['volumen'])), font=fuente("Carlito-Regular.ttf", 22*u), fill="#8fa3b4", anchor="mm")
     return im
 
 def portada_camara_sellada(L, C, ilu, w, h):
@@ -300,7 +305,8 @@ def lomo_vertical(C, L, coleccion, alto, ancho):
         while dt.textlength(L["autor"].upper(), font=fa) > alto * 0.24 and fa.size > 8:      # hueco 0,66–0,90
             fa = fuente("Cinzel.ttf", int(fa.size * 0.95), "Medium")
         dt.text((alto * 0.78, ancho / 2), L["autor"].upper(), font=fa, fill=oro, anchor="mm")
-        dt.text((alto * 0.07, ancho / 2), str(L.get("dossier", L["volumen"])), font=fuente("Cinzel.ttf", int(t * 0.8), "Medium"), fill=oro, anchor="mm")
+        if re.fullmatch(r"[IVXLC]+", str(L.get("dossier", L["volumen"]))):   # «Edición especial» no cabe en el lomo
+            dt.text((alto * 0.07, ancho / 2), str(L.get("dossier", L["volumen"])), font=fuente("Cinzel.ttf", int(t * 0.8), "Medium"), fill=oro, anchor="mm")
     return tira.rotate(-90, expand=True)
 
 def main():

@@ -91,10 +91,10 @@
 #sin-folio({
   set par(justify: false)
   v(2.2cm)
-  align(center, text(size: 22pt, weight: "bold", L.titulo))
+  align(center, text(size: 22pt, weight: "bold", hyphenate: false, L.titulo))
   if L.subtitulo != none and L.subtitulo != "" {
     v(0.2cm)
-    align(center, text(size: 22pt, weight: "bold", L.subtitulo))
+    align(center, text(size: 22pt, weight: "bold", hyphenate: false, L.subtitulo))
   }
   v(1.6cm)
   align(center, text(size: 14pt, L.autor))
@@ -108,7 +108,7 @@
   set par(justify: false)
   [© De la presente edición: El Gabinete Negro]
   parbreak()
-  [Colección: #C.nombre \ Volumen #L.volumen]
+  [Colección: #C.nombre \ #L.at("volumen_txt", default: "Volumen " + L.volumen)]
   v(0.4cm)
   if L.creditos_obra != none { for l in L.creditos_obra { par(l) } }
   v(0.6cm)
