@@ -1,0 +1,60 @@
+{
+ "nombre": "Límite Abisal",
+ "linea_coleccion": "The Límite Abisal Collection",
+ "emblema_inicial": null,
+ "ex_libris": null,
+ "manifiesto_titulo": "EDITORIAL MANIFESTO",
+ "manifiesto_subtitulo": null,
+ "manifiesto": [
+  [
+   "There are tales of ghosts, of monsters, of shadows.",
+   "And there are others that dare to go further."
+  ],
+  [
+   "The texts gathered in Límite Abisal belong to that second lineage."
+  ],
+  [
+   "They explore the edges of the comprehensible. In them, terror does not spring merely from the supernatural but from a deeper and more disturbing intuition: the suspicion that reality is only a thin surface beneath which older, vaster and indifferent forces lie hidden."
+  ],
+  [
+   "Long before modern literature spoke of cosmic horror, of indifferent universes or hidden dimensions, a few writers began to hint at the same idea: that the human mind is not made to understand the world it inhabits."
+  ],
+  [
+   "These stories stand in that borderland."
+  ],
+  [
+   "In them we meet scientists who cross forbidden lines, cities where archaic cults survive, landscapes where nature seems to remember something humanity has forgotten, and encounters with what lies beyond the visible."
+  ],
+  [
+   "They are not merely stories meant to frighten. They are literary explorations of the unknown."
+  ],
+  [
+   "The Límite Abisal collection gathers essential works of metaphysical terror, philosophical horror and the most unsettling speculative imagination."
+  ],
+  [
+   "Welcome to Límite Abisal."
+  ]
+ ],
+ "prologo_titulo": "INTRODUCTION",
+ "capitulos": "Números romanos solos («I», «II»…) en novelas; título del relato en antologías.",
+ "proximo_titulo": false,
+ "cubierta": {
+  "fondo": "#1a1e1f",
+  "texto": "#e8ecef",
+  "acento": "#97b5cf",
+  "estilo": "Fondo casi negro (#1a1e1f). Arriba, AUTOR en sans espaciado (versalitas, blanco). Título grande en serif de trazo fino con degradado azul hielo (#97b5cf→#dfeaf2) y sombra, en 2 líneas. Subtítulo en serif minúscula. Ilustración rectangular centrada (aprox. 63% del ancho) de tonos verde azulado, grabado/pastel nocturno, mar y criaturas abisales. Abajo: EL GABINETE NEGRO (sans espaciado) y «COLECCIÓN LÍMITE ABISAL» + «Vol. XVIII» en pequeño, gris azulado.",
+  "medio_grabado": "#2f5a5c",
+  "luz_grabado": "#cfe3e0"
+ },
+ "slug": "limite-abisal-en",
+ "apendice": [
+  "This volume belongs to a collection devoted to preserving the essential works of dark literature.",
+  "Every book is a door.",
+  "Every story, a room.",
+  "The Cabinet remains open."
+ ],
+ "formato": "tapa-blanda",
+ "estilo_portada": "limite-abisal",
+ "rotulo_coleccion": "THE LÍMITE ABISAL COLLECTION",
+ "idioma": "en"
+}

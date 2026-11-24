@@ -156,7 +156,7 @@ def portada_limite_abisal(L, C, ilu, w, h):
             fondo = by + bh; by = ys + 10*u; bh = fondo - by; bw = bh * 783 / 1130; bx = (w - bw) / 2
     if ilu: im.paste(encaja(ilu, bw, bh), (int(bx), int(by)))
     texto_espaciado(d, (w/2, 1815*u), "EL GABINETE NEGRO", fuente("Carlito-Regular.ttf", 36*u), "#f0f0f0", 0.2)
-    texto_espaciado(d, (w/2, 1870*u), "COLECCIÓN LÍMITE ABISAL", fuente("Carlito-Regular.ttf", 22*u), "#8fa3b4", 0.2)
+    texto_espaciado(d, (w/2, 1870*u), C.get("rotulo_coleccion", "COLECCIÓN LÍMITE ABISAL"), fuente("Carlito-Regular.ttf", 22*u), "#8fa3b4", 0.2)
     d.text((w/2, 1905*u), (f"Vol. {L['volumen']}" if re.fullmatch(r"[IVXLC]+", str(L['volumen'])) else str(L['volumen'])), font=fuente("Carlito-Regular.ttf", 22*u), fill="#8fa3b4", anchor="mm")
     return im
 
@@ -165,7 +165,7 @@ def portada_camara_sellada(L, C, ilu, w, h):
     u = w / 1253; oro = est["acento"]
     d.text((w/2, 140*u), "El Gabinete Negro", font=fuente("Cinzel.ttf", 46*u, "Regular"), fill="#f2ece0", anchor="mm")
     d.line((w/2-150*u, 178*u, w/2+150*u, 178*u), fill="#f2ece0", width=max(1, int(2*u)))
-    texto_espaciado(d, (w/2, 255*u), "COLECCIÓN CÁMARA SELLADA", fuente("CormorantGaramond.ttf", 30*u, "Medium"), "#f2ece0", 0.25)
+    texto_espaciado(d, (w/2, 255*u), C.get("rotulo_coleccion", "COLECCIÓN CÁMARA SELLADA"), fuente("CormorantGaramond.ttf", 30*u, "Medium"), "#f2ece0", 0.25)
     bx, by, bw, bh = 233*u, 385*u, 818*u, 1225*u
     if ilu:
         arte = encaja(ilu, bw, bh)
@@ -322,6 +322,7 @@ def main():
     meta = tomllib.loads((dir_proy / "libro.toml").read_text(encoding="utf-8"))
     col = meta["coleccion"]
     C = json.loads((RAIZ / "colecciones" / f"{col}.json").read_text(encoding="utf-8"))
+    col = C.get("estilo_portada", col)   # variantes de una colección (p. ej. la línea en inglés) usan su diseño
     cub = meta.get("cubierta", {})
     # --variante N: aplica [cubierta.variantes.N] (otra ilustración, encuadre…) y añade _pN a los ficheros
     variante = sys.argv[sys.argv.index("--variante") + 1] if "--variante" in sys.argv else None
