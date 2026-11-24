@@ -35,7 +35,7 @@
   - Omisiones «---» → «———».
   - Ligaduras «ﬁ» del PDF de *Montañas* (211).
   - «1927—28» → «1927-1928».
-- **Párrafos partidos unidos**: 20 (Ward 10, Dunwich 2, Montañas 5, Innsmouth 2…).
+- **Párrafos partidos unidos**: 19 (Ward 10, Dunwich 2, Montañas 5, Innsmouth 2).
 - **Corrección de traducción**: en «La ciudad sin nombre», «un pasaje de Tomás Moro» → «Thomas Moore». El poema es
   de Moore (*Alciphron*), no de Moro. Además, *Image du Monde* en cursiva.
 - **Epígrafes** de Blackwood («La llamada de Cthulhu») y Lamb (*Dunwich*) como cita, con la firma alineada a la
