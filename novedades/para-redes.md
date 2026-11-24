@@ -44,7 +44,7 @@ material nuevo, cuya autoría exacta (Ásmundsson, Stoker o ambos) sigue discuti
 ## 813 — Maurice Leblanc (El Archivo Lupin, Dossier IV)
 
 - **Colección:** Archivo Lupin · Dossier IV
-- **Fecha:** **a la venta en Amazon desde el 24-11-2026**. ISBN de la tapa blanda: 9798145222968.
+- **Fecha:** **a la venta en Amazon desde el 24-11-2026**. ASIN: B0HSP9CJNB. ISBN de la tapa blanda: 9798145222968.
 - **Precio:** 13,95 € tapa blanda; 2,99 € ebook (IVA incluido)
 - **Portada:** `novedades/portadas/813_portada.jpg` (1600 × 2560 px). Cubierta completa en `proyectos/813/cubierta/`.
 

@@ -2,6 +2,7 @@ coleccion = "archivo-lupin"
 titulo = "813"
 autor = "Maurice Leblanc"
 volumen = "IV"
+pagina_resena = false   # publicado sin página de reseña (24-11-2026); quitar esta línea si se resube con ella
 isbn = "9798145222968"        # tapa blanda (ISBN gratuito de KDP, dado por el responsable el 23-11-2026)
 isbn_ebook = ""               # el ISBN de KDP no vale para el ebook; sin ISBN en DOCX/EPUB
 creditos_obra = ["Título original: 813", "Maurice Leblanc, 1910 (folletín en Le Journal; libro, Pierre Lafitte, 1910)"]

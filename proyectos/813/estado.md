@@ -85,4 +85,10 @@
 ## Cupo de KDP (24-11-2026)
 - El cupo de títulos nuevos de esta semana (22-28 nov.) lo ocupan *El peligro azul* y *Lo que yace eternamente*. **Envío de *813*: semana del 29-11 al 5-12** (domingo 29 o lunes 30).
 
-- 24-11-2026: el responsable lo ha subido a KDP y ya está **a la venta**. Pendiente: confirmar con qué interior se subió (446 páginas, con página de reseña) y el ASIN, para el alta en la tienda.
+- 24-11-2026: el responsable lo ha subido a KDP y ya está **a la venta**. **ASIN: B0HSP9CJNB.** Se subió **sin página de reseña**.
+- 24-11-2026: el repositorio vuelve a la versión publicada:
+  - `pagina_resena = false`; interior de **444 páginas**;
+  - cubierta de **13,360 × 9,250 in**;
+  - DOCX y EPUB regenerados.
+  - Para añadir la página de reseña en una resubida (no cuenta para el cupo de KDP): quitar esa línea de
+    `libro.toml`, maquetar y regenerar la cubierta (446 páginas, 13,365 in).
