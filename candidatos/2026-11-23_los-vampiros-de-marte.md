@@ -1,5 +1,6 @@
 # Los vampiros de Marte — Gustave Le Rouge
 
+> 24-11-2026: **no es inédito**: el responsable tiene los textos en español (pendiente: editorial, año y traductor, para saber si es «descatalogado» o «edición viva»). Sin el gancho «primera traducción», queda en suspenso.
 > 23-11-2026: el responsable muestra interés y pregunta si se trata de *Le Prisonnier de la planète Mars*. Respuesta: sí, más su continuación *La Guerre des vampires* (1909), en un solo volumen. **Pendiente** de su decisión (¿los dos o solo el primero?). Antes: **Propuesto** el 23-11-2026 (encargo del 20-11-2026: inéditos y traducción propia). Pendiente de decisión del responsable.
 
 - **Autor**: Gustave Le Rouge (Valognes, 22-3-1867 – París, 24-2-1938). Poeta, periodista, amigo de Verlaine
