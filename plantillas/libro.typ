@@ -11,6 +11,7 @@
 
 #let L = json(sys.inputs.at("datos"))
 #let C = L.coleccion
+#let T = L.at("textos", default: (copyright: "© De la presente edición: El Gabinete Negro", coleccion: "Colección", volumen: "Volumen", dp: "Esta edición utiliza un texto en dominio público revisado y adaptado para esta colección.", publicada: "Edición publicada por El Gabinete Negro", derechos: "Reservados todos los derechos de esta edición.", firma: "— El Editor", apendice: "APÉNDICE EXPLICATIVO", indice: "Índice", lang: "es", region: "ES"))
 
 // ---------- Tipografía y página (medidas de las plantillas Word) ----------
 #let serif = ("Caladea", "Cambria")       // Caladea = métrica de Cambria, libre
@@ -18,7 +19,7 @@
 #let cuerpo = 11pt
 
 #set document(title: L.titulo, author: L.autor)
-#set text(font: serif, size: cuerpo, lang: "es", region: "ES",
+#set text(font: serif, size: cuerpo, lang: T.lang, region: T.region,
           hyphenate: true, top-edge: "ascender", bottom-edge: "descender")
 #set par(justify: true, leading: 0.18em, spacing: 6pt + 0.18em, first-line-indent: 0pt)
 
@@ -108,18 +109,18 @@
 #sin-folio({
   set text(size: 9.5pt)
   set par(justify: false)
-  [© De la presente edición: El Gabinete Negro]
+  [#T.copyright]
   parbreak()
-  [Colección: #C.nombre \ #L.at("volumen_txt", default: "Volumen " + L.volumen)]
+  [#T.coleccion: #C.nombre \ #L.at("volumen_txt", default: T.volumen + " " + L.volumen)]
   v(0.4cm)
   if L.creditos_obra != none { for l in L.creditos_obra { par(l) } }
   v(0.6cm)
-  par[Esta edición utiliza un texto en dominio público revisado y adaptado para esta colección.]
+  par(T.dp)
   if L.traduccion != none { par(L.traduccion) }
   par[ISBN: #L.isbn]
   v(0.6cm)
-  par[Edición publicada por El Gabinete Negro]
-  par[Reservados todos los derechos de esta edición.]
+  par(T.publicada)
+  par(T.derechos)
 })
 
 // Ex libris (Archivo Arcano)
@@ -146,7 +147,7 @@
   heading(level: 2, C.prologo_titulo)
   for b in L.prologo { bloque(b) }
   v(1.2cm)
-  align(right, par(justify: false)[— El Editor \ El Gabinete Negro])
+  align(right, par(justify: false)[#T.firma \ El Gabinete Negro])
 }
 
 // ======================= CUERPO =======================
@@ -182,7 +183,7 @@
 // ======================= APÉNDICE =======================
 #a-impar()
 #v(1cm)
-#heading(level: 2, "APÉNDICE EXPLICATIVO")
+#heading(level: 2, T.apendice)
 #if L.apendice != none { for b in L.apendice { bloque(b) } }
 #pagebreak()
 #{
@@ -214,7 +215,7 @@
 #{
   set par(justify: false, spacing: 0.6em)
   v(1cm)
-  align(center, text(font: sans, size: 14pt, weight: "bold")[Índice])
+  align(center, text(font: sans, size: 14pt, weight: "bold", T.indice))
   v(1cm)
   context {
     for t in query(heading) {

@@ -74,6 +74,25 @@ def bloques_de(lineas, base=RAIZ):
 # Página de petición de reseña (encargo del 20-11-2026): breve, sin promesas ni incentivos
 # (Amazon prohíbe ofrecer nada a cambio de una reseña). Se desactiva con `pagina_resena = false`
 # en libro.toml; el texto puede cambiarse con `texto_resena = ["párrafo", …]`.
+# Textos fijos del libro según el idioma (`idioma = "en"` en libro.toml para la línea en inglés)
+TEXTOS = {
+    "es": {"copyright": "© De la presente edición: El Gabinete Negro", "coleccion": "Colección", "volumen": "Volumen",
+           "dp": "Esta edición utiliza un texto en dominio público revisado y adaptado para esta colección.",
+           "publicada": "Edición publicada por El Gabinete Negro", "derechos": "Reservados todos los derechos de esta edición.",
+           "firma": "— El Editor", "apendice": "APÉNDICE EXPLICATIVO", "indice": "Índice", "lang": "es", "region": "ES"},
+    "en": {"copyright": "© This edition: El Gabinete Negro", "coleccion": "Collection", "volumen": "Volume",
+           "dp": "This edition is based on public-domain texts, revised and edited for this collection.",
+           "publicada": "Published by El Gabinete Negro", "derechos": "All rights in this edition reserved.",
+           "firma": "— The Editor", "apendice": "NOTES ON THE STORIES", "indice": "Contents", "lang": "en", "region": "US"},
+}
+RESENA_EN = ("A Request from the Cabinet", [
+    "If this book has kept you company through a long night, we would be grateful if you left a short review "
+    "on the store where you bought it.",
+    "A few lines are enough, favourable or not. An honest opinion helps other readers find these pages and allows "
+    "an independent press to keep rescuing forgotten texts that deserve to be read again.",
+    "Thank you for reading.",
+])
+
 RESENA_TITULO = "Una petición del Gabinete"
 RESENA = [
     "Si este libro le ha acompañado en alguna noche larga, le agradeceríamos que dejara una breve reseña "
@@ -122,14 +141,16 @@ def lee_proyecto(dir_proy: Path):
         "titulo": meta["titulo"], "subtitulo": meta.get("subtitulo"), "autor": meta["autor"],
         "volumen": meta.get("volumen", "x"),
         # «XX» → «Volumen XX»; un texto («Edición especial») se imprime tal cual
-        "volumen_txt": (f"Volumen {meta.get('volumen', 'x')}" if re.fullmatch(r"[IVXLC]+|x", str(meta.get("volumen", "x")))
+        "volumen_txt": (f"{TEXTOS[meta.get('idioma', 'es')]['volumen']} {meta.get('volumen', 'x')}" if re.fullmatch(r"[IVXLC]+|x", str(meta.get("volumen", "x")))
                         else str(meta.get("volumen"))),
         "isbn": meta.get("isbn", "En trámite"),
         # ISBN del ebook: el de KDP para tapa blanda (979-8…) no vale para el ebook; "" = sin línea de ISBN
         "isbn_ebook": meta.get("isbn_ebook", meta.get("isbn", "En trámite")),
         "creditos_obra": meta.get("creditos_obra"), "traduccion": meta.get("traduccion"),
         "proximo_titulo": meta.get("proximo_titulo"),
-        "resena": ({"titulo": RESENA_TITULO, "texto": meta.get("texto_resena", RESENA)}
+        "textos": TEXTOS[meta.get("idioma", "es")],
+        "resena": ({"titulo": RESENA_EN[0] if meta.get("idioma") == "en" else RESENA_TITULO,
+                    "texto": meta.get("texto_resena", RESENA_EN[1] if meta.get("idioma") == "en" else RESENA)}
                    if meta.get("pagina_resena", True) else None),
         "prologo": prologo, "apendice": apendice, "cuerpo": cuerpo, "coleccion": col,
     }
@@ -218,11 +239,12 @@ def hace_docx(dir_proy, slug, meta, col, datos):
     centrado(f"{col['linea_coleccion']} · {datos['volumen']}\nEl Gabinete Negro", 9, antes=60)
     salto()
     # Créditos
-    for t in ["© De la presente edición: El Gabinete Negro", f"Colección: {col['nombre']}\n{datos['volumen_txt']}"] \
+    T = datos["textos"]
+    for t in [T["copyright"], f"{T['coleccion']}: {col['nombre']}\n{datos['volumen_txt']}"] \
              + (datos["creditos_obra"] or []) \
-             + ["Esta edición utiliza un texto en dominio público revisado y adaptado para esta colección."] \
+             + [T["dp"]] \
              + ([datos["traduccion"]] if datos["traduccion"] else []) \
-             + ([f"ISBN: {datos['isbn_ebook']}"] if datos["isbn_ebook"] else []) + ["Edición publicada por El Gabinete Negro", "Reservados todos los derechos de esta edición."]:
+             + ([f"ISBN: {datos['isbn_ebook']}"] if datos["isbn_ebook"] else []) + [T["publicada"], T["derechos"]]:
         p = d.add_paragraph(t); p.runs[0].font.size = Pt(9.5)
     salto()
     if col.get("ex_libris"):
@@ -240,7 +262,7 @@ def hace_docx(dir_proy, slug, meta, col, datos):
     if datos["prologo"]:
         d.add_heading(col["prologo_titulo"], level=2)
         bloques(datos["prologo"])
-        p_runs([["— El Editor\nEl Gabinete Negro", ""]], WD_ALIGN_PARAGRAPH.RIGHT)
+        p_runs([[datos["textos"]["firma"] + "\nEl Gabinete Negro", ""]], WD_ALIGN_PARAGRAPH.RIGHT)
     # Cuerpo
     for s in datos["cuerpo"]:
         if s["tipo"] == "titulo-obra":
@@ -253,7 +275,7 @@ def hace_docx(dir_proy, slug, meta, col, datos):
             d.add_heading(s["titulo"], level=2)
             bloques(s["bloques"])
     # Apéndice
-    d.add_heading("APÉNDICE EXPLICATIVO", level=2)
+    d.add_heading(datos["textos"]["apendice"], level=2)
     bloques(datos["apendice"])
     salto()
     r = d.add_paragraph().add_run("El Gabinete Negro"); r.bold = True; r.italic = True
