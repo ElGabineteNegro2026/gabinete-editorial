@@ -1,8 +1,8 @@
-# Descarga el texto de una página de Wikisource en inglés; si es página de versiones o índice, sigue los enlaces
+# Descarga el texto de una página de Wikisource (idioma con WS=en|fr|la|es); si es página de versiones o índice, sigue los enlaces
 import sys,json,time,urllib.parse,subprocess,re,html
 UA="GabineteEditorialBot/1.0 (https://elgabinetenegro.com)"
 def api(params):
-    u='https://en.wikisource.org/w/api.php?'+urllib.parse.urlencode({**params,'format':'json','redirects':1})
+    u=('https://'+__import__('os').environ.get('WS','en')+'.wikisource.org/w/api.php?')+urllib.parse.urlencode({**params,'format':'json','redirects':1})
     for k in range(6):
         r=subprocess.run(['curl','-s','-m','40','-A',UA,u],capture_output=True,text=True).stdout
         try: return json.loads(r)
