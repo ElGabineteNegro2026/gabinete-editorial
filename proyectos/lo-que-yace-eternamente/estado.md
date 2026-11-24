@@ -2,7 +2,7 @@
 
 *(Proyecto llamado antes «Los Mitos de Cthulhu» / «Lovecraft esencial»; carpeta renombrada el 24-11-2026 de `proyectos/los-mitos-de-cthulhu/`.)*
 
-**Fase:** maquetado + cubierta (propuestas) → **revisión** (24-11-2026)
+**Fase:** **listo para KDP salvo ISBN** (24-11-2026)
 
 ## Decisiones del responsable
 - 23-11-2026: aprueba el omnibus (ficha `candidatos/2026-11-23_omnibus-lovecraft.md`) y lo pone en producción el 24-11-2026 a las 4:05. Objetivo: Navidad.
@@ -111,3 +111,23 @@
 3. ISBN, al darlo de alta en KDP.
 4. Al terminar, borrar del repositorio el `.rar` y la copia de *Mareas negras* de la raíz del proyecto
    (lo ha pedido el responsable).
+
+## Decisiones del responsable (24-11-2026, cierre)
+- **Prólogo aprobado**, en su versión sin apartados.
+- **Cubierta definitiva: D**, con la ilustración del responsable.
+- Borrados del repositorio los archivos sueltos: el `.rar` y la copia de *Mareas negras* de la raíz del proyecto.
+  Siguen en el historial de git.
+
+## Para subir a KDP
+- **Tapa blanda**:
+  - interior: `interior/lo-que-yace-eternamente_interior_6x9.pdf` (532 páginas, 6 × 9, papel crema, sin sangrado);
+  - cubierta: `cubierta/lo-que-yace-eternamente_cubierta_kdp.pdf` (13,580 × 9,250 in).
+- **Ebook**:
+  - `ebook/lo-que-yace-eternamente_kindle_create.docx`, para Kindle Create;
+  - o `ebook/lo-que-yace-eternamente.epub`;
+  - portada: `cubierta/lo-que-yace-eternamente_portada_ebook.jpg`.
+- Precio: 21,95 € / 6,99 €. Serie: Límite Abisal, sin número.
+
+## Pendiente
+- **ISBN**: cuando el responsable dé de alta el libro en KDP, añadirlo a `libro.toml` y regenerar el interior.
+  Si es el ISBN gratuito de KDP, poner `isbn_ebook = ""`.

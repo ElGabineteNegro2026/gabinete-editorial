@@ -12,7 +12,7 @@ traduccion = "Traducción: El Gabinete Negro"
 capitulos_en_impar = false
 
 [cubierta]
-ilustracion = "cubierta/responsable_cthulhu_ruinas.png"   # propuesta D (recomendada; pendiente de confirmar)
+ilustracion = "cubierta/responsable_cthulhu_ruinas.png"   # propuesta D, definitiva (24-11-2026)
 encuadre = [0.55, 0.4]
 titulo_portada = "LO QUE YACE|ETERNAMENTE"
 subtitulo_portada = "Lovecraft esencial: los Mitos de Cthulhu|en nueve relatos y novelas"

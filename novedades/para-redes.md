@@ -90,11 +90,10 @@ presas): la sinopsis y la contracubierta se detienen en el misterio a propósito
 
 - **Autor:** H. P. Lovecraft.
 - **Colección:** Límite Abisal, edición especial (omnibus).
-- **Fecha prevista:** antes de Navidad de 2026, cuando el responsable lo suba a KDP. Faltan el prólogo y la
-  cubierta definitiva.
+- **Fecha prevista:** antes de Navidad de 2026, cuando el responsable lo suba a KDP. Prólogo y cubierta aprobados el 24-11-2026.
 - **Precio:** 21,95 € tapa blanda (532 páginas); 6,99 € ebook (IVA incluido).
-- **Portada:** `proyectos/lo-que-yace-eternamente/cubierta/lo-que-yace-eternamente_portada_ebook.jpg`
-  (propuesta D, pendiente de confirmar).
+- **Portada:** `novedades/portadas/lo-que-yace-eternamente_portada.jpg`
+  (definitiva).
 
 **Sinopsis breve.** Los nueve textos de Lovecraft publicados en Límite Abisal, reunidos en un solo volumen y
 ordenados según fueron escritos:
