@@ -12,9 +12,8 @@ traduccion = "Traducción: El Gabinete Negro (los textos de Bécquer, en su orig
 capitulos_en_impar = false
 
 [cubierta]
-ilustracion = "cubierta/fuseli_pesadilla_grabado_lamina.jpg"   # propuesta A
-grabado = true
-recorte_grabado = 0.01
+ilustracion = "cubierta/responsable_pasillo_difuntos.png"   # definitiva: ilustración del responsable (ChatGPT, 24-11-2026)
+encuadre = [0.5, 0.5]
 titulo_portada = "NOCHE|DE DIFUNTOS"
 autor_portada = "Hoffmann · Irving · Bécquer · Le Fanu|Braddon · Maupassant · Bierce · Gilman"
 autor_lomo = "Antología gótica"
@@ -34,3 +33,8 @@ ilustracion = "cubierta/bocklin_isla_de_los_muertos_1880.jpg"
 grabado = true
 recorte_grabado = 0.0
 encuadre = [0.62, 0.5]
+
+[cubierta.variantes.3]   # propuesta A (Füssli), sustituida
+ilustracion = "cubierta/fuseli_pesadilla_grabado_lamina.jpg"
+grabado = true
+recorte_grabado = 0.01

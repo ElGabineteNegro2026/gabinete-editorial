@@ -110,3 +110,26 @@ amplio apéndice: cronología, guía de los textos, geografía, libros prohibido
 
 **Cuidado al comunicar.** No es una traducción nueva: reúne las traducciones de la casa ya publicadas, revisadas
 y unificadas. Tampoco son las «obras completas».
+
+
+## Noche de difuntos — *Antología esencial del relato gótico y de fantasmas*
+
+- **Autores:** Hoffmann, Irving, O’Brien, Bulwer-Lytton, Bécquer, Le Fanu, Braddon, Maupassant, Bierce y Gilman.
+- **Colección:** Cámara Sellada, edición especial (antología).
+- **Fecha prevista:** por decidir. Puede salir ya (regalo de Navidad), pero su gran temporada es la de difuntos y
+  Halloween de 2027.
+- **Precio:** 19,95 € tapa blanda (404 páginas); 5,99 € ebook (IVA incluido).
+- **Portada:** `novedades/portadas/noche-de-difuntos_portada.jpg`.
+
+**Sinopsis breve.** Dieciséis relatos y una novela breve, de 1816 a 1893, ordenados según fueron apareciendo.
+Recorren el gran siglo del terror gótico, de «El hombre de arena» de Hoffmann a «El papel amarillo» de Gilman,
+pasando por *Carmilla*, las leyendas de Bécquer, «El Horla» y «La cosa maldita». Casas que nadie habita, cuartos
+prohibidos, puertas que no deberían abrirse.
+
+**Ganchos para redes.**
+1. «Diecisiete puertas cerradas»: un relato por día, con su primera frase, en la semana de difuntos.
+2. Bécquer y «El monte de las ánimas», la leyenda que pasa precisamente en la noche de difuntos.
+3. «¿Qué fue eso?», «El Horla», «La cosa maldita»: los primeros monstruos invisibles de la literatura.
+
+**Cuidado al comunicar.** Reúne traducciones de la casa ya publicadas, revisadas y unificadas; no es una
+traducción nueva.

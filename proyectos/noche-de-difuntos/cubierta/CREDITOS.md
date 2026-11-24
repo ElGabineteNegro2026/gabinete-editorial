@@ -13,3 +13,7 @@ Todas en dominio público. Descargadas de Wikimedia Commons; el artista murió a
 - **C** · Arnold Böcklin (1827-1901): *La isla de los muertos* (*Die Toteninsel*), primera versión (1880),
   Kunstmuseum de Basilea. Miniatura de 3840 px.
   <https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_-_Die_Toteninsel_I_(Basel,_Kunstmuseum).jpg>
+
+- **Definitiva** · Ilustración del responsable, hecha con ChatGPT a partir de `PROMPT_CHATGPT.md` (24-11-2026):
+  pasillo de una mansión, velas, puerta entreabierta con una figura blanca, ventana con luna, campanario y cementerio.
+  Archivo `responsable_pasillo_difuntos.png`, 1024 × 1536 px, ≈ 255 ppp en el recuadro.

@@ -1,6 +1,6 @@
 # La cámara sellada — antología gótica · Cámara Sellada (volumen especial)
 
-**Fase:** revisión: falta la cubierta (ilustración del responsable con ChatGPT) (24-11-2026)
+**Fase:** **listo para KDP salvo ISBN y fecha** (24-11-2026)
 
 ## Decisiones del responsable
 - 23-11-2026: aprueba la antología (ficha `candidatos/2026-11-23_antologia-gotica-camara-sellada.md`) y la pone en producción el 24-11-2026 a las 4:05.
@@ -72,3 +72,16 @@
 - Ilustración del responsable → componer la cubierta y regenerar el EPUB.
 - Fecha de lanzamiento (CONSULTA): el título pide la temporada de difuntos y Halloween.
 - ISBN, al darlo de alta en KDP.
+
+## Cubierta definitiva (24-11-2026)
+- Ilustración del responsable (ChatGPT) compuesta en el estilo de Cámara Sellada. Pasa a ser la ilustración principal.
+- Cubierta: `cubierta/noche-de-difuntos_cubierta_kdp.pdf`, **13,260 × 9,250 in**, crema.
+- EPUB regenerado con la portada. Füssli queda como `_p3`.
+- Resolución: ≈ 255 ppp en el recuadro. KDP lo acepta, pero si ChatGPT puede exportarla mayor (≥ 1200 × 1800 px),
+  basta con sustituir `cubierta/responsable_pasillo_difuntos.png` y ejecutar `cubierta.py`.
+
+## Para subir a KDP
+- **Tapa blanda**: interior `interior/noche-de-difuntos_interior_6x9.pdf` (404 páginas, papel crema, sin sangrado)
+  y cubierta `cubierta/noche-de-difuntos_cubierta_kdp.pdf`.
+- **Ebook**: `ebook/noche-de-difuntos_kindle_create.docx` o `ebook/noche-de-difuntos.epub`.
+- Precio: 19,95 € / 5,99 €. Serie: Cámara Sellada, sin número.
