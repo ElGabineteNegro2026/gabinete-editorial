@@ -1,0 +1,36 @@
+coleccion = "camara-sellada"
+titulo = "La cámara sellada"            # PROVISIONAL (CONSULTA)
+subtitulo = "Antología esencial del relato gótico y de fantasmas (1816-1893)"
+autor = "Hoffmann, Irving, Bécquer, Le Fanu, Maupassant, Bierce y otros"
+volumen = "Edición especial"
+isbn = "En trámite"
+creditos_obra = [
+  "Contenido y títulos originales:",
+  "E. T. A. Hoffmann: «El hombre de arena» (Der Sandmann, 1816) y «La casa vacía» (Das öde Haus, 1817) · Washington Irving: «La leyenda de Sleepy Hollow» (The Legend of Sleepy Hollow, 1820) · Fitz-James O’Brien: «La habitación perdida» (The Lost Room, 1858) y «¿Qué fue eso?» (What Was It?, 1859) · Edward Bulwer-Lytton: «La casa y el cerebro» (The Haunted and the Haunters; or, The House and the Brain, 1859) · Gustavo Adolfo Bécquer: «Los ojos verdes», «El monte de las ánimas» y «Maese Pérez el organista» (1861) · J. Sheridan Le Fanu: Carmilla (1872) · Mary Elizabeth Braddon: «La sombra en la esquina» (The Shadow in the Corner, 1879) · Guy de Maupassant: «La mano» (La Main, 1883) y «El Horla» (Le Horla, 1887) · Ambrose Bierce: «La muerte de Halpin Frayser» (The Death of Halpin Frayser, 1891), «La ventana tapiada» (The Boarded Window, 1891) y «La cosa maldita» (The Damned Thing, 1893) · Charlotte Perkins Gilman: «El papel amarillo» (The Yellow Wall-Paper, 1892)",
+]
+traduccion = "Traducción: El Gabinete Negro (los textos de Bécquer, en su original español, con la ortografía actualizada)"
+capitulos_en_impar = false
+
+[cubierta]
+ilustracion = "cubierta/fuseli_pesadilla_grabado_lamina.jpg"   # propuesta A
+grabado = true
+recorte_grabado = 0.01
+titulo_portada = "LA CÁMARA|SELLADA"
+autor_portada = "Hoffmann · Irving · Bécquer · Le Fanu|Braddon · Maupassant · Bierce · Gilman"
+autor_lomo = "Antología gótica"
+papel = "crema"
+paginas = 0
+sinopsis = "Una casa de Londres en la que nadie consigue pasar la noche. Una habitación que desaparece en cuanto su dueño la abandona. Un muñeco de ojos demasiado vivos. Una muchacha pálida que llega una noche al castillo y ya no se marcha. Un papel pintado en el que alguien se mueve. Algo invisible que respira junto a la cama.\n\nDieciséis relatos y una novela breve, de Hoffmann a Bierce, que recorren el gran siglo del terror gótico y sobrenatural: el romanticismo alemán, las leyendas de Bécquer, la *ghost story* victoriana, la locura de Maupassant y la sombra americana. Puertas cerradas, cuartos prohibidos, casas que recuerdan. En la Cámara Sellada, el horror no grita: susurra."
+cita = "«En la Cámara Sellada, el horror no grita: susurra»."
+cita_autor = "Manifiesto de la colección"
+
+[cubierta.variantes.1]   # propuesta B
+ilustracion = "cubierta/friston_carmilla_1872.jpg"
+grabado = true
+recorte_grabado = 0.01
+
+[cubierta.variantes.2]   # propuesta C
+ilustracion = "cubierta/bocklin_isla_de_los_muertos_1880.jpg"
+grabado = true
+recorte_grabado = 0.0
+encuadre = [0.62, 0.5]

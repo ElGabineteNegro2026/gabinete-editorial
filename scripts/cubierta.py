@@ -178,8 +178,14 @@ def portada_camara_sellada(L, C, ilu, w, h):
     ft = fuente("Cinzel.ttf", 98*u, "Bold"); y = by + 205*u
     for l in L.get("titulo_portada", L["titulo"].upper()).split("|"):
         d.text((w/2, y), l.strip(), font=ft, fill="#e2c99a", anchor="mm"); y += 105*u; ft = fuente("Cinzel.ttf", 66*u, "Bold")
-    texto_espaciado(d, (w/2, by+bh-95*u), L["autor"].upper(), fuente("Cinzel.ttf", 54*u, "SemiBold"), "#e2c99a", 0.1)
-    texto_espaciado(d, (w/2, 1795*u), f"VOL.{L['volumen']}", fuente("CormorantGaramond.ttf", 40*u, "Medium"), "#f2ece0", 0.25)
+    lin_aut = L.get("autor_portada", L["autor"]).upper().split("|")   # `autor_portada` (con «|») para antologías
+    fa = fuente("Cinzel.ttf", 54*u if len(lin_aut) == 1 else 34*u, "SemiBold")
+    while max(d.textlength(la.strip(), font=fa) * 1.12 for la in lin_aut) > bw * 0.84 and fa.size > 12*u:   # que quepa en el marco
+        fa = fuente("Cinzel.ttf", fa.size * 0.95, "SemiBold")
+    for k, la in enumerate(lin_aut):
+        texto_espaciado(d, (w/2, by+bh-95*u - (len(lin_aut)-1-k)*48*u), la.strip(), fa, "#e2c99a", 0.1)
+    vol = f"VOL.{L['volumen']}" if re.fullmatch(r"[IVXLC]+", str(L["volumen"])) else str(L["volumen"]).upper()
+    texto_espaciado(d, (w/2, 1795*u), vol, fuente("CormorantGaramond.ttf", 40*u, "Medium"), "#f2ece0", 0.25)
     return im
 
 def portada_archivo_lupin(L, C, ilu, w, h):
@@ -304,9 +310,9 @@ def lomo_vertical(C, L, coleccion, alto, ancho):
                 else fuente("Cinzel.ttf", int(f_tit.size * 0.95), "SemiBold")
         dt.text((alto * 0.40, ancho / 2), tit, font=f_tit, fill=crema, anchor="mm")
         fa = fuente("Cinzel.ttf", int(t * 0.7), "Medium")
-        while dt.textlength(L["autor"].upper(), font=fa) > alto * 0.24 and fa.size > 8:      # hueco 0,66–0,90
+        while dt.textlength(L.get("autor_lomo", L["autor"]).upper(), font=fa) > alto * 0.24 and fa.size > 8:      # hueco 0,66–0,90
             fa = fuente("Cinzel.ttf", int(fa.size * 0.95), "Medium")
-        dt.text((alto * 0.78, ancho / 2), L["autor"].upper(), font=fa, fill=oro, anchor="mm")
+        dt.text((alto * 0.78, ancho / 2), L.get("autor_lomo", L["autor"]).upper(), font=fa, fill=oro, anchor="mm")
         if re.fullmatch(r"[IVXLC]+", str(L.get("dossier", L["volumen"]))):   # «Edición especial» no cabe en el lomo
             dt.text((alto * 0.07, ancho / 2), str(L.get("dossier", L["volumen"])), font=fuente("Cinzel.ttf", int(t * 0.8), "Medium"), fill=oro, anchor="mm")
     return tira.rotate(-90, expand=True)
