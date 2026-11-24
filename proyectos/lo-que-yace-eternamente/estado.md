@@ -1,4 +1,6 @@
-# Los Mitos de Cthulhu — H. P. Lovecraft · Límite Abisal (edición especial)
+# Lo que yace eternamente — H. P. Lovecraft · Límite Abisal (edición especial)
+
+*(Proyecto llamado antes «Los Mitos de Cthulhu» / «Lovecraft esencial»; carpeta renombrada el 24-11-2026 de `proyectos/los-mitos-de-cthulhu/`.)*
 
 **Fase:** maquetado + cubierta (propuestas) → **revisión** (24-11-2026)
 
@@ -62,7 +64,7 @@
   - `cubierta.py`: subtítulo en la portada de Límite Abisal sin que lo tape la ilustración; el volumen no
     numérico no va en el lomo.
 
-## Pendiente (CONSULTA)
+## Pendiente (CONSULTA) — *superado: ver «Decisiones del responsable (24-11-2026, noche)»*
 1. Título definitivo. Provisional: *Lovecraft esencial. Relatos y novelas de horror cósmico*.
 2. Prólogo: aprobar el borrador.
 3. Cubierta definitiva: A, B o C.
@@ -81,3 +83,31 @@
   sobre esta edición.
 - Interior: **532 páginas**. Cubierta: lomo de 33,78 mm, **13,580 × 9,250 in**.
 - **Propuesta D** con la ilustración del responsable (`_p3`). Es la recomendada.
+
+## Decisiones del responsable (24-11-2026, noche)
+- **Título**: *Lo que yace eternamente. Lovecraft esencial: los Mitos de Cthulhu en nueve relatos y novelas*.
+- **Apéndice**: aprobado.
+- **Precio**: 21,95 € tapa blanda y 6,99 € ebook, IVA incluido.
+- **Volumen**: «Edición especial», sin número.
+- **Créditos de traducción**: genérico, «Traducción: El Gabinete Negro».
+- **Prólogo**: no le gustan los apartados.
+  - Reescrito como texto continuo: sin títulos ni separadores, con transiciones entre las partes.
+  - **Pendiente de aprobación.**
+
+## Producción (24-11-2026, noche)
+- Carpeta y ficheros renombrados a `lo-que-yace-eternamente`.
+- Portadilla: un subtítulo largo (más de 40 caracteres) va a 14 pt sin negrita; uno corto sigue a 22 pt negrita
+  como segunda línea del título. Cambio en la plantilla y en el DOCX.
+- Interior: **532 páginas**, fuentes incrustadas.
+- Cubierta: **13,580 × 9,250 in**, crema. Activa la **D** (ilustración del responsable), pendiente de confirmar. Variantes:
+  - `_p1`: B, Martin;
+  - `_p2`: C, Doré, el albatros;
+  - `_p3`: A, Doré, el Leviatán.
+- EPUB con la portada D.
+
+## Pendiente
+1. Aprobar el prólogo sin apartados.
+2. Confirmar la cubierta D como definitiva.
+3. ISBN, al darlo de alta en KDP.
+4. Al terminar, borrar del repositorio el `.rar` y la copia de *Mareas negras* de la raíz del proyecto
+   (lo ha pedido el responsable).

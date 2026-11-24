@@ -6,7 +6,7 @@ continúa en la siguiente sesión.
 
 | Prioridad | Proyecto (slug) | Ficha | Colección | Objetivo |
 |---|---|---|---|---|
-| 1 | `los-mitos-de-cthulhu` | `candidatos/2026-11-23_omnibus-lovecraft.md` | Límite Abisal (edición especial) | **listo para KDP antes de Navidad** |
+| 1 | `lo-que-yace-eternamente` | `candidatos/2026-11-23_omnibus-lovecraft.md` | Límite Abisal (edición especial) | **listo para KDP antes de Navidad** |
 | 2 | `la-camara-sellada` | `candidatos/2026-11-23_antologia-gotica-camara-sellada.md` | Cámara Sellada (volumen especial) | febrero de 2027 |
 | 3 | `terror-from-the-deep` | `candidatos/2026-11-23_plan-linea-ingles.md`, n.º 1 | línea en inglés | marzo de 2027 (**no antes del 1-1-2027**: lleva a Wells, †1946) |
 | 4 | `older-than-the-church` | `candidatos/2026-11-23_plan-linea-ingles.md`, n.º 2 | línea en inglés | septiembre de 2027 |

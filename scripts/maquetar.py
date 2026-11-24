@@ -213,7 +213,7 @@ def hace_docx(dir_proy, slug, meta, col, datos):
         p.add_run().add_picture(str(RAIZ / col["emblema_inicial"]), width=Cm(3.2)); salto()
     # Portadilla
     centrado(datos["titulo"], 22, True, 60)
-    if datos["subtitulo"]: centrado(datos["subtitulo"], 22, True)
+    if datos["subtitulo"]: centrado(datos["subtitulo"], *((14, False) if len(datos["subtitulo"]) > 40 else (22, True)))
     centrado(datos["autor"], 14, antes=30)
     centrado(f"{col['linea_coleccion']} · {datos['volumen']}\nEl Gabinete Negro", 9, antes=60)
     salto()

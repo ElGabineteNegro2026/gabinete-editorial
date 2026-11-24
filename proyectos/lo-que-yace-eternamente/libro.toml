@@ -1,8 +1,8 @@
 coleccion = "limite-abisal"
-titulo = "Lovecraft esencial"          # PROVISIONAL (CONSULTA del 24-11-2026; antes «Los Mitos de Cthulhu»)
-subtitulo = "Relatos y novelas de horror cósmico"
+titulo = "Lo que yace eternamente"     # aprobado el 24-11-2026
+subtitulo = "Lovecraft esencial: los Mitos de Cthulhu en nueve relatos y novelas"
 autor = "H. P. Lovecraft"
-volumen = "Edición especial"           # CONSULTA: numeración dentro de la colección
+volumen = "Edición especial"           # aprobado el 24-11-2026
 isbn = "En trámite"
 creditos_obra = [
   "Contenido y títulos originales:",
@@ -12,11 +12,10 @@ traduccion = "Traducción: El Gabinete Negro"
 capitulos_en_impar = false
 
 [cubierta]
-ilustracion = "cubierta/dore_destruccion_leviatan_1865.png"   # propuesta A
-grabado = true
-encuadre = [0.45, 0.75]
-titulo_portada = "LOVECRAFT|ESENCIAL"
-subtitulo_portada = "Relatos y novelas|de horror cósmico"
+ilustracion = "cubierta/responsable_cthulhu_ruinas.png"   # propuesta D (recomendada; pendiente de confirmar)
+encuadre = [0.55, 0.4]
+titulo_portada = "LO QUE YACE|ETERNAMENTE"
+subtitulo_portada = "Lovecraft esencial: los Mitos de Cthulhu|en nueve relatos y novelas"
 papel = "crema"
 paginas = 0
 sinopsis = "Un marinero a la deriva sobre un fango que no debería existir. Un bajorrelieve de arcilla modelado en sueños. Un joven de Providence que busca a un antepasado y encuentra algo que no estaba muerto. Una aldea de las colinas donde nace lo que no tiene forma. Una expedición a la Antártida que descubre que no fuimos los primeros. Un pueblo costero que oculta su sangre.\n\nEste volumen reúne en un solo libro los nueve textos de H. P. Lovecraft publicados en la colección Límite Abisal, en traducción de El Gabinete Negro y ordenados según fueron escritos: el camino completo, de «Dagón» a *La sombra sobre Innsmouth*, por el que el horror sobrenatural se convirtió en horror cósmico."
@@ -34,7 +33,7 @@ ilustracion = "cubierta/dore_albatros_1876.jpg"
 grabado = true
 encuadre = [0.5, 0.5]
 
-[cubierta.variantes.3]   # propuesta D: ilustración del responsable (24-11-2026)
-ilustracion = "cubierta/responsable_cthulhu_ruinas.png"
-grabado = false
-encuadre = [0.55, 0.4]
+[cubierta.variantes.3]   # propuesta A
+ilustracion = "cubierta/dore_destruccion_leviatan_1865.png"
+grabado = true
+encuadre = [0.45, 0.75]

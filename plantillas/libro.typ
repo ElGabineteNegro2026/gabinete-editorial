@@ -94,7 +94,9 @@
   align(center, text(size: 22pt, weight: "bold", hyphenate: false, L.titulo))
   if L.subtitulo != none and L.subtitulo != "" {
     v(0.2cm)
-    align(center, text(size: 22pt, weight: "bold", hyphenate: false, L.subtitulo))
+    // segunda línea del título (corta) a 22 pt; subtítulo descriptivo (largo) a 14 pt, sin negrita
+    if L.subtitulo.len() > 40 { v(0.3cm); align(center, text(size: 14pt, hyphenate: false, L.subtitulo)) }
+    else { align(center, text(size: 22pt, weight: "bold", hyphenate: false, L.subtitulo)) }
   }
   v(1.6cm)
   align(center, text(size: 14pt, L.autor))

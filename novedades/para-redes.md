@@ -84,3 +84,30 @@ Colombier y sus huellas en la nieve se interrumpen de golpe, en medio de la nada
 **Cuidado al comunicar.** No revelar el secreto de la novela (qué son los *sarvants* y dónde se llevan a sus
 presas): la sinopsis y la contracubierta se detienen en el misterio a propósito. No decir «inédita» sin matiz:
 «primera traducción al español, hasta donde sabemos».
+
+
+## Lo que yace eternamente — *Lovecraft esencial: los Mitos de Cthulhu en nueve relatos y novelas*
+
+- **Autor:** H. P. Lovecraft.
+- **Colección:** Límite Abisal, edición especial (omnibus).
+- **Fecha prevista:** antes de Navidad de 2026, cuando el responsable lo suba a KDP. Faltan el prólogo y la
+  cubierta definitiva.
+- **Precio:** 21,95 € tapa blanda (532 páginas); 6,99 € ebook (IVA incluido).
+- **Portada:** `proyectos/lo-que-yace-eternamente/cubierta/lo-que-yace-eternamente_portada_ebook.jpg`
+  (propuesta D, pendiente de confirmar).
+
+**Sinopsis breve.** Los nueve textos de Lovecraft publicados en Límite Abisal, reunidos en un solo volumen y
+ordenados según fueron escritos:
+- «Dagón», «El templo», «La ciudad sin nombre», «La casa maldita», «La llamada de Cthulhu»;
+- *El caso de Charles Dexter Ward*, *El horror de Dunwich*, *En las montañas de la locura* y *La sombra sobre Innsmouth*.
+
+Es el camino completo por el que el horror sobrenatural se convirtió en horror cósmico. Lleva prólogo y un
+amplio apéndice: cronología, guía de los textos, geografía, libros prohibidos y Grandes Antiguos.
+
+**Ganchos para redes.**
+1. «No está muerto lo que yace eternamente…»: campaña con el verso. Completar la segunda línea en los comentarios.
+2. Regalo de Navidad: «Lovecraft entero, en un solo libro», para el lector de terror.
+3. Mapa de los Mitos: Providence, Arkham, Dunwich, Innsmouth y la Antártida, un texto por cada lugar.
+
+**Cuidado al comunicar.** No es una traducción nueva: reúne las traducciones de la casa ya publicadas, revisadas
+y unificadas. Tampoco son las «obras completas».
