@@ -1,6 +1,6 @@
 # El libro de los licántropos — antología · Archivo Arcano vol. V (tapa dura)
 
-**Fase:** EN PAUSA desde el 16-11-2026, por decisión del responsable: prioridad a *El peligro azul*. Antes, aprobado → texto (reunión de fuentes).
+**Fase:** texto (traducción en curso), reanudado el 24-11-2026
 
 ## Decisiones del responsable
 - 16-11-2026: aprueba la antología como siguiente volumen de Archivo Arcano, con la selección propuesta en `candidatos/2026-11-16_el-libro-de-los-licantropos.md`.
@@ -45,3 +45,28 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
 ## Decisión del responsable (23-11-2026)
 - Se reanuda **después del omnibus de Lovecraft** (*Los Mitos de Cthulhu*). Previsto para septiembre de 2027
   (Archivo Arcano V, tapa dura, Halloween).
+
+## Reanudado (24-11-2026, decisión del responsable)
+- Fuentes nuevas: Wikisource fr («Le Loup-garou» de Beaugrand) y en («The Eyes of the Panther»). Descargador:
+  `scripts/fuentes/wikisource.py`.
+- No se pueden conseguir desde aquí: Internet Archive bloqueado, sin copia en Wikisource.
+  - Stenbock, «The Other Side».
+  - Crowe, «A Story of a Weir-Wolf».
+  - Menzies, «Hugues, the Wer-Wolf».
+  - **Fuera de la selección** salvo que el responsable aporte los textos.
+- **Añadido**: Honoré Beaugrand (†1906), «Le Loup-garou» (*La Chasse-galerie*, 1900), cuento quebequés de hombres
+  lobo. Sustituye a los tres anteriores. Es probablemente inédito en español.
+- **Traducidos** (traducción del Editor Jefe, Claude; declararlo en KDP como traducción generada por IA):
+  1. Petronio, «El soldado lobo» (*Satiricón*, LXI-LXII). Traducido del latín, cotejado con la versión
+     inglesa de Firebaugh (Gutenberg 5225).
+  2. Marie de France, «Bisclavret». En prosa, a partir del anglonormando, cotejado con la versión de Eugene Mason
+     (Gutenberg 11417). Incluye el final del original (los descendientes sin nariz) que Mason omite.
+  3. Bierce, «Los ojos de la pantera» (1897).
+  4. Beaugrand, «El hombre lobo» (1900).
+  5. Saki, «Gabriel-Ernest» (1909; recogido en *Reginald in Russia*, 1910).
+- **Pendientes**:
+  - Field, «The Werewolf»;
+  - Marryat, «La loba blanca del Harz»;
+  - Baring-Gould: Garnier, los lobos de Poligny, Grenier, el sastre de Châlons y Romasanta (cap. XIV);
+  - Erckmann-Chatrian, «Hugues-le-loup»: falta el original francés (Wikisource fr no respondió); alternativa,
+    la versión inglesa de Gutenberg 15745.

@@ -46,7 +46,7 @@ Van Cheele empezó a tener la irritante sensación de estar debatiéndose con un
 
 Pasando por alto el tono burlón de esta última observación, Van Cheele intentó llevar al muchacho al terreno de posibles operaciones de caza furtiva.
 
-—Hablas sin saber lo que dices cuando hablas de comer liebres. —Dada la indumentaria del muchacho, la expresión inglesa, que habla de hablar «a través del sombrero», era poco oportuna—. Las liebres de estas laderas no se dejan coger fácilmente.
+—Hablas por hablar cuando dices que comes liebres. (Dada la indumentaria del muchacho, la frase hecha inglesa que usó Van Cheele, «hablar a través del sombrero», era poco afortunada.) Las liebres de estas laderas no se dejan coger fácilmente.
 
 —De noche cazo a cuatro patas —fue la respuesta, algo críptica.
 
