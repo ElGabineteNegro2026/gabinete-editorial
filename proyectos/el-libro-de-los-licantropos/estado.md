@@ -96,3 +96,10 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
   - Marryat;
   - Erckmann-Chatrian.
   - Después: prólogo, apéndice, maqueta y cubierta de tapa dura.
+- 24-11-2026: el responsable aporta **«Hugo el lobo»** (Erckmann-Chatrian, *Hugues-le-loup*, 1859) en
+  **traducción de la casa, hecha desde el original con Manus** (IA). El nombre del archivo coincide con el de la
+  edición de Valdemar por casualidad, según confirma el responsable.
+  - Manuscrito en `fuente/hugo-el-lobo_manus.doc` (no se sube al repositorio).
+  - Texto en `texto/06_hugo-el-lobo.md`, ≈ 34.000 palabras, 13 capítulos como rótulos centrados.
+  - Unidos 47 párrafos partidos; corregida la errata «repetimos» → «repetirnos».
+  - **KDP**: declarar la traducción como generada por IA (Manus y Claude).
