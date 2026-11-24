@@ -1,8 +1,8 @@
 coleccion = "camara-sellada"
-titulo = "La cámara sellada"            # PROVISIONAL (CONSULTA)
-subtitulo = "Antología esencial del relato gótico y de fantasmas (1816-1893)"
+titulo = "Noche de difuntos"            # aprobado el 24-11-2026
+subtitulo = "Antología esencial del relato gótico y de fantasmas"
 autor = "Hoffmann, Irving, Bécquer, Le Fanu, Maupassant, Bierce y otros"
-volumen = "Edición especial"
+volumen = "Edición especial"           # aprobado el 24-11-2026
 isbn = "En trámite"
 creditos_obra = [
   "Contenido y títulos originales:",
@@ -15,7 +15,7 @@ capitulos_en_impar = false
 ilustracion = "cubierta/fuseli_pesadilla_grabado_lamina.jpg"   # propuesta A
 grabado = true
 recorte_grabado = 0.01
-titulo_portada = "LA CÁMARA|SELLADA"
+titulo_portada = "NOCHE|DE DIFUNTOS"
 autor_portada = "Hoffmann · Irving · Bécquer · Le Fanu|Braddon · Maupassant · Bierce · Gilman"
 autor_lomo = "Antología gótica"
 papel = "crema"

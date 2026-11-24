@@ -1,6 +1,6 @@
 # La cámara sellada — antología gótica · Cámara Sellada (volumen especial)
 
-**Fase:** maquetado + cubierta (propuestas) → **revisión** (24-11-2026)
+**Fase:** revisión: falta la cubierta (ilustración del responsable con ChatGPT) (24-11-2026)
 
 ## Decisiones del responsable
 - 23-11-2026: aprueba la antología (ficha `candidatos/2026-11-23_antologia-gotica-camara-sellada.md`) y la pone en producción el 24-11-2026 a las 4:05.
@@ -59,3 +59,16 @@
 2. Prólogo.
 3. Cubierta definitiva.
 4. Precio (propuesta 19,95 € / 5,99 €) y «Edición especial».
+
+## Decisiones del responsable (24-11-2026)
+- **Título**: *Noche de difuntos. Antología esencial del relato gótico y de fantasmas*. Carpeta renombrada de
+  `proyectos/la-camara-sellada/` a `proyectos/noche-de-difuntos/`.
+- **Prólogo**: aprobado.
+- **Precio**: 19,95 € tapa blanda y 5,99 € ebook. **Volumen**: «Edición especial».
+- **Cubierta**: la ilustración la hará el responsable con ChatGPT, a partir del prompt del Editor Jefe (en el
+  informe del chat del 24-11-2026 y en `cubierta/PROMPT_CHATGPT.md`). Mientras tanto, la A (Füssli) es provisional.
+
+## Pendiente
+- Ilustración del responsable → componer la cubierta y regenerar el EPUB.
+- Fecha de lanzamiento (CONSULTA): el título pide la temporada de difuntos y Halloween.
+- ISBN, al darlo de alta en KDP.
