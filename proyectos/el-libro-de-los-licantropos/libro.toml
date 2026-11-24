@@ -1,7 +1,31 @@
 coleccion = "archivo-arcano"
 titulo = "El libro de los licántropos"
-autor = "VV. AA."
+subtitulo = "Historias de hombres lobo, de Petronio a Saki"   # PROPUESTA (CONSULTA)
+autor = "Petronio, Marie de France, Marryat, Bierce, Saki y otros"
 volumen = "V"
 isbn = "En trámite"
-creditos_obra = []             # se completa relato a relato al cerrar la selección
+creditos_obra = [
+  "Contenido y títulos originales:",
+  "Petronio: «El soldado lobo» (Satyricon, LXI-LXII, siglo I) · Marie de France: «Bisclavret» (Lais, hacia 1170-1190) · Sabine Baring-Gould: «Documentos del archivo (I) y (II)» (The Book of Were-Wolves, caps. VI y VII, 1865) · Sutherland Menzies: «Hugues, el hombre lobo» (Hugues, the Wer-Wolf, 1838) · Frederick Marryat: «La loba blanca de las montañas del Harz» (The Phantom Ship, cap. XXXIX, 1839) · Catherine Crowe: «La mujer loba de Auvernia» (A Story of a Weir-Wolf, 1846) · Erckmann-Chatrian: Hugo el lobo (Hugues-le-loup, 1859) · Eric Stenbock: «La otra orilla» (The Other Side: A Breton Legend, 1893) · Eugene Field: «El hombre lobo» (The Werewolf, 1896) · Ambrose Bierce: «Los ojos de la pantera» (The Eyes of the Panther, 1897) · Honoré Beaugrand: «Correr el lobo» (Le Loup-garou, 1900) · Saki: «Gabriel-Ernest» (1909)",
+]
 traduccion = "Traducción: El Gabinete Negro"
+capitulos_en_impar = false
+
+[cubierta]
+# Tapa dura (case laminate, papel blanco). Faltan ancho_total_in, alto_total_in y lomo_in de la calculadora de KDP.
+ilustracion = "cubierta/cranach_werwolf_1512.jpg"
+grabado = true
+encuadre = [0.5, 0.5]
+titulo_portada = "EL LIBRO DE LOS|LICÁNTROPOS"
+subtitulo_portada = "Historias de hombres lobo|de Petronio a Saki"
+autor_portada = "Petronio · Marie de France · Marryat · Crowe|Erckmann-Chatrian · Stenbock · Bierce · Saki"
+autor_lomo = "Hombres|lobo"
+papel = "blanco"
+paginas = 266
+gancho = "Hay algo en el bosque que no termina de ser un animal"
+sinopsis = "Un soldado que se desnuda en un cementerio a la luz de la luna. Un caballero bretón al que su esposa roba la ropa. Un pastor de trece años que confiesa ante el Parlamento de Burdeos. Una madrastra hermosa que sale de noche en camisón y vuelve con las manos sucias. Una vieja que aúlla en la nieve de la Selva Negra. Un muchacho que toma el sol desnudo junto al río y que, cuando le preguntan de qué se alimenta, responde con toda naturalidad.\n\nTrece textos, de la Roma de Nerón a la Inglaterra eduardiana, reúnen la gran tradición literaria del hombre lobo: leyendas medievales, actas de los procesos de licantropía, cuentos góticos victorianos y relatos de Marryat, Erckmann-Chatrian, Bierce y Saki, en nueva traducción de El Gabinete Negro, con prólogo y apéndice. Antes de la luna llena y de la bala de plata, el hombre lobo era el vecino, el marido, la esposa: alguien que guardaba un secreto."
+
+[cubierta.variantes.1]   # propuesta B
+ilustracion = "cubierta/goltzius_licaon_1589.jpg"
+grabado = true
+encuadre = [0.5, 0.5]

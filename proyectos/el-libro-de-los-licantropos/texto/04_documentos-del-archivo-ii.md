@@ -1,4 +1,6 @@
-## DOCUMENTOS DEL ARCHIVO (II): JEAN GRENIER
+## DOCUMENTOS DEL ARCHIVO (II)
+
+->**Jean Grenier**<-
 
 -->*Sabine Baring-Gould, The Book of Were-Wolves (1865), cap. VII*
 

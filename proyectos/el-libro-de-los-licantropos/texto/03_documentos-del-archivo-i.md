@@ -1,4 +1,6 @@
-## DOCUMENTOS DEL ARCHIVO (I): LOS PROCESOS DEL FRANCO CONDADO
+## DOCUMENTOS DEL ARCHIVO (I)
+
+->**Los procesos del Franco Condado**<-
 
 -->*Sabine Baring-Gould, The Book of Were-Wolves (1865), cap. VI*
 

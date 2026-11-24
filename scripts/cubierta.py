@@ -255,7 +255,14 @@ def portada_archivo_arcano(L, C, ilu, w, h):
         d.line((w/2 - ancho, y, w/2 - 22*u, y), fill=oro, width=max(1, int(3*u)))
         d.line((w/2 + 22*u, y, w/2 + ancho, y), fill=oro, width=max(1, int(3*u)))
         d.polygon([(w/2, y - 12*u), (w/2 + 14*u, y), (w/2, y + 12*u), (w/2 - 14*u, y)], fill=oro)
-    texto_espaciado(d, (w/2, 230*u), L["autor"].upper(), fuente("Cinzel.ttf", 64*u, "SemiBold"), oro, 0.12)
+    lin_aut = L.get("autor_portada", L["autor"]).upper().split("|")   # antologías: varias líneas con «|»
+    ta = 64*u if len(lin_aut) == 1 else 44*u
+    fa = fuente("Cinzel.ttf", ta, "SemiBold")
+    while max(d.textlength(l.strip(), font=fa) * 1.12 for l in lin_aut) > w - 2*m - 160*u and ta > 20*u:
+        ta *= 0.95; fa = fuente("Cinzel.ttf", ta, "SemiBold")
+    ya = 230*u - (len(lin_aut) - 1) * ta * 0.65
+    for l in lin_aut:
+        texto_espaciado(d, (w/2, ya), l.strip(), fa, oro, 0.12); ya += ta * 1.3
     filete(310*u, 520*u)
     lineas = L.get("titulo_portada", L["titulo"].upper()).split("|")
     ft = fuente("Cinzel.ttf", 190*u if len(lineas) == 1 else 150*u, "Bold"); y = 470*u
@@ -285,7 +292,7 @@ def lomo_vertical(C, L, coleccion, alto, ancho):
         dv.rectangle((aw*0.08, alto*0.012, aw*0.92, alto*0.988), outline=oro, width=g)
         dv.rectangle((aw*0.13, alto*0.017, aw*0.87, alto*0.983), outline=oro, width=max(1, g//2))
         fa = fuente("Cinzel.ttf", aw * 0.16, "SemiBold"); y = alto * 0.07
-        for parte in L["autor"].upper().split():
+        for parte in (L["autor_lomo"].upper().split("|") if L.get("autor_lomo") else L["autor"].upper().split()):
             dv.text((aw/2, y), parte, font=fa, fill=crema, anchor="mm"); y += fa.size * 1.1
         dv.line((aw*0.3, y + aw*0.05, aw*0.7, y + aw*0.05), fill=oro, width=g)
         fc = fuente("Cinzel.ttf", aw * 0.13, "SemiBold")

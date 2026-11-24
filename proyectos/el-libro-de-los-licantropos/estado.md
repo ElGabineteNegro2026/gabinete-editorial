@@ -124,3 +124,33 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
   - El marco de la novela se resume en dos notas en cursiva, una al principio y otra al final (la muerte de Krantz).
 - **Selección cerrada: 13 textos, ≈ 80.000 palabras.** Siguen el prólogo, el apéndice, la maqueta y la cubierta.
 - Ficheros de texto renumerados del 01 al 13 para que el orden alfabético coincida con el cronológico.
+
+## Maquetado y cubierta (24-11-2026, noche)
+**Fase: revisión.** Pendiente de las CONSULTAS del final.
+- **Prólogo** escrito en prosa continua, sin apartados (≈ 1.500 palabras): `texto/00_prologo.md`.
+- **Apéndice** (≈ 2.800 palabras): `texto/99_apendice.md`. Secciones: cronología, guía de los textos, antes del hombre
+  lobo, los procesos, los nombres del lobo, del libro a la pantalla y sobre esta edición.
+- Títulos «Documentos del archivo (I)» y «(II)» acortados, con el subtítulo en una línea centrada (así no se
+  corta en el índice).
+- `libro.toml` completo: créditos de cada texto con título original, autor y fecha; traducción genérica.
+  - Subtítulo propuesto: «Historias de hombres lobo, de Petronio a Saki».
+- **Interior**: `interior/el-libro-de-los-licantropos_interior_6x9.pdf`, **266 páginas**. Fuentes incrustadas;
+  revisados la portadilla, los créditos, el ex libris, las aperturas, el apéndice y el índice.
+- **Ebook**: `ebook/el-libro-de-los-licantropos_kindle_create.docx` y `ebook/el-libro-de-los-licantropos.epub`.
+- **Cubierta de tapa dura**, provisional (14,865 × 10,418 in, a falta de las medidas de KDP):
+  - **A**: Cranach, *Der Werwolf* (hacia 1512) → `cubierta/el-libro-de-los-licantropos_cubierta_tapa_dura.pdf`;
+  - **B**: Goltzius, *Licaón* (1589) → `…_cubierta_tapa_dura_p1.pdf`;
+  - **C**: prompt para ChatGPT en `cubierta/PROMPT_CHATGPT.md` (la loba blanca de Marryat junto a la tumba).
+  - Créditos de los grabados en `cubierta/CREDITOS.md`.
+  - `cubierta.py`: en Archivo Arcano admite ya `autor_portada` (varias líneas) y `autor_lomo` (para antologías).
+- **Ficha KDP**: `kdp.md`.
+
+### CONSULTAS
+1. Subtítulo.
+2. Cubierta definitiva: A, B o C.
+3. Medidas de la calculadora de KDP (tapa dura, 266 páginas, papel blanco): ancho total, alto total y lomo.
+4. Precio: 27,95 € la tapa dura y 5,99 € el ebook.
+5. Autor principal en KDP: Bierce.
+6. Prólogo firmado por «El Editor»: aprobarlo.
+7. Revisión humana de las traducciones hechas con IA, para declararla en KDP. Comprobar además la política de KDP
+   sobre traducciones con IA de textos de dominio público.
