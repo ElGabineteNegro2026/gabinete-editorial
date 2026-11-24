@@ -88,3 +88,6 @@
 
 ## Cupo de KDP (24-11-2026)
 - **Envío: semana del 29-11 al 5-12**, junto con *813* (cupo de 2 títulos nuevos por formato y semana). Lanzamiento como regalo de Navidad: **confirmado por el responsable el 24-11-2026**.
+
+## Ficha KDP (24-11-2026)
+- `kdp.md`: autor principal Bécquer, con los demás autores como colaboradores; descripción, categorías, palabras clave, precios, declaración de IA y posicionamiento.
