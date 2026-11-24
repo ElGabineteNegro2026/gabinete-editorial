@@ -137,6 +137,8 @@ def portada_limite_abisal(L, C, ilu, w, h):
     texto_espaciado(d, (w/2, 155*u), L["autor"].upper(), fuente("Carlito-Regular.ttf", 46*u), "#f0f0f0", 0.12)
     ft = fuente("CormorantGaramond.ttf", 175*u, "Medium")
     lineas = L.get("titulo_portada", L["titulo"].upper()).split("|")
+    while max(d.textlength(l.strip(), font=ft) for l in lineas) > w * 0.86 and ft.size > 60*u:   # títulos largos: reducir hasta que quepan
+        ft = fuente("CormorantGaramond.ttf", ft.size * 0.96, "Medium")
     y = 330*u
     for l in lineas:
         sombra = Image.new("L", (w, h), 0); ds = ImageDraw.Draw(sombra)
