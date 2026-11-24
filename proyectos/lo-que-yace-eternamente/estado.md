@@ -131,3 +131,6 @@
 ## Pendiente
 - **ISBN**: cuando el responsable dé de alta el libro en KDP, añadirlo a `libro.toml` y regenerar el interior.
   Si es el ISBN gratuito de KDP, poner `isbn_ebook = ""`.
+
+## Ficha KDP (24-11-2026)
+- `kdp.md`: todos los campos de KDP para tapa blanda y ebook, con descripción, categorías, palabras clave, declaración de IA, precios por mercado y tareas de posicionamiento.

@@ -222,3 +222,15 @@ Claude no genera imágenes salvo con Higgsfield (vía 3, aprobada el 17-11-2026)
 
 `propuesto → aprobado → texto → maquetado → cubierta → revisión → listo para KDP`, registrado en
 `proyectos/<slug>/estado.md` (fase, decisiones del responsable con fecha, pendientes).
+
+Antes de dar un libro por «listo para KDP», prepara su **ficha KDP** en `proyectos/<slug>/kdp.md` a partir de
+`plantillas/ficha-kdp.md` (petición del responsable, 24-11-2026). Debe incluir:
+- título, subtítulo y serie;
+- descripción en HTML con SEO;
+- 3 categorías y 7 palabras clave;
+- derechos y declaración de IA;
+- opciones de impresión y precios por mercado;
+- ebook y KDP Select;
+- tareas de posicionamiento tras la publicación.
+
+Ejemplo: `proyectos/lo-que-yace-eternamente/kdp.md`.
