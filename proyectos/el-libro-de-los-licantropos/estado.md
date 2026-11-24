@@ -103,3 +103,13 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
   - Texto en `texto/06_hugo-el-lobo.md`, ≈ 34.000 palabras, 13 capítulos como rótulos centrados.
   - Unidos 47 párrafos partidos; corregida la errata «repetimos» → «repetirnos».
   - **KDP**: declarar la traducción como generada por IA (Manus y Claude).
+- 24-11-2026: **traducido «Documentos del archivo (I)»** (Baring-Gould, cap. VI):
+  - Bourgot y Verdung (Poligny, 1521);
+  - Gilles Garnier (Dôle, 1573);
+  - la familia Gandillon (1598);
+  - el sastre de Châlons (1598).
+  - ≈ 3.000 palabras.
+- **CORRECCIÓN IMPORTANTE**: el cap. XIV de Baring-Gould, «A Galician Were-Wolf», **no trata de Romasanta**.
+  Cuenta el caso de Swiatek, un mendigo caníbal de la Galitzia austriaca (Polonia, 1849), sin transformación en
+  lobo. La ficha del 16-11 lo identificó mal, y la aprobación del responsable («caso Romasanta») se basó en ese
+  error. CONSULTA: qué hacer con Romasanta (ver el informe de esta sesión).
