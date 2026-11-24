@@ -71,3 +71,12 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
   - Baring-Gould: Garnier, los lobos de Poligny, Grenier, el sastre de Châlons y Romasanta (cap. XIV);
   - Erckmann-Chatrian, «Hugues-le-loup»: falta el original francés (Wikisource fr no respondió); alternativa,
     la versión inglesa de Gutenberg 15745.
+
+## 24-11-2026 (tarde)
+- El responsable aporta enlaces a los tres textos que faltaban.
+  - **Menzies, «Hugues, the Wer-Wolf» (1838)**: descargado de Gaslight y **traducido** como «Hugues, el hombre
+    lobo» (`texto/04_hugues-el-hombre-lobo.md`, ≈ 7.000 palabras).
+  - **Crowe** (gaslight-arts.com) y **Stenbock** (public-library.uk): la red de este entorno no permite esos
+    dominios. Fallan tanto la descarga directa (403 del proxy) como la lectura web (el host no resuelve). Hace
+    falta que el responsable suba los textos al repositorio, en `fuente/`, o que añada esos dominios a la
+    política de red del entorno.
