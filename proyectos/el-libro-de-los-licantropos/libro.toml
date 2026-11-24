@@ -1,6 +1,6 @@
 coleccion = "archivo-arcano"
 titulo = "El libro de los licántropos"
-subtitulo = "Historias de hombres lobo, de Petronio a Saki"   # PROPUESTA (CONSULTA)
+subtitulo = "Historias de hombres lobo, de Petronio a Saki"   # aprobado el 24-11-2026
 autor = "Petronio, Marie de France, Marryat, Bierce, Saki y otros"
 volumen = "V"
 isbn = "En trámite"
@@ -12,7 +12,11 @@ traduccion = "Traducción: El Gabinete Negro"
 capitulos_en_impar = false
 
 [cubierta]
-# Tapa dura (case laminate, papel blanco). Faltan ancho_total_in, alto_total_in y lomo_in de la calculadora de KDP.
+# Tapa dura (case laminate, papel blanco). DEFINITIVA (24-11-2026): diseño completo del responsable (ChatGPT sobre la
+# plantilla de KDP) → cubierta/responsable_cubierta_completa.jpg y …_cubierta_tapa_dura.pdf (14,429 × 10,417 in).
+# No regenerar con cubierta.py: los datos de abajo quedan solo como referencia de las propuestas A y B.
+ancho_total_in = 14.429
+alto_total_in = 10.417
 ilustracion = "cubierta/cranach_werwolf_1512.jpg"
 grabado = true
 encuadre = [0.5, 0.5]

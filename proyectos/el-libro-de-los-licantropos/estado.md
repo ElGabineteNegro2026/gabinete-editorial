@@ -154,3 +154,22 @@ Fuentes descargadas de Project Gutenberg en `fuente/`:
 6. Prólogo firmado por «El Editor»: aprobarlo.
 7. Revisión humana de las traducciones hechas con IA, para declararla en KDP. Comprobar además la política de KDP
    sobre traducciones con IA de textos de dominio público.
+
+## Decisiones del responsable (24-11-2026)
+- **Subtítulo aprobado**: «Historias de hombres lobo, de Petronio a Saki».
+- **Cubierta definitiva**: diseño completo del responsable, hecho con ChatGPT sobre la plantilla de KDP (14,429 × 10,417 in, 300 ppp).
+  - Comprobado: texto sin erratas, lomo y hueco del código de barras correctos.
+  - El PDF original llevaba una fuente Helvetica sin incrustar (de ReportLab, sin texto). Se ha rehecho como PDF solo
+    con la imagen, a la misma medida exacta: `cubierta/el-libro-de-los-licantropos_cubierta_tapa_dura.pdf`.
+  - Portada de ebook recortada del diseño: `cubierta/el-libro-de-los-licantropos_portada_ebook.jpg` (1600 × 2560 px).
+  - Las propuestas A y B quedan descartadas.
+  - Aviso: el marco dorado queda a unos 2 mm del borde del cartón (≈ 0,8 in del corte, con 0,709 in de vuelta).
+    Si la encuadernación se desvía un poco, puede verse más fino por un lado. Ningún texto corre riesgo.
+- **Precio**: 24,95 € la tapa dura y 5,99 € el ebook.
+- **Autor principal en KDP**: Ambrose Bierce.
+- **Prólogo aprobado.**
+- **Traducciones revisadas por personas.** En KDP se declaran como generadas por IA, con edición extensa.
+- **Lanzamiento**: finales de diciembre de 2026, por confirmar. La tapa dura tiene cupo propio; el ebook ocupa uno de
+  los 2 huecos semanales de ebook.
+
+**Fase: listo para KDP salvo ISBN** (ISBN gratuito de KDP para la tapa dura; después, regenerar el interior).

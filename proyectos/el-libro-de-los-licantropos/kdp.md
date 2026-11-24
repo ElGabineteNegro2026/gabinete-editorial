@@ -1,8 +1,8 @@
 # Ficha KDP — *El libro de los licántropos*
 
 Preparada por el Editor Jefe el 24-11-2026, en el orden de las pantallas de KDP. Mercado principal: Amazon.es.
-**Formato: tapa dura** (Archivo Arcano) **y ebook.** Lanzamiento previsto en septiembre de 2027 (Halloween).
-Lo marcado como **CONSULTA** necesita el visto bueno del responsable.
+**Formato: tapa dura** (Archivo Arcano) **y ebook.** Lanzamiento: **finales de diciembre de 2026, por confirmar**.
+Subtítulo, cubierta, precios, autor principal y prólogo aprobados por el responsable el 24-11-2026.
 
 ---
 
@@ -12,10 +12,10 @@ Lo marcado como **CONSULTA** necesita el visto bueno del responsable.
 |---|---|
 | Idioma | Español |
 | Título | `El libro de los licántropos` |
-| Subtítulo | `Historias de hombres lobo, de Petronio a Saki` (**CONSULTA**). Alternativa con más búsqueda: `Antología clásica de relatos de hombres lobo`. |
+| Subtítulo | `Historias de hombres lobo, de Petronio a Saki` (aprobado) |
 | Serie | `Archivo Arcano (El Gabinete Negro)`, volumen **5** |
 | Número de edición | (vacío) |
-| Autor principal | `Ambrose` `Bierce` (**CONSULTA**). Ver la justificación abajo. |
+| Autor principal | `Ambrose` `Bierce` (aprobado). Ver la justificación abajo. |
 | Colaboradores (rol «Autor») | Por este orden: `Frederick Marryat`, `Erckmann-Chatrian`, `Saki`, `Marie de France`, `Petronio`, `Catherine Crowe`, `Eric Stenbock`, `Eugene Field`, `Honoré Beaugrand`, `Sabine Baring-Gould`. Cada nombre, escrito igual que en los libros sueltos del catálogo, si los hay. |
 | Descripción | § 2 |
 | Derechos de publicación | **«Soy el propietario de los derechos de autor…»**: traducciones de la casa, prólogo, apéndice y edición propios. Ver la nota del § 6. |
@@ -106,9 +106,9 @@ Revisión: a los 30 y a los 90 días.
 | Tamaño | 6 × 9 in, **sin sangrado** |
 | Acabado | **Mate** |
 | Manuscrito | `interior/el-libro-de-los-licantropos_interior_6x9.pdf` (**266 páginas**) |
-| Cubierta | `cubierta/el-libro-de-los-licantropos_cubierta_tapa_dura.pdf`. **PROVISIONAL**: 14,865 × 10,418 in estimados. Hace falta la medida exacta de la calculadora de cubiertas de KDP (tapa dura, 266 páginas, papel blanco): `ancho_total_in`, `alto_total_in` y `lomo_in`. |
+| Cubierta | `cubierta/el-libro-de-los-licantropos_cubierta_tapa_dura.pdf`: diseño del responsable, **14,429 × 10,417 in**, 300 ppp, sin fuentes. KDP debe pedir esa medida para tapa dura de 266 páginas en papel blanco. |
 | Territorios | Todos |
-| Precio | **27,95 €** (**CONSULTA**; las otras antologías de Archivo Arcano están entre 25,49 € y 34,49 € en la tienda) · Amazon.com **29,99 $** · Reino Unido **23,99 £** · resto de mercados en euros: **27,95 €** |
+| Precio | **24,95 €** (aprobado) · Amazon.com **26,99 $** · Reino Unido **21,99 £** · resto de mercados en euros: **24,95 €** |
 
 ---
 
@@ -117,8 +117,8 @@ Revisión: a los 30 y a los 90 días.
 | Pregunta | Respuesta |
 |---|---|
 | Texto | **Sí: «algunas secciones, con edición extensa»**. El prólogo, el apéndice y las notas introductorias los redactó el Editor Jefe (Claude, IA de Anthropic). |
-| Imágenes | **No**, si la cubierta es un grabado de dominio público (propuestas A y B). **Sí**, si se elige la propuesta C (ChatGPT). |
-| Traducción | **Sí, todo el libro.** Las traducciones son del Editor Jefe (Claude); *Hugo el lobo*, de Manus. El responsable debe indicar cuánta revisión humana han tenido. |
+| Imágenes | **Sí**: la cubierta la hizo el responsable con ChatGPT (OpenAI). |
+| Traducción | **Sí, todo el libro, con edición extensa**: las tradujeron Claude (y Manus *Hugo el lobo*), y después las revisaron personas (confirmado por el responsable, 24-11-2026). KDP considera «generado por IA» lo que creó la IA aunque luego se haya editado. |
 
 **Riesgo con la política de dominio público.** KDP admite como contenido diferenciado una traducción propia de
 un texto libre de derechos. Antes de subir el libro conviene leer en la ayuda de KDP («Public domain content») si
@@ -137,7 +137,7 @@ regalías y no podría entrar en KDP Select.
 | DRM | Sí |
 | KDP Select | **Sí** (salvo lo dicho en el § 6) |
 | Regalías | 70 % |
-| Precio | **5,99 €** (**CONSULTA**) · Amazon.com **5,99 $** · Reino Unido **4,99 £** · resto de mercados en euros: **5,99 €** |
+| Precio | **5,99 €** (aprobado) · Amazon.com **5,99 $** · Reino Unido **4,99 £** · resto de mercados en euros: **5,99 €** |
 
 ---
 
@@ -149,6 +149,6 @@ regalías y no podría entrar en KDP Select.
    la cronología de Petronio a Saki y una banda con los otros volúmenes de Archivo Arcano.
 3. Fichas de *Los muertos y los invisibles* y *Noche de difuntos*: añadir «Bierce también en *El libro de los
    licántropos*».
-4. Campaña de Halloween de 2027 en redes: los procesos reales (Grenier, Garnier) dan mucho juego para publicaciones
+4. Lanzamiento en Navidad y campaña de Halloween de 2027 en redes: los procesos reales (Grenier, Garnier) dan mucho juego para publicaciones
    de divulgación.
 5. Revisión de categorías y palabras clave a los 30 y a los 90 días.

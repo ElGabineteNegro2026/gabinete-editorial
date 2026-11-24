@@ -9,3 +9,9 @@ Las dos obras son de dominio público: sus autores murieron hace siglos, y los m
 en acceso abierto.
 
 La propuesta C sería una ilustración original del responsable, hecha en ChatGPT con el prompt de `PROMPT_CHATGPT.md`.
+
+## Cubierta definitiva (24-11-2026)
+
+Diseño completo del responsable, hecho con ChatGPT (OpenAI) sobre la plantilla de KDP y a partir del prompt de
+`PROMPT_CHATGPT_CUBIERTA_COMPLETA.md`. Original: `responsable_cubierta_completa.jpg` (4329 × 3125 px, 300 ppp).
+Las propuestas A y B (grabados de arriba) quedan descartadas. **En KDP, la imagen se declara generada por IA.**

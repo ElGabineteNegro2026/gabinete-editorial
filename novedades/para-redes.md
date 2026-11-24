@@ -132,3 +132,28 @@ prohibidos, puertas que no deberían abrirse.
 
 **Cuidado al comunicar.** Reúne traducciones de la casa ya publicadas, revisadas y unificadas; no es una
 traducción nueva.
+
+## El libro de los licántropos — *Historias de hombres lobo, de Petronio a Saki*
+
+- **Autores:** Petronio, Marie de France, Baring-Gould, Menzies, Marryat, Crowe, Erckmann-Chatrian, Stenbock, Field,
+  Bierce, Beaugrand y Saki.
+- **Colección:** Archivo Arcano, vol. V (**tapa dura**).
+- **Fecha prevista:** finales de diciembre de 2026, **por confirmar**.
+- **Precio:** 24,95 € la tapa dura (266 páginas); 5,99 € el ebook (IVA incluido).
+- **Portada:** `novedades/portadas/el-libro-de-los-licantropos_portada.jpg`. La cubierta completa está en `proyectos/el-libro-de-los-licantropos/cubierta/el-libro-de-los-licantropos_cubierta_tapa_dura.jpg`.
+
+**Sinopsis breve.** Trece textos, de la Roma de Nerón a la Inglaterra eduardiana, reúnen la gran tradición
+literaria del hombre lobo: leyendas medievales, actas reales de los procesos de licantropía, cuentos góticos
+victorianos y relatos de Marryat, Erckmann-Chatrian, Bierce y Saki. Antes de la luna llena y de la bala de plata,
+el hombre lobo era el vecino, el marido, la esposa: alguien que guardaba un secreto.
+
+**Ganchos para redes.**
+1. «Hay algo en el bosque que no termina de ser un animal»: la frase de la contracubierta, sobre la ilustración.
+2. Los procesos reales: Jean Grenier, el pastor de trece años al que el Parlamento de Burdeos no quemó, sino que
+   envió a un convento (1603). Es material de divulgación para un carrusel.
+3. «Ni luna llena ni bala de plata»: lo que el cine inventó y lo que dice la tradición (el apéndice da para varias
+   publicaciones).
+
+**Cuidado al comunicar.** Las traducciones son nuevas, hechas con IA y revisadas por personas. Basta con decir
+«nueva traducción de El Gabinete Negro». La ilustración de cubierta la hizo el responsable con ChatGPT: no
+atribuirla a un artista.
