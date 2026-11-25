@@ -26,3 +26,45 @@
 - **Decisión técnica**: para una edición en inglés, los textos tienen que salir de copias corregidas (Gutenberg o
   Wikisource validado). Se espera a que vuelva Gutenberg para completar y cotejar. Mientras tanto, nada de
   maquetar con texto de OCR sin corregir.
+
+## 25-11-2026: textos completos (salvo Kipling) y primera maqueta
+**Fase: texto → maquetado.**
+- **archive.org**: el responsable lo añade a la red del entorno.
+  - Búsqueda y metadatos funcionan. Las descargas directas siguen bloqueadas: redirigen a los nodos `dn*.archive.org`.
+  - Se descarga por la ruta `/stream/<id>/<fichero>`, que sirve el texto en la página.
+  - Herramienta: `ia.py`, en el scratchpad de la sesión (pasarla a `scripts/fuentes/` si se reutiliza).
+  - La colección «gutenberg» de archive.org es una copia antigua de Project Gutenberg, con textos corregidos.
+- **Fuentes de los 15 textos**:
+
+  | Textos | Fuente |
+  |---|---|
+  | Crawford, «The Upper Berth» | Gutenberg 22246, vía archive.org; sustituye a la copia de Wikisource con errores de OCR |
+  | Wells, «In the Abyss» y «The Sea Raiders» | *The Plattner Story and Others*, Gutenberg 42989 |
+  | Chambers, «The Harbor-Master» | caps. I-V de *In Search of the Unknown* (1904), Gutenberg 18668 |
+  | Robertson, «From the Darkness and the Depths» | *The Grain Ship* (1914), Gutenberg 26194 |
+  | Poe (×2), Doyle (×2), Hodgson, Cobb | Wikisource validado |
+  | Lovecraft, «Dagon» (1923), «The Temple» (1925) y «The Call of Cthulhu» (1928) | Wikisource, texto de *Weird Tales* |
+  | Buchan, «Skule Skerry» | OCR de dos ejemplares de *The Runagates Club* (1928) en archive.org |
+
+  - Buchan: las dos lecturas se cotejaron palabra a palabra (40 discrepancias, casi todas de comillas), se resolvieron
+    una a una y se recompusieron los párrafos partidos por cambio de página.
+  - Cobb: los guiones de la fuente se corrigieron a rayas donde correspondía.
+  - Se han quitado las licencias y menciones de Gutenberg y Wikisource.
+- **Pendiente: Kipling, «A Matter of Fact»**.
+  - Solo hay OCR de dos ediciones distintas (Nueva York, 1899, y otra posterior). No coinciden: hay variantes
+    reales («Three» / «Ten», «state-room» / «cabin»), errores de OCR («j3aper», «exjDanding») y líneas perdidas.
+  - No es publicable sin cotejo con una copia limpia. Opciones: que el responsable aporte el TXT de Gutenberg de
+    *Many Inventions*, esperar a Gutenberg o prescindir del relato.
+- **Aparato propio** (para que KDP lo acepte como *Annotated*):
+  - introducción (`00_prologo.md`, firmada «— The Editor»; CONSULTA);
+  - nota de cabecera en cada relato;
+  - «Notes on the Stories» (`99_apendice.md`): cronología, sea serpent and kraken, the deep sea before the
+    bathysphere, the drowned city, Lovecraft and his predecessors, about this edition.
+  - La introducción ya menciona a Kipling: si se prescinde de él, quitar esa frase y cambiar «sixteen» por «fifteen».
+- **Primera maqueta**: 290 páginas, fuentes incrustadas → `interior/terror-from-the-deep_interior_6x9.pdf`, DOCX y EPUB.
+- **CONSULTAS**:
+  1. texto de Kipling;
+  2. introducción;
+  3. volumen o numeración de la línea en inglés;
+  4. cubierta (grabados de Doré o ilustración de ChatGPT).
+- No se puede publicar antes del 1-1-2027 (Wells).

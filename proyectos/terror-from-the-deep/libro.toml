@@ -1,0 +1,17 @@
+coleccion = "limite-abisal-en"
+idioma = "en"
+titulo = "Terror from the Deep"
+subtitulo = "Classic Tales of Sea Monsters and Oceanic Horror"
+autor = "Poe, Doyle, Wells, Hodgson, Lovecraft and others"
+volumen = "I"                      # PROVISIONAL (CONSULTA: numeración de la línea en inglés)
+isbn = "Pending"
+creditos_obra = [
+  "Contents and first publication:",
+  "Edgar Allan Poe: “MS. Found in a Bottle” (1833), “A Descent into the Maelström” (1841) · Arthur Conan Doyle: “The Captain of the Pole-Star” (1883), “J. Habakuk Jephson’s Statement” (1884) · F. Marion Crawford: “The Upper Berth” (1886) · H. G. Wells: “In the Abyss” (1896), “The Sea Raiders” (1896) · Robert W. Chambers: “The Harbor-Master” (1899; revised 1904) · William Hope Hodgson: “The Voice in the Night” (1907) · Irvin S. Cobb: “Fishhead” (1913) · Morgan Robertson: “From the Darkness and the Depths” (1914) · H. P. Lovecraft: “Dagon” (1919), “The Temple” (1925), “The Call of Cthulhu” (1928) · John Buchan: “Skule Skerry” (1928)",
+]
+traduccion = "Introduction and notes: El Gabinete Negro"
+capitulos_en_impar = false
+
+[cubierta]
+papel = "crema"
+paginas = 0
