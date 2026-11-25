@@ -32,7 +32,7 @@
 - **archive.org**: el responsable lo añade a la red del entorno.
   - Búsqueda y metadatos funcionan. Las descargas directas siguen bloqueadas: redirigen a los nodos `dn*.archive.org`.
   - Se descarga por la ruta `/stream/<id>/<fichero>`, que sirve el texto en la página.
-  - Herramienta: `ia.py`, en el scratchpad de la sesión (pasarla a `scripts/fuentes/` si se reutiliza).
+  - Herramienta: `scripts/fuentes/archive_org.py` (`search "<consulta>"` o `get <identificador> <salida>`).
   - La colección «gutenberg» de archive.org es una copia antigua de Project Gutenberg, con textos corregidos.
 - **Fuentes de los 15 textos**:
 
