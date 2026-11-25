@@ -14,8 +14,6 @@
 
 **1886.** F. Marion Crawford publishes “The Upper Berth”.
 
-**1892.** Rudyard Kipling publishes “A Matter of Fact”, collected in *Many Inventions* (1893).
-
 **1896.** H. G. Wells publishes “In the Abyss” in *Pearson’s Magazine* and “The Sea Raiders” in *The Weekly Sun Literary Supplement*.
 
 **1898.** Morgan Robertson publishes *Futility*, the novel about the unsinkable *Titan*.
@@ -74,4 +72,4 @@ Lovecraft did not invent the fish-men, the hidden races of the sea or the sense 
 
 **VI. ABOUT THIS EDITION**
 
-The texts follow the first editions in book form or the earliest reliable printings: Poe’s *Tales*; Doyle’s *The Captain of the Polestar and Other Tales* (1890); Crawford’s *The Upper Berth* (1894); Kipling’s *Many Inventions* (1893); Wells’s *The Plattner Story and Others* (1897); Chambers’s *In Search of the Unknown* (1904); the *Blue Book Magazine* for Hodgson; *The Cavalier* for Cobb; *The Grain Ship* (1914) for Robertson; *Weird Tales* for the three stories by Lovecraft; and *The Runagates Club* (1928) for Buchan. Original spelling, British or American, has been kept, with only obvious misprints corrected. The introductory notes and these notes on the stories are by the editor.
+The texts follow the first editions in book form or the earliest reliable printings: Poe’s *Tales*; Doyle’s *The Captain of the Polestar and Other Tales* (1890); Crawford’s *The Upper Berth* (1894); Wells’s *The Plattner Story and Others* (1897); Chambers’s *In Search of the Unknown* (1904); the *Blue Book Magazine* for Hodgson; *The Cavalier* for Cobb; *The Grain Ship* (1914) for Robertson; *Weird Tales* for the three stories by Lovecraft; and *The Runagates Club* (1928) for Buchan. Original spelling, British or American, has been kept, with only obvious misprints corrected. The introductory notes and these notes on the stories are by the editor.

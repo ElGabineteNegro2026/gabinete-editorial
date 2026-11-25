@@ -68,3 +68,14 @@
   3. volumen o numeración de la línea en inglés;
   4. cubierta (grabados de Doré o ilustración de ChatGPT).
 - No se puede publicar antes del 1-1-2027 (Wells).
+
+## Decisiones del responsable (25-11-2026)
+- **Kipling fuera.** Quedan 15 relatos. La introducción («fifteen stories») y la cronología están ajustadas.
+- **Introducción aprobada.**
+- **Línea nueva en inglés**, fuera de las colecciones en español y con numeración propia.
+  - Nombre provisional: **Black Cabinet Classics** (CONSULTA). Ficha en `colecciones/black-cabinet-classics.json`,
+    con manifiesto propio («About this series»).
+  - *Terror from the Deep* es el **n.º 1** de la línea.
+- **Cubierta**: estética nueva (fondo hueso, linograbado a dos tintas, sans-serif condensada). Prompt para ChatGPT
+  en `cubierta/PROMPT_CHATGPT_CUBIERTA_COMPLETA.md`.
+- Maqueta regenerada: 290 páginas (12,975 × 9,25 in de cubierta en papel crema).

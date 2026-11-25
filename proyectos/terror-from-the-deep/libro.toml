@@ -1,9 +1,9 @@
-coleccion = "limite-abisal-en"
+coleccion = "black-cabinet-classics"   # línea nueva en inglés (nombre PROVISIONAL, CONSULTA)
 idioma = "en"
 titulo = "Terror from the Deep"
 subtitulo = "Classic Tales of Sea Monsters and Oceanic Horror"
 autor = "Poe, Doyle, Wells, Hodgson, Lovecraft and others"
-volumen = "I"                      # PROVISIONAL (CONSULTA: numeración de la línea en inglés)
+volumen = "1"                      # n.º 1 de la línea en inglés (numeración propia, 25-11-2026)
 isbn = "Pending"
 creditos_obra = [
   "Contents and first publication:",

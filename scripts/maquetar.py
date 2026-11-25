@@ -141,7 +141,7 @@ def lee_proyecto(dir_proy: Path):
         "titulo": meta["titulo"], "subtitulo": meta.get("subtitulo"), "autor": meta["autor"],
         "volumen": meta.get("volumen", "x"),
         # «XX» → «Volumen XX»; un texto («Edición especial») se imprime tal cual
-        "volumen_txt": (f"{TEXTOS[meta.get('idioma', 'es')]['volumen']} {meta.get('volumen', 'x')}" if re.fullmatch(r"[IVXLC]+|x", str(meta.get("volumen", "x")))
+        "volumen_txt": (f"{TEXTOS[meta.get('idioma', 'es')]['volumen']} {meta.get('volumen', 'x')}" if re.fullmatch(r"[IVXLC]+|\d+|x", str(meta.get("volumen", "x")))
                         else str(meta.get("volumen"))),
         "isbn": meta.get("isbn", "En trámite"),
         # ISBN del ebook: el de KDP para tapa blanda (979-8…) no vale para el ebook; "" = sin línea de ISBN

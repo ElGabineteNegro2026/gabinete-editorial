@@ -1,0 +1,47 @@
+{
+ "nombre": "Black Cabinet Classics",
+ "linea_coleccion": "Black Cabinet Classics",
+ "emblema_inicial": null,
+ "ex_libris": null,
+ "manifiesto_titulo": "ABOUT THIS SERIES",
+ "manifiesto_subtitulo": null,
+ "manifiesto": [
+  [
+   "Every great tradition of fear has its classics: the stories that invented a monster, mapped a dark place or found the words for a feeling no one had named before."
+  ],
+  [
+   "Black Cabinet Classics gathers them by theme. Each volume follows one kind of terror (the sea, the old country, the house, the forest) from its first appearance to its fullest form, in the order in which the stories were written."
+  ],
+  [
+   "The texts are those of the first editions or the earliest reliable printings. Each volume adds an introduction, a note on every story and a set of notes on its history, so that the reader can see not only what frightened our ancestors, but how and why."
+  ],
+  [
+   "These are not museum pieces. They were written to be read at night, and they still work."
+  ],
+  [
+   "Welcome to the Black Cabinet."
+  ]
+ ],
+ "prologo_titulo": "INTRODUCTION",
+ "capitulos": "Antologías temáticas: título de cada relato; nota de cabecera en cursiva.",
+ "proximo_titulo": false,
+ "cubierta": {
+  "fondo": "#ece4d3",
+  "texto": "#141414",
+  "acento": "#1f5f63",
+  "estilo": "LÍNEA EN INGLÉS (provisional, 25-11-2026), deliberadamente distinta de las colecciones en español: fondo claro de papel hueso (#ece4d3) con grano sutil; gran ilustración en estilo linograbado o xilografía moderna, en negro y UN color plano por volumen (Terror from the Deep: verde azulado #1f5f63; Older Than the Church: ocre o rojo óxido); título grande en sans-serif condensada y negra en versales; subtítulo en serif; franja o cartela superior con «BLACK CABINET CLASSICS» y número; sin marcos dorados ni fondos negros.",
+  "medio_grabado": "#1f5f63",
+  "luz_grabado": "#ece4d3"
+ },
+ "slug": "black-cabinet-classics",
+ "apendice": [
+  "This volume belongs to Black Cabinet Classics, a series devoted to the great traditions of dark literature.",
+  "Every book is a door.",
+  "Every story, a room.",
+  "The Cabinet remains open."
+ ],
+ "formato": "tapa-blanda",
+ "estilo_portada": "limite-abisal",
+ "rotulo_coleccion": "BLACK CABINET CLASSICS",
+ "idioma": "en"
+}
