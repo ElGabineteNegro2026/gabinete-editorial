@@ -13,5 +13,7 @@ traduccion = "Introduction and notes: El Gabinete Negro"
 capitulos_en_impar = false
 
 [cubierta]
+# DEFINITIVA (26-11-2026): diseño completo del responsable (ChatGPT), 12,975 × 9,25 in →
+# cubierta/responsable_cubierta_completa.jpg y cubierta/terror-from-the-deep_cubierta_kdp.pdf. No regenerar con cubierta.py.
 papel = "crema"
-paginas = 0
+paginas = 290

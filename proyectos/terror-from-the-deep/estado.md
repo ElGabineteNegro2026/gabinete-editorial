@@ -79,3 +79,21 @@
 - **Cubierta**: estética nueva (fondo hueso, linograbado a dos tintas, sans-serif condensada). Prompt para ChatGPT
   en `cubierta/PROMPT_CHATGPT_CUBIERTA_COMPLETA.md`.
 - Maqueta regenerada: 290 páginas (12,975 × 9,25 in de cubierta en papel crema).
+
+## Cubierta definitiva (26-11-2026)
+- Diseño completo del responsable, hecho con ChatGPT a partir del prompt (`cubierta/PROMPT_CHATGPT_CUBIERTA_COMPLETA.md`).
+  - Medida comprobada: **12,975 × 9,25 in**, la que corresponde a 290 páginas en papel crema.
+  - Comprobados el lomo centrado, el texto sin erratas, los márgenes de seguridad y el hueco del código de barras libre.
+- El PDF original llevaba una Helvetica sin incrustar (de ReportLab). Se ha rasterizado a 300 ppp y rehecho como PDF solo
+  con la imagen, a la misma medida: `cubierta/terror-from-the-deep_cubierta_kdp.pdf`.
+  - Original rasterizado: `cubierta/responsable_cubierta_completa.jpg`.
+  - Portada de ebook recortada de la portada: `cubierta/terror-from-the-deep_portada_ebook.jpg` (1600 × 2560 px).
+  - El EPUB lleva ya la portada.
+- **Ficha KDP**: `kdp.md`.
+  - Ebook al 35 % y sin KDP Select, por ser dominio público.
+  - Territorios: todos salvo México y Colombia.
+  - Envío: no antes de la semana del 3 al 9 de enero de 2027.
+- **Fase: listo para KDP salvo ISBN y CONSULTAS**:
+  1. nombre de la línea, «Black Cabinet Classics»;
+  2. precios (16,99 $ la tapa blanda / 4,99 $ el ebook);
+  3. autor principal: Lovecraft.
