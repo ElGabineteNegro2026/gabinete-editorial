@@ -1,8 +1,7 @@
 # Ficha KDP — *Terror from the Deep*
 
 Preparada por el Editor Jefe el 26-11-2026. **Mercado principal: Amazon.com**; secundarios: Reino Unido, Canadá y
-Australia. Libro en inglés, n.º 1 de **Black Cabinet Classics**. Lo marcado como **CONSULTA** necesita el visto
-bueno del responsable.
+Australia. Libro en inglés, n.º 1 de **Black Cabinet Classics**. Nombre de la línea, precios y autor principal aprobados por el responsable el 26-11-2026.
 
 **No publicar antes del 1-1-2027**: H. G. Wells (†1946) no entra en dominio público en España hasta ese día.
 Primer envío posible: semana del 3 al 9 de enero de 2027 (el cupo se reinicia el domingo 3).
@@ -16,9 +15,9 @@ Primer envío posible: semana del 3 al 9 de enero de 2027 (el cupo se reinicia e
 | Idioma | **Inglés** |
 | Título | `Terror from the Deep` |
 | Subtítulo | `Classic Tales of Sea Monsters and Oceanic Horror (Annotated)`. «Annotated» ayuda a que KDP lo acepte como edición diferenciada (§ 6). |
-| Serie | `Black Cabinet Classics`, n.º **1** (nombre de la línea, **CONSULTA**) |
+| Serie | `Black Cabinet Classics`, n.º **1** (aprobado) |
 | Número de edición | (vacío) |
-| Autor principal | `H. P.` `Lovecraft` (**CONSULTA**): el nombre más buscado del libro en EE. UU., y suyos son los tres textos finales (≈ 19.000 palabras). |
+| Autor principal | `H. P.` `Lovecraft` (aprobado): el nombre más buscado del libro en EE. UU., y suyos son los tres textos finales (≈ 19.000 palabras). |
 | Colaboradores | Rol «Autor»: `Edgar Allan Poe`, `Arthur Conan Doyle`, `H. G. Wells`, `William Hope Hodgson`, `John Buchan`, `F. Marion Crawford`, `Robert W. Chambers`, `Irvin S. Cobb`, `Morgan Robertson`. Rol «Editor»: `El Gabinete Negro`. |
 | Descripción | § 2 |
 | Derechos de publicación | **«Es una obra de dominio público»** (§ 6) |
@@ -97,7 +96,7 @@ Alternativa: «Fiction › Horror › Occult» o «Literary Collections › Anth
 | Manuscrito | `interior/terror-from-the-deep_interior_6x9.pdf` (**290 páginas**) |
 | Cubierta | `cubierta/terror-from-the-deep_cubierta_kdp.pdf`: **12,975 × 9,25 in**, 300 ppp, sin fuentes |
 | Territorios | **Todos salvo México y Colombia** (en México el plazo llega a 100 años *post mortem* y en Colombia es de 80, así que algunos autores podrían seguir protegidos allí; mejor excluirlos, como prevé el plan de la línea en inglés) |
-| Precio (**CONSULTA**) | Amazon.com **16,99 $** · Reino Unido **12,99 £** · Amazon.de, .fr, .es, .it, .nl **15,99 €** · Canadá **22,99 CAD** · Australia **26,99 AUD** |
+| Precio (aprobado) | Amazon.com **16,99 $** · Reino Unido **12,99 £** · Amazon.de, .fr, .es, .it, .nl **15,99 €** · Canadá **22,99 CAD** · Australia **26,99 AUD** |
 | Distribución ampliada | No |
 
 ---
@@ -132,7 +131,7 @@ Todos los textos son de dominio público en inglés. Por eso:
 | DRM | No (es dominio público) |
 | KDP Select | **No** (no está permitido en obras de dominio público) |
 | Regalías | **35 %** |
-| Precio (**CONSULTA**) | Amazon.com **4,99 $** · Reino Unido **3,99 £** · mercados en euros **4,99 €** |
+| Precio (aprobado) | Amazon.com **4,99 $** · Reino Unido **3,99 £** · mercados en euros **4,99 €** |
 
 ---
 

@@ -97,3 +97,10 @@
   1. nombre de la línea, «Black Cabinet Classics»;
   2. precios (16,99 $ la tapa blanda / 4,99 $ el ebook);
   3. autor principal: Lovecraft.
+
+## Decisiones del responsable (26-11-2026)
+- Aprobados:
+  - el nombre de la línea, **Black Cabinet Classics**;
+  - los precios: 16,99 $ la tapa blanda y 4,99 $ el ebook (resto de mercados, según `kdp.md`);
+  - **Lovecraft** como autor principal en KDP.
+- **Fase: listo para KDP salvo ISBN.** Envío: semana del 3 al 9 de enero de 2027 (no antes, por Wells).

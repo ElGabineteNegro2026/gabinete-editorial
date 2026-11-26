@@ -68,7 +68,7 @@ Cambian el manifiesto, algunos elementos preliminares, la forma de titular capí
 | **Archivo Lupin** | **solo la obra de Maurice Leblanc sobre Arsène Lupin** (decisión del responsable, 23-11-2026); numeración «Dossier» | **emblema** (silueta) en la primera página | «CAPÍTULO I» o «I. TÍTULO» | PRÓLOGO | no |
 
 **Línea en inglés** (decisión del responsable, 25-11-2026): colección propia, **Black Cabinet Classics** (nombre
-provisional; `colecciones/black-cabinet-classics.json`), con numeración propia (1, 2…) y estética distinta: fondo
+aprobado el 26-11-2026; `colecciones/black-cabinet-classics.json`), con numeración propia (1, 2…) y estética distinta: fondo
 hueso, linograbado a dos tintas y sans-serif condensada. N.º 1: *Terror from the Deep*; n.º 2: *Older Than the Church*.
 
 No se anuncia el «Próximo título» en los libros (decisión del responsable, 17-11-2026: genera problemas de
